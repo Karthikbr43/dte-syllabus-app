@@ -1,0 +1,51 @@
+UNIT - I:  Introduction to Data Communication				     	    
+Data communication: Components, Data representation, Data flow, Networks – Categories of networks, Internetwork – Internet and Protocols, Analog and Digital Signals, Periodic and Non-Periodic Signals, Sine Wave, Phase, Wavelength, Digital Signals, Bit-rate, Bit-length, Transmission Impairment – Attenuation, Distortion and Noise, Performance - Bandwidth, Throughput, Latency, Jitter (Basic concepts only). Transmission Modes – Parallel and Serial Transmission, Asynchronous and Synchronous Transmission
+<br><b>[06 Hrs] [16 Marks] </b>
+	
+UNIT - II: Introduction to Networking and Topologies				    
+Overview of Networking, Need for Networking, Hardware and Software components, Network Communication Standards, OSI Reference Model, TCP/IP Model, Overview of network topologies, Basic topologies- bus, ring, star, mesh and hybrid
+<br><b>[06 Hrs] [16 Marks] </b>
+
+UNIT - III: Error Detection and Correction	
+Introduction, Types of Errors, Redundancy, Detection versus Correction, Forward Error Correction versus Retransmission, Coding, Block Coding, Error Detection, Error Correction, Cyclic Codes, Cyclic Redundancy Check, Polynomials, Advantages of Cyclic Codes, Flow Control, Error Control, Multiple Access - CSMA, CSMA/CD, Controlled Access – Reservation, Polling, Token Passing
+<br><b>[08 Hrs] [23 Marks] </b>
+
+UNIT - IV: LAN Components and Protocols				
+LAN Cables – Co-axial, twisted pair, optical fibre, LAN connectors- co-axial cable, and twisted pair cable, optical fibre, LAN devices – repeaters, hubs, switches, NIC, WLANs.
+<br>Lower Layer Protocols - ARCnet, Ethernet, Ethernet Communication, Fast Ethernet, Gigabit Ethernet, Token Ring, Token Ring Frame format, Fault Management and tolerance, FDDI, Middle Layer Protocols- TCP/IP, Higher Layer Protocols- HTTP,FTP, SMTP, IMAP.
+<br><b>[14 Hrs] [40 Marks] </b>
+
+UNIT - V: Network Addressing						   
+Introduction, TCP/IP addressing scheme- Components of IP addressing, IP address classes, Limitations of IP address classes, IP subnetting - Creating subnets in networks, Communication across subnets, Subnetting Considerations, Subnetting Limitations, IPv6.
+<br><b>[06 Hrs] [16 Marks] </b>
+
+UNIT - VI: Wide Area Networks			
+Overview, WAN Connectivity- POTS, Leased Lines, ISDN-Features and Working, VSAT- Devices, Networks, Architecture, Access Technologies, Microwave, Radio, Infrared, VPNs- Working of VPN, Protocols-PPTP,L2TP,IPSec.
+<br>WAN Devices – Bridges -Transparent and Source Routing, Routers –Routing Mechanics, Routing Table, Routing Protocols – RIP,OSPF, Gateways, WAN Protocols- PPP,X.25,FrameRelay and ATM ,Internet Tools and Services- Domain Name System , Windows Internet Naming Service, Dynamic Host Configuration Protocol.
+<br><b>[12 Hrs] [34 Marks] </b>
+
+<b>Text books:</b>
+
+<br><br>1.Data Communications and Networking - Behrouz A Forouzan, Tata McGraw-Hill, 5th edition, ISBN: 9780070634145 for Unit I and III. 
+<br>2.Basics of Networking, PHI learning Pvt. Ltd. 2013, ISBN: 978-81-203-24893 for Unit II, IV, V and VI.
+
+<br><br><b>References:</b>
+
+<br><br>1.http://www.tutorialspoint.com/data_communication_computer_network/index.htm
+<br>2.http://www.e-tutes.com/lesson1/networking_fundamentals_lesson1_1.htm
+<br>3.http://www.techiwarehouse.com/engine/d9e99072/Basic-Networking-Tutorial
+<br>4.http://www.nptel.com
+<br>5.http://www.w3schools.com/
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>1. Prepare a report on Significance of computer networks and its evolution specifying its advantages and disadvantages of computer networking
+<br>2. Prepare a presentation on Sending Email via Telnet
+<br>3. Prepare a report on File sharing between computers using LAN connectivity
+<br>4. Prepare a report on Setting up a Wireless LAN
+<br>5. Prepare a report on Securing a Wireless LAN
+<br>6. Prepare a presentation on use of ping program to test your own computer
+
+<br><br><b>Note:</b> The activities or similar activities for assessing CIE (IA) for 5 marks (Any one)
+<br>1. Each student should do any one of the following type activity or any other similar activity related to the course and before conduction, get it approved from concerned Teacher and HOD.
+<br>2. Each student should conduct different activity and no repeating should occur

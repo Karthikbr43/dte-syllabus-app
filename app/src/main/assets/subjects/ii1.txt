@@ -1,0 +1,41 @@
+<b>Experiments:</b>
+
+<br><br>1.	Testing and calibration of pressure gauge, simple u -tube manometer, aneroid pressure gauge, liquidometer system. (1)Direct reading (2)Remote reading 
+<br>Temperature thermometer
+<br>Liquid in thermometer.
+<br>Vapour pressure thermometer
+<br>Bimettalic thermometer
+<br>Resistance thermometer
+<br>Gas flow thermometer
+<br><br>2.	Study of burden tube pressure gauge, burden tube section gauge, diaphram type pressure gauge and water flow meter
+<br><br>3.	Study of optical pyrometer and testing the temperature
+<br><br>4.	Study of measurement of irregular area by planimeter
+<br><br>5.	Study and testing of mechanical tachometer
+<br><br>6.	a) Study of laboratory furnace temperture controller compregetting unit thermocouples and indicators
+<br>	b) Calibration of thermo couples indicators
+<br>	c) Constuction of simple thermo couples testing
+<br><br>7.	Calibration & setting a thermostat unit for temperature
+<br><br>8.	Study of simple control system for the control of physical parameter of speed, level, pressure and temperature
+<br><br>9.	Study of magnetiser and de-magnetiser
+<br><br>10.	Study of clocks and industrial process times andtheir servicing and adjustments
+<br><br>11.	Repair and servicing of pressure gauge, section gauge flow meter, pneumatics instruments, hydraulic instruments, mechanical precision instruments, vernier caliper, micrometers and dial gauge.
+
+<b>Reference Books:</b>
+
+<br><br>1.	Mechanical Measurements And Instrumentation - A. K. Sawhney and Puneeth Sawhney  - DhanpatRaiand Sons, New Delhi. 
+<br>2.	“Mechanical Measurement and Control” by Dr.D.S.Kumar –Metropolitan Book Company Pvt. Ltd., New Delhi.
+
+<br><br><b>Student Activity</b>
+
+<br><br>1. 	Ask the students to bring two or three used gauges, disassemble, find the defects, rectify it assemble and calibrate. 
+<br>2. 	Repeat the above procedure for other equipments also.
+<br>3. 	Take the students for industrial visit for a nearby industry, select any two calibrated gauges Check for standardization.
+
+<b>Scheme of Valuation for SEE:</b>
+
+<br><br>1.	Writing procedure for One Individual experiment and one Group experiment : 05+05=10
+<br>2.	Conducting of Experiment of One Individual experiment and One Group experiment : 10+10=20
+<br>3.	Tabulation, Calculation & results (Both experiments) : 10+05=15
+<br>4.	Viva : 05
+
+<br><br><b>TOTAL = 50 Marks</b>

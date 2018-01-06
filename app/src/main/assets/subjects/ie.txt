@@ -1,0 +1,48 @@
+UNIT - I: Power Semiconductor Devices Circuits
+Construction, working, characteristics and applications of SCR, DIAC, TRIAC, UJT, MOSFET,IGBT, SCR triggerred by R, RC, UJT (Relaxation oscillator) Triggering circuits, controlled rectifiers: operation  of 1Φ Half-wave, 1Φ Full-wave, Applications, Inverters: Working of Series, Parallel and Bridge, Applications Choppers: Working of Step-up and Step-Down, Applications Cycloconverters: Working of 1Φ-1Φ Cycloconverters, Applications.
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT - II: Power Distribution System and Industrial Electrical Diagrams
+Introduction, Stages in power delivery system, Emergency power supply system: On site alternator, UPS system, Inplant distribution. Power sources: Batteries, Switch mode power supply. Electrical symbols, Diagrams, Wiring diagram, Schematic diagram, Block diagram, Single line diagram, Ladder diagram.
+<br><b>[08 Hrs] [20 Marks] </b>
+
+UNIT - III: Motor Control Devices and Circuits
+Pilot Devices: Manually operated switches: Toggle switch, Slide switch, DIP switch, Rotary switch, Push button switch, Drum switch. Mechanically operated switches: Limit switch, Micro switch, Temperature switch, Pressure switch, Float switch, Flow switch. Manual control devices:  Disconnect switch, Manual motor starter Contactors and motor starters: Contactors, Magnetic motor starter, and Solid state contactor.  
+<br><b>[08 Hrs] [25 Marks] </b>
+
+UNIT - IV: Magnets, Solenoids, Relays, Timer and Counters
+Introduction, electromagnets, Solenoid: Basic solenoid action, Inline (or ON/OFF) solenoid valve, Solenoid valves: 3-way  2 position, Applications of solenoids. Relays: Electro mechanical control relays, Solid state relays, Timing relays, Latching relays, Relay logic. Timers: Introduction, Pneumatic timer, Electromechanical motor driven timer, Solid state Electronic timer, Application of timers, Counters: Mechanical counter, Electro mechanical counter, Solid state counters, Programmable timer/counter. Sequencers: Introduction, Programmable sequencers. 
+<br><b>[08 Hrs] [20 Marks] </b>
+
+UNIT - V: Control the speed of motors for different applications
+Stepper motor: Construction, Operation of stepper motor, Control of stepper motors, Application of stepper motors - Print wheel control system – Disc head control system - Robot arm. Servo Motors: AC servo motor, Construction, operation, Torque speed characteristics. Servo amplifiers, Applications. DC servo motors: Construction, operation, Characteristics, Amplifiers.      Brushless DC motors. Speed control of small motor, DC drive system, Variable frequency AC drive system.
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT - VI: Develop Motor control Circuits
+Control circuits and load circuits: Two wire control circuit, Three wire control circuit, Three wire start/stop circuit with multiple start/stop  push button, Three wire control circuit with indicator lamp, Reverse motor starter, Jogging.
+<br><b>[08 Hrs] [20 Marks] </b>
+
+<b>Reference Books:</b>
+
+<br><br>1. Industrial Electronics -   E Kissell, PHI Publication
+<br>2. Modern Industrial/Electrical Motor Controls - E Kissell, PHI Publication
+<br>3. Motor Control Technology For Industrial Maintanance - E Kissell, PHI Publication
+<br>4. Industrial motor control, Stephen L Herman, Delmar cengage Learning
+<br>5. ABC of Electrical Engg, B.L. Theraja, S. CHAND
+
+<br><br><b>E –Learning</b>
+<br><br>https://www.omega.com/prodinfo/stepper_motors.html
+<br>https://www.analog.com/Isolator-Article
+<br>https://www.gobookee.com/power-electronics-circuits-devices-and-applications
+<br>https://www.industrialtext.com/Support/Electrical_Diagram_and_PIandD
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>1. Visit a nearby MSME/ workshop and prepare a hand written report on wiring diagrams or servicing techniques of motors, control drives, relay or Maintenance of Machine tools or Different motors, drives, control panels etc
+
+<br><br><b>Note:</b> 
+
+<br>1. Group of max four students should do any one of the above activity or any other similar activity related to the course COs and get it approved from concerned Teacher and HOD. 
+<br>2. No group should have activity repeated or similar 
+<br>3. Teacher should ensure activities by different groups must cover all COs 
+<br>4. Teacher should asses every student by using suitable Rubrics approved by HOD

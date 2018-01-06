@@ -1,0 +1,54 @@
+Unit - I: Tutorials and Graded Exercises
+
+<b>Practicing Exercise</b>
+<br>1.	Identification of program development tools and familiarization of program development using such tools.
+
+<br><br><b>Basic experiments (Use ALP and embedded C on simulators or kits)</b>
+<br>2.	Data movement: 
+<br>(a) Move a block of data within internal RAM 
+<br>(b) Exchange a block of data between internal RAM  and external memory
+<br>3.	Arithmetic operations: 
+<br>(a) Evaluate simple arithmetic expression such as y = (((5*2)-(4+1))/3)%2.
+<br>(b) Addition of three 8-bit BCD numbers to result in BCD form.
+<br>4.	Logical operations: 
+<br>(a) Evaluate simple logical expression such as Y = aandandb||c^!d where a, b, c and d are 8-bit data
+<br>(b) Rotation or shift operations on 16-bit data
+<br>(c) Convert data to even-parity in a block of internal RAM
+<br>5.	Code conversions 
+<br>(a) Packed BCD to unpacked BCD and vice-versa
+<br>(b) BCD to binary and vice-versa
+<br>(b) BCD to ASCII and vice-versa
+<br>6.	Program to search a given 8-bit number in an array of N numbers
+<br>7.	Program to sort N 8-bit numbers.
+<br>8.	Program to count the number of ones and zeros in the data saved in two consecutive memory locations
+<br>9.	Program to clear all the bytes (stored in internal RAM) which have odd-parity
+<br>10.	Program to toggle a particular bit in the internal RAM with the delay of N ms given the clock frequency f MHz with the use of delay subroutine.
+
+<br><br><b>Interfacing experiments (using embedded C and microcontroller boards)</b>
+<br>11.	Program to toggle the LED with tone using push-button switch.
+<br>12.	Program to display the value of analog voltage interfacing ADC or any digit pressed in an hex-key pad on LCD display
+<br>13.	Program to control direction and speed of a stepper motor.
+<br>14.	Program to generate DTMF telephone tones; use push-button switch to trigger the tone.
+<br>15.	Program to generate sine, rectangular and triangular wave-forms.
+<br>16.	Program to control traffic lights.
+
+Unit – II: Project/Student Activities [CIE- 05 Marks]
+
+1. Three open-ended experiments of assembly language programs/embedded C other than programs 2 to 10 mentioned above are to be assigned by the teacher (Student is expected to solve and execute/simulate independently).
+
+<b>Reference Books:</b>
+<br><br>1.	The 8051 Microcontroller and Embedded systems using assembly and C (2ndEdition) –M.A.Mazidi , J.C. Mazidi and R.D.McKinlay ISBN: 81-317-1026-2
+<br>2.	The 8051 Microcontroller(4th Edition)- MacKenzie , ISBN:81-317-2018-7
+<br>3.	The 8051 Microcontroller(1st Edition) – Dr.Uma Rao and Andhe Paallavi, ISBN: 81-317-3252-5
+<br>4.	Microcontrollers and applications, Ramani Kalpathi, and Ganesh Raja , ISBN: 81-888-4918-9
+<br>5.	Embedded C - Michael .J.Pont - Pearson Education -2002 ISBN 0 201 79523 X 
+
+<b>Scheme of Valuation for SEE:</b>
+
+<br><br>1.	Writing program for one basic experiment : 05
+<br>2.	Writing algorithm (20% weightage) and program (80% weightage) for one interfacing experiment : 15
+<br>3.	Execution/Simulation of the  basic experiment program assigned in 1	: 10
+<br>4.	Execution/Implementation of the  interfacing program assigned in 2 : 10
+<br>5.	Viva-voce :	10
+
+<br><br><b>TOTAL = 50 Marks</b>

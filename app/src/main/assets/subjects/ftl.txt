@@ -1,0 +1,51 @@
+<b>Experiments:</b>
+
+<br><br>1.	Identification of fuels, its properties and uses
+<br><br>2.	Determination of specific gravity of liquid fuel
+<br>a) Kerosene b) Diesel c) Petrol
+<br><br>3.	Determination of moisture content solid fuels
+<br>a) Saw Dust b) Coal              
+<br><br>4.	Determination of volatile matter content of solid fuels
+<br>a) Saw Dust b) Coal              
+<br><br>5.	Determination of ash content of solid fuels
+<br>a) Saw Dust b) Coal              
+<br><br>6.	Determination of fixed carbon content of given fuel.
+<br><br>7.	Determination of viscosity of liquid fuels.
+<br>a) Engine oil b) Diesel
+<br><br>8.	Determination of flash point and fire point of liquid fuels
+<br>a) Kerosene b) Diesel c) Mixed fuel (Engine oil+kerosene)
+<br><br>9.	Determination of cloud point and pour point of liquid fuels
+<br>a) Engine oil b) Coconut oil c) Licensed oil d) Petrol, Diesel
+<br><br>10.	Determination of calorific value of solid fuel by using bomb calorie meter.
+<br><br>11.	Determination of calorific value of liquid and gaseous fuel by boy’s calorimeter
+<br><br>12.	Preparing the furnace for firing by cleaning the 
+<br>a) Fire box b) Flue channel c) Ash pit.
+<br><br>13.	Demonstration of CSP effectiveness and utilization.
+<br><br>14.	Demonstration of temperature measurement and firing schedule.
+
+<b>Reference Books:</b>
+
+<br><br>1. Fuels Furnaces and Refractories, O P Gupta
+<br>2. Industrial Ceramics, Singer and Singer
+<br>3. Glass technology, R Charan
+<br>4. Engineering Materials, Rangwala
+<br>5. Fuels Furnaces Refractories and Pyrometry, AVK Suryanarayana, BS Publications
+<br>6. Industrial Furnaces,	W Trinks
+
+<br><br><b>Student Activity</b>
+
+<br><br>1.	Student should visit a nearby industry and prepare report on furnaces /kiln they are using mentioning its available technical details.
+<br><br>2.	Student should prepare a report on lab model furnace wiring diagram with its technical details.
+<br><br>3.	Student should design (sketches / prototype models) a different furnace or kiln model useful for industries and make documentation of the work.
+<br><br>4.	Student should carry maintenance work of drier / furnace / kiln provided in the laboratory and prepares their personal report in their words.
+<br><br>5.	Student should design (paper work or prototype) a lab model furnace and make a report on it.
+
+<br><br><b>Note:</b> Any one of the activity can be assigned to student to perform. And they have to submit handwritten report with 2-3 pages. And can attach photos/ charts where ever applicable. Reports should not be copied from earlier batches. And other similar tasks can be assigned.
+
+<b>Scheme of Valuation for SEE:</b>
+
+<br><br>1.	Conduct any one of the given experiment from Part-A : 35
+<br>2.	Answer one question from Part-B	: 10
+<br>3.	Viva / oral : 05
+
+<br><br><b>TOTAL = 50 Marks</b>

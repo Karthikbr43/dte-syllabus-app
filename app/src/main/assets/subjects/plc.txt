@@ -1,0 +1,47 @@
+UNIT-I: Introduction and Architecture of PLC
+Introduction, Block diagram of PLC system, Classification of PLC, relay logic control and PLC logic control, PLC advantages and disadvantages, internal architecture of PLC, I/O Modules interfacing (Analog and Digital), Memory organization.
+<br><b>[10 Hrs] [25 Marks] </b>
+
+UNIT-II: Basic PLC Programming
+Programming standards, PLC programming using contacts and coils, Relation of digital gate logic to contact/coil logic, Conversion from word description to ladder diagram and vice-versa. 
+<br><b>[08 Hrs] [20 Marks] </b>
+
+UNIT-III: PLC  Arithmetic and timer functions
+PLC arithmetic functions (Addition, Subtraction, Multiplication & Division), Basic comparison function, Comparison functions in application process, Introduction to Timer functions, PLC timer functions, Applications of timing functions in process control  -- On  Delay Timer Function, Of-delay Timer Function, Limited on time Timer Function , Repeat cycling Timer (Pulsed Timer) Function, one shot Timer operation Function.
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT-IV: PLC counter functions
+Introduction, PLC counter functions, Applications of PLC counter function in process control -- Basic PLC Counter Operation , Dual Counter Operation ,Count and Time Program ,delay of the start of the Counting Process, Rate per Time Period Program Sequencer Function.
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT-V: Data handling functions and Shift Registers
+Skip function, Master control relay function, Jump with non-return, Jump with return, MOVE function and application, Block MOVE function and applications, FIFO Functions. Bit patters in a register, changing a register big status, Shift Register functions, Shift Register applications -- Flashing Arrow Patterns and Registers, Morse Code SR Patterns.
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT-VI: Advanced PLC operations
+PID module, PLC and the Internet, SCADA system, Distributed control system, Selection of PLC and its maintenance.
+<br><b>[04 Hrs] [10 Marks] </b>
+
+<b>Reference Books:</b>
+<br><br>1. “Programmable Logic Controllers Principles and Applications” by John W. Webb – Ronald A.Reis., 5th Edition, Published by PHI Publication.
+<br>2. “Introduction to PLC’s” by Gary Dunning, 3rd Edition, Thomson India Edition
+<br>3. “PLC’s” by W. Bolton, 4th edition.
+<br>4. Programmable Logic Controllers by Frank D Petruzella, 4th Edition, McGraw Hill Publications.
+
+<br><br><b>Website:</b>
+<br><br>1)	http://www.automazione.ingre.unimore.it/pages/corsi/materialedidattico/CMA1213meccatronica/IEC61131_1.pdf.
+<br>2)	http://www.slideshare.net/indira_kundu/basics-of-automation-plc-and-scada.
+<br>3)	http://applicationofscada.blogspot.in/2012/05/introduction-of-power-plant.html
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>1. Carry out a Survey and Prepare a hand written report on the different PLC’s available in market.
+<br>2. Students can make simulations of PLC applications beyond the curriculum.
+<br>3. Prepare a hand written report on the various Sensors and Actuators used in the PLC Implementations.
+
+<br><br><b>Note:</b> 
+
+<br>1. Group of max four students should do any one of the above activity or any other similar activity related to the course COs and get it approved from concerned Teacher and HOD. 
+<br>2. No group should have activity repeated or similar 
+<br>3. Teacher should ensure activities by different groups must cover all COs 
+<br>4. Teacher should asses every student by using suitable Rubrics approved by HOD

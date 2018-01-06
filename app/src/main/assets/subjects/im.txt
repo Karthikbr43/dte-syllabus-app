@@ -1,0 +1,56 @@
+UNIT I: BASICS OF MANAGEMENT
+Management - Definition – Administration- Definition – Henry-Fayol’s principles of management- Business Organisation-Types- Proprietorship-Partnership- Joint stock- Co-operative Society-Advantages and disadvantages -Functions of Management – Planning- Definition-Functions-Organisation-Definition- types of organisation –Line-Functional-Line &staff-advantages and disadvantages- Leadership -Types –Quality of good leader- Motivation - Maslow’s Theory of Motivation -Hierarchy of needs- Communication - Process of Communication – Barriers for effective communication.
+<br><b>[08 Hrs] [20 Marks] </b>
+
+UNIT II: PRODUCTION MANAGEMENT
+Concept of project work - Project planning -Market survey- Project capacity-selection of site for project- Plant layout-Types of Plant layout- Product design-Stages in product design-drawing-Specifications-Material requirement-operation-Planning-Production-definition-Job, Batch & Mass production with their advantages and disadvantages-Productivity-definition- factors to improve productivity- Production planning and Control (PPC)-definition-Functions of PPC- planning, routing, scheduling, dispatching and Inspection
+<br><b>[08 Hrs] [20 Marks] </b>
+
+UNIT III: MATERIALS MANAGEMENT
+Material management - definition, functions- Purchase - Objectives, different methods of purchasing -Purchase procedure-Comparative statement-purchase order-Tender-Types of tender- Storekeeping- classification of stores - Functions of store keeper. Store management- Bin Card - Material Issue Requisition- Material Returned Note- Store ledgers -Codification of stores-Inventory Management- Definition - functions of Inventory Control- Advantages of Inventory Control  
+<br>Enterprise resource planning - concept, features and applications.- Material Requirement Planning (MRP)-concept, applications -Just in Time (JIT)-concept and benefits-Supply chain management-concept and benefits 
+<br><b>[11 Hrs] [35 Marks] </b>
+
+UNIT IV: TOTAL QUALITY MANAGEMENT
+Quality–Concept-Quality control- Definition - Factors affecting quality- Advantages of quality control –Inspection-Different types of inspection
+<br>Total Quality Management-Meaning- Principles of total quality management-PDCA cycles-Quality Circles-definition-Function.
+<br>TQM Tools- Flow charts, Control charts, Histograms, Pareto charts, Cause and effect diagram-5-S- Kaizen, and Six-sigma
+<br>Quality Certification Systems- ISO 9000 series quality standards, QS14000– ISO 9000, ISO 9001,ISO9002,ISO9003 & ISO 9004- ISO9000 quality certification procedure.
+<br><b>[09 Hrs] [30 Marks] </b>
+
+UNIT V: PLANT MAINTENANCE AND INDUSTRIAL SAFETY
+Plant maintenance-Definition -Types of maintenance-Preventive maintenance- Break down maintenance-Advantages and disadvantages- Total Productive Maintenance-Meaning- benefits of TPM -Tools of TPM- planned maintenance and predictive maintenance.
+<br>Industrial safety –Meaning - Accident- causes for accident- Direct and indirect losses due to an accident-Personal protective devices for preventions of accidents-Safety department- role of safety officer – safety supervisor -safety committee – Fire prevention and Protection- Fire triangle-principles of fire extinguishing- various classes of fire- A, B,C, D types of fire extinguishers
+<br><b>[08 Hrs] [20 Marks] </b>
+
+UNIT VI: SOCIAL ISSUES AND THE ENVIRONMENT
+Environment - Definition and scope-Solid waste management: causes, effects and control measures of municipal solid wastes (hospital wastes, hazardous wastes and e-wastes)- Water conservation and rain water harvesting. Climate change: global warming, acid rain, ozone layer depletion.-environment and human health-role of information technology in environment and human health
+<br><b>[08 Hrs] [20 Marks] </b>
+
+<b>Text books:</b>
+
+<br><br>1.	Industrial Organization and Engineering Economics	T.R.Banga & S C Sharma	Khanna.Publishers
+<br>2.	Industrial management and organizational behavior	K.K.Ahuja 	- 
+<br>3.	Industrial management and engineering economics	O.P.khanna 	Khannapublishers 
+<br>4.	Production and operations management - Dr .K.Aswathappa and   Dr.Sreedhar Bhatt	Himalaya publishers 
+<br>5.	Safety Management in Industry	Krishnan.N V	Jaico Publishing House, Bombay, 1997 
+<br>6.	Total Quality Management, S Raja Ram, Shivashankar	- 
+
+<br><br><b>Website:</b>
+
+<br><br>1.	www.youtube.com/watch?v=SF53ZZsP4ik  
+<br>2.	www.youtube.com/watch?v=iPZlQ3Zx5zc 
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>1. Each student will give an activity to prepare Comparative statement, Placing the purchase order with necessary terms and conditions
+<br>2. Given the data, prepare the scheduling using Gantt chart.
+<br>3. Each student will give an activity to visit local municipality garbarage plant, how the garbarage has been segregated. List the harm full effects of your local garbarage dump yard on the nearby environment
+<br>4. Identify any one product ,being manufactured in local industry, Study the process they are following for manufacturing the product, submit hand written report
+<br>5. Visit a nearby industry, make a report on Plant layout, type of production, quality system is put in practice and quality tools they are using in work place
+<br>6. Motivate student to take case study on plant maintenance of nearby industry, observe what type of maintenance they undertake in their industry.
+<br>7. Each student should prepare a detailed project report on selected product.
+
+<br><br><b>Note:</b> The activities or similar activities for assessing CIE (IA) for 5 marks (Any one)
+<br>1. Each student should do any one of the following type activity or any other similar activity related to the course and before conduction, get it approved from concerned Teacher and HOD.
+<br>2. Each student should conduct different activity and no repeating should occur

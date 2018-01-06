@@ -1,0 +1,66 @@
+<b>Experiments:</b>
+
+<br><br><b>Part - A</b>
+<br><br><b>QUALITATIVE ANALYSIS OF ORGANIC COMPOUNDS:</b>
+<br>1. Preliminary test:
+<br>	a) Physical State: solid/liquid/crystalline/amourphous.
+<br>	b) Colour: - color/colorless.
+<br>	c) Odour:characteristic/odourless
+<br>2. Ignition Test: burns with smoke/burns without  smoke/not burning.
+<br>3. Solubility Test: soluble in cold water/ hot water/dil HCl/conc. H2SO4
+<br>4. Test for saturation and unsaturation
+<br>5. Detection of elements (C,H,O,N,X,S)
+<br>6. Test for functional groups 
+<br>7. Specific Test
+
+<br><br><b>Part - B</b>
+<br><br><b>Functional Groups</b>
+<br>1. Chlorides (Halides)
+<br>2. Alcohol
+<br>3. Aldehyde
+<br>4. Ketones
+<br>5. Carboxilic Acid
+<br>6. Ester
+<br>7. Amines
+
+<br><br><b>Part - C</b>
+<br>1.Test for carbohydrates
+<br>2.Test for proteins
+<br>3.Determination of MP of organic compounds
+<br>4.Determination of BP of organic compounds
+
+<br><br><b>Part - D</b>
+<br><br><b>Estimation of the following:</b>
+<br>1.	Determination of total hardness of water sample by EDTA method
+<br>2.	Determination of chloride content of water by standard AgNO3 solution
+<br>3.	Determination of COD of waster sample by using standard Mohr’s salt solution
+
+<br><br><b>Part - E</b>
+<br><br><b>Preparation of the following:</b>
+<br>1.	Preparation of oxalic acid.
+<br>2.	Preparation of benzoic acid.
+<br>3.	Preparation of aspirin (Acetyl Salicyclic acid)
+
+<b>Reference Books:</b>
+
+<br><br>1.	Vogel`s Organic Qualitative and Quantitative Analysis.
+<br>2.	Qualitative and quantitative analysis by Alex 
+<br>3.	Practical organic chemistry – F.G. Mann
+<br>4.	Preparation of organic chemistry – R. Aggarval
+<br>5.	Instrumental Approach - A.K. Srinivas and P.C. Jain (S.Chand Pub.)
+<br>6.	Practical Chemistry - O.P.Pandey, D.N. Bajpai, S. Giri
+<br>7.	Allied Practical Chemistry - R.Veeraswamy, V.Venkateshwaram. 
+<br>8.	Vogel`s Organic Qualitative and Quantitative Analysis.
+<br>9.	Qualitative and quantitative analysis by Alex 
+<br>10.	Practical organic chemistry – F.G. Mann
+<br>11.	Preparation of organic chemistry – R. Aggarval, A.R.Kulandaivelu
+
+<b>Scheme of Valuation for SEE:</b>
+
+<br><br>1.	Identification of  apparatus/equipments/ chemical compounds/ tools/ etc. : 05
+<br>2.	Writing  Procedure : 10
+<br>3.  Conducting of experiment : 20
+<br>4.	Results : 05
+<br>5.	Viva-voce : 10
+
+<br><br><b>TOTAL = 50 Marks</b>

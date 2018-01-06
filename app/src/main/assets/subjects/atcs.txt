@@ -1,0 +1,77 @@
+UNIT-I: Chassis Frames
+Frames- purpose- loads acting - types –construction-ladder type-x type-integral, sections used in frames- Channel-Box-Tubular, materials used for frames, sub frames-need.
+<br><b>[03 Hrs] [10 Marks] </b>
+
+UNIT-II: Clutch and Gear box
+<b>Clutch</b>-purpose-requirements-classifications- principle of friction clutch, construction and working -single plate- multi plate- centrifugal, advantages and disadvantages-single plate-multi plate-centrifugal clutch, Clutch Lining materials, Clutch operating mechanisms- mechanical- hydraulic.
+<br><b>Gear box</b>-necessity- Classification-construction and working - constant mesh-synchromesh gear box, synchroniser-need-construction and working, gear selector mechanisms-types-construction and working –floor mounted mechanism.
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT-III: Propeller shaft, Final drive, differential and rear axle
+<b>Propeller shaft</b>-function-construction, universal joints and slip joints- function- types- construction and working- cross or spider type-flexible ring type-Rzeppa joint-Tripod joint. 
+<br><b>Final drive</b>- Purpose- types
+<br><b>Differential</b>- necessity- principle- construction and working. 
+<br><b>Rear axle</b>- loads acting- types - construction and operation - hotch kiss -  torque tube drive, rear axle drive-construction-semi-floating -3/4 floating -fully floating rear axle drives, double reduction axle-necessity-types
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT-IV: Front axle and steering system
+<b>Front Axle</b>-types-construction-live (drive shaft)-dead axle (conventional), stub axles-types- construction - Elliot, reverse-Elliot, lemoine and reverse - lemoine.    
+<br><b>Steering system</b>-purpose- requirements-mechanisms-types-details –Ackerman mechanism, layouts-rigid axle-independent suspension system, steering gear box-need-types-construction and working- Rack and Pinion-worm and wheel re-circulating ball and nut type, steering geometry-definition, define and explain-camber-caster-king pin inclination-combined angle-toe in and toe out, wheel alignment and wheel balancing-need.
+<br><b>[11 Hrs] [30 Marks] </b>
+
+UNIT-V: Braking system
+<b>Braking system</b>- purpose- requirements- types, construction and working-internal expanding drum brake, mechanical brakes-layout, hydraulic brake-principle-layout-advantages and disadvantages, master cylinder-types-construction and working –conventional –tandem, wheel cylinder-types-construction and working –single and double piston type, parking brake-purpose, brake lining materials, disc brakes-types-merits and demerits-construction and working –fixed-sliding-swinging type.
+<br><b>[10 Hrs] [25 Marks] </b>
+
+UNIT-VI: Suspension system, Wheels and tyres
+<b>Suspension System</b>-necessity-types, springs-types, construction and working-rigid axle suspension with leaf spring-McPherson strut-double wishbone-trailing link, sprung and un sprung weight-definition, shock absorber-need-construction and working of double acting shock absorber
+<br><b>Wheels</b>- requirements-types, Constructional details-wire-disc-alloy wheel.
+<br><b>Tyres</b>-function-types-construction-tube-tubeless, carcass-types-construction-cross ply –radial - bias type, treads pattern – need - types, aspect ratio, and specification.
+<br><b>[08 Hrs] [20 Marks] </b>
+
+<b>Reference Books:</b>
+
+<br><br>1.	Automotive Mechanics, W. H. Crouse and Anglin,Tata MC Graw-Hill
+<br>2.	Diesel Engineering,	Sean Bennett, CENGAGE Learning
+<br>3.	The Automobile Engineering Vol-2, K.M Guptha, Umesh publications
+<br>4.	Automotive Technology, Jack Erjavec, CENGAGE Learning
+<br>5.	Automobile Engineering,	K.M Gupta,	Umesh publications
+<br>6.	Automobile Engg  Vol I,	Kirpal Singh, Standard publication
+<br>7.	Automobile Engineering,	Er S K Gupta, S Chand
+<br>8.	Automobile Engineering,	Er  A K Babu and Er Ajit pal singh,	S Chand
+<br>9.	Automobile engineering, R B Gupta, Kanna Publications
+
+<br><br><b>Websites:</b>
+<br><br>•	https://www.youtube.com/watch?v=Lys93UK4DV
+<br>•	https://www.youtube.com/watch?v=pqF-aBtTBnY
+<br>•	https://www.youtube.com/watch?v=TcYsV063lk8
+<br>•	https://www.youtube.com/watch?v=6BaECAbapRg
+<br>•	https://www.youtube.com/watch?v=zd69cDTZDco
+<br>•	https://www.youtube.com/watch?v=kpVdQ8CIFsI
+<br>•	https://www.youtube.com/watch?v=agLa0A8GAfc
+<br>•	https://www.youtube.com/watch?v=QPaUJfA1KsY
+<br>•	https://www.youtube.com/watch?v=vOo3TLgL0kM
+<br>•	https://www.youtube.com/watch?v=IKywZ730JFs
+<br>•	https://www.youtube.com/watch?v=gIGvhvOhLHU
+<br>•	https://www.youtube.com/watch?v=pmWbei6beBg
+<br>•	https://www.youtube.com/watch?v=R-hk9NvFang
+<br>•	https://www.youtube.com/watch?v=SOgoejxzF8c
+<br>•	https://www.youtube.com/watch?v=8qeaNQABPQk
+<br>•	https://www.youtube.com/watch?v=bMg_j5_AGMg
+<br>•	https://www.youtube.com/watch?v=bnc3VnQ8kUY
+<br>•	https://www.youtube.com/watch?v=bBwQ-UiveTs
+<br>•	https://www.youtube.com/watch?v=oUchfOF6EMs
+<br>•	https://www.youtube.com/watch?v=uTqU35K_8AU
+<br>•	https://www.youtube.com/watch?v=BIM1AyxfYkw
+<br>•	https://www.youtube.com/watch?v=-4b39-pbHN4
+<br>•	https://www.youtube.com/watch?v=PZ6i46XleqE
+<br>•	https://www.youtube.com/watch?v=u6ssbkt7_kw
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br>Visit nearby two wheel/four wheeler service stations/garages and make report of different automotive chassis components seen with dimensional specification, materials used and manufacturing processes used along with photographs.
+
+<br><br><b>Note:</b> 
+<br>1. Student should prepare a report on any one of the above/similar activity, which helps in achieving above course outcomes.
+<br>2. The report prepared should be approved by the concerned staff and HOD.
+<br>3. The activity group should consist of maximum of three students.

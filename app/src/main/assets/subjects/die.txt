@@ -1,0 +1,54 @@
+UNIT I: INTRODUCTION TO DIGITAL SYSTEM
+Digital and Analog systems, Logic levels and pulse waveforms, elements of digital logic and briefly explain function of digital logic.
+<br><b>[03 Hrs] [10 Marks] </b>
+
+UNIT II: NUMBER SYSTEM AND CODES
+Study the following number systems: Decimal, Binary, 	Convert Binary to Decimal and Decimal to Binary,1’s and 2’s complement of Binary number .Perform the following Binary arithmetic operation: Addition, Subtraction (using 1’s and 2’s complementary),Multiplication. Octal, and Hexadecimal system. Study of binary codes, ASCII andGray codes with their applications, Convert Binary to Gray, and Gray to Binary
+<br><b>[07 Hrs] [20 Marks] </b>
+
+UNIT III: LOGIC GATES
+Definition, Study the symbol, truth table, and logic expression for the   following logic gate :AND, OR, NOT, NOR, NAND, EX-OR, and EX-NOR, Universal gates: Realization of logic gates using NAND andNOR, Define: propagation delay, fan-in, fan-out, power dissipation, and noise immunity
+<br><b>[04 Hrs] [10 Marks] </b>
+
+UNIT IV: BOOLEAN ALGEBRA
+Understand Boolean constants, variables, logical operations,State the rules and laws of Boolean algebra,State and prove De-Morgan’s theorem,Construct logic circuit from SOP and POS Boolean expression,Study Karnaugh’s map,Simplify Boolean expressions using Boolean algebra and K-map
+<br><b>[08 Hrs] [20 Marks] </b>
+
+UNIT V: COMBINATION CIRCUITS
+What is combinational logic circuit? Illustrate with an example,Write the truth table, logical equation, gate level logic circuit for the following and explain: Half adder, Full adder, Half subtractor, and Full subtractor, Explain 2 bit magnitude comparator,Define encoder,Explain Decimal to BCD encoder using truth table and gate level circuit,What are priority encoders,Define decoder,Explain BCD to Decimal decoder using truth table and gate level circuit,Explain BCD to Seven segment Decoder/Driver using truth table,Define multiplexer,Explain the 4:1 multiplexertruth table and gate level  circuit, Define demultiplexer,Explain the Demux using truth table and  gate level  circuit.
+<br><b>[15 Hrs] [40 Marks] </b>
+
+UNIT VI: SEQUENTIAL CIRCUITS
+Flip-Flop:What is sequential circuit? Illustrate with an example?Compare combination v/s sequential logic circuit,Define flip-flop,What are the types of triggering?Study the working of following types of edge triggered flip-flop using NAND gates. Write the truth table, and gate level logic circuit.,SR Flip-Flop, D Flip-Flop, T Flip-Flop, JK Flip-Flop Write the applications of flip-flops.
+<br>SHIFT REGISTERS:  Introduction to registers,Mention the various types of shift registerWith the help of a logic diagram and truth table, explain the working of following types of shift registers: SISO, SIPO, PISO, and PIPO:,Study the applications of shift registers.
+<br>COUNTERS: Introduction to  counter,Compare synchronous-asynchronous counter Explain the working of 2 bit ripplecounter,with the help of logic diagram, truth table and timing diagram: Study of mod-10 bit asynchronous counter,List the applications of counters.
+<br><b>[15 Hrs] [45 Marks] </b>
+
+<b>Text books:</b>
+
+<br><br>1.	Digital principles and applications .Donald P Leach,Albert Paul Malvino,Goutam Saha.MGH,8e
+<br>2.	Digital Systems-principles and applications.Ronald J.Tocci,NealS.Widmer,GregoryL.Moss
+<br>3.	Digital Electronics –principles and integrated circuits.Anil K. Maini. Wiley publications .first edition .
+<br>4.	Digital fundamentals –Thomas.l.Floyd
+<br>5.	Digital Electronics-Bartee
+
+<br><br><b>E –Learning</b>
+
+<br><br>1. http://www.nptel.ac.in
+<br>2. http://freevideolectures.com/Course/3164/Digital-Electronics
+<br>3. http://www.freebyte.com/electronics/
+<br>4. https://www.circuitlogix.com
+<br>5. http://www.vlab.co.in
+<br>6. http://www.electronics-tutorials.ws
+<br>7. http://www.allaboutcircuits.com
+<br>8. http://ocw.mit.edu/
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>1. Presentation on manufacturing of digital ICs.
+<br>2. Analyze on any one of the combinational circuits and make a report.
+<br>3. Analyze on any one of the sequential circuits and make a report.
+
+<br><br><b>Note:</b> The activities or similar activities for assessing CIE (IA) for 5 marks (Any one)
+<br>1. Each student should do any one of the following type activity or any other similar activity related to the course and before conduction, get it approved from concerned Teacher and HOD.
+<br>2. Each student should conduct different activity and no repeating should occur

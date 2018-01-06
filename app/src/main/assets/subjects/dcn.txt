@@ -1,0 +1,51 @@
+UNIT - I: Introduction to data communication and networks
+<b>Data communication</b>-data representation, data flow, components. Definition of node, link, branch, network, network criteria. <b>Physical structures</b>-types of connection, working of different network topologies, network configuration and their advantages, concepts and comparison of LAN, MAN, WAN. Switching - concepts of circuit switching, packet switching and message switching and their applications.  
+<br><b>[07 Hrs] [20 Marks] </b>
+
+UNIT - II: Networking protocols and OSI model
+<b>Protocol layering</b>-Scenarios, principles. Logical connection-connection oriented and connection less. Protocols in computer communications, <b>OSI reference model</b> - functions of all layers. <b>Data link control</b>- concept of framing, flow control and error control. <b>MAC protocol</b>- addressing mechanism. Concept of encapsulation and decapsulation.
+<br><b>[07 Hrs] [20 Marks] </b>
+
+UNIT - III: Computer Networks
+<b>Local area network</b>-wired LANs features and classification. <b>Ethernet</b>- properties, frame format (IEEE 802.3), addressing, simple problems on addressing. <b>Virtual LAN</b>- working, advantages. <b>Access method</b>–CSMA/CD. <b>Token passing LANS</b>- properties, token bus maintenance and working. Token ring properties, mechanism. <b>FDDI</b> –operation, self healing, <b>Wireless LANS</b> - features, Bluetooth architecture (IEEE 802.15). Basic concepts of WIMAX, cellular telephony, satellite networks. 
+<br><b>[11 Hrs] [30 Marks] </b>
+
+UNIT - IV: TCP/IP
+<b>TCP/IP</b>-Model, protocols layers, INTERNET Address, logical address, Physical address, UDP/IP Datagram Format, classes of IP address, Dotted Decimal notation of IP address,  basics of IPv4 and IPv6,simple problems on addressing. <b>Address mapping</b> –static mapping, dynamic mapping. <b>ARP</b>- need, methods, need of RARP and ICMP. Definition of fragmentation and reassembly. Features of TCP, relationship between TCP and IP. 
+<br><b>[11 Hrs] [30 Marks] </b>
+
+UNIT - V: Communication protocols
+Concepts of Ports and Sockets. <b>Domain Name System (DNS)</b> -name system, name space, working of DNS server. <b>Email</b>- architecture, protocols, advantages of IMAP. Basics of FTP, <b>FTP Connections</b> - Control and Data transfer Connection. <b>Frame relay</b>- Need, Working of frame relay, <b>ATM</b>- Architecture, characteristics.
+<br><b>[08 Hrs] [20 Marks] </b>
+
+UNIT - VI: Internet devices and protocols
+<b>Internetworking</b>-need and concept. <b>Connecting Devices</b>-discussion on Routers, switches, repeaters, Bridges, Switches and Gateways. <b>Ways of accessing the internet</b>- Dial-up access, SLIP, PPP, leased lines, DSL basics, internet access by cable. <b>Modems</b>-basics, types, operation, applications. <b>Network security</b>-basics of threats and fire wall.
+<br><b>[08 Hrs] [25 Marks] </b>
+
+<b>Reference Books:</b>
+
+<br><br>1.	Data Communications and Networks- 2nd edition -Achyut S Godbole- and Atul Kahate Tata McGraw-Hill
+<br>2.	Data Communications and Networking – 5th Edition- B A Forouzan- Tata McGraw-Hill.
+<br>3.	Computer Networks- 4th Edition- Andrew S Tanenbaum- Pearson-Prentice Hall
+<br>4.	Computer Networking - James F. Kurose and Keith W. Ross- PEARSON
+<br>5.	Computer Communications and Networking Technologies - Michael A. Gallo and William M. Hancock- BROOKSandCOLE
+<br>6.	Computer Networks and Internets -Douglas E. Comer- PEARSON.
+<br>7.	Data and Computer Communications- Eighth Edition- William Stallings- Pearson Education.
+<br>8.	Refer the course contents at NPTEL website of IIT Khargapur of course- Communication Networks and Switching.
+<br>9.	Network Security Bible, 2nd edition, Eric Cole, Wiley Publishers.
+<br>10.	Data communication and networks –James Irvine and David Harley- Publishers: Wiley India.
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>1. Prepare a report on the Components of Network used in Computer Lab or browsing centre or cellular network stations.
+<br>2. Prepare a report on ISDN or web applications.
+<br>3. Make a hand-written report on applications on internet devices that are observed in your surroundings.
+<br>4. Prepare a report on various standards organization of data communication and networking.
+
+<br><br><b>Note:</b> The activities or similar activities for assessing CIE (IA) for 5 marks (Any one)
+<br>1. Maximum of 4 students in each batch and one activity per batch.
+<br>2. All the above activities need to be distributed evenly to the students.
+<br>3. Write qualitative report of 4-6 pages; one report per batch.
+<br>4. Activities can be carried out off-class; demonstrations/presentations can be in lab sessions.
+<br>5. Teacher is expected to observe and record the progress of students’ activities
+<br>6. Assessment shall be made based on quality of activity in accordance with the following rubrics table

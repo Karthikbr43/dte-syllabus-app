@@ -1,0 +1,49 @@
+Unit I:	Carpentry Practice
+Study of the joints in roofs, doors, windows and furniture available in Polytechnic
+
+<br><br><b>Hands-on-exercise</b>:
+<br>1. Demonstration of different wood working machines/ Power Tools of different wood working process, like planning, marking, Chiseling, Grooving, turning of wood etc.
+<br>2. Exercise on One simple Wood work joints like Mortise and tennon, dovetail joint by sawing, planning and cutting.
+
+Unit II: Fitting Shop
+
+<b>Hands-on-exercise</b>
+<br>1. Demonstration of different fitting tools and drilling machines and power tool
+<br>2. Demonstration of different operations like chipping, filing, drilling, tapping, cutting etc.
+<br>3. Exercise on One simple fitting job involving practice of chipping, filing, drilling, tapping, cutting etc.
+
+Unit III: Forging
+<b>Hands-on-exercise</b>
+<br>Draw the layout of forging shop
+<br>Sketch forging tools 
+<br>State brief description and use of forging tools
+<br>State safety precautions for the forging operations
+<br>Prepare the following forging models using the operations - Jumping, Drawing down, bending, upsetting, 
+<br>punching and swaging, flattening 
+<br>Converting round rod into square rod
+<br>Preparation of  hook with an eye
+<br>L Nail
+<br>Gib Headed Key
+<br>Hexagonal headed bolt
+<br>Eye bolt
+<br>Flat hexagonal chisel
+<br>Square Headed bolt
+<br>Rag bolt
+<br>Chain links
+
+<b>Reference Books:</b>
+<br><br>1.	Ramesh Babu.V., “Engineering Practices Laboratory Manual”, VRB Publishers Private Limited, Chennai, Revised Edition, 2013 – 2014.
+<br>2.	Jeyachandran.K.,Natarajan.S. andBalasubramanian.S., “A Primer on Engineering PracticesLaboratory”, Anuradha Publications, 2007.
+<br>3.	Bawa.H.S., “Workshop Practice”, Tata McGraw Hill Publishing Company Limited, 2007.
+<br>4.	RajendraPrasad.A. andSarma.P.M.M.S., “Workshop Practice”, SreeSai Publication, 2002.
+<br>5.	Kannaiah.P. andNarayana.K.L., “Manual on Workshop Practice”, Scitech Publications, 1999.
+
+<b>Scheme of Valuation for SEE:</b>
+
+<br><br>1.	Listing of tools and operations : 10
+<br>2.	Planning and marking : 05
+<br>3.	Performing of basic operations : 20
+<br>4.	Dimensional accuracy : 10
+<br>5.	Oral : 05
+
+<br><br><b>TOTAL = 50 Marks</b>

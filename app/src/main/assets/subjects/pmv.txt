@@ -1,0 +1,62 @@
+UNIT - I: INTRODUCTION TO PROJECT MANAGEMENT
+Project Management, Professional Construction Management-Significance, objectives & functions of construction management, Classification, stages in construction. Interpersonal Behaviour in Project Organizations of construction team, Perception of- Owner, Engineer & Contractor, Job layouts, Organisation chart. Resources for construction-Men, Machine, Materials, Money & Time Management, Turnkey operation, Project Feasibility. BOT, BOOT, PPP.
+<br><b>[10 Hrs] [25 Marks] </b>
+
+UNIT - II: PLANNING & SCHEDULING
+PLANNING-Objective, principles, advantages, analysis, limitation and stages of planning for construction projects. 
+<br>SCHEDULING - Necessity of scheduling, Preparation of construction schedule for labour, material, machine & finance. 
+<br>NETWORK ANALYSIS-Introduction to network techniques, Interrelationship of events, activities.-Bar chart, Analysis of CPM, PERT with simple problems, Indentifying critical activities and critical path. Scheduling software applications, Introduction to MS project.
+<br><b>[10 Hrs] [35 Marks] </b>
+
+UNIT - III: CONSTRUCTION PROJECT PRACTICES
+Types of contract, contract agreement, Tender- Pre tender & Post tender planning.- Procedure for inviting tender-( Tender Notice & Tender documents, EMD, security deposit & Guaranties, Scrutiny of Tenders & e-Tendering). Conditions for failure of contract and its extension, Termination of contract, tender forms, comparative statements, administrative approval, technical sanction, nominal master roll, measurement book, method of recording bills, Pre measurements, check measurements, preparation of bills (Concept of RA bill- submission, scrutiny and payment.), ledger accounts, Imprest Account, Cashbook, Suspense classification -STORES-Classification of Stores. Issues, Indents & Bin cards, - maintenance and inspection- inventories – procedures adopted in P.W.D. and C.P.W.D, Site Order book, Hindrance Register, Drawing Register.
+<br><b>[15 Hrs] [40 Marks] </b>
+
+UNIT - IV: SAFETY AND QUALITY MANAGEMENT
+ACCIDENTS-definition of accident terms: (Partial & total disablement, Injury frequency rate, injury severity rate). Accident- Causes, Precaution & Prevention. SAFETY- Importance of safety. Safety procedures and check list (excavation, scaffolding, form work.) Safety meetings, Safety measures for storage, handling of building material and execution. TQM-Introduction, Importance & Functions of total quality management in construction industry, Tools for quality control, Elements and requirements of quality management. Aims and ways of TQM. Quality circle, Quality system standards, BIS certification of quality system,
+<br><b>[10 Hrs] [25 Marks] </b>
+
+UNIT - V: VALUATION OF BUILDINGS
+Definition, Methods of valuation, purpose and factors governing valuation. Scrap value, Salvage value, Market value, Book value and sinking fund. Calculation of depreciation by different methods. Rental value based on plinth area method & Rent fixation. Valuation of old buildings.
+<br><b>[05 Hrs] [15 Marks] </b>
+
+UNIT - VI: ENTERPRENEURSHIP
+Concept- Roles-Expectations of Entrepreneurship. Motivational needs, Characteristics and Requirements of an entrepreneur.- Licensed surveyor, valuer & Contractor.
+<br><b>[02 Hrs] [05 Marks] </b>
+
+<b>Text books:</b>
+
+<br><br>1.	Sanga Reddy. S, “Construction Management”,Kumaran Publications, Coimbatore.
+<br>2.	Rangwala.S.C.,”Construction of Structures and Management of Works”, Charotar Publishing House,Anand-388001,3rd Edition,2000.
+<br>3.	Construction management by NITTTR, Chennai.
+<br>4.	Chitkara, “Construction Project Management”, Mc Graw Hill Publications,
+<br>5.	Construction Management – Prof Dhir, Eastren Publications.
+<br>6.	Estimating and costing By B. N. Datta.						
+<br>7.	Entrepreneurial development – Dr.S.S.Khanka by S.Chand publishers
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br>The topic should be related to the course in order to enhance his knowledge, practical skill & and lifelong learning, communication, modern tool usage.
+
+<br><br>1.	Visit any nearby construction site & interact with the construction team regarding type of structure & its organisation structure.
+<br>2.	Visit any contractor and interact about the present tendering process (e-tendering) and awarding of contract.
+<br>3.	Collection of tender notices published in newspapers for various items of civil engineering works (at least 5) write salient features of them.
+<br>4.	Prepare a planning schedule for the nearby on going construction activity with the help of available open source project management software.
+<br>5.	Visit any nearby PWD/PERD /KIARDL/KHB office or any construction company, collect the documents (BOQ, M B, Tender, SR, lead statement) related to the project and prepare report on it.
+<br>6.	Collect quality management standards pertaining to  ISO 9001, ISO 14001 & OHSAS 18001 & prepare a report.
+<br>7.	Drafting a tender notice for construction of a civil engineering work (W. B. M. Road, residential is building).
+<br>8.	Preparation of tender document for the building.(detailed estimate prepared for R.C.C. building in estimating and costing shall be used )
+<br>9.	Collection of various account forms from PWD & Prepare a report on it.
+<br>10.	Prepare a report on store procedure and account producer of PWD. (For it a Guest lecture of PWD official to be arranged.)
+<br>11.	Prepare detailed specifications for the following: a) Building construction system. b) Irrigation engineering system. C) Transportation engineering system. D) Environment engineering system. 
+<br>12.	Study the application of CPM & PERT technique in planning software.
+<br>13.	Prepare a report on women entrepreneurship, rural entrepreneurship, agri-preneurship.
+<br>14.	Collect the various entrepreneurship development programs.
+<br>15.	Collect the details required for getting a contract license from corporation and prepare a report on it.
+<br>16.	Make a case study on valuation of a existing building.
+<br>17.	Collect safety procedures (Do’s and Dont’s) of each and every construction activities.
+<br>18.	Collect or Prepare the various stages of inspection and quality control for construction activities
+
+<br><br><b>Note:</b> 
+<br>1. Students should select any one of the above or other topics relevant to the subject approved by the concerned faculty, individually or in a group of 3 to 5. Students should mandatorily submit a written report and make a presentation on the topic.  The task should not be repeated among students. Report will be evaluated by the faculty as per rubrics. Weightage for 5 marks Internal Assessment shall be as follows: (Unsatisfactory 1, Developing 2, Satisfactory 3,  Good   4,  Exemplary5)
+<br>2. Reports should be made available along with bluebooks to IA verification officer

@@ -1,0 +1,53 @@
+UNIT-I: Fundamentals of Robotics
+Introduction to Robots, Definition of Robot, Robot configurations ( Polar, Cylindrical, Cartesian coordinate, Jointed arm) Basic Robot motions( Vertical motions, Radial motions, Rotational motions, Pitch motions, Types mechanical joints used in Robotics system(Linear Joint, Rotational Joint, Twisting Joint, Revolving Joint ), Notation Scheme for designating Robot configurations, degrees of freedom, Robot specification ( Work envelope, Load carrying capacity, Speed of movement, Accuracy, Repeatability, Spacial resolution),Basic elements of Robot system ( Base, Manipulator arm, End Effectors, Sensors and transducers, Actuators and Drives, Control systems) Advantages and industrial applications
+<br><b>[08 Hrs] [25 Marks] </b>
+
+UNIT-II: Basic elements of Robot system
+Base, Manipulator arm, End Effectors( grippers: (mechanical: pivoting movement, linear or translation movement), mechanical gripper actuation: linkage, rack and pinion, cam and screw type actuation, vacuum cups, magnetic grippers and adhesive grippers, tools as end effectors, consideration in gripper selection and design),Sensors and transducers (tactile sensors, touch sensors , force sensors, force sensing wrist, joint sensing, tactile array sensors, proximity sensors and range sensors(Proximity sensors using reflected light against a sensor array, users of sensors( safety monitoring, interlocks in work cell control , part inspection for quality control, determining positions of objects in robot cell. Actuators and drives (pneumatic and hydraulics and electric (stepper motor, DC and AC servo motors), power transmission system gears, power screws, Control systems: (on/off, proportional integral, derivative, PI, PD and PID controllers.)
+<br><b>[12 Hrs] [30 Marks] </b>
+
+UNIT-III: Vision systems in Robotics
+Introduction, process of vision system, low level vision: sensing and digitizing(vision camera, illumination techniques(front lighting and back lighting), analog to digital signal conversion ,image storage),pre-processing (noise reduction or smoothing, enhancement), high level vision (segmentation, tresholding ,region growing, edge detection, object description, object recognition and object interpretation), applications ( inspection, identification and navigation).
+<br><b>[08 Hrs] [20 Marks] </b>
+
+UNIT-IV: Programming in Robot
+Introduction, methods of robot programming, lead through method( powered lead through, manual lead trough),Textual robot language, types languages:-WAVE, AND AL, VAL, AML, MCL, RAIL, HELP, JARS, RPL, AUTOPASS, modes of software operation, monitor mode, run or executive mode and editor mode, VAL system, Introduction to VAL, representation of robot location, language elements and functions: constant variables and other data objects(constant and variables, aggregate and location variables),motion commands(MOVE and related statements, speed control, definition of points in the work place, paths and frames)End effectors and sensor commands(end effector operation, sensor operation, react statement).
+<br><b>[08 Hrs] [25 Marks] </b>
+
+UNIT-V: Artificial intelligence in Robot
+Introduction, AI techniques, Knowledge representation, Problem representation and problem solving, Search techniques in problem solving, LISP programming, AI and Robotics, simple programs using LISP.
+<br><b>[08 Hrs] [25 Marks] </b>
+
+UNIT-VI: Applications of Robot
+Robot Material Handling( Pick and place Robot, Robots in palletizing and related operations, Robots in processing operations( Spot Welding, Continuous Arc Welding, Spray Coating) Robots in automated assemblies, Robots in automated inspections
+<br><b>[08 Hrs] [20 Marks] </b>
+
+<b>Reference Books:</b>
+<br><br>1. Industrial Robotics – Mikell P. Groover et al.
+<br>2. Robotic Engineering – Richard D. Klafter et al.
+<br>3. Robotics technology and flexible automation – S.R. DEB and S.DEB
+
+<br><br><b>e - Links:</b>
+<br><br>1. http://www.g-w.com/pdf/sampchap/9781605253213_ch02.pdf
+<br>2. http://www.mech.sharif.ir/c/document_library/get_file?uuid=72d4fa8c-2ce0-444f-aebf-f7735c5c51ee&groupId=14040
+<br>3. http://www.roboticsbible.com/category/industrial-robotics/ind-robo-grippers
+<br>4. https://en.wikipedia.org/wiki/Vision_Guided_Robotic_Systems
+<br>5. http://www.roboticsbible.com/machine-vision-system.html
+<br>6. https://www.quora.com/What-programming-languages-are-used-in-robotics
+<br>7. http://faculty.kfupm.edu.sa/COE/mayez/ps-coe484/core/chap6.pdf
+<br>8. http://www.slideshare.net/ranger7721/robotics-artificial-intelligence-3536905
+<br>9. http://www.tutorialspoint.com/artificial_intelligence/artificial_intelligence_tutorial.pdf
+<br>10. http://www.slideshare.net/anmolseth520/robotics-30421670
+<br>11. https://www.robots.com/applications
+<br>12. http://blog.robotiq.com/bid/52886/Industrial-robots-5-most-popular-applications
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>1. Prepare a power point presentation on applications of robot beyond the curriculum
+
+<br><br><b>Note:</b> 
+
+<br>1. Group of max four students should do any one of the above activity or any other similar activity related to the course COs and get it approved from concerned Teacher and HOD. 
+<br>2. No group should have activity repeated or similar 
+<br>3. Teacher should ensure activities by different groups must cover all COs 
+<br>4. Teacher should asses every student by using suitable Rubrics approved by HOD

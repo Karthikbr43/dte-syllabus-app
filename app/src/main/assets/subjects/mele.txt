@@ -1,0 +1,48 @@
+UNIT - I: Bioelectric signals
+Cell characteristics. Bio-electric potential: Origin, Resting and action potential, depolarization and repolarisation, propagation of action potentials, ECG, EEG and EMG waveforms with typical characteristics. Electrodes: Types, Electrodes used for ECG, EEG and EMG. Selection of physiological transducers. 
+<br><b>[08 Hrs] [20 Marks] </b>
+
+UNIT - II: Bio potential Recorders
+Basic recording systems. Block diagram of ECG, isolated preamplifier, ECG leads, effects of artifacts on ECG recordings, Multichannel ECG machine, Block diagram of EEG machine, 10-20 electrode placement system for EEG, and Evoked potential. Working of EMG with block diagram. Applications of ECG, EEG, EMG and ERG recordings. 
+<br><b>[08 Hrs] [25 Marks] </b>
+
+UNIT – III: Therapeutic Equipment
+Cardiac pacemakers- external and implantable pacemakers and programmable pacemaker. Defibrillator-internal and external, AC and DC defribrillators, block diagram of microprocessor- based defibrillator. Dialysis- working of a haemodialyser. Working of digital hearing aid. Diathermy- types, schematic of microwave diathermy unit, Surgical diathermy – principle , working of solid state surgical diathermy machine. Laser- different types of lasers and their applications in medicine, argon laser- block diagram of gastric photocoagulator. Electrotherapy –types of waveforms used, electrotherapeutic muscle stimulator. 
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT - IV: Measurement and analysis Techniques
+Blood constituents- calculation of size of cells- MCV, MCH, MCHC, MPV, RDW& PDW, Blood cell counter- Coulter’s method and Dark field method, Digital pH meter, Spectrophotometer, Oximetry - finger tip oximeter. Features of Blood flow meters. Ultrasonic Doppler-shift based FHR measurement. BP measurement-systolic & diastolic pressure, direct method and indirect methods, Bp measurement using ultrasonic doppler shift method, advantages & disadvantages. Rheographic method of indirect blood flow measurement. 
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT - V: Imaging systems
+X-Rays- properties, X-ray imaging machine, applications, advantages and disadvantages. Computerized tomography- basic principle, block diagram of a typical CT imaging system, advantages, disadvantages and applications of CT imaging. Magnetic resonance imaging-principles of NMR imaging, basic components of a typical NMR imaging system, applications, advantages and disadvantages of magnetic resonance imaging. Ultra sonic imaging-properties of ultrasonic waves, basic pulse echo apparatus. Concept and features of patient monitoring system. 
+<br><b>[09 Hrs] [25 Marks] </b>
+
+UNIT - VI: Biotelemetry and Patient safety
+Biotelemetry- Introduction, components of Biotelemetry a system, Single channel bio telemetry system, Applications of biotelemetry. Telemedicine-concept, essential parameters, telemedicine using mobile communication. Patient safety-Physiological effects of electric current, micro and macro shock- preventive measures, safety standards, effects of radiation exposure, SAR as applicable to mobile phones. E-waste- Sources and disposal.
+<br><b>[07 Hrs] [15 Marks] </b>
+
+<b>Reference Books:</b>
+
+<br>1. Hand book of Bio Medical Instrumentation( 2nd edition)- R.S. Khandpur, ISBN-13: 9789339205430
+<br>2. Introduction to Biomedical Instrumentation –Mandeep Singh. ISBN-13: 9788120350236
+<br>3. Principles of Medical Electronics and biomedical Instrumentation- S.K. Guha, ISBN-13: 978-8173712579
+<br>4. Medical instrumentation Application and design J.G.Webster(Wiley India), ISBN-13: 978-0471676003
+<br>5. Biomedical Instrumentation –Dr.M. Arumugam ISBN 13: 9788187721123.
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>1. Recent trends in medical imaging systems
+<br>2. Special considerations in the design of pressure transducers for medical applications
+<br>3. The role of wearable devices in biomedical applications
+<br>4. A report on principle of thermography, infrared imaging and applications of thermography in diagnostic medicine.
+<br>5. A report on circuits for controlling dialysate temperature and working of blood leak detectors used in haemodialysers
+<br>6. A visit to hospital or diagnostic centre with the objective of familiarization of working of medical electronics equipment
+
+<br><br><b>Note:</b> 
+
+<br>1. At least one activity is mandatory for each batch of 4 students; carried throughout the semester and submit the report before the end of the semester.
+<br>2. Report shall be qualitative and not to exceed 4 pages.
+<br>3. Activity can be carried out off-class; however, demonstration/presentation should be done in the class room.
+<br>4. Teacher is expected to observe and record the progress of students’ activities
+<br>5. Assessment is made based on quality of work as prescribed by the following rubrics table.

@@ -1,0 +1,60 @@
+<b>Experiments:</b>
+
+<br><br><b>ANALYSIS and SIMULATION USING ANSYS</b>
+<br><br>1. Introduction to computer aided analysis and simulation
+<br><br>2. Awareness about using ANSYS
+<br><br>3. Familiarisations of using ANSYS
+<br><br>4. Tutorial on Finite element analysis - Introduction-Element properties-one dimensional problems-beams and frames-three dimensional problems in stress analysis
+<br><br>5. Stress Analysis of Bars of Constant Cross Section Area
+<br>a) Determine the nodal displacement, stress in each element and reaction forces of bar subjected to a Tensile force.
+<br>b) Determine the nodal displacement, stress in each element and reaction forces of bar subjected to a Compression force.
+<br><br>6. Stress Analysis of Bars of Tapered Cross Section Area
+<br>a) Determine the nodal displacement, stress in each element and reaction forces of Taper bar subjected to a external loads.
+<br><br>7. Stress Analysis of Bars Varying In Cross Section or Stepped Bars
+<br>a) Determine the nodal displacement, stress in each element and reaction forces of Stepped bar subjected to a external loads.
+<br><br>8. Stress analysis of Beams
+<br>a) Draw the shear force and bending moment diagrams for the given Cantilever beam due to applied load.
+<br>b) Draw the shear force and bending moment diagrams for the given Simply supported beam due to central point load
+<br>c) Draw the shear force and bending moment diagrams for the given Simply supported beam due to UDL
+<br>d) Draw the shear force and bending moment diagrams for the given Simply supported beam due to applied load(one point loads, and UDL)
+<br>e) Draw the shear force and bending moment diagrams for the given Simply supported beam due to Uniformly varying load(UVL)
+<br>f) Draw the shear force and bending moment diagrams for the given Simply supported beam due to applied load(Several point loads,UVL)
+<br><br>9. Stress Analysis of a Rectangular Plate with a circular Hole
+<br>a) Determine the stress acting on a rectangular plate with a circular hole due to the applied external load
+<br><br>10. Basic exercises related to Thermal engineering
+
+<b>Reference Books:</b>
+
+<br><br>1. ANSYS free software tutorial
+<br>https://www.google.co.in/search?biw=1024&bih=667&q=ansys+software+tutorial&sa=X&ved=0ahUKEwjm5o_MndHNAhUBsI8KHbRWDhUQ1QIIXygE
+
+<br><br><b>e - Links:</b>
+<br><br> http://www.nptel.ac.in  www.ansys.com/Student
+<br> https://www.google.co.in/search?biw=1024&bih=667&q=ansys+software+free+download+for+windows+7+64+bit&sa=X&ved=0ahUKEwjm5o_MndHNAhUBsI8KHbRWDhUQ1QIIXCgB
+<br> https://www.google.co.in/search?biw=1024&bih=667&q=ansys+software+free+download+for+windows+7+32+bit&sa=X&ved=0ahUKEwjm5o_MndHNAhUBsI8KHbRWDhUQ1QIIXSgC
+<br> https://www.google.co.in/search?biw=1024&bih=667&q=ansys+software+tutorial&sa=X&ved=0ahUKEwjm5o_MndHNAhUBsI8KHbRWDhUQ1QIIXygE
+<br> http://www.colorado.edu/MCEN/MCEN4173/Ansys_introduction.pdf
+<br> http://www2.warwick.ac.uk/fac/sci/eng/study/pg/students/esrhaw/introduction_to_ansys.pdf
+<br> http://www.mece.ualberta.ca/tutorials/ansys
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>1. Ask the students to take the simple problems in Strength of Materials, analyze the stresses by using software.
+<br>2. Ask the students to take the simple problems in Design of machine elements, analyze the stresses by using software.
+<br>3. At least take two simple mechanical components likes step turned shaft, measure the dimensions, Apply loads and analyze for stresses.
+<br>4. Study and understand the concept of theories of failure –Maximum shear stress theory, Maximum distortion energy theory ( Von-Mises Theory of failure)
+<br>5. Identify the theory of failure for the brittle material and ductile materials
+
+<br><br><b>Note:</b> The activities or similar activities for assessing CIE (IA) for 5 marks (Any one)
+<br>1. Each student should do any one of the following type activity or any other similar activity related to the course and before conduction, get it approved from concerned Teacher and HOD.
+<br>2. Each student should conduct different activity and no repeating should occur
+
+<b>Scheme of Valuation for SEE:</b>
+
+<br><br>1. ANSYS Basic : 10
+<br>2. Pre-processing : 10
+<br>3. Solution, Post-processing : 10
+<br>4. Result , Conclusionwith analytical comparisons : 15
+<br>5. Viva : 5
+
+<br><br><b>TOTAL = 50 Marks</b>

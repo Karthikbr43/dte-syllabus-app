@@ -1,0 +1,57 @@
+<b>TASK 1:	</b>
+<br><br>Servicing of lathe parts (at least one parts of the lathe should be overhauling like carriage, tail stock, lathe transmission system, tool post, and guide ways)
+<br>1)	Dismantling of lathe part
+<br>2)	Identification of fault in the lathe part
+<br>3)	Finding the solution for the faulty part (if any )
+<br>4)	Draw the production drawing for that part
+<br>5)	Assembling the part after rectification 
+<br>6)	Oiling and greasing
+<br>7)	Report on the lathe showing gear power transmission system, electric wiring diagram, sketches of the parts like carriage, tail stock, lathe transmission system, tool post, guide ways. 
+<br>8)	Study on the moment of the carriage with different speed ray Diagram
+
+<br><br><b>TASK 2:</b>
+<br><br>Servicing of milling machine parts (at least one part of the milling machine should be overhauled like transmission system, arbor arm assembly, electrical problems)
+<br>1)	Dismantling of milling machine part
+<br>2)	Identification of fault in the milling machine part (if any)
+<br>3)	Finding the solution for the faulty part(if any)
+<br>4)	Draw the production drawing for that part
+<br>5)	Assembling the part after rectification 
+<br>6)	Oiling and greasing
+<br>7)	Report on the milling machine showing gear power transmission system, electric wiring diagram, sketches of the parts like transmission system, arbor arm assembly, electrical problems of milling machine
+<br>8)	Study on the speed of the milling cutter with different speed ray diagram
+
+<br><br><b>TASK 3:</b>
+<br><br>Servicing of drilling machine parts (at least one part of the drilling machine should be overhauled)
+<br>1)	Dismantling of drilling machine part
+<br>2)	Identification of fault in the drilling machine part (if any)
+<br>3)	Finding the solution for the faulty part (if any)
+<br>4)	Draw  the production drawing for that part
+<br>5)	Assembling the part after rectification 
+<br>6)	Oiling and greasing
+<br>7)	Report on the drilling machine showing gear power transmission system, electric wiring diagram sketches of the parts like drill head, speed box, work table.
+<br>8)	Study on the speed of the spindle with different speed ray diagram
+
+<br><br><b>TASK 4:</b>
+<br><br>Servicing of shaping machine or any other machine parts (at least one part of the shaping machine should be overhauled)
+<br>1.	Dismantling of faulty parts of other machine tools
+<br>2.	Identification of fault in the machine part( if any)
+<br>3.	Finding the solution for the faulty part (if any)
+<br>4.	Draw the production drawing for that part
+<br>5.	Assembling the part after rectification 
+<br>6.	Oiling and greasing
+<br>7.	Report on the shaping machine showing gear  transmission system, electric wiring diagram sketches of  parts like tool head , ram assembly ,  work holding device
+<br>8.	Study on the moment of the ram with different speed flow diagram ( quick return motion mechanism)
+
+<br><br><b>Note:</b> One group consists of maximum 6 nos.
+
+<b>Reference Books:</b>
+<br><br>--
+<b>Scheme of Valuation:</b>
+
+<b>CEE:</b>
+<br><br>1.	Maintenance of log book :  10 Marks
+<br>2.	Evaluation of prepared report on all tasks : 40 Marks
+
+<br><br><b>SEE:</b>
+<br><br>A portfolio evaluation is recommended for the end examination evaluating the record of all FOUR TASKS of each individual learner for consistency and in case of any inconsistency the learner may be assessed on the criteria given against each task.
+<br>Marks awarded for evaluating the portfolio : 50 Marks

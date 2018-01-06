@@ -1,0 +1,21 @@
+<b>UNITS</b>
+<br><br>1.	Limits, fits, Tolerance and surface finish	<b>[03 Hrs]</b>
+<br>	1.1 Definitions, Basic size actual size, limits, tolerances, deviations.
+<br>	1.2 Computing fundamental deviation. Hole basis system, shaft basis system.(No problems)
+<br>	1.3 Geometric characteristic symbols
+<br><br>2.	Holding Devices assembly	 <b>[18 Hrs]</b>
+<br>	2.1	Pipes vice
+<br>	2.2	machines vice
+<br><br>3.	Screw jack assembly		<b>[09 Hrs]</b>
+<br><br>4.	Single way tool post	<b>[06 Hrs]</b>
+<br><br>5.	4 Way tool post		<b>[06 Hrs]</b>
+<br><br>6. 	Tail stock Assembly		<b>[09 Hrs]</b>
+<br><br>7.	Tool head of a shaper assembly		<b>[09 Hrs]</b>
+<br><br>8.	Plummer block assembly		<b>[09 Hrs]</b>
+<br><br>9.	Drill jig assembly		<b>[09 Hrs]</b>
+
+<b>Reference Books:</b>
+
+<br><br>1. Machine Drawing - K. R. Gopalakrishna
+<br>2. Machine Drawing - N. D. Bhatt
+<br>3. Machine drawing - K C John-PHI learning private limited Delhi-92

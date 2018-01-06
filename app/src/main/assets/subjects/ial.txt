@@ -1,0 +1,61 @@
+<b>Experiments:</b>
+
+<br><br><b>Part-A: Power electronics devices Experiments</b>
+<br><br>1.	Characteristics of MOSFET and IGBT
+<br>2.	Half wave controlled and full wave controlled rectifier circuit using R-C triggering circuit
+<br>3.	Light dimmer circuit using DIAC and TRIAC.
+<br>4.	SCR trigged by UJT relaxation oscillator.
+<br>5.	Voltage commutated chopper both constant frequency & variable frequency. (Using Kit)
+<br>6.	Single phase to single phase cycloconverter (Using Kit)
+<br>7.	Speed control of Universal motor. (Using Kit)
+<br>8.	Speed control of stepper motor using inverter in clockwise & anti-clockwise direction. (Using Kit)
+<br>9.	Sequential timer using IC 555.
+
+<br><br><b>Part-B: PLC Programming experiments	</b>
+<br><br>10.	Study of PLC kit, practicing of basic programs.
+<br>11.	Write the ladder diagram to test digital logic gates ( two, three and four inputs)
+<br>12.	Write the ladder diagram for three variable Boolean expressions and test the output.
+<br>Ex: <br><img src="ial.png"/>
+<br>13.	Write the ladder diagram to verify Demorgan’s theorem.
+<br>14.	Write  the ladder diagram for DOL starter and test the output
+<br>15.	Writing the ladder diagram and execute the Stair case light application
+<br>16.	Writing the ladder diagram and execute the Water level controller application
+<br>17.	Writing the ladder diagram and execute the Conveyer control application
+<br>18.	Writing the ladder diagram and execute the Lift control application.
+
+<b>Reference Books:</b>
+
+<br><br>1.	Overview of Industrial Process Automation - KLS Sharma, Elsevier Publication
+<br>2.	Power Electronics handbook, 3rd edition-Muhammad H. Rashid- Elsevier, ISBN: 978-0-12-382036-5
+<br>3.	Programmable Logic Controllers- John W.Webb and Ronald A Reis (Principle and applications)(Fifth Edition).
+<br>4.	Programmable Logic Controllers - Programming Methods and Applications, John R. Hackworth and Frederick D. Hackworth, Jr.
+<br>5.	http://www.engineersgarage.com/articles/plc-programmable-logic-controller
+<br>6.	https://en.wikipedia.org/wiki/Programmable_logic_controller
+<br>7.	https://www.circuitlogix.com
+<br>8.	www.electronicprojects.org/  
+<br>9.	http://www.asic-world.com/
+<br>10.	http://www.electronics-tutorials.com
+<br>11.	http://www.circuitstoday.com
+<br>12.	http://www.allaboutcircuits.com
+<br>13.	http://onlinemas.weebly.com/uploads/6/3/9/4/6394050/lab_manual_shafeeq.pdf
+<br>14.	http://ezhil-ecesait.webs.com/Power-Electronics-Lab-Manual.pdf
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>1.	Design and write the ladder diagram to test the expected output for the given application/expression/Boolean equation using PLC programming.
+<br>2.	Design the simple industrial electronics circuit/application by using any power semiconductor devices such as thyristor, power diode, BJT, MOSFET etc.
+
+
+<br><br><b>Note:</b> The activities or similar activities for assessing CIE (IA) for 5 marks (Any one)
+<br>1.	Each student activities shall be carried out (select any one activities) throughout the semester and present the hand-written report of maximum 5 to 6 pages per batch at the end of the semester. 
+<br>2.	Assessment shall be made based on quality of activity, presentation/demonstration and report.
+
+<b>Scheme of Valuation for SEE:</b>
+
+<br><br>1.	Part-A: Writing circuit diagram of one experiment with Procedure /Tabular column/ Nature of graph/waveform, formula for calculations : 10
+<br>2.	Part-B: Writing Ladder diagram and program of one experiment with procedure : 10
+<br>3.	Conduction of Part-A experiment and result : 10
+<br>4.	Execution of part-B experiment and result : 15
+<br>5.	Viva-voce : 05
+
+<br><br><b>TOTAL = 50 Marks</b>

@@ -1,0 +1,41 @@
+UNIT - I: Bioelectric signals
+Bio electric potential- Origin- Resting and action potential. Depolarization and repolarisation, propagation of action potentials, origin of ECG,EEG and EMG waveforms. Electrodes for ECG,EEG and EMG recordings. Selection of physiological transducers, commonly encountered biomedical parameters-their characteristics and corresponding transducers used.
+<br><b>[08 Hrs] [20 Marks] </b>
+
+UNIT - II: Bio potential Recorders
+Basic recording system, UV recorders, Light gate array recorders. Block diagram of ECgraph-isolated preamplifier, ECG leads, effects of artifacts on ECG recordings, Multichannel ECG machine, Block diagram of EEG machine- 10-20 system of 	electrodes for EEG- Evoked potential.  Working of EMG system with block diagram. Applications of ECG,EEG&EMG recordings.
+<br><b>[08 Hrs] [25 Marks] </b>
+
+UNIT – III: Therapeutic Equipment
+Cardiac pacemakers- external and implantable pacemakers, working of a programmable pacemaker, defibrillator-internal and external types, block diagram of microprocessor based defibrillator monitor. Dialysis- working of a haemodialyser,  working of digital hearing aid,  Diathermy- different types, schematic of microwave diathermy unit, Surgical diathermy – principle , working of  solid state surgical diathermy machine. Laser- different types of lasers and their applications in medicine, argon laser- block diagram of gastric photocoagulator, Electrotherapy –types of waveforms used, electrotherapeutic muscle stimulator.
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT - IV: Measurement and Analysis Techniques
+Blood constituents- calculation of size of cells- MCV, MCH, MCHC, MPV, RDW& PDW ,Coulter’s type blood cell counter and  Dark field type counter –Digital PH meter- spectro photometer, Oximetry - finger tipoximeter, Blood flow meters- Electromagnetic flow meter and pulsed ultrasonic Doppler flow detectors, ultrasonic Doppler shift based FHR measurement, BP measurement-systolic & diastolic pressure, direct method and indirect methods –korotkoff’sounds, Rheographic method of indirect blood flow measurement, Bp measurement using ultrasonic Doppler shift  method, advantages & disadvantages.
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT - V: Imaging Systems
+X-Rays- properties, X-ray imaging machine applications, advantages and disadvantages, Computerized tomography- basic principle, block diagram of a typical CT imaging system, advantages, disadvantages and applications of CT imaging. Magnetic resonance imaging-principles of NMR imaging, basic components of a typical NMR imaging system, applications, advantages and disadvantages of magnetic resonance imaging, Ultra sonic imaging-properties of ultrasonic waves, basic pulse echo apparatus, Ascan- applications, principle of M-mode display, block diagram of echocardiograph, B scanner- 2D ultrasonic scanning system using scanning frames, advantages, disadvantages and applications of ultrasound imaging.
+<br><b>[09 Hrs] [25 Marks] </b>
+
+UNIT - VI: Biotelemetry and Patient safety
+Introduction. The components of a biotelemetry system. Single channel bio telemetry system. Applications of biotelemetry. Telemedicine.-concept, essential parameters, telemedicine using mobile communication, Physiological effect of electric current, micro and macro shock- preventive measures.  Safety standards, effects of Radiation exposure, E waste. Disposal of E-waste.
+<br><b>[07 Hrs] [15 Marks] </b>
+
+<b>Reference Books:</b>
+	
+<br><br>1.	Hand book of Bio Medical Instrumentation( 2nd edition)- R.S. Khandpur, ISBN-13: 9789339205430
+<br>2.	Introduction to Biomedical Instrumentation –Mandeep Singh. ISBN-13: 9788120350236
+<br>3.	Principles of  Medical Electronics and biomedical Instrumentation- S.K. Guha ISBN-13: 978-8173712579
+<br>4.	Medical instrumentation Application and design	J.G.Webster(Wiley India) ISBN-13: 978-0471676003
+<br>5.	Biomedical Instrumentation –Dr.M. ArumugamISBN 13: 9788187721123.
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>1.	Recent trends in medical imaging systems
+<br>2.	Special considerations in the design of pressure transducers for medical applications
+<br>3.	The role of wearable devices in biomedical applications
+<br>4.	A report on principle of thermography, infrared imaging and applications of thermography in diagnostic medicine.
+<br>5.	A report on circuits for controlling dialysate temperature and working of blood leak detectors  used in haemodialysers
+
+<br><br><b>Note:</b>  The activities or similar activities for assessing CIE (IA) for 5 marks (Any one)

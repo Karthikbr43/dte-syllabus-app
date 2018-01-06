@@ -1,0 +1,52 @@
+UNIT - I: Measurement System
+Introduction to measurement, Standards of measurement, Modes of measurement, generalized measurement system, Applications of Measurement System, Errors in measurement, sources of errors. Introduction, Classification of Transducer: Basic requirements: Sensitivity, Specifications, Advantages and Disadvantages,
+<br><b>[08 Hrs] [30 Marks] </b>
+
+UNIT - II: Measurement Of Displacement, Velocity, Acceleration And Force
+Displacement measurement: Potentiometer sensor, LVDT, Position measurement: Optical encoder, Hall Effect sensor, Proximity measurement: Eddy current, Inductive, Velocity measurement: Electromagnetic, Tacho generators, Acceleration measurement: Piezoelectric accelerometer, strain gauge accelerometer, Force measurement: Hydraulic Load cell, spring balance, strain gauge, load cell. RVDT, Synchros and Resolvers
+<br><b>[10 Hrs] [20 Marks] </b>
+
+UNIT - III: Measurement Of  Pressure, Flow, Level, Temperature And Light
+Fluid transducers: Pressure measurement: bourdon tube, tactile sensor, Flow measurement: orifice meter, venturi meter, Level measurement: float gauge, capacitance level sensor, Temperature Sensors: Temperature measurement: RTD’s, Bimetallic strip, Light measurement: Working principles of photoelectric and photoconductive transducer, photo voltaic cell.
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT - IV: Signal Conditioning
+General Measurement system component, signal conditioning and necessity, processes Adopted, Functions of dc and ac signal conditioning system, DC Wheatstone’s bridge
+<br><b>[06 Hrs] [15 Marks] </b>
+
+UNIT - V: Data Acquisition System
+Introduction, generalized DAS, objectives, configurations, analog and automated DAS, Single channel,  multichannel DAS, applications, ADC: successive approximation, DAC: Weighted Resister
+<br><b>[08 Hrs] [25 Marks] </b>
+
+UNIT - VI: Display and Recording Devices
+Introduction: Analog, Digital Indicating Instrument, Working of LED, Seven segment display,  LCD, Recorders: X-Y graphic recorder, Advantages and applications of X-Y graphic recorder,  Oscillographic UV recorder, Magnetic tape recorders, Printers: Dot matrix, Ink-jet, Laser.
+<br><b>[10 Hrs] [25 Marks] </b>
+
+<b>Reference Books:</b>
+
+<br><br>1. “Electronic measurements and instrumentation” by R.K.Rajput, S.CHAND  publication
+<br>2.  Introduction to measurements and instrumentation” by Arun K.Ghosh,  3rd ed,2009 –PHI publication
+<br>3.  Electronic Instrumentation, KALSI, Mc Graw Hills.3ed
+
+<br><br><b>E –Learning</b>
+<br><br>https://www.moresteam.com/toolbox/measurement-system-analysis.cfm
+<br>https://en.wikipedia.org/wiki/System_of_measurement
+<br>https://www.wikiforu.com/2012/11/basic-measurement-system.html
+<br>https://www.micro-epsilon.com/displacement-position-sensors/
+<br>https://www.gemssensors.com/Products
+<br>https://en.wikipedia.org/wiki/Signal_conditioning
+<br>https://www.analog.com/media/en/technical...articles/489168400sscsect3.PDF
+<br>https://www.ni.com/data-acquisition/what-is
+<br>https://en.wikipedia.org/wiki/Data_acquisition
+<br>https://www.authorstream.com/.../rajtaher-534029-display-devices-and-printers/
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>1. Identify the sensors/ transducers/actuators display devices used in various applications and prepare a hand written report comprising of its working principle.
+
+<br><br><b>Note:</b> 
+
+<br>1. Group of max four students should do any one of the above activity or any other similar activity related to the course COs and get it approved from concerned Teacher and HOD. 
+<br>2. No group should have activity repeated or similar 
+<br>3. Teacher should ensure activities by different groups must cover all COs 
+<br>4. Teacher should asses every student by using suitable Rubrics approved by HOD

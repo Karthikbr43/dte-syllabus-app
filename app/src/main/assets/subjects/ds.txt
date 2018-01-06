@@ -1,0 +1,55 @@
+UNIT I : Pointers and Dynamic Memory allocation				     
+<b>Pointers</b> - Concept of pointers, Declaring and initializing pointers, Accessing variables using pointers, Pointer arithmetic, Pointers and arrays, Pointers and character strings, Pointers and functions, Pointer as a function argument, Pointers to  function, Pointers and structures.
+<br><b>Dynamic Memory allocation</b> – Introduction, Dynamic memory allocation, Allocating a block of memory:  Malloc, Allocating multiple blocks of memory:  Calloc, Releasing the used space: Free Altering the size of memory:  Realloc 
+<br><b>[08 Hrs] [22 Marks] </b>
+
+UNIT II: Files					
+Introduction, Defining and opening a file, closing a file, Input / Output operations on files, Error handling during I/O operations, Random Access to files, Command line arguments
+<br><b>[06 Hrs] [17 Marks] </b>
+
+UNIT III: Introduction to data structures and Linked lists
+<b>Introduction to data structures</b> – Introduction, Characteristics, Types of data structures, data structure operations.
+<br><b>Linked lists</b> – Introduction, Basic concept, linked list implementation, Types of linked lists, Circular linked list (no implementation), doubly linked list (no implementation).
+<br><b>[10 Hrs] [28 Marks] </b>
+
+UNIT IV: Stack and Queues		
+<b>Stack</b> – Introduction, Stacks, Stack operations, stack implementations. 
+<br><b>Queues</b> – Introduction, Basic concept, queue operations, queue implementations,  circular queue (no implementation), priority queues (no implementation), double ended queues (no implementation).
+<br><b>[10 Hrs] [28 Marks] </b>
+
+UNIT V: Tree				
+Introduction, Basic concept, Binary tree, Binary tree representation, Binary tree traversal.
+<br><b>[08 Hrs] [22 Marks] </b>
+
+UNIT VI: Sorting, Searching and Application of Data Structures	
+<b>Sorting</b> – Introduction, sorting techniques – selection sort, insertion sort, bubble sort, quick sort (no implementation), merge sort (no implementation).
+<br><b>Searching</b> – Introduction, Linear search, binary search.
+<br><b>Application of data structure</b> – Introduction, Applications of stack, Infix to postfix conversion, Evaluation of a postfix expression, Recursion, factorial, GCD, List application of queues, linked lists and trees.
+<br><b>[08 Hrs] [28 Marks] </b>
+
+<b>Text books:</b>
+
+<br><br>1.Programming with ANSI-C, E. Balaguruswamy, Sixth  Edition, Tata Mcgraw Hill for Unit I and II
+<br>2.Data Structures using C, E. Balagurusamy, Tata Mcgraw Hill for Unit III,IV,V,VI
+
+<br><br><b>References:</b>
+
+<br><br>1.Programming with ANSI and Turbo C, Ashok Kamthane, Second Edition, Pearson Education.
+<br>2.Let us C, Yashavant P Kanetkar, 14th Edition, BPB publication, ISBN 9788183331630
+<br>3.Data structures A Programming Approach with C Second Edition , PHI publication, Dharmender Singh Kushwaha, Arun Kumar Misra.
+<br>4.Programming in C and Data Structure, P.B.Kotur, Sapna Book house
+<br>5.http://spoken-tutorial.org/tutorial-search/?search_foss=C+and+Cppandsearch_language=English
+<br>6.http://www.tutorialspoint.com/cprogramming/
+<br>7.http://www.indiabix.com/online-test/c-programming-test/
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>1. Implementation of Double linked list and circular linked list
+<br>2. Implementation of Circular Queue
+<br>3. Implementation of function pointers
+<br>4. Design and implement the Applications of Stack
+<br>5. Quiz
+
+<br><br><b>Note:</b> The activities or similar activities for assessing CIE (IA) for 5 marks (Any one)
+<br>1. Each student should do any one of the following type activity or any other similar activity related to the course and before conduction, get it approved from concerned Teacher and HOD.
+<br>2. Each student should conduct different activity and no repeating should occur

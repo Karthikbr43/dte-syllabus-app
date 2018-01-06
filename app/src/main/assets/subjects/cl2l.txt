@@ -1,0 +1,53 @@
+<b>Experiments:</b>
+
+<br><br><b>PART - A</b>
+
+<br><br>A) Preparation of Standard solutions of the following:
+<br>1.	Sodium Carbonate solution
+<br>2.	Oxalic acid solution
+<br>3.	Potassium dichromate solution
+<br>4.	Ferrous sulphate solution
+<br>5.	Ferrous ammonium sulphate solution
+<br>6.	Sodium thiosulphate solution
+
+<br><br>B) Standardisation of sample solutions and estimation of the mass of solute in 250cm<sup>3</sup> of its solution in the following:<br><b><i>[Refer Fig. 1.1] </i></b>
+
+<br><br>C) Titrations involving link solutions:
+<br>Estimation of the mass of given substance present in 250 cm<sup>3</sup> of its solution using standard solution which is standardised by prepared  solution.		
+<br><b><i>[Refer Fig. 1.2] </i></b>
+
+<br><br><b>PART - B</b>
+
+<br><br>D) Instrumental Methods of analysis
+<br>1.	Conductometric estimation of HCl using standard NaOH solution
+<br>2.	Colourimetric estimation of copper in copper sulphate Using spectrophotometer
+<br>3.	Determination of density  of given liquid pyknometer
+<br>4.	Determination of pH value of a solution using pH meter.
+<br>5.	Potentiometric estimation of Ferrous ammonium sulphate by standard potassium dichromate solution using potentiometer
+<br>6.	To determine the relative surface tension of liquid with respect to water at room temperature by using stalagmometer apparatus
+    
+<br><br>E) Collection of domestic / industrial sample of used water and its analysis of acidity/alkalinity
+<br>1.	Introduction of chemistry practical’s and its importance, safety precautions in maintenance of cleanliness and orderliness of chemical reagents in the laboratory.
+<br>2.	Maintenance of apparatus and equipments.  
+<br>3.	Follow of Do`s and Don’ts.
+<br>4.	Maintenance of data recording in the record book.
+<br>5.	Write the procedure of the experiment before the commencement of each experiment.
+<br>6.	Strict following of instructions given at time to time by the staff in charge.
+<br>7.	Demonstration of each experiment by the staff in charge.
+
+<b>Reference Books:</b>
+<br><br>1.	Vogel`s Inorganic Qualitative and Quantitative Analysis.
+<br>2.	Practical chemistry By O.P.Pande. and others.
+<br>3.	 Qualitative and quantitative analysis by Alex 
+<br>4.	Instrumental methods of analysis by Willard D and Merits
+<br>5.	Instrument methods of analysis Chathan and Sharma 
+
+<b>Scheme of Valuation for SEE:</b>
+
+<br><br>1.	Identification of  apparatus/equipments/ chemical compounds/ tools/ etc : 05
+<br>2.	Writing  Procedure : 10
+<br>3.	Conducting of experiment : 20
+<br>4.	Results : 05
+<br>5.	Viva-voce :	10
+
+<br><br><b>TOTAL = 50 Marks</b>

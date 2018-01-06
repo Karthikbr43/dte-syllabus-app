@@ -1,0 +1,50 @@
+UNIT I: THEORY OF METAL CUTTING
+Introduction: Metal Removal Processes, Types Of Machine Tools – Theory Of Metal Cutting: Chip Formation, Orthogonal Cutting- Oblique Cutting- Machinability of metal.  Cutting Tool-Classification of cutting tools-Single point Cutting Tool Geometry-Cutting Tool Materials, Tool Wear, Tool Life, and Cutting Fluids-Functions and properties.
+<br><b>[07 Hrs] [15 Marks] </b>
+
+UNIT II: LATHE AND OPERATIONS
+Centre Lathe-Construction- Various Operations, Taper Turning Methods, Thread Cutting operation, Lathe Attachmentsand Accessories. Capstan and Turret Lathes – Automats – Single Spindle, Swiss Type, Multi Spindle Automatic lathe.
+<br><b>[11 Hrs] [30 Marks] </b>
+
+UNIT III: RECIPROCATING MACHINE TOOLS
+Shaper -Principal parts, Classification, Specification of shaper, Shaper Mechanisms, Types-Hydraulic shaper. Cutting Speed, Feed, Depth of cut and machining time-Various shaper operations-Introduction to Planer -Principal parts  and working of Double housing Planer, Principal parts of Slotter-Working of slotter		
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT IV: DRILLING AND MILLING MACHINES
+Drilling operations- Twist drill geometry –Radial drilling machine-Jigs and Fixtures- Definition-Need of Jigs and Fixtures Drill Jig-Locating devices. .Milling-Classification, Column and knee type milling machine - Milling cutters and classification-Fundamentals of milling processes-Milling operations. Indexing methods-Simple and compounding. Cutting speed, feed, depth of cut and machining time.
+<br><b>[12 Hrs] [40 Marks] </b>
+
+UNIT V: SUPER FINISHING PROCESSES
+Abrasive Processes- Grinding Wheel – Specifications And Selection, Types Of Grinding Process – Cylindrical Grinding, Surface Grinding, Centre less Grinding–Super finishing process- Honing, Lapping, Super Finishing, Polishing And Buffing
+<br><b>[05 Hrs] [15 Marks] </b>
+
+UNIT VI: NON CONVENTIONAL MACHINING PROCESS
+Unconventional Machining Process - Classification, Electron Beam Machining, Laser Beam Machining, Electric Discharge Machining, Ultrasonic Machining, Abrasive Jet Machining. Additive manufacturing-Concept – Various applications of Additive manufacturing
+<br><b>[07 Hrs] [15 Marks] </b>
+
+<b>Text books:</b>
+<br><br>1.	Rao, P.N., Manufacturing Technology, Vol I and II, Tata Mcgraw Hill Publishing Co., New Delhi, 1998 
+<br>2.	Seropekalpakjian, Steven R SchmidManufacturing Engineering and Technology- Pearson Education-Delhi
+
+<br><br><b>References:</b>
+<br><br>1.	Sharma, P.C., A Textbook Of Production Technology – Vol I And II, S. Chand and Company Ltd., New Delhi, 1996 
+<br>2.	HMT – “Production Technology”, Tata Mcgraw-Hill, 1998
+
+<br><br><b>E –Learning</b>
+<br><br>1.	www.nptel.ac.in/courses/112105126/36
+<br>2.	www.youtube.com/watch?v=T5gjkYvMg8A
+<br>3.	www.youtube.com/watch?v=ESKoaZtoB1E
+<br>4.	www.freevideolectures.com
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>1. Make Visit to nearest work shop ,observe the lathe and make list of real time machine components which are machined ,Submit hand written report of 500 words
+<br>2. Observe the milling machine of your polytechnic and study its specifications. List the possible milling operation can done on that machine, Submit hand written report of 500 words
+<br>3. Dismantle some important parts of drilling machine and carry servicing activities and Submit hand written report of 500 words
+<br>4. Compare various unconventional machines by collecting their broachers. Make comparative hand written report of 500 words
+<br>5. Visit nearest Machine tool work shop and map the machiningactivity of a particular component, prepare a drawing, list the sequence of operation, tools and machineries used. Submit hand written report of 500 words
+<br>6. Motivate student to take case study on particular manufacturing activity to inculcate self and continues learning, Submit hand written report of 500 words on selected case study
+
+<br><br><b>Note:</b> The activities or similar activities for assessing CIE (IA) for 5 marks (Any one)
+<br>1. Each student should do any one of the following type activity or any other similar activity related to the course and before conduction, get it approved from concerned Teacher and HOD.
+<br>2. Each student should conduct different activity and no repeating should occur

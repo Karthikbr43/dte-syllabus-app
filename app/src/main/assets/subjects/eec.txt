@@ -1,0 +1,60 @@
+UNIT I: INTRODUCTION
+Meaning of estimation, purpose of estimating and the factors to be considered while preparing estimations, qualities of a good estimator. Meaning of specification,  importance of Specifications and the factors to be considered. Meaning of standardization and its advantages. meaning of overhead charges, stock incidental charges, contingencies , supervision charges, labour charges,  Inspection/Inspectorate charges , transportation charges and miscellaneous charges. Meaning of tender/tender notice, quotation, comparative statement, purchase order and work order. Importance/purpose of  I.E Act and I.E Rules.
+<br>Meaning of earthing ,touch potential and step potential, necessity of earthing, Points to be earthed, factors influencing earth resistance, methods of reducing earth resistance, standard values of earth resistance for various installations, method of selecting the size of earth conductor, types /methods of earthing, Pipe earthing diagram, specifications of pipe earthing ,Plate earthing diagram and specifications of plate earthing.
+<br><b>[05 Hrs] [10 Marks] </b>
+
+UNIT II: SERVICE CONNECTIONS
+Meaning of service mains, code of Practice for service mains, types of service mains Over Head Service Mains materials and specifications, UG Service Mains materials and specifications, Standard wire size table, current ratings for Aluminium copper conductors and selection of size of conduit pipe as per the size and number of wires.
+<br>Load calculation, selection of size and type of conductor/UG cable, discrimination of size of protective devices ,  Quantity calculation , schedules of materials and estimates for single phase OH service connection, three phase OH service connection, single phase UG service connection and three phase UG service connection.
+<br><b>[10 Hrs] [20 Marks] </b>
+
+UNIT III: LIGHTING INSTALLATIONS
+Interior Wiring types and their applications, factors to be considered while selecting the type of wiring system, materials required for Interior wiring and their specifications, Code of Practice for Lighting Installations, method of deciding the number of sub-circuits, calculating the quantity of wiring materials and accessories for the Interior Wiring, load calculations for a residential buildings, size of conductors, main switch, sub switches and protective devices. Draw wiring plan AEH Installation, concept of horizontal run, vertical rise and vertical drop. Prepare the schedule of materials for providing lighting and heating circuits and their estimates. Procedure for converting lighting to AEH installation.
+<br><b>[12 Hrs] [25 Marks] </b>
+
+UNIT IV: POWER INSTALLATIONS
+Code of Practice for Power Installations, materials required for power circuit wiring and  their specifications, Prepare the layout diagram of machines showing clearances as per IS standards, draw wiring plan of the Power circuit for workshops, Decide the type of wiring system, load calculations , determine the size of conductors, main switch, Isolators, sub switches and protective devices , Draw the SLD of Power Distribution Scheme showing grading/discrimination of ratings of protective devices, Prepare the schedule of materials with specifications for workshops and their estimates, Determine the rating of motor for IP set and  the concept (only)of pump house wiring.
+<br><b>[08 Hrs] [15 Marks] </b>
+
+UNIT V: DISTRIBUTION LINES AND TRANSFORMER CENTRE
+Code of practice for Distribution Lines and Transformer centre types of transformer centres - Pole mounted , plinth mounted, indoor and outdoor types. Determining the rating of Distribution Transformer. Write Specifications of the Distribution Transformer. Draw the SLD of a Transformer centre indicating the size of protective devices, Prepare the schedule of equipments/Materials with specifications for a 100 KVA transformer centre and their estimates, 415 V LT line materials and specifications , method of calculating various LT line materials (only).Prepare the schedule of materials (only) for 3 phase 4 wire LT line,11 KV HT Line materials and their specifications, method of calculating various HT line materials and tapping structure, TOPO sheet and its use, Concept of combined estimates. Prepare the schedule of materials (only) for 11 KV single circuit HT line for Rural Electrification. 
+<br>(Note: HT lines over head type only)
+<br><b>[10 Hrs] [20 Marks] </b>
+
+UNIT VI: TRANSMISSION LINES AND SUBSTATIONS
+Code of practice for Transmission lines and substations, transmission line materials and their specifications, types of Towers, ACSR conductors and Number of  Disc insulators in suspension string, strain string, span and height of towers for 66 KV, 110 KV, 220 KV transmission lines, concept of single circuit and double circuit transmission lines, method of calculating the Quantity of transmission line materials, Prepare the schedule of materials (only)for 66 KV,110 KV and 220 KV single circuit transmission lines. 66KV/11KV ,5 MVA Substations- Single Line diagram , list of Electrical (only)  equipments/ materials (only) and  their specifications.
+<br><b>[07 Hrs] [10 Marks] </b>
+
+<b>Reference Books:</b>
+
+<br><br>01.	Electrical Design Estimating and Costing.	K.B.Raina&K.Battacharya.	Khanna Publications.
+<br>02.	Electrical Installation Estimating and Costing.	J.B.Gupta	S.K.Kataria and Sons
+<br>03.	Electrical Wiring, Estimating and Costing.	Dr.S.L.Uppal	New age international (p) limited
+<br>04.	Electrical Estimating and costing. 	Surjit Singh	DhanpatRai company.
+<br>05.	Electrical Estimating and Costing.	N.Alagappan and Ekambaram	Tata McGraw Hill
+<br>06.	Electrical wiring, Estimating and costing, B.D.Arora	R.B. Publication.
+<br>07.	Electrical Estimating Specification and Costing	M. RaghunathRao	Eastern Book Promoters Belgaum (EBPB)
+
+<br><br><b>e - Links:</b>
+
+<br><br>1.	http://www.electricaltechnology.org/2015/05/earthing-and-electrical-grounding-types-of-earthing.html
+<br>2.	http://www.cpwd.gov.in/Publication/Internal2013.pdf
+<br>3.	http://bescom.org/wp-content/uploads/2013/01/PDFFILE1.pdf
+<br>4.	http://mptransco.nic.in/tender_files/volume-v.pdf (Transmission Line Materials and Installation work.)
+<br>5.	https://www.ergon.com.au/__data/assets/pdf_file/0004/146839/NI000401R121-Subs-Design-Manual.pdf
+
+<br><br><b>Suggested Student Activity:</b>
+<br><b>Note:</b> Any one to be submitted with 3 pages self HAND WRITTEN report
+
+<br><br>1.	Study the construction and working of chemical earthing and maintenance free earthing.
+<br>2.	Draw the wiring plan of class rooms in a school/college (say 5 to10 class rooms) and prepare the estimate of cost for providing lighting circuit wiring.
+<br>3.	Draw the wiring plan for an office and estimate the cost for providing  lighting and power circuits.
+<br>4.	Draw the wiring plan of an auditorium and estimate the cost of lighting circuit wiring. Study the illumination system/ type of 
+<br>5.	Visit the lathe machine shop or workshop in the polytechnic campus, prepare the layout plan of machines, draw the wiring plan of power circuit and estimate its cost.
+<br>6.	Draw the distribution board /panel of your polytechnic. Draw the single line diagram of power distribution scheme and show the details of rating of MCBs ,fuses and switches.
+<br>7.	Study the distribution board, draw the (SLD) single line diagram of power distribution scheme in apartments/commercial buildings/hospitals/hotels. Show the details of rating of MCBs, fuses and switches.
+<br>8.	Study the external electrical wiring of UPS and prepare estimate of cost for installation of UPS.
+<br>9.	Draw the wiring plan of a 3BHK apartment, calculate the load and estimate the cost for providing lighting and heating circuits for Multi-storey (say 5 floors).
+<br>10.	Visit electrical shops , identify the products displayed , know the specifications and collect the price list of electrical items/accessories used in lighting and heating circuits. Compare the prices of different makes.
+<br>11.	Study the office procedures followed by section officers/junior engineers of electricity boards for tenders, estimation and execution of electrical works.
+<br>12.	Study the electrical wiring of submersible pump sets. Estimate the cost.

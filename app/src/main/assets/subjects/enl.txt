@@ -1,0 +1,43 @@
+Unit - I
+1. Study of salient features related to components of Electro-pneumatic system:               
+<br>a) Energy Supply (source): Air compressor, Air receiver, Air filter, Air dryer, Air Lubricator Pressure Regulator, Air service equipment, Air distribution.
+<br>b) Input Elements (sensors): Directional control valves, Limit switches, Push buttons, Proximity sensors. 
+<br>c) Processing Element: Directional control valves, Logic elements, Pressure control Valves, Final Control Element: Directional control valves. 
+<br>d) Actuating devices (Actuators): Pneumatic cylinder, Air motors, Rotary actuators, Indicators.
+<br><br>2. Familiarization of circuit symbols
+
+Unit - II
+1. Build a pneumatic circuit for Stamping operation by using single acting cylinder being controlled by 3way 2 position directional control valves
+<br><br>2. Build a  pneumatic circuit for automatic opening and closing of a door by using double acting cylinder being controlled by 4way 2 position directional control valves.
+<br><br>3. Build a  pneumatic circuit for forward  and reverse speed control of a double acting cylinder (meter in meter out)
+<br><br>4. Build a pneumatic circuit of a pilot controlled double acting cylinder of being controlled by 3way 2 position directional control valves and 4way 2 positions impulse valve.
+<br><br>5. Build Circuit a pneumatic circuit of a double acting cylinder being controlled by 4way 2 position solenoid operated direction control valves.
+<br><br>6. Build Circuit a pneumatic circuit of a double acting cylinder advances then actuated by a solenoid valve but it’s retract movements is delayed by time lag through a timer.
+<br><br>7. Build Circuit a pneumatic circuit for automatic reciprocating motion of double acting cylinder.
+<br><br>8. Design a pneumatic circuit for feeding a strip with following sequences:
+<br>Holding the strip, moving the strip forward on to the tool, maintaining the strip in that position  and returning the strip to its original position after work is over.
+<br><br>9. Design a Circuit for pneumatic circuit to press fit a pin to a hole with a precondition that while actuating of the cylinder, both the hands of the operator should be engaged. 
+<br><br>10. Design a feeding mechanism for milling machine so that  the cylinder moves rapidly as machine is started then, its speed gets reduced towards end of the stroke and after completion of feeding, the cylinder retracts at higher speed.
+<br><br>11. Build Circuit a pneumatic transport system, a pneumatic cylinder  has to push a trolley to its desired rail with a pre condition that cylinder will start advancing after a time delay and retract to its original positions back from its advanced position also after a time delay. 
+<br><br>12. Build Circuit a pneumatic circuit for a machine device driven by a single acting cylinder with actuation at least two mutually operated DC valves (Safety circuit with OR and AND gates. 
+<br><br>13. Design a pneumatic circuit for a clamping device having variable clamping forces.
+<br><br>14. Build Circuit a pneumatic circuit for a serial breaking action in a number of wagons placed one after the other.
+<br><br>15. Build Circuit a pneumatic circuit for a clamping device of a drilling machine such that the clamps are activated before the drill is fed to the work
+<br><br>16. A piston rod of a double acting cylinder is to extend when two 3/2 DC valves are actuated if one of the 3/2DC valve is released the cylinder returns to its initial position(AND function)
+<br><br>17. A double acting cylinder extends if one or both 3/2DC valve are operated. If both 3/2 DC valves are released then cylinder retracts (OR function).							
+
+<b>Reference Books:</b>
+<br><br>1. Pneumatic system principles and maintenance by S.R. Majumdar. Tata McGraw hill Education private Ltd. New Delhi.
+<br>2. Hydraulic and pneumatic control – K.Shanmuga sundaram, S.CHAND Publishing Company
+
+<br><br><b>Student Activity</b>
+<br><br>1. Build a pneumatic circuit for an application beyond the syllabus, execute it on simulation software or trainer kit and submit 2 to 3 pages hand written report
+
+<b>Scheme of Valuation for SEE:</b>
+
+<br><br>1.	Familiarization of circuit symbols : 10
+<br>2.	Writing of circuit diagram for a given task	: 15
+<br>3.	Execution on trainer kit : 20
+<br>4. 	Viva Voce :	05
+
+<br><br><b>TOTAL = 50 Marks</b>

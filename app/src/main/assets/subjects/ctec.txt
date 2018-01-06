@@ -1,0 +1,138 @@
+UNIT I: INTRODUCTION, CONCRETE INGREDIENTS
+<b>INTRODUCTION:</b>
+<br>Definition of concrete. Advantages of concrete. Uses of concrete in comparison to other building materials.
+<br><br><b>CONCRETE INGREDIENTS:</b>
+<br><b>Cement</b> – Chemical composition, grades of cement, Tests on cement-(fineness,  normal consistency, setting time, soundness, and compressive strength)
+<br><b>i) Storing Cement</b>:- (a) Storing of cement in the warehouse., (b) Storing of cement at site., (c) Effect of storage on strength of cement
+<br><b>Water</b> - Quality of mixing water, Limits on the impurities as per ISI.
+<br><b>Fine aggregate</b> – specific gravity, density, moisture content, bulking, sieve analysis, grading of aggregates, deleterious materials, emerging trends of fine aggregate- manufactured sand.
+<br><b>Coarse aggregate</b> – importance of size, shape and texture, grading of aggregates, sieve analysis, specific gravity, flakiness and elongation index, crushing, impact and abrasion tests. . 
+<br><b>Aggregate</b>:- Storing of aggregate on site for maintaining uniformity of moisture and cleanliness.
+<br><b>Admixtures </b>
+<br><b>Chemical admixtures</b> – (uses and effect):- plasticizers, accelerator, retarders and air entraining gents, carboxyclic based admixtures. 
+<br><b>Mineral admixtures</b> – fly ash, blast furnace slag, meta-kaolin, Silica fume, rice husk ash.
+<br><b>[09 Hrs] [25 Marks] </b>
+
+UNIT II: BEHAVIOR OF CONCRETE
+Hydration of cement, Bogue’s compounds, gel/space ratio, Calcium silicate hydrate, calcium hydroxide, calcium aluminates hydrates, water requirement for hydration, Water Cement Ratio- water cement ratio law and conditions under which the law is valid, Effect of various W/C ratios on the physical structure of hydrated cement, internal moisture, temperature, age, and size of specimen. Definition of cube strength of concrete. Relations between water cement ratio and strength of concrete, Structure of concrete, transition zone, 
+<br><b>[05 Hrs] [15 Marks] </b>
+
+UNIT III: PROPERTIES OF CONCRETE:
+<b>Properties of Fresh concrete</b>: Workability – definition, factors affecting workability, measurement of workability by slump, compaction factor, vee-bee, flow tests. Segregation and bleeding.
+<br><b>Properties of hardened concrete</b>: (a) Strength. Characteristic strength, (b) Durability, (c) Permeability., Factors affecting strength, w/c ratio, maturity concept, effect of aggregate properties, compressive strength, tensile strength, bond strength, modulus of rupture, modulus of elasticity, poisson ratio, the relationship between these parameters., aggregate-cement bond strength. 
+<br><b>Shrinkage</b> – plastic shrinkage and drying shrinkage, factors affecting shrinkage. 
+<br><b>Creep</b> – measurement of creep, factors affecting creep, effect of creep. 
+<br><b>Durability</b> – definition, significance, permeability, Factors contributing to cracks in concrete – plastic shrinkage, settlement cracks, Thermal expansion, and structural design deficiencies. Concrete in Aggressive Environment: Alkali – Aggregate Reaction, Sulphate Attack, Chloride Attack, Acid Attack, Effect of Sea Water,  Carbonation, special coating for Water Proofing, Freezing and thawing, 
+<br><b>Tests on hardened concrete</b> – compressive strength, split tensile strength, flexural strength, non-destructive testing of concrete. (d) Dimensional changes. (iii) Quality Control at site:- Control tests on cement, aggregate water and concrete. Concept of quality control. 
+<br><b>[12 Hrs] [30 Marks] </b>
+
+UNIT IV: CONCRETE MIX DESIGN
+Concept of mix design, Objectives of mix design, grades of concrete, different methods of mix design, factors affecting mix proportions variables in proportioning, exposure conditions, Design data for moisture, bulkage, absorption and suitable fine aggregate and coarse aggregate ratio, Procedure of mix design as per IS 10262-2009, numerical examples of mix design as per IS 10262- 2009 and IS 456 
+<br>Adjustment on site for Bulking, water content, Absorption, Workability 
+<br><b>[07 Hrs] [25 Marks] </b>
+
+UNIT V: CONCRETE OPERATIONS:-
+<b>(ii)Batching</b>:- (a) Batching of cement, (b) Batching of aggregate: Batching by volume, using gauge box, selection of proper gauge box, Batching by weight-spring balances and by batching machines., (c) Measurement of water.
+<br><b>(iii)Mixing</b>:- (a) Hand mixing (b) Machine mixing-types of mixer, capacities of mixers, choosing appropriate size of mixers, operation of mixers, mixing of water.(c) Maintenance and care of machines. precautions before, during and after concreting
+<br><b>(iv)Transportation of Concrete</b>:- Transportation with and situations of use of the following- pans, wheel barrows, transit mixers, chutes, belt conveyors, pumps, tower cranes. 
+<br>Ready-mix concrete-manufacturing of ready mix concrete
+<br><b>(v) Placement of Concrete :</b>(a) Prior preparation before placement; when put on natural soil, rocky base, specially prepared sub-base (brick soling and water bound macadam base), hardened concrete base, checking of form work, checking provision for joints. (b) Placement of concrete-precautions to be taken.
+<br><b>(vi) Compaction</b> :(a) Hand compaction-pavement, narrow and deep members. (b) Machine compaction-types of vibrators-internal and external-Method of handling- suitability for various situations.
+<br><b>(vii)Finishing concrete slabs</b>:-screeding, floating, and trowelling. 
+<br>Hot Weather Concreting- Cold Weather Concreting-under water concreting
+<br><b>(viii)Curing</b>:- Object of curing, Method of curing,- conventional and advanced  Recommended duration for curing. 
+<br><b>(ix)Jointing</b>:- Importance, types, Location 
+<br><b>[12 Hrs] [30 Marks] </b>
+
+UNIT VI: SPECIAL TYPES OF CONCRETE
+Sustainability- application of waste/ recycled materials in concrete. Comparison of the following special concrete with conventional concrete-High strength concrete, fiber reinforced concrete, polymer concrete, ferrocement concrete. Foamed concrete, pervious concrete, high density concrete, self-compacting concrete, high performance concrete, Reinforced Cement concrete pavement quality concrete (Composition advantages and specific applications only)
+<br>Suggested activity (Case study)
+<br><b>[07 Hrs] [20 Marks] </b>
+
+<b>Text books:</b>
+<br><br>1.	Neville A.M., Concrete Technology, Standard Publishers Distributors, Delhi.
+<br>2.	IS: 10262 – 2009 recommended guidelines for Concrete Mix design – BIS Publications
+<br>3.	Shetty MS, Concrete technology, Chand S and Co.
+<br>4.	Gambhir B L, Concrete Technology, Tata McGraw Hill, New Delhi
+<br>5.	Concrete Technology - Theory and Practice - R.S. Varshney
+<br>6.	Concrete Technology - A.R.Santhakumar
+<br>7.	Concrete Technology	R. S. Varshnay New  Chand  and Brothers
+
+<br><br><b>Reference I.S. Codes</b>
+<br><br>1. I.S.4031- ( Part 1 to Part 6 ) Indian standard method of physical tests for hydraulic cement, BIS, New Delhi.
+<br>I.S.4031 ( Part 1 ) - 1996 Part 1 – Determination of fineness by dry sieving. I.S.4031( Part 2) -1999 Part 2 – Determination of fineness by air permeabilitymethod.
+<br>I.S.4031( part 3) -1988 ( reaffirmed 2000 ) Part 3– Determination of soundness I.S.4031(part 4) - 1988 ( reaffirmed 1995 )
+<br>Part 4 - Determination of consistency of standard cement paste. I.S.4031 ( part 5 ) – 1988, ( reaffirmed 2000 ) Part 5 - Determination of initial and final setting times
+<br>I.S : 4031 ( part 6 ) – 1988, ( reaffirmed 2000 ) Part 6 - Determination of compressive strength of hydraulic cement other than masonry cement
+<br><br>2. I.S : 2386 ( part i to part vi ) – 1963 Indian standard methods of test for aggregate for concrete. BIS, New Delhi.
+<br>Part i - Particle size and shape. ( reaffirmed 1997 ) Part ii - Estimation of deleterious materials and organic impurities. ( reaffirmed 2002 )
+<br>Part iii - Specific gravity, density, voids, absorption and bulking. ( reaffirmed 1997 ) Part iv - Mechanical properties ( reaffirmed 1997 )
+<br>part v - Soundness. ( reaffirmed 1997 ) part vi - Measuring mortar making properties of fine aggregate. ( reaffirmed 2002 )
+<br><br>3. I.S. : 383 – 1970 Indian standard specification for coarse and fine aggregates from natural sources for concrete. B.I.S.., New Delhi.
+<br><br>4. I.S. : 1911 - 1959 ( reaffirmed ) Indian Standard methods of sampling and analysis of concrete), B.I.S.., New Delhi.
+<br><br>5 I.S. : 456 - 2000 Indian standard , plain and reinforced concrete – code of practice. ( fourth revision ), B.I.S.., New Delhi.
+<br><br>6. I.S. : 516 – 1959 Indian standard methods of tests for strength of concrete ( xii reprint December 1987 ), B.I.S.., New Delhi.
+<br><br>7. I.S. : 8112- 1989 Indian standard - 43 grade ordinary portland cement Specification
+<br><br>8. I.S. : 12269 – 1987 ( reaffirmed 1999 ) Indian standard specification for 53 grade O.P.C..
+<br><br>9. I.S. : 9103 – 1999 Indian standard –concrete admixtures specification 10. I.S. : 455- - 1989 ( reaffirmed 1995 ) –Indian standard – Portland slag cementspecification 11. I.S. : 1489 ( part 1) 1991 – Portland – Pozzolana Cement – specification
+<br>part 1 fly ash based 12. I.S. : 7861 ( part 1 ) 1975 ( reaffirmed 1997 ) – Indian standard of practice forextreme weather concreting part 1 recommended practice for hot weather concreting
+<br><br>13. I.S.: 7861 ( part 2 ) – 1981 ( reaffirmed 1997 ) – Indian standard of practice For extreme weather concreting part 2 – recommended practice for cold weather concreting
+<br><br>13. I.S. : 8041 – 1990 – Indian standard – rapid hardening Portland Cement specification BIS- New Delhi
+<br><br>14. I.S. : 12330 – 1988 ( reaffirmed 1995 ) – Indian standard specification for sulphate resisting Portland cement
+<br><br>15. I.S  : 12600 - 1989 ( reaffirmed 1995 ) - Portland cement, low heat Specification 
+<br><br>16. I.S  : 10262 – 1982 Indian standard recommended guidelines for concrete mix
+<br>design	
+<br>Sp 23 handbook on concrete mixes ( based on Indian standards) 18. I.S. 13311 (part-1 and 2)- 1992 methods of non-destructive testing of concrete.
+<br>part-1 ultrasonic pulse velocity, part-2 rebound hammer.
+
+<br><br><b>E-Links:</b>
+<br><br>http://ict.concrete.org.uk/links.asp
+<br>http://elearning.vtu.ac.in/16/ENotes/ConcreteTechnology/Unit8-MCN.pdf
+<br>http://elearning.vtu.ac.in/10CV42.html
+<br>http://www.theconcreteinstitute.org.za/
+<br>http://www.aboutcivil.org/concrete-technology.html
+<br>http://nptel.ac.in/syllabus/syllabus.php?subjectId=105102012
+<br>http://nptel.ac.in/courses/105102012/1
+<br>www.btechguru.com/courses
+<br>http://www.faadooengineers.com/register.php
+
+<br><br><b>Suggested Student Activity:</b>
+<br>The topic should be related to the course in order to enhance his knowledge, practical skill and lifelong learning, communication, modern tool usage.
+
+<br><br>1. Prepare a Spread sheet of concrete mix design template which helps to design the concrete mix and prepare practical test report consulting industry.
+<br><br>2. Prepare a detailed search report of Non-destructive test on concrete and present it.
+<br><br>3. Prepare a literature survey on Repairs and rehabilitation of structures.
+<br><br>4. Design a concrete mix as per ACI.
+<br><br>5. Visit your Institute’s Library / internet centre and enlist the books available on the topic given by your teacher. Prepare a bibliography consisting name of the author, title of the book, publication and place of publication. Enlist the magazines, periodicals and journals being available in your library.(any one)
+<br>a) Sustainable concrete buildings / Concrete green building
+<br>b) Present scope of Epoxy and Polyurethane in construction industry.
+<br>c) Strength and durability relationship, volume change in concrete
+<br>d) permeability of concrete
+<br>e) Alkali aggregate reaction,
+<br>f) Chloride attack, sulphate attack etc.
+<br>g) Corrosion of steel - causes of corrosion, remedial measure to control
+<br>h) Ultrasonic Pulse Velocity - techniques of measuring and factors affecting measurement of Ultrasonic Pulse Velocity
+<br>i) Cover meter and Corrosion meter
+<br>j) Polymer concrete
+<br>k) Fiber reinforced concrete
+<br>l) No fines concrete
+<br>m) Ferrocement
+<br><br>6. Writing report on (any one)
+<br>a) Latest standards, specification, Test methods of ASTM /AASHTO/NRMCA.
+<br>b) Case study of Concrete and grunting conducted in any project
+<br>c) Study on determine physical properties of ingredients of concrete in laboratory
+<br>d) Minimum & Maximum cement content on durability of Concrete
+<br>e) Schmidt’s rebound hammer test concrete with their limitation
+<br>f) Vacuum concrete
+<br>g) Shortcreting
+<br>h) Vacuum Dewatered Concrete
+<br>i) Pavement quality concrete
+<br>j) RMC
+<br><br>7. Self-Compacting Concrete (SCC) – Mix Design and methods of testing.
+<br><br>8. Concrete Mix Design by DOE Method.
+<br><br>9. Mix design of fly ash concrete by IS 10262 – 2009.
+<br><br>10. Water permeability test on concrete.
+
+<br><br><b>Note:</b> 
+<br>1. Students should select any one of the above or other topics relevant to the subject approved by the concerned faculty, individually or in a group of 3 to 5. Students should mandatorily submit a written report and make a presentation on the topic. The task should not be repeated among students. Report will be evaluated by the faculty as per rubrics. Weightage for 5 marks Internal Assessment shall be as follows: (Unsatisfactory 1, Developing 2, Satisfactory 3, Good 4, Exemplary 5)
+<br>2. Reports should be made available along with bluebooks to IA verification officer

@@ -1,0 +1,72 @@
+Unit - I: Tutorials
+Tutorial class for every graded exercise should include the followings.
+<br><br>1.	Precautions to be taken during conduction of each exercise.
+<br>2.	Proper tools to be used and sequence to conduct each exercise.
+<br>3.	Any measurements/adjustments to be made in each exercise.
+<br>4.	Discussion on trouble shooting of each system.
+
+Unit - II: Lab exercises
+
+1.	Diagnose the engine condition by analysing exhaust gas using smoke meter/ exhaust gas analyser and OBD II/ Engine analyser / scan tools.
+<br>2.	Removing engine from vehicle, Cleaning, Dismantle cylinder head and decarburize.
+<br>3.	Practice on Re-conditioning of valve mechanism –( Removing valve, valve seats and valve guides- Check for stem bend, Check the condition of valve spring , Measure the valve face angle , Recondition of valve using valve refacing machine & Cam Shaft).
+<br>4.	Reconditioning of valve seat by using valve seat cutter kit/ vibro-centre kit & Valve lapping.
+<br>5.	Check crack, warp-age in the cylinder head and practice surface grinding.
+<br>6.	Measure the ovality and taperness of cylinder bore. 
+<br>7.	Open ended exercise:
+<br>8.	Remove cylinder ridge and dismantle the cylinder block parts & rebore the cylinder to next oversize.
+<br>9.	Practice on Cylinder Honing using honing machine.
+<br>10.	Servicing of Crank shaft, connecting rod and piston.
+<br>11.	Assemble the engine by using specified torques.
+<br>12.	Adjust valve timing and valve tappet clearance.
+<br>13.	Setting of ignition timing, injection time and start the engine.
+<br>14.	Open ended exercise
+
+<br><br><b>Note:</b>
+<br>1.	Open ended experiments have to be performed using the skills learnt in the Laboratory.
+<br>2.	These experiments could be extended versions of the standard experiments.
+<br>3.	Lecturer should know the end results of open ended experiments and only acts as a guide and students has to establish the procedure and conduct experiments.
+
+<br><br><b>Examples : </b>
+<br>1) Engine valve inspection.
+<br>2) Various Simple tests to see if there are any leaks in the crankcase.
+<br>3) Instant troubleshooting; most common problems and possible causes of engines.
+
+<b>Reference Books:</b>
+
+<br><br>01.	Basic Automotive Servicing (4 Wheelers) - ( with DVD ), Diesel Fuel Injection Technician, National Instructional Media Institute, Chennai.(NIMI)
+<br>02.	Automobile Engineering Practical	N. Malhotra	Computech Publications Ltd.
+<br>03.	Maintenance of Automotive Engines	Tim Gilles	CENGAGE Learning.
+<br>04.	Automobile Engineering Practices.	N.Malhotra	Asian publishers
+<br>05.	Vehicle Maintenance &Garage Practice	Jigar A Doshi	PHI Learning,Delhi
+<br>06.	Automotive Mechanics  		W. H. Crouse & Anglin	Tata MCgraw-Hill
+<br>07.	Automotive Engineering Engine Performance- Shop Manual	Ken Pickerill 	CENGAGE Learning
+<br>08.	Automotive Technology	Jack Erjavec	CENGAGE Learning
+<br>09.	Automobile Engineering.	Harban Singh Rayath	S Chand
+<br>10.	Charts and cut section models		
+
+<br><br><b>Useful Links:</b>
+<br><br>1. http://www.e34.de/tips_tricks/haynes/02b.pdf
+<br>2. http://www.abss.k12.nc.us/cms/lib02/NC01001905/Centricity/Domain/2007/Engine%20Repair%20Study%20Guide.pdf
+
+<br><br><b>SUGGESTED STUDENT ACTIVITY:</b>
+
+<br><br>1. Collect/ download the information’s regarding the different types of OBD II and prepare a hand written report
+<br>2. Collect/ download the information’s regarding the Smoke meter and prepare a hand written report
+<br>3. Collect/ download the information’s regarding the scan tools and prepare a hand written report.
+
+<br><br><b>Note:</b>
+<br>1.	Each student should submit report on any one of the following type of activities or any other similar activity related to the course.  Before taking up, it should be approved by concerned Teacher and HOD.
+<br>2.	Each student should conduct different activity and no repetition should be allowed.
+
+<b>Scheme of Valuation for SEE:</b>
+
+<br><br>1.	Writing procedure
+<br>a)  One exercise from list of exercises 1-6 : 05
+<br>b)  One exercise from list of exercises 08-13 : 05
+<br><br>2.	Conducting & Performance
+<br>a)  One exercise from list of exercises 1-6 : 15   
+<br>b)  One exercise from list of exercises 08-13 : 15
+<br><br>3.	Viva-voce : 10
+
+<br><br><b>TOTAL = 50 Marks</b>

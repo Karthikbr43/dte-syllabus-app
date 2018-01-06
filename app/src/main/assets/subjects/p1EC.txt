@@ -1,0 +1,23 @@
+<b>Structure of Project report:</b>
+<br><br>1. <b>Front cover page</b>: Containing title of the project, year, prescribed authority, names of students, guide name, department, institution name and address.
+<br><br>2. <b>Certificate page</b>: Certificate stating the completion of the Bonafide project, certified by guide, HOD and Principal
+<br><br>3. <b>Abstract</b>
+<br><br>4. <b>List of contents/tables/figures</b>
+<br><br>5. <b>Body of the report:</b> Body of the project should normally contain the following appropriate/relevant parts/chapters
+<br>1) Introduction
+<br>2) Literature survey
+<br>3) Block-diagram level conceptualization/system block diagram
+<br>4) Hardware design and implementation
+<br>5) Software design: Flow chart-level dealing
+<br>6) Assembly/Fabrication/User manual/Operational instructions
+<br>7) Conclusion and Future Developments
+<br>8) Reference/Bibliography
+<br><br>6. <b>Back cover page</b>
+<br><br>7. <b>Physical attributes</b>: Size not to exceed 40 pages (20 sheets) unless it is essentially required. Avoid datasheets and programs unless essentially required. Back to back printing. Spiral binding.
+<br><br>8. <b>Fonts and Page layout</b>: A4 size with standard/default MS word page layout. Times New Roman font, Font size: 10 for captions, 12 for running text and sub-titles, 14 for paragraph titles and 16 for chapter titles.
+
+<br><br><b>CIE ASSESSMENT FOR FINAL REVIEW:</b>
+<br><br>1. Literature : 10
+<br>2. Market Surveying : 10
+<br>3. Synopsis/presentation : 5
+<br><br><b>TOTAL = 25 Marks</b>

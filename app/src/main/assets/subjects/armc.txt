@@ -1,0 +1,56 @@
+UNIT - I: ARM Embedded Systems and ARM Processor Fundamentals
+The RISC design philosophy, ARM design philosophy, embedded system hardware- AMBA bus protocol, embedded system software- applications. ARM core data flow model, registers, CPSR- Processor modes, Banked registers. Pipeline
+<br><b>[08 Hrs] [25 Marks] </b>
+
+UNIT - II: ARM Instruction Set
+ARM development tools, data types, Conditional execution, Barrel shifter –Its operation with examples, classification and explanation of instructions with examples-data processing, arithmetic, logical, compare, branching, load-store, SWI instruction, and pseudo instructions 
+<br><b>[10 Hrs] [25 Marks] </b>
+
+UNIT - III: Introduction to THUMB and ARM Programming
+Differences between ARM and thumb, Register usage in Thumb, ARM Thumb Interworking. Structure of ARM assembly module, Assembler directives-AREA, ENTRY, END, SPACE, DCD, DCB, DCW, DCI, DCQ, EQU, EXPORT, ALIGN, CODE16, CODE32, DATA. Simple ALP programs on Arithmetic &logical operations, Factorial, string operation, sorting, searching, and Scan.
+<br><b>[07 Hrs] [20 Marks] </b>
+
+UNIT - IV: Exception and Interrupt handling schemes
+Exception handling- ARM processor exceptions and modes, vector table, exception priorities, link register offsets. Interrupts- assigning interrupts, interrupt latency, IRQ and FIQ exceptions with example- code for enabling and disabling IRQ and FIQ exceptions, Comparison between exception and interrupts. Interrupt handling schemes- nested interrupt handler, non-nested interrupt handler. Basic interrupt stack design
+<br><b>[06 Hrs] [20 Marks] </b>
+
+UNIT - V: LPC2148 ARM CPU
+LPC 2148 - Salient features, applications, block diagram, memory mapping. Functional features of Interrupt controller, RTC, USB, UART, I2C, SPI, SSP controllers, watch dog timers and other system control units.
+<br><b>[06 Hrs] [20 Marks] </b>
+
+UNIT - VI: LPC 2148 – Peripherals
+Pin Connect Block- Features, Register description with example. GPIO-Features, Applications, Pin description, Register description with examples PLL-Features, block diagram, bit structure of PLLCON, PLLCFG, & PLLSTAT, and PLLFEED. PLL frequency Calculation- procedure for determining PLL settings, examples for PLL Configuration Timers-Features, applications, Architecture of timer module, register description, PWM- Features, rules for single/double edge controlled PWM outputs. ADC-features, Pin description, register description, operation DAC- Features, Pin description, bit structure of DACR.  Simple C programs for application using -GPIO, PLL, Timer, PWM, ADC and DAC. 
+<br><b>[12 Hrs] [35 Marks] </b>
+
+<b>Reference Books:</b>
+
+<br><br>1.	ARM System Developer’s guide –Andrew N. SLOSS, ELSEVIER Publications,ISBN 978-81-8147-646-3, 2016
+<br>2.	ARM Assembly Language – William Hohl, CRC Press, ISBN:978-81-89643-04-1 
+<br>3.	ARM  System-on-chip Architecture by Steve Furber, Pearson Education,ISBN978-81-317-0840-8, 2E,2012
+<br>4.	LPC 2148 USER MANUAL 
+<br>5.	IN SIDE R’S GUIDE TO PHILIPS ARM7 BASED MICROCONTROLLERS-hitex.co.uk
+<br>6.	ARM Programming Techniques – from ARM website
+<br>7.	Embedded Systems: A Contemporary Design Tool- James K. Peckol  ISBN: 978-0-471-72180-2 October 2007, ©2008
+
+<br><br><b>Website:</b>
+
+<br><br>1. www.Arm.com
+<br>2. www.ocfreaks.com
+<br>3. http://www.ocfreaks.com/lpc2148-gpio-programming-tutorial/
+<br>4. http://www.ocfreaks.com/lpc214x-pll-tutorial-for-cpu-and-peripheral-clock/
+<br>5. http://www.ocfreaks.com/lpc2148-timer-tutorial/
+<br>6. http://www.ocfreaks.com/lpc2148-pwm-programming-tutorial/
+<br>7. http://www.ocfreaks.com/lpc2148-adc-programming-tutorial/
+<br>8. http://manish4u.com/interfacing-of-dac-arm-lpc2148/
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>1. Collect data on: (i) ARM variants (ii) ARM processor cores likeARM7, ARM9, ARM10, ARM11, SA and Cortex processors (iii)After collecting the data make compression between each.
+<br>2. Prepare a report on pin functions of LPC2148
+<br>3. Prepare a report on USB controller, UART, I2C, SPI, SSP and so on
+<br>4. Prepare a report on ARM products, Embedded ARM applications.
+
+<br><br><b>Note:</b> The activities or similar activities for assessing CIE (IA) for 5 marks (Any one)
+<br>1. Every student should perform either one of the above activities independently as assigned by the teacher based on interest of the student. Student can also choose any other similar activity with a prior approval from the concerned teacher.
+<br>2. Teacher is expected to observe and record the progress of students’ activities
+<br>3. Assessment is made based on quality of work as prescribed by the rubrics table

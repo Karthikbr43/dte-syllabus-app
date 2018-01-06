@@ -1,0 +1,92 @@
+Unit – I: Tutorial and Practice
+
+1.	Evolution of Computer-Aided digital design, Introduction to HDL, Importance of HDL, levels of abstraction, types of code-Structural and procedural.
+<br><br>2.	Introduction to Verilog HDL, Definition, Program Structure of Verilog, Lexical Tokens/Conventions-explain with syntax-White Space, Comments, Numbers, Identifiers, Operators, Verilog Keywords. Data types-explain with syntax-Value Set, Wire, Reg, Input, Output, Inout Integer, Supply0, Supply1,Time, Parameter. Simple examples.
+<br><br>3.	Operators with examples-Arithmetic, Logical, Relational, Bit-wise, Reduction, Shift, concatenation, Replication, Conditional operators. Operator Precedence.
+<br><br>4.	Operands-explain with syntax-Literals, Wires, Regs, and Parameters, Bit-Selects, Part-Selects, Function Calls. Simple examples.
+<br><br>5.	Modules-Module Declaration, Continuous Assignment, Module Instantiations, Parameterized Modules, Procedures: Always and Initial Blocks. Simple examples.
+<br><br>6.	Tasks and Functions-display, strobe, monitor, reset, stop, finish etc. Timing Control-Delay Control(#), Events, wait Statement, join Statements.
+<br><br>7.	Behavioral Modeling-Procedural Assignments, Delay in Assignment, Blocking Assignments, Non-blocking (RTL) Assignments, begin ... end, for Loops, while Loops, forever Loops, if ... else if ... else, disable, case. Simple examples.
+<br><br>8.	Functions-Function Declaration, Return Value, Call, Function Rules, Simple Examples. Brief description about Gate-Level Modeling, Dataflow Modeling, Switch-Level Modeling.
+
+<br><br><b>Practice Exercises:
+<br><br>Write and execute verilog code for the following problems: </b>
+<br>1. Verilog Description for all two input basic gates.
+<br>2. Verilog Description for two input Arithmetic operations.
+<br>3. Verilog Description for three/four input Logical operations.
+<br>4. Compute the output for arithmetic expression. y=(a+b*c)/(a+c)
+<br>5. Compute the output for Logical expression. y= (A and B) or (B and C).
+<br>6. Verilog Description for 1-bit Full Adder
+<br>7. Verilog Description for 2:1 multiplexer using dataflow/behavioral method.
+<br>8. Verilog Description for 1:2 De-multiplexer using dataflow/behavioral method.
+<br>9. Verilog Description for 2-bit parallel adder.
+<br>10. Verilog Description for 2-bit ALU with any 2 arithmetic and logical operations.
+<br>11. Verilog Code for D-flipflop
+<br>12. Verilog Code for T-flipflop
+<br>13. Verilog Description for mod-6 counter.
+
+UNIT – II: Graded Exercises 
+
+<b>Write the verilog code for the following problems and simulate using any HDL simulator/synthesis software (Xilinx/Modelsim/Simulink etc) and download to FPGA/CPLD trainer kits.</b>
+
+<br><br>1. a) Verilog description for full-adder using structural modeling.
+<br>b) Verilog description for full-adder using behavioral modeling.
+<br><br>2. Verilog description for 4-bit ripple carry full-adder using 1-bit full-adder.
+<br><br>3. a) Verilog description for BCD to seven segment decoder for common anode display using if else.
+<br>b) Verilog description for BCD to seven segment decoder using case statement.
+<br><br>4. a) Verilog description for 4 -bit parallel adder.
+<br>b) Verilog description for 4-bit comparator.
+<br><br>5. a) Verilog description for 4-bit ALU with 3 logical & 3 arithmetic operations.
+<br>b) Verilog description for any 3 relational and 3-bit-wise operations.
+<br><br>6. a) Verilog description for 4-to-1 multiplexer using logic equations.
+<br>b) Verilog description for 4-to-1 multiplexer using conditional operators.
+<br>c) Verilog description for 4-to-1 multiplexer using behavioral modeling.
+<br>d) Verilog description for 4-to-1 multiplexer using 2:1 mux.
+<br><br>7. a) Verilog description for clocked T-flipflop.
+<br>b) Verilog description for edge-triggered D-flipflop.
+<br><br>8. a) Verilog description for edge-triggered JK-flipflop.
+<br>b) Verilog description for 4-bit counter using JK-flipflop.
+<br><br>9. a) Verilog description for BCD up/down counter using behavior modeling.
+<br>b) Verilog description for 4-bit ripple carry counter using T and D-flipflop.
+<br><br>10. Verilog description for universal shift register.
+<br><br>11. Two open-ended experiments of similar nature as above are to be assigned by the teacher. Student is expected to solve and execute/simulate independently using verilog code.
+
+<b>Reference Books:</b>
+
+<br><br>1.	Fundamentals of Digital logic with Verilog design-2e, Brown Vranesic, McGrawHill education, ISBN-13:978-0-07-066724-2.
+<br>2.	Verilog HDL-A guide to Digital Design and Synthesis-Samir Palnitkar-ISBN: 0134516753; Pub: Prentice Hall PTR.
+<br>3.	Introduction to Verilog-.Peter M. Nyasulu.
+<br>4.	Handbook on Verilog HDL-Dr. Daniel C. Hyde,Bucknell University 
+<br>5.	Verilog Tutorial – Deepak Kumar Tala
+<br>6.	The Verilog Hardware Description Language-Donald Thomas and Philip Moorby (2008)
+<br>7.	http://www.iitk.ac.in/eclub/summercamp/Courses/CompArch/Verilog_lab_Solutions.pdf
+<br>8.	http://users.ece.utexas.edu/~ljohn/teaching/ee460m_lab_manual.pdf
+<br>9.	http://treymorris.com/classes/elen/248/lab/lab%20manuals/lab_manual_5.pdf
+<br>10.	http://d1.amobbs.com/bbs_upload782111/files_33/ourdev_585395BQ8J9A.pdf
+<br>11.	www.cc.gatech.edu/~hadi/.../01.../verilog/An%20Introduction%20to%20Verilog.pdf
+<br>12.	www.ece.niu.edu.tw/~chu/download/fpga/verilog.pdf
+<br>13.	http://www.asic-world.com/
+<br>14.	https://www.youtube.com/watch?v=QSEl_O0Gtoo&list=PLoM0uG7tqR3qVss3zhBRniXU7mhHy2bwj
+
+<br><br><b>Student Activities [CIE- 05 Marks]:</b>
+
+<br><br>Develop the algorithm/flowchart and verilog description for the experiments as assigned by the teacher (Student is expected to solve and execute/simulate independently using verilog code).
+<br>E.g.
+<br>1. Design an 8-function ALU that takes 4-bit inputs A and B and a 3-bit input signal select, and gives a 5-bit output out.
+<br>2. Design 8:1 mux using two 4:1 mux.
+<br>3. Design the 4-to-1 multiplexer using if and else statements
+<br>4. Verilog code for 4 bit binary to gray converter.
+
+<br><br><b>Note: </b>
+<br>1. Teacher can assign one experiment per batch for the student activity.
+<br>2. Prepare a Hand-written report of the above activity limited to 4 to 6 pages.
+
+<b>Scheme of Valuation for SEE:</b>
+
+<br><br>1.	Short questions on unit-1 (only write-up) : 05
+<br>2.	Writing program and execution steps/procedure for two questions from the graded exercises : 15
+<br>3.	Execution/Simulation of either one of the programs given in 2 : 15
+<br>4.	Open-ended problem: Writing one program and its execution/ implementation : 05
+<br>5.	Viva-voce : 10
+
+<br><br><b>TOTAL = 50 Marks</b>

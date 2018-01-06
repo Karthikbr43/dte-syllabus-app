@@ -1,0 +1,47 @@
+UNIT - I: Electronic Ceramics
+Definition, properties and uses of Ceramic substrates and capacitor dielectrics in electronics, manufacturing of ceramic capacitors. Working principle of piezoelectric ceramics, its properties and its field of application. Operating mechanism of optical ceramics (Laser, electro optical components, voltage-variablel) with properties and application. Construction and working of conductive ceramics - thermistor, varistors with their working parameters / properties and uses. Mention ceramic material used in above said electronic components. Definition and application of oxygen sensor, NOx sensor, and knock sensors. Working of Hall effect sensors and its applications.
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT - II: Ferrites
+Definition of ferrites with their classification. Definition of hard and soft ferrites, comparison between hard and soft ferrites, batch recipe calculations for hard and soft ferrites, manufacture of soft & hard ferrite with a flow chart. Difference between hard isotropic and hard anisotropic ferrites, properties and application of soft and hard ferrite.
+<br><b>[09 Hrs] [25 Marks] </b>
+
+UNIT - III: Wear resistant wares
+Definition of abrasive grinding wheel, manufacturing, properties and Uses of grinding wheels, types of cutting tools, grinding media for tumbling (ball or tube) mills, different compositions (Al2O3, SiAlON, TiC, WC), technical datasheet, uses. Definition, applications, properties of thread guides. Alumina Grinding media, Properties and applications of Ball bearing based on TiC, WC, Si3N4.
+<br><b>[09 Hrs] [25 Marks] </b>
+
+UNIT - VI: Ceramics for medical & filtration
+Definition of Bio-ceramics, Types of Bio Ceramics – Bioinert, Biodegradable & Bioactive ceramics with definition and examples, Ceramic materials for artificial bone and joints, definition of dental ceramics, manufacturing of artificial teeth, their properties and application.
+<br>Definition and mechanism of membrane for filtration, classification of separation process with technical parameters, comparison between organic and inorganic membranes. General preparation of ceramic membrane with their applications. Definition, manufacturing, properties and applications of cordierite honeycomb catalytic convertor. Understand 3D printing technology for shaping of advanced technical ceramics.
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT - V: Composites
+Definition of composites, describe components of composites (matrix, reinforcing materials), types of composites with examples (product and raw material), general manufacturing of composite material, technical datasheets of different composites, their applications, comparison between composites, ceramics and metals.
+<br><b>[08 Hrs] [25 Marks] </b>
+
+UNIT - VI: Glass ceramics
+Definition of glass ceramics, compositions, mechanism of crystallization, crystallisation graph, properties, fabrication and application. Compare glass with glass ceramic and ceramics.
+<br><b>[06 Hrs] [15 Marks] </b>
+
+<b>Reference Books:</b>
+<br><br>1. Advanced ceramics processing & technology V.1 - GP Binner
+<br>2. Advanced industrial ceramics -
+<br>3. Ceramics and composite materials - BM Caruta
+<br>4. Processing & Properties of advanced Ceramics & Composites - Narottam P. Bansal, J.P.Singh
+<br>5. Advances in Bio ceramic and porous ceramics - Roger Narayan, Paolo Colombo
+<br>6. Advanced ceramic – vol-1 Bioceramic - James F Shackelford
+<br>7. Electroceramics –Second Ed - A.J Moulson & J M Horbort
+<br>8. Technology of Glass and Ceramics - Jan Hlavac, Eslevier Scientific
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>1.	Surf the internet/ media and find recent advancements in bio ceramics, and make report on the same.
+<br>2.	Collect different sensors and make a report on the same.
+<br>3.	Make a report on whisker ceramics their use and characteristics and make a report on the same.
+<br>4.	Make list of different glass-ceramic products with their applications. 
+<br>5.	Surf the internet and get details on ceramic for military applications.
+<br>6.	Collect information on ceramic super conductors.
+<br>7.	Collect information on materials used in aerospace. 
+<br>8.	Collect information on abrasion resistant coatings in hydro power generation. 
+
+<br><br><b>Note:</b> Student should prepare hand written report with minimum 2-3 pages and reports should not be copies from earlier batches. And other similar tasks can be assigned.

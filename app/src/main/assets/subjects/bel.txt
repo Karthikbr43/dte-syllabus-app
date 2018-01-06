@@ -1,0 +1,66 @@
+<b>Experiments:</b>
+
+<br><br>1.	Identify different AC/DC power supply terminals and tabulate measured voltage between terminals.
+
+<br><br>2.	Measure the value of the resistance by using: (i) Analog and Digital Multi-meters and  (ii) by Colour coding.
+
+<br><br>3.	Measure current, voltage, resistance, inductance and capacitance using  Ammeter, Voltmeter, Multi meter and LCR meters. 
+
+<br><br>4.	Generate AC signals using signal generator and measure Amplitude and Time period.
+
+<br><br>5.	Verify ohm’s law experimentally.
+
+<br><br>6.	Verify Kirchhoff’s current law.
+
+<br><br>7.	 Verify Kirchhoff’s Voltage law.
+
+<br><br>8.	Find transformation ratio of a single phase transformer.
+
+<br><br>9.	Plot V-I Characteristics of Junction diode (only forward bias).
+
+<br><br>10.	 Construct half wave rectifier using PN junction diode without filter   and trace input and output voltage waveform.
+
+<br><br>11.	 Construct half wave rectifier using PN junction diode with filter and trace input and output voltage waveform.
+
+<br><br>12.	Construct    Full wave rectifier using PN junction diode without filter and trace input and output voltage waveform.
+
+<br><br>13.	Construct Full wave rectifier using PN junction diode with filter and trace input and output voltage waveform.
+
+<br><br>14.	  Construct Bridge  rectifier using PN junction diode without  filter and trace input and output voltage waveform
+
+<br><br>15.	Construct Bridge  rectifier using PN junction diode with filter and trace input and output voltage waveform
+
+<br><br>16.	 Use Op-Amp as inverting amplifier.
+
+<br><br>17.	Use Op-Amp as non-inverting amplifier.
+   
+<b>Reference Books:</b>
+
+<br><br>1.	Principles of Electronics ,V.K. Mehta and Rohit Mehta, S. Chand Technical Publication
+<br>2.	A Textbook of Electrical Technology,  B.L.Theraja and A.K.Theraja, S. Chand Volume I
+<br>3.	http://www.facstaff.bucknell.edu 
+<br>4.	http://electrical4u.com/
+<br>5.	http://www.electronics-tutorials
+
+<br><br><b>Student Activity</b>	
+
+<br><br>Each Student has to prepare a self-hand written report of 3 pages or solved in a blue book considering any one of the following topics. 
+<br><br>1.	Soldering practice for a better solder. 
+<br>2.	Mini-Projects: Rectifier circuits with and without filters, and OPAMP circuits.
+<br>3.	List out the different protective devices used in your laboratories or house with their ratings.
+<br>4.	Visit nearby Battery charging shop or show room and prepare a report of the visit.
+<br>5.	Prepare a report of the conditions of batteries available in the Polytechnic.
+<br>6.	For given voltage, current, Ah ratings of individual cell, and required voltage and current rating of battery, prepare a report of calculations for number of cells and their method of connections and calculate the rating of UPS. 
+<br>7.	Report on block diagram, internal parts and working of CRO.
+<br>8.	Report on block diagram, internal parts and working of DC Regulated power supply.
+
+
+<br><br><b>Scheme of Valuation for SEE:</b>
+
+<br><br>1.Identification of meters, Electronic components : 05
+<br>2.Writing one Circuit diagram and procedure : 10
+<br>3.Conduction of experiment : 20
+<br>4.Result : 05
+<br>5.Oral : 10
+
+<br><br><b>TOTAL = 50 Marks</b>

@@ -1,0 +1,52 @@
+UNIT I: SIMPLE STRESSES AND STRAINS
+Simple stresses and strains viz. tensile, compressive, Shear, Crushing, Thermal stresses, and corresponding strains,Hook’s Law –Problems on Direct Stress and Linear Strain- Stress- Strain curve for Ductile material and Brittle material with all parameters.- factor of Safety. Elastic Constants - Lateral Strain ,Poisson’s ratio, Bulk Modulus, Shear Modulus ,Volumetric Strain-Relation between elastic constants- Problems on elastic constants. Hoop stress-Longitudinal Stress in thin cylindrical and spherical shells subjected to internal pressure.-Problems on thin cylindrical shells.
+<br><b>[14 Hrs] [30 Marks] </b>
+
+UNIT II: MOMENT OF INERTIA
+Centre of Gravity, Moment of Inertia and its Importance -Parallel and Perpendicular Axis Theorem-C.G of Rectangle, Triangle, Circle, Semi-circle, Trapezium, Cone-Problems on finding CG of T-Section, I-Section, L-Section, Channel-Section. Moment of Inertia of solid andHollow sections like Rectangle, Triangle, Circle- Moment of Inertia about C.G for I section, T section. L-section and Channel Section.
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT III: SHEAR FORCE AND BENDING MOMENT DIAGRAMS
+Definition - Shear Force and Bending Moment –Types of beams, types of load acting on beams ,Sagging and Hogging Bending Moment and its importance –sign convention to draw SFD and BMD- Concept of Maximum bending moment,  Point of Contra flexure and its importance-Drawing  S.F and B.M Diagram for Cantilever, Simply Supported  Beams  subjected to Point Load and U.D.L  
+<br><b>[12 Hrs] [30 Marks] </b>
+
+UNIT IV:THEORY OF SIMPLEBENDING
+Introduction, assumptions in theory of simple bending.-Bending stress, relation between bending stress and radius of curvature (without proof).-Position of neutral axis, moment of resistance-Bending equation (without proof)-Modulus of section for rectangular, hollow rectangular and hollow circular sections-Beams of uniform Strength-problems
+<br><b>[07 Hrs] [30 Marks] </b>
+
+UNIT V: STRAIN ENERGY AND IMPACT LOADING
+Introduction -Strain Energy-Types of loading-Sudden, Gradual and Impact Load-resilience, proof resilience and modulus of resilience-Equation for strain energy stored in a body when the load is gradually applied and suddenly applied – problems.
+<br><b>[03 Hrs] [10 Marks] </b>
+
+UNIT VI: TORSION OF CIRCULAR SHAFT	
+Introductionto Torsion , Angle of Twist , Polar Moment of Inertia , Torsion equation- (without proof)-Assumptions in theory of Torsion -Power Transmitted by a shaft,  axle of solid and hollow sections subjected to Torsion - Comparison between Solid and Hollow Shafts subjected to pure torsion- Problems. (No problem on composite and non homogeneous shaft)
+<br><b>[06 Hrs] [15 Marks] </b>
+
+<b>Text books:</b>
+<br><br>1.	Ramamurtham. S., “Strength of Materials”, 14th Edition, Dhanpat Rai Publications, 2011
+<br>2.	Khurmi R S, “Applied Mechanics and Strength of Materials”, 5 Edition, S.Chandand company 
+
+<br><br><b>References:</b>
+<br><br>1.	Popov E.P, “Engineering Mechanics of Solids”, 2nd Edition, Prentice-Hall of India, New Delhi, 2002.
+<br>2.	Nash W.A, “Theory and problems in Strength of Materials”, Schaum Outline Series,    McGraw-Hill Book Co., New York, 1995.
+<br>3.	Kazimi S.M.A, “Solid Mechanics”, Tata McGraw-Hill Publishing Co., New Delhi, 2003.
+<br>4.	Ryder G.H, “Strength of Materials”, 3rd Edition, Macmillan India Limited, 2002.
+<br>5.	Bansal R. K, “Strength of Materials”, Laxmi Publications, New Delhi, 2012.
+<br>6.	Timoshenko S.P, “Elements of Strength of Materials”, Tata McGraw-Hill, Delhi,   
+
+<br><br>LIST OF SOFTWARE/LEARNING WEBSITES :
+<br><br>1. www.nptel.iitm.ac.in/courses/.../IIT.../lecture%2023%20and%2024htm
+<br>2. www.wikipedia.org/wiki/Shear_and_moment_diagram
+<br>3. www.freestudy.co.uk/mech%20prin%20h2/stress.pdf
+<br>4. www.engineerstudent.co.uk/stress_and_strain.html
+<br>5. https://www.iit.edu/arc/workshops/pdfs/Moment_Inertia.pdf
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>1. Calculate Moment of Inertia of Fly Wheel of engine present in your laboratory
+<br>2. Market Survey specific to properties of Various type of Materials used in Mechanical Engineering and make report
+<br>3. Compare the strength of solid shaft with that of hallow shaft for same power transmission for an automobile and make report
+
+<br><br><b>Note:</b> The activities or similar activities for assessing CIE (IA) for 5 marks (Any one)
+<br>1. Each student should do any one of the following type activity or any other similar activity related to the course and before conduction, get it approved from concerned Teacher and HOD.
+<br>2. Each student should conduct different activity and no repeating should occur

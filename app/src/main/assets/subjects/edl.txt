@@ -1,0 +1,40 @@
+<b>Experiments:</b>
+
+<br><br>1.	Demonstrations of active devices.
+<br>2.	Construct a circuit  to  analyse Forward and reverse bias characteristics of Junction diode and zener diode
+<br>3.	Construct a circuit  to  analyse Forward and reverse bias characteristics of zener diode
+<br>4.	Construct circuit to find  V.I. Characteristics of Tunnel diode
+<br>5.	Construct circuit to analyse Voltage vs current curves of varactor  diode.
+<br>6.	Construct circuit to analyse V.I. Characteristics of SCR.
+<br>7.	Construct circuit to analyse Input characteristics of PNP and NPN Transistors in CE mode.
+<br>8.	Construct circuit to analyse Output characteristics of PNP and NPN Transistors in CE mode.
+<br>9.	Construct circuit to Determination of ‘alpha’ of PNP and NPN Transistors.
+<br>10.	Construct circuit to Determination of ‘beta’ of PNP and NPN Transistors.
+<br>11.	Construct circuit to analyse Characteristics of Diac
+<br>12.	Construct circuit to analyse Characteristics of Triac.
+<br>13.	Construct circuit to analyse Drain characteristics of JFET
+<br>14.	Construct circuit to analyse  Transfer characteristics of JFET.
+<br>15.	Construct circuit to analyse  Drain curves of depletion type MOSFET.
+<br>16.	Practice and study of the following devices with reference to data manual available – literatures also that testing with meters – where ever possible. GUNN Diode, PIN diode, CRT, Crystals LED, Solar cells etc
+
+<b>Reference Books:</b>
+<br><br>1.	Electronic devices and circuits by Allan MotterShead.
+<br>2.	Electronic devices, Applications and Integrated circuits – by MathurandChadha.
+<br>3.	Electronic devices and circuits – by MillmanandHalkias.
+
+<br><br><b>Student Activity</b>
+
+<br><br><b>Note:</b> the following activities or similar activities for assessing CIE (IA) for 5 marks (Any one)
+
+<br><br>1. 	Design a voltage  stabilizer
+<br>2. 	Design motor control using diac and triac
+<br>3. 	Design any device using above components
+
+<b>Scheme of Valuation for SEE:</b>
+
+<br><br>1.	Writing circuit with values Tabular column, formula and Ideal graph :	15
+<br>2.	Construction and conduction	: 20
+<br>3.	Result : 05
+<br>4.	Viva-Voce :10
+
+<br><br><b>TOTAL = 50 Marks</b>

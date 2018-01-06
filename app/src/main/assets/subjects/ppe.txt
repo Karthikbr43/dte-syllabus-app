@@ -1,0 +1,88 @@
+UNIT–I: Introduction to Power Plant
+1.0	Introduction 
+<br>1.1	Indian energy scenario
+<br>1.2	Sources of energy
+<br>1.3	Types of Power plants
+<br>1.4	Requirements of plant design
+<br>1.5	Location of power plants
+<br>1.6	Power plant economics
+<br>1.7	Power terms-Connected load, Maximum demand, Demand factor, Load curve, load factor
+<br><br><b>[06 Hrs] [15 Marks] </b>
+
+UNIT-II: Thermal Power Plant
+2.0	Introduction 
+<br>2.1	Layout of thermal power plant 
+<br>2.2	Site selection for thermal  power plant
+<br>2.3	Implant handling of coal layout
+<br>2.4	Coal handling-belt conveyor, screw conveyor, grab bucket elevator,
+<br>2.5	Fuel Burners-Long flame, Turbulent  and furnace tangential firing
+<br>2.6	General layout of ash handling and dust collection 
+<br>2.7	Draught system-Forced ,Induced and Balanced
+<br>2.8	High pressure Boilers-La mont and Benson boiler
+<br><br><b>[12 Hrs] [35 Marks] </b>
+
+UNIT-III: Nuclear power plant
+3.0	Introduction 
+<br>3.1	Nuclear reactor
+<br>3.2	Layout of nuclear power plant
+<br>3.3	Boiling water reactor(BWR)
+<br>3.4	Pressurized water reactor(PWR)
+<br>3.5	Sodium graphite reactor(SGR)
+<br>3.6	Advantages and disadvantages of nuclear plants
+<br>3.7 Comparison between nuclear power plant and thermal power plant
+<br><br><b>[10 Hrs] [25 Marks] </b>
+
+UNIT-IV: Diesel power and gas power turbine plant
+4.0	Introduction to Diesel power plant
+<br>4.1	Layout of Diesel power plant
+<br>4.2	Advantages and disadvantages of Diesel power plant
+<br>4.3	Application of Diesel power plant
+<br>4.4	Introduction to gas power plant
+<br>4.5	Classification  of gas turbine power plants
+<br>4.6	Gas turbine power plant layout
+<br>4.7	Open cycle gas turbine and closed cycle gas turbine
+<br>4.8	Application and advantages of gas turbines
+<br><br><b>[08 Hrs] [20 Marks] </b>
+
+UNIT-V: Non conventional power generation plants
+5.1	Introduction 
+<br>5.2	Solar energy-Flat plate collector, Line focusing collector
+<br>5.3 Solar thermal power generation-Low temperature and medium cycle
+<br>5.3	Wind energy and its characteristics
+<br>5.4	Classification of wind mills
+<br>5.5	Wind electric generating system
+<br>5.6	Introduction to Tidal power plant 
+<br>5.7	Principle of Tidal power generation 
+<br>5.8	Advantages and  disadvantages of Tidal power plant
+<br><br><b>[08 Hrs] [25 Marks] </b>
+
+UNIT-VI: Environment pollution and its control
+6.0	Introduction
+<br>6.1	Air and water pollution in thermal power plants and control
+<br>6.2	Acid rains
+<br>6.3	Noise pollution and its control
+<br>6.4	Global warming and ozone layer Depletion
+<br>6.5	Green house effect and its control
+<br>6.6	Measurement of pH value of water
+<br>6.7	Measurement of CO2 in gas by using thermal conductivity measurement
+<br><br><b>[08 Hrs] [25 Marks] </b>
+
+<b>Reference Books:</b>
+
+<br><br>1.	Power Plant Engineering –G R Nagpal, Khanna Publishers
+<br>2.	Power Plant Engineering- Arora and Domkundwar, Dhanpath Rai & Co
+<br>3.	Power Plant Engineering-P K Nag, McGraw Hill
+<br>4.	Non Conventional Energy Sources-G D Rai, Khanna Publishers 
+<br>5.	Renewable Energy Sources-Tanseen Abbasi,PHI Learning Pvt.Ltd
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>1. Prepare a chart to show the layout of Thermal power plant
+<br>2. Prepare a chart to show the different types non conventional energy sources
+<br>3. Prepare a chart to show the Diesel and Gas power plants layouts
+<br>4. Prepare a chart to show various pollutants produced by different power plants
+<br>5. Visit the nearby industries and study the power generation methods. Prepare the processes chart
+
+<br><br><b>Note:</b> The activities or similar activities for assessing CIE (IA) for 5 marks (Any one)
+<br>1. Each student should do any one of the following type activity or any other similar activity related to the course and before conduction, get it approved from concerned Teacher and HOD.
+<br>2. Each student should conduct different activity and no repeating should occur

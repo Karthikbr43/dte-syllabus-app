@@ -1,0 +1,129 @@
+UNIT - I: Introduction to Automotive electronics
+Introduction: Autotronics- Definition- need, Field effect transistor-construction and working-applications, Silicon controlled rectifiers-construction and working-applications, logic gates-concept-AND-OR-NOT gates-working with truth tables, Flif flops-concept-applications, registers-concept, Integrated circuits-concept-types, Binary number system- need- conversion process,  analog and digital signals-signal conditioning-need-steps, analog to digital conversion-steps,
+<br><b>[09 Hrs] [25 Marks] </b>
+
+UNIT - II: Vehicle computer systems and networking
+Computer(ECU) operation-Block diagram of computer(ECU) with its microprocessor-functions-working principle, Microprocessors-design-program-information storage-information retrieval, typical multi point fuel injection system input/output pin configuration, open loop and closed loop control systems-comparison, multiplexing-concept-need. Computer networking-concept-need-Controlled Area Network (CAN)-concept-merits-types.
+<br><b>[08 Hrs] [20 Marks] </b>
+
+UNIT - III: Sensors and actuators
+<b>Sensors</b>- Definition, construction and working- throttle position sensor-crankshaft position sensor-electromagnetic-Hall effect sensor-Optical Sensor-piezoelectric combustion knock sensor-temperature sensor-Strain gauge type Manifold Absolute Sensor-Exhaust gas oxygen sensor, Mass air flow Sensor-types-construction and working of hot film and hot wire type sensors, Potentiometer type and LVDT type ride height sensors, Rain sensor-need-working principle.
+<br><b>Actuator</b> -Definition, pulse width modulation of input voltage-duty cycle-need, on/off solenoid- proportionate solenoid-stepper motor-servo motor-relays-construction and working -applications.
+<br><b>[12 Hrs] [40 Marks] </b>
+
+UNIT - IV: SI and CI engine electronic fuel injection systems
+<b>SI Engine Electronic Fuel injection</b>-types, construction and working-single point-multipoint-direct injection system-operating modes of direct injection-advantages and disadvantages of each system, construction and working-petrol injectors.
+<br><b>CI Engine Electronic Fuel injection</b>-types-construction and working-Electronic Diesel Control- In line- Distributor pumps, Construction and working-Unit injector-Common rail injection system-electro hydraulic injector of CRDI system.
+<br><b>[08 Hrs] [20 Marks] </b>
+
+UNIT - V: Electronic vehicle safety systems
+Anti lock brakes-Need and types, construction and working- anti lock brake modulator, four chamber anti lock braking system, Traction control system and Electronic stability control-need and working principle.
+<br>Need and working- air bags-magnetic bias sensor- rolamite sensor, working-inertia switch based air bag system-accelerometer based air bag system, collision avoidance warning system-tyre pressure warning system- needs-working.
+<br><b>[08 Hrs] [20 Marks] </b>
+
+UNIT - VI: Electronic vehicle motion control and instrumentation
+Construction, working and advantages-electronic rack and pinion power steering-electronic four wheel steering.
+<br>Need and working principle-electronically controlled shock absorber-types, electronic suspension system.
+<br>Computer based instrumentation-working principle-advantages, trip information computer-working principle, working principle-vehicle speed measurement-engine coolant temperature measurement-fuel quantity measurement systems, navigation- types- GPS navigation system.
+<br><b>[07 Hrs] [20 Marks] </b>
+
+<b>Reference Books:</b>
+
+<br><br>1.	Understanding Automotive electronics 	William Ribben	Butterworth-Heinemann 
+<br>2.	A Systems Approach to Automotive technology	Jack Erjavec	Cengage Learning
+<br>3.	Electronic Engine Controls	Steve.V.Hatch	Cengage Learning
+<br>4.	Truck engines Fuel& computerized management systems	Sean Bennett	Cengage Learning
+<br>5.	Automobile Engineering vol 2	Kripal Singh 	Standard Publishers
+<br>6.	Automobile enginnering Vol I	Anil chikara 	Satyaprakashan
+<br>7.	Automotive mechanics 10thEdi	W H Crouse and Anglin 	Tata Mc Grill
+<br>8.	Automobile electrical and electronic systems 	Tom Denton.	Butterworth-Heinemann
+<br>9.	Automobile Technolgy	R B Gupta	Satya Prakashan
+<br>10.	Automobile Technolgy	Dr N K Giri	Kanna Publications
+<br>11.	Mechatronics		Prof  C R Venkataramana	
+<br>12.	Automotive Computer Controlled Systems (Diagnostic tools and techniques)	Allan. W. M Bonnick 	Butterworth-Heinemann 
+<br>13.	Automotive Engineering (Engine performance)	Ken Pickerill	Cengage Learning
+<br>14.	Mechatronics	W Bolten	Longman Pearson publications ., 2nd Ed , 2007, Third Edition
+
+<br><br><b>Website:</b>
+
+<br><br>Analog vs digital signals:
+<br>http://www.diffen.com/difference/Analog_vs_Digital
+<br>https://www.youtube.com/watch?v=AiQpYO5E-go
+<br><br>Signal conditioning:
+<br>https://en.wikipedia.org/wiki/Signal_conditioning
+<br><br>Analog to Digital conversion:
+<br>https://en.wikibooks.org/wiki/Electronics/Digital_to_Analog_%26_Analog_to_Digital_Converters
+<br>https://www.britannica.com/technology/telecommunication/images-videos/Basic-steps-in-analog-to-digital-conversion-An-analog-signal/3692
+<br>http://www.allaboutcircuits.com/textbook/digital/chpt-13/delta-sigma-adc/
+<br>http://www.nutaq.com/blog/analog-digital-%E2%80%93-part-2-conversion-process
+<br><br>FET:
+<br>http://whatis.techtarget.com/definition/field-effect-transistor-FET
+<br><br>Thyristers or Silicon controlled rectifiers:
+<br>http://www.explainthatstuff.com/how-thyristors-work.html
+<br><br>filf flops:
+<br>http://www.electrical4u.com/latches-and-flip-flops/
+<br><br>Applications of fif flop:
+<br>http://www.electrical4u.com/application-of-flip-flops/
+<br><br>multiplexing:
+<br>http://searchnetworking.techtarget.com/definition/multiplexing
+<br><br>Sensors:
+<br>https://www.youtube.com/watch?v=jyQuRgQHGCk
+<br><br>Exhaust Gas Oxygen Sensor:
+<br>https://www.youtube.com/watch?v=Fl3aD1qJrEg
+<br><br>Throttle position sensor:
+<br>https://www.youtube.com/watch?v=vyxNLrCMk3I
+<br><br>MAP Sensor:
+<br>https://www.youtube.com/watch?v=dLlFSlPmQxY
+<br><br>MAF Sensor:
+<br>https://www.youtube.com/watch?v=RFnfi25p3po
+<br>https://www.youtube.com/watch?v=xhbSuIZus-o
+<br>http://www.electroschematics.com/11900/measuring-air-flow/
+<br><br>Crank shaft position sensor:
+<br>https://.youtube.com/watch?www v=RuIislTGOwA
+<br>https://www.youtube.com/watch?v=YeXlmdlXp2s
+<br><br>Hall effect Sensor:
+<br>https://www.youtube.com/watch?v=wpAA3qeOYiI
+<br><br>Knock Sensor:
+<br>https://www.youtube.com/watch?v=6xHJYQreZnM
+<br><br>Ride height sensor:
+<br>https://www.youtube.com/watch?v=srgBDFVTZ6M
+<br><br>LVDT Sensor:
+<br>https://www.youtube.com/watch?v=CRH6PYcAk7s
+<br>https://www.youtube.com/watch?v=anCnrtjNLQM
+<br><br>Rain sensor:
+<br>http://www.agcoauto.com/content/news/p2_articleid/272
+<br><br>Solenoid valve:
+<br>https://www.youtube.com/watch?v=AmXWkVMfC5I
+<br><br>PWM and DUTY CYCLE:
+<br>https://www.youtube.com/watch?v=kwb4pAUxR4E&spfreload=5
+<br>https://www.youtube.com/watch?v=YmPziPfaByw
+<br><br>Proportionate solenoid:
+<br>http://www.tlxtech.com/understanding-solenoids/theory-operation/pwm-solenoid-theory
+<br><br>Stepper motor and servo motors:
+<br>https://www.youtube.com/watch?v=oOvRf7xa5r4
+<br>https://www.youtube.com/watch?v=TWMai3oirnM
+<br>https://www.youtube.com/watch?v=CrEW89RrtB4&list=PLuiZCNAMmjnNDaL9hFRbQaJRv-SCvpUj9&index=2
+<br>http://www.electrical4u.com/servo-motor-servo-mechanism-theory-and-working-principle/
+<br>http://www.electricaleasy.com/2015/01/how-does-servo-motor-work.html
+<br>http://electricalstudy.sarutech.com/servo-motor-servo-mechanism-theory-and-working-principle/index.html
+<br><br>Electronic fuel injection:
+<br>https://www.youtube.com/watch?v=umdoG7qdWWs
+<br>https://www.youtube.com/watch?v=xG1w3l41lmQ
+<br><br>Direct injection system
+<br>https://www.youtube.com/watch?v=LjJSbHxIvnM
+<br><br>Common rail injector:
+<br>https://www.youtube.com/watch?v=NUvWnOd5lFw
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>1. Visit nearby electronic/electrical repair shops collect different transistors and ICs and make a report on them containing photos, pin configuration and applications.
+<br>2. Visit nearby computer repair shop/ automobile service stations/websites and collect information on different ICs, components used in general computer or ECU and make a report with photographs/block diagrams/circuits, working and applications.
+<br>3. Visit nearby two wheel/four wheeler service stations/garages/websites and make report of different automotive sensors and actuators and components seen with specification, materials used and manufacturing processes used along with photographs.
+<br>4. Visit nearby two wheel/four wheeler service stations/garages and collect different electrical/electronic control circuits of vehicles.
+<br>5. Visit nearby four wheeler service stations/ websites and collect information on checking and troubleshooting procedures of different automobile sensors and actuators.
+<br>6. Visit nearby four wheeler service stations/ websites and collect information on different OBDII standard trouble codes.
+
+<br><br><b>Note:</b> 
+<br>1. Student should prepare a hand written report on any one of the above/similar activity, which helps in achieving above course outcomes.
+<br>2. The report prepared should be approved by the concerned staff and HOD.
+<br>3. The activity group should consist of maximum of three students.

@@ -1,0 +1,59 @@
+UNIT - I
+<b>ENVIRONMENT AND ECOLOGY</b>: Atmosphere, Lithosphere, Hydrosphere, Biosphere. Relation between Plant, Animals and Environment. Eco System, Man and Ecology.
+<br><br><b>WATER REQUIREMENT</b>: Necessity of water supply, Methods of population forecasting (Arithmetical, Geometrical and Incremental Increase method), Water Requirements for a) Domestic Purpose b) Industrial Use c) Fire Fighting d) Public Purpose e) Losses. Per Capita Demand and Factors affecting it. Total Quantity of Water Required for a Town.
+<br><br><b>SOURCES OF WATER</b>: Surface Sources - Lakes, Streams, Rivers. Impounded Reservoirs. Underground Sources - Infiltration Galleries, Infiltration Wells and Springs.
+<br><br><b>INTAKE AND CONVEYANCE OF WATER</b>: Types of intakes i) Reservoir intake ii) River intake iii) Canal intake, Conveyance of Water - Open Channels and Pipes. Pipe Materials - Cast Iron Pipes, Steel Pipes, Concrete Pipes, Pre-Stressed Concrete Pipes, Merits and Demerits. Pipe Joints - Spigot and Socket Joint, Flange Joint, Universal Pipe Joint, Expansion Joint, Flexible Joint, Various stages of pipe laying and its testing. Pipe corrosion and remedial measures
+<br><b>[15 Hrs] [42 Marks] </b>
+
+UNIT - II
+<b>QUALITY OF WATER</b>: Impurities of water - organic and inorganic classification and examination of water. Physical - temperature, colour, turbidity, taste and odour. Chemical - pH Value, Total Solids, Hardness, Chlorides, Iron and Manganese, Fluoride and Dissolved Oxygen.    Bacteriological - E-coli, Most Probable Number (MPN), Quality Standards for Domestic purpose as per BIS.
+<br><br><b>TREATMENT OF WATER</b>: Flow diagram of different units of treatment, brief description of constructional details, working and operation of the following units - plain sedimentation, sedimentation with coagulation, flocculation, filtration-Slow sand filters, Rapid sand filters and pressure filters  (no design) Disinfection of water, Chlorination.
+<br><b>[14 Hrs] [39 Marks] </b>
+
+UNIT - III
+<b>DISTRIBUTION SYSTEM</b>: General Requirements, Systems of Distribution - Gravity System, Combined System, Direct Pumping. Methods of Supply - Intermittent and Continuous. Maintenance of required pressure in Distribution Systems. Storage - Underground, Ground Level And Overhead Service Reservoirs – Sketch, Necessity and Accessories. Types of lay-out : dead end, grid iron, radial and ring systems, their merits and demerits and their suitability
+<br><br><b>APPURTENANCES IN DISTRIBUTION SYSTEM</b>: Use of Sluice Valves, Check Valves, Air Valves, Scour Valves, Zero Velocity Valves, Fire Hydrants, Water Meter.
+<br><b>[07 Hrs] [20 Marks] </b>
+
+UNIT - IV
+<b>WATER SUPPLY ARRANGEMENT IN BUILDINGS</b>: General lay-out of water supply arrangement for single and   multi- storied buildings as per B.I.S code of practice. Pipe Materials - Plastic Pipes, High Density Polythene Pipes, Densified cast iron pipes, Merits and Demerits. Connections from water main to buildings. Water supply fittings - their description and uses, water main, service pipes, supply pipe, distribution pipe, domestic storage tank, stop cock, ferrule, goose neck, water tap, Modern systems of Potable water purification-( RO, UV, Activated carbon), Hot water supply - electric and solar water heaters.
+<br><b>[06 Hrs] [17 Marks] </b>
+
+UNIT - V
+<b>WATER CONSERVATION</b>: Conservation of rain water, roof water harvesting, recharging of ground water.
+<br><br><b>RURAL WATER SUPPLY</b>: Rural water supply systems, Disinfection of well water.
+<br><b>[05 Hrs] [14 Marks] </b>
+
+UNIT - VI
+<b>WATER POLLUTION AND CONTROL</b>: Sources of water pollution, types and its effects, Prevention and control measures of water pollution, Legislation with regards to water pollution control.
+<br><b>[05 Hrs] [14 Marks] </b>
+
+<b>Text books:</b>
+
+<br><br>1.	Water Supply and Sanitary Engineering- by Rangwala. 
+<br>2.	Water Supply Engineering Vol-I - by S.K.Garg.
+<br>3.	Water Supply and Sanitary Engineering- by Birde. 
+<br>4.	Water Supply Engineering  Vol-I - by Gurucharan Singh.
+<br>5.	Environmental Engg.-Vol-I –by P.N. Modi.
+<br>6.	Water Supply Engg.-Vol-I – by Fair and Geir.
+<br>7.	Water Supply, Waste Disposal and Environmental Pollution Engineering-(Khanna publication) A.K.chatterjee .        
+<br>8.	Water Supply Engineering by Dr B.C.Punmia, Jain and Jain.
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>1. Collect the information about biotic and abiotic components of surrounding environment and frame relation among them.
+<br>2. Estimate the total quantity of water required for a town/locality/Institute.
+<br>3. Prepare map and written report for surface and underground sources of water in the neighbourhood.
+<br>4. Visit nearby Intake works of water of your place and collect details.
+<br>5. Charts are prepared for BIS and WHO quality standards for drinking water.
+<br>6. Visit nearby Certified Water testing laboratories and identify various tests conducted on water.
+<br>7. Visit Water Treatment Plant and collect details of unit operations and processes involved in it.
+<br>8. Study the distribution system of water supply of your locality.
+<br>9. To visit a newly constructed building for plumbing works.
+<br>10. Prepare a mini project report for roof top rain water harvesting for existing building
+<br>11. Study about Solar water heater and collect data
+<br>12. Prepare report/presentation on issues related to water pollution.
+
+<br><br><b>Note:</b> 
+<br>1. Students should select any one of the above or other topics relevant to the subject approved by the concerned faculty, individually or in a group of 3 to 5. Students should mandatorily submit a written report and make a presentation on the topic. The task should not be repeated among students. Report will be evaluated by the faculty as per rubrics. Weightage for 5 marks Internal Assessment shall be as follows: (Unsatisfactory 1, Developing 2, Satisfactory 3, Good 4, Exemplary 5)
+<br>2. Reports should be made available along with bluebooks to IA verification officer

@@ -1,0 +1,42 @@
+Unit - I
+1.	To plot V-I characteristics and test whether the device is GOOD or DEFECTIVE:  SCR 
+<br>2.	To plot V-I characteristics and test whether the device is GOOD or DEFECTIVE:  Triac       
+<br>3.	To plot V-I characteristics and test whether the device is GOOD or DEFECTIVE:   Diac     
+<br>4.	To plot V-I characteristics and test whether the device is GOOD or DEFECTIVE:   UJT
+<br>5.	To Construct and Test: UJT Relaxation Oscillator 
+<br>6.	To Construct and Test SCR triggered by UJT Relaxation Oscillator, Half and Full Wave.
+<br>7.	To Construct and Test Phase Control of SCR by using R method.
+<br>8.	To Costruct and Test Phase Control of SCR by using RC method
+<br>9.	To Construct and Test Speed Control Circuit of DC Motor. 
+<br>10.	Develop the control circuit and load circuit for motor starter using only ON/OFF switch using two wire method.
+<br>11.	Develop using three wire method START/STOP circuit with multiple START/STOP push buttons.
+<br>12.	Develop the control circuit and load circuit for motor to rotate both in clockwise and anticlockwise direction.
+
+Unit - II
+<b>Note:</b> Perform the following experiments by using NI Lab View software and interfacing card.
+<br>1.	Measurement of Voltage.
+<br>2.	Measurement of Current.
+<br>3.	Measurement of Resistance.
+<br>4.	Measurement of Power.
+<br>5.	Measurement of Temperature.
+<br>6.	Measurement of Pressure.
+
+<b>Reference Books:</b>
+
+<br><br>1. Industrial Electronics -   E Kissell, PHI Publication
+<br>2. Modern Industrial/Electrical Motor Controls - E Kissell, PHI Publication
+<br>3. Motor Control Technology For Industrial Maintanance - E Kissell, PHI Publication
+<br>4. Industrial motor control, Stephen L Herman, Delmar cengage Learning
+<br>5. ABC of Electrical Engg, B.L. Theraja, S. CHAND
+
+<br><br><b>Student Activity</b>
+
+<br><br>1. Visit a nearby MSME/ workshop and prepare a hand written report on wiring diagrams or servicing techniques of motors, control drives, relay  or Maintenance of Machine tools or Different motors, drives, control panels  etc
+
+<b>Scheme of Valuation for SEE:</b>
+
+<br><br>1.  Writing a circuit diagram, graph, wave forms from unit-I and construction, conduction & Results : 10+15
+<br>2.  Writing a circuit diagram, graph, wave forms from unit-II and  Results : 10+05
+<br>3.  Viva Voce :	10
+
+<br><br><b>TOTAL = 50 Marks</b>

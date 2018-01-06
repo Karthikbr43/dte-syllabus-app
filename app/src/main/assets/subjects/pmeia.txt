@@ -1,0 +1,72 @@
+UNIT I: CONSTRUCTION PLANNING & ORGANIZATION     
+	Construction Team: Owner, Engineer & Contractor- Their Relationship.
+<br>	Construction stages, Schedules & Job layouts, Pre tender & Post tender planning.
+<br>	Definition & Need of Organisation, Types & Organisation chart in PWD, Construction Corporations & Private Construction Companies.
+<br>	Administrative approval and its Requirements.
+<br>	Definition of site Order book, Hindrance Register, Drawing Register.
+<br><br><b>[08 Hrs] [20 Marks] </b>
+
+UNIT II: CONTRACTS & TENDERS 
+	Contracts- Types of Contracts & departmental Execution of works. 
+<br>	General conditions of contract, contract agreement, Conditions for failure of contract and its extension, Termination of contract.
+<br>	Concept of RA bill- submission, scrutiny and payment.
+<br>	Tender- Procedure for inviting tender, Tender Notice & Tender documents, EMD, SMD & Guaranties, Scrutiny of Tenders & e-Tendering.
+<br>	Mobilization advance, conditions for Escalation of materials.
+<br><br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT III: PLANNING, SCHEDULING & NETWORK ANALYSIS:
+	Fundamentals of CPM and PERT, differences and elements of network analysis.
+<br>	Scheduling – Definition of Scheduling Resource Planning (MMMT- Man-Material-Money-Time).
+<br><br><b>[06 Hrs] [20 Marks] </b>
+
+UNIT IV: CONVENTIONS OF CONSTRUCTION INDUSTRY 
+	SAFETY-Importance of safety, Causes & effects of accidents in construction Industry, Safety procedures and check list, Safety meetings, Safety measures to be adopted while execution and safety legal implications.
+<br>	STORES-Classification of Stores. Issues, Indents & Bin cards,
+<br>	MEASUREMENTS-Measurement Book, Recording of measurements, Pre measurements & Check measurements
+<br>	INSPECTION-Principals of inspection, Stages of inspection while execution.
+<br>	QUALITY CONTROL- Functions of Quality Control in construction industry. Importance of Total Quality Management, ISO9000 certification procedure.
+<br><br><b>[13 Hrs] [40 Marks] </b>
+
+UNIT V: ENTERPRENEURSHIP
+	Definition –Concept- Roles-Expectations of Entrepreneurship.
+<br>	Motivational needs of the entrepreneur.
+<br>	Characteristics of an entrepreneur.
+<br><br><b>[05 Hrs] [10 Marks] </b>
+
+UNIT VI: ENVIRONMENTAL IMPACT ASSESSMENT 
+	Environmental management
+<br>	Terminology in E I A
+<br>	Objectives of E I A
+<br>	Process and methodologies of E I A
+<br>	Environmental Impact Statement
+<br>	Risk analysis
+<br><br><b>[10 Hrs] [25 Marks] </b>
+
+<b>Text books:</b>
+
+<br><br>1.	Sanga Reddy. S, “Construction Management”,Kumaran Publications, Coimbatore.
+<br>2.	Rangwala.S.C.,”Construction of Structures and Management of Works”, Charotar Publishing House,Anand-388001,3rd Edition,2000.
+<br>3.	Construction management by NITTTR, Chennai.
+<br>4.	Construction Management – Prof Dhir, Eastren Publications.
+<br>5.	EIA by – Canter. L.
+<br>6.	EIA by  R.K Jain 
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>1. Visit any nearby construction site & interact with the construction team regarding type of structure & its organisation structure.
+<br>2. Visit any Govt. Construction Department interact about the present tendering process and awarding of contract.
+<br>3. Collection of tender notices published in newspapers for various items of civil engineering works( at least 5) write salient features of them.
+<br>4. Study the application of Bar Chart, CPM & PERT technique Used in construction projects.
+<br>5. Prepare a planning schedule for the nearby on going construction activity with the help of PRIMA VEERA.
+<br>6. Visit any nearby PWD/PERD /KIARDL/KHB office or any construction company, collect the documents (BOQ, M B, Tender, SR, lead statement etc….) related to the project.
+<br>7. Collect quality management standards pertaining to ISO 9001, ISO 14001 & OHSAS 18001 & prepare a report.
+<br>8. Drafting a tender notices for construction of a civil engineering work
+<br>9. Preparation of tender document for the building.(detailed estimate prepared for R.C.C. building in estimating and costing shall be used )
+<br>10. Collection of various account forms from PWD & Prepare a report on it
+<br>11. Prepare a report on store procedure and account producer of PWD.( For it a Guest lecture of PWD official may be arranged. )
+<br>12. Prepare EIA for ongoing project.
+
+<br><br><b>Note:</b> The activities or similar activities for assessing CIE (IA) for 5 marks (Any one)
+<br>1. Each student should do any one of the following type activity or any other similar activity related to the course and before conduction, get it approved from concerned Teacher and HOD.
+<br>2. Each student should conduct different activity and no repeating should occur
+<br>3. Each student should conclude the activity through presentation/Seminar.

@@ -1,0 +1,66 @@
+UNIT I: D.C. GENERATORS CONSTRUCTION AND WORKING
+<b>Working principle of D.C. Generator</b> - Principle, Simple loop Generator, Direction of induced E.M.F.
+<br><b>Construction and types of D.C Generators</b> - Construction -Yoke, Armature, field poles, field coils, Commutator, brushes-Materials used for construction -properties of these materials-Reasons for using these materials -slot insulation materials -properties. Functions of each part in brief.  Types of DC generators with circuit representation.
+<br><b>Armature windings</b>- Types of windings, Rules of lap and wave winding, application of lap and Wave windings. 
+<br><b>Induced E.M.F</b>- E.M.F equation and problems.
+<br><br><b>[08 Hrs] [25 Marks] </b>
+
+UNIT II: PERFORMANCE OF D.C. GENERATORS
+<b>Armature reaction</b>-Explanation of armature reaction with sketches, De-magnetizing and cross -magnetizing effect, Compensating winding.	
+<br><b>Commutation</b>-Definition-Explanation -methods of improving commutation.
+<br><b>Characteristics</b>-Open circuit, internal, external characteristics of separately excited D.C. Generator: - OCC of shunt Generator -critical resistance- conditions for voltage build up-failure to build up -internal and External characteristics of shunt Generator.		
+<br><b>Efficiency and voltage Regulation</b>-Losses in D.C. Generator, Efficiency, voltage regulation and its importance-simple problems.
+<br><br><b>[06 Hrs] [15 Marks] </b>
+
+UNIT III: D.C.MOTORS
+<b>Principal of D.C Motor</b>- Working principle –comparison of motor and Generator action. Back emf and voltage equation and simple problems.
+<br><b>Types of motors</b>- Self excited shunt, series and compound motors, Torque developed by D.C motors. Meaning of Torque and torque equation [no derivation]
+<br><b>Motors</b>- Torque speed relationship	
+<br><b>Characteristics of D.C. Motors</b> - Torque – Speed, Speed – Load and Torque – Load Characteristics of Series, Shunt and Compound motors – their Applications.
+<br><b>Speed control</b>- Methods of speed control – shunt field control – armature resistance control Electronic speed control [Block diagram]
+<br><b>Starting Devices</b>-Necessity of starter-construction and operation of 3 point starter.	
+<br><br><b>[12 Hrs] [35 Marks] </b>
+
+UNIT IV: ALTERNATOR CONSTRUCTION AND WORKING
+<b>Alternator Principle</b> – Construction – Types. Armature winding-Types of armature windings, full pitch and fractional pitch windings and their  advantages and dis-advantages.
+<br><b>Emf equation</b>- Relationship between P,N,f,  emf equation, and Problems.	
+<br><b>Armature Reaction</b>-Armature reaction in an alternator with sketches. Effects of load pf’s on armature reaction. Effects of armature reaction on terminal voltage.	
+<br><br><b>[08 Hrs] [25 Marks] </b>
+
+UNIT V: ALTERNATOR PERFORMANCE
+<b>Voltage regulation</b> - Procedure for conducting O.C and S.C. tests on alternator with circuit arrangements Definition of effective resistance, leakage reactance and synchronous reactance. Calculate the synchronous impedance by O.C. and S.C. test results. Vector diagram of alternator on Load at different power factors. Equation for the no-load terminal voltage at different power factors.	Voltage regulation - Definition. and methods to find voltage regulation. Determine regulation of 3-phase alternator by conducting O.C and S.C tests by EMF method.
+<br><b>Parallel operation</b> - Conditions for parallel operation of single phase and three phase alternators, Parallel operation of three phase alternators using synchronoscope.
+<br><b>Excitation Systems</b> - Meaning and types of excitation. Static excitation system.
+<br><b>Un-equal voltage</b> - Effect of un-equal voltage on load sharing. Effect of change in excitation and prime mover input power on distribution of load.	
+<br><b>Hunting and its prevention</b> - Hunting in alternators and its prevention.	
+<br><b>Cooling</b> - Necessity of cooling in alternators. Cooling agents. - Hydrogen cooling
+<br><br><b>[12 Hrs] [30 Marks] </b>
+
+UNIT VI: SPECIAL MACHINES
+<b>Principle of working, construction and applications of the following motors</b> -   Universal motors, Reluctance motor, Two phase Four pole Permanent magnet Stepper motor, Servo motor, Brushless  D.C. Motors and AC/DC Tacho-generator.				
+<br><br><b>[06 Hrs] [15 Marks] </b>
+
+<b>Reference Books:</b>
+
+<br><br>1. Electrical Technology volume 2 - BL Theraja and A.K.Theraja S.Chand publication
+<br>2. Principles of Electrical Machines by V.K.Mehtha.S.Chand publication
+<br>3. Electrical Machines by M.N. Bandyopadhyay  PHI Learning Pvt. Ltd.
+<br>3. Electrical Machines by Bhattacharya. Tata McGraw Hill Co.
+<br>4. Electrical Machines - J.B.Guptha  Kataria and Sons Publications.
+<br>5. Generation of Electrical Energy by BR Gupta.  S.Chand Publication.
+<br>6. Fundamentals of elecrical drives - G.K. Dubey   Narosa publications.
+<br>7. Electrical Machines – Deshpande.
+
+<br><br><b>E –Learning</b>
+<br><br>1.	http://www.schandgroup.com
+<br>2.	http://phindia.com
+<br>3.	http://ikbooks.com
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br>Each Student has to prepare and submit at least 3 pages of self hand written report (Construction details, type of windings used, Insulating materials used, cooling methods, applications etc.,) preferably by visiting a nearby Substation/ Power station/ Industry/ Factory etc., considering any one of the following topics.
+<br>1. DC Generators & DC Motors
+<br>2. Alternators
+<br>3. Special Machines
+<br>4. Cooling methods in Alternators
+<br>5. DC Motor Speed control techniques

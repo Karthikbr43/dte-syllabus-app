@@ -1,0 +1,44 @@
+UNIT I: Introduction and DC circuits
+<b>Introduction:</b> Types of circuits- open, closed and short circuit; Linear, non linear circuits, passive active circuits and components, node, unilateral, bilateral circuits.			
+<br><b>D.C circuits:</b> Kirchhoff’s laws, Ideal Voltage, Ideal Current source and conversion; Star -delta Transformation Network theorems-Thevinin’s Theorm,  Reciprocity Theorem,  Superposition Theorem Maximum power transfer Theorem. Problems on KVL,KCL, star-Delta transformation and Network theorems.  
+<br><b>[14 Hrs] [40 Marks] </b>
+
+UNIT II: Magnetism and Magnetic circuits
+Magnetic circuit, mmf, reluctance and mention their units, Absolute permeability and Relative permeability and mention their units, relationship between Flux, MMF and Reluctance ,Compare Electric circuit with magnetic circuit. Problems on magnetic circuits.									
+<br><b>[06 Hrs] [20 Marks] </b>
+
+UNIT III: Electro Magnetic Induction
+Magnetic field around a current carrying conductor,  Cork Screw Rule and Right Hand Thumb Rule, Faraday’s laws of Electromagnetic Induction, EMF induced in a coil;  Types of induced emfs and their application ; Fleming’s Right Hand Rule, Lenz’s law; Self induced emf and Mutually induced emf and their application, Self inductance and Co-efficient of Self inductance,  Mutual inductance and  Co-efficient of Mutual inductance.							
+<br><b>[06 Hrs] [15 Marks] </b>
+
+UNIT IV: AC Principles and Vector Algebra
+<b>A.C. Principles :</b>  Generation of Single phase AC voltage , Frequency, Amplitude, Cycle,  Time period and their units ; Maximum value, RMS value, Average value, Form factor and Peak factor of a sinusoidal wave, Instantaneous value of Voltage and Current ,  phase and phase difference, Vectorial  representation of AC quantities, Power and Power factor in AC circuits, problems on above.
+<br><b>Vector Algebra:</b> Represent vectors in Rectangular, Trigonometric and Polar forms, Convert Rectangular form into Polar form and vice-versa and problems on R to P and P to R , Arithmetic operations on vectors, problems.
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT V: Single Phase AC Circuits
+Current and Power in a pure resistive, pure  inductive  and  pure  capacitive circuit ; Capacitive reactance , Inductive reactance ,Impedance, Current, Power and Power factor of  R-L, R-C, R-L-C series and parallel circuits, problems on R-L, R-C, R-L-C series and parallel circuits. Resonance, resonant frequency and Q-factor.	
+<br><b>[10 Hrs] [25 Marks] </b>
+
+UNIT VI: Polyphase AC Circuits
+Generation of  3-ph voltage, phase sequence,  Star and Delta Connection  in 3-ph system ,Relation between  line voltage and phase voltage in 3-ph Star, Relation between  line voltage and phase voltage in 3-ph Delta system. Equation for a 3-ph power, problems on 3 phase star and delta circuits.
+<br><b>[06 Hrs] [15 Marks] </b>
+
+<b>Reference Books:</b>
+
+<br><br>1. 	Electrical Technology by B.L. Theraja.							
+<br>2. 	Electrical Technology by Hughes
+<br>3. 	Principles of Electrical Engineering by B. R. Gupta 
+<br>4. 	Basic Electrical Engineering by V.K. Mehta andRohit Mehta. 
+<br>4. 	http://www.facstaff.bucknell.edu/mastascu/elessonshtml/eeindex.html - Welcome to Exploring Electrical Engineering.
+<br>5.	Fundamentals Hand book of Electrical Science, Module 1, Basic Electrical Theory, Department of Energy, U. S. Department of Energy, June 1992. 
+<br>6.	http://www.freeengineeringbooks.com/Electrical/Basic-Electrical-Engineering.php
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br>Each Student has to prepare a self hand written report of 3 pages considering any one of the following topics.
+<br>1. Report on different theorems and their practical applications.
+<br>2. Report on different materials used for electromagnets with their properties.
+<br>3. Applications of Electro Magnetic Induction, statically induced and dynamically induced emf, self and mutual induced emfs.
+<br>4. Perform Polar to Rectangular and vice versa operations on Computer package (Excel) and submit a report giving commands and formulae.
+<br>5. Practical applications of Single Phase AC Circuits and Three phase AC Circuits with their operating voltages and other electrical parameters.

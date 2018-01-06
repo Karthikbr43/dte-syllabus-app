@@ -1,0 +1,43 @@
+Unit - I: CAD Commands Familiarization
+Introduction to MCAD(parametric modelling) software-Understanding CAS technique, knowing the software interface, co-ordinate systems supported- Planes and their creation, reference axis, Sketch, Profile, basic commands related to 2D drawing.
+
+Unit - II: Practice on Commands
+Conversions of 2D profiles into 3D models-using extrude/protrude and revolve commands. Cut-outs/shell creation, placing holes, rounds/fillets, chamfers, creating rectangular and circular array/patterns, array/patterns along a path/curve, mirroring features,  editing of a model, creating internal and external threads. Adding draft, ribs, thin wall features, lip to models. Creating vents, boss. Creating swept and lofted models.
+
+Unit - III: Development of Surfaces
+Importance of development of surfaces in sheet metal works, Developments of surfaces of following  solids - cube ,prism,pyramid,cylinder,cones, Development drawings of Tray, funnel, Elbow
+
+Unit - IV: Fasteners and Rivets 
+Fasteners - square and hexagonal Bolt and Nut, Sketch the rivet and riveting joints- single riveted lap joint, double riveted butt joint single cover double cover plate– chain and zig - zag arrangement.
+
+Unit - V: Isometric Projections							
+Principles of Isometric projection – Isometric scale – Isometric views of simple solids – cube, prisms, pyramids, cylinder and cone - Conversion of orthographic views into isometric View  of Simple Machine Components.
+
+<b>Reference Books:</b>
+1.	Machaical Engineering Drawing by SANKAR PRASAD DEY, Vikas Publishing house, 2015.
+2.	Machine Drawing by K.R Gopala Krishna.
+3.	Sham Tickoo- Autocad: A Problem-Solving Approach Thomson Learning EMEA, Limited.
+4.	George Omura- Mastering Auto CAD BPB Publication.
+5.	T Jeyapoovan- Engineering Graphics Using AutoCAD Vikas Publishing House Pvt. Ltd. Fifth Edition.
+6.	K.R.Gopalakrishna“Fundamentalsof  Drawing”  Subhas Publications, 2010.
+7.	Computer Aided Engineering Drawing By SapnaPubications.
+8.  http://www.we-r-here.com/cad/tutorials/index.htm
+9.  http://www.cadtutor.net/tutorials/autocad/
+10. http://www.caddprimer.com/AutoCAD_training_tutorial/AutoCAD_training_lessons.htm
+11. http://www.autocadmark.com/
+12. http://www.autocadtutorials.net/
+
+<br><br><b>Student Activity</b>
+
+1. 	Students should to study the drawing of mechanical component, understand and draw it in CAD lab.
+2.	Each student should submit any one of the following type activity or any other similar activity related to the course and before take up get it approved from concerned Teacher and HOD
+3.	Each student should conduct different activity and no repeating should occur
+
+<b>Scheme of Valuation for SEE:</b>
+
+1.	Writing about commands (unit-I and unit-II) : 05
+2.	Create the model and drawing views along with dimensions and annotations as per sketch given (unit-III) : 15
+3.	Create the model and drawing views along with dimensions and annotations as per sketch given (unit-IV) : 15
+4.	Create the model and drawing views along with dimensions and annotations as per sketch given (unit-V) :	15
+
+<br><br><b>TOTAL = 50 Marks</b>

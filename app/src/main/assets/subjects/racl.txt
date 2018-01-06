@@ -1,0 +1,45 @@
+<b>Experiments:</b>
+
+<br><br><b>A. REFRIGERATION</b>
+
+<br><br>1. Make use of Tube Cutting, flaring , sweging& Making Joints
+<br>2. Evacuation & Charging of Refrigerant to the system
+<br>3. Control systems by Thermostat Relays etc.
+<br>4. Testing Continuity & Connections of Compressors
+<br>5. Checking of Electrical working of Refrigerator, Water coolers, Defreeze & Air Conditioners
+<br>6. Testing of Kirloskar, Godrej, Alwyin, Kelvinator, BPL, Videocon & Voltas compressors.
+
+<br><br><b>B.AIR CONDITIONING</b>
+<br><br>1. Determination of COP from vapour compressors & Air Conditioning tests rigs
+<br>2. Checking, Cut open, Assembly & Welding of Hermetically sealed Compressor
+<br>3. Dismantling & Assembling of Vapour Compressor refrigeration system.
+<br>4. Study on different types of expansion devices, Relays, Voltmeters, Multimeters, Gauges, Capacitors, Fans & Blowers
+<br>5. Servicing and maintenance of the refrigerator
+<br>6. Servicing and maintenance of the air conditioning.
+
+<b>Reference Books:</b>
+
+<br><br>1. Refrigeration and air conditioning - Jordan’s &pristhy 
+<br>2. Refrigeration and air conditioning - R.S khurmi& J.K gupta 
+<br>3. Refrigeration and air conditioning - sarao&gabbi
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>1. Ask the students to Study of a different types of compressor used in the fields
+<br>2. Take the students to Polytechnic ac rooms; ask to observe how they are installed. Make the sketch and analyze its operation
+<br>3. Take the students to nearby Refrigeration and air conditioning servicing work shop; ask to observe that. Make the sketch and analyze its operation
+<br>4. Study of how the installed centralized air conditioning system near mall or any auditorium, theater.
+<br>5. Study and think what capacity ac for specified for central, unit, window, split air conditioning. submit hand written report of 500 words
+<br>6. Study and think an air conditioning for an application beyond the syllabus, submit hand written report of 500 words
+
+<br><br><b>Note:</b> The activities or similar activities for assessing CIE (IA) for 5 marks (Any one)
+<br>1. Each student should do any one of the following type activity or any other similar activity related to the course and before conduction, get it approved from concerned Teacher and HOD.
+<br>2. Each student should conduct different activity and no repeating should occur
+
+<b>Scheme of Valuation for SEE:</b>
+
+<br><br>1. Part A (Writing + Execution) : 15(5+10)
+<br>2. Part B (Writing + Execution) : 25(10+15)
+<br>3. Viva : 10
+
+<br><br><b>TOTAL = 50 Marks</b>

@@ -1,0 +1,136 @@
+<b>A. INTRODUCTION </b>
+<br>The objective of the project work is to enable the students in convenient groups of minimum of 5 & maximum of 8 members on a project involving theoretical and experimental studies related to the branch of study. Every project work shall have a guide who is the member of the faculty of the institution. Six periods per week shall be allotted in the time table and this time shall be utilized by the students to receive the directions from the guide, on library reading, laboratory work, computer analysis or field work as assigned by the guide and also to present in periodical seminars on the progress made in the project.
+
+<br><br><b>B. ROAD MAP FOR THE PROJECT </b>
+<br><br>1. Carry out a session or a seminar from the ISTE/IEI Student Chapter coordinator / Programme coordinator with the help of Innovation club / III cell for directing the students to identify project areas in the field of their interested including interdisciplinary areas. 
+<br><br>2. Power point presentation in seminar should include detail description of project areas related to program,, Project report formats, developing personnel writing skills.
+<br><br>3. The Students/Departments may at liberty to form the batch not less than 5 and maximum 8 and get registered with project coordinator/HOD through Project Proposal Performa (Appendix 8).at the end of V semester. 
+<br><br>4. Students should take the approval from the Project committee/ Head of department for doing project.
+<br><br>5. After approval the batch of students will be published in department notice board along with guide in the end of 5th semester.
+<br><br>6. All students should finalize their Project immediately before commencement of SEE of 5th semester. 
+<br><br>7. The types of project may include: 
+<br>a) Industrial case study 
+<br>b) Preparation of a feasibility report 
+<br>c) Design and development of equipment.
+<br>d) The overhauling of existing equipment 
+<br>e) Creation of New facilities 
+<br><br>8. The project should be challenging but manageable within the resources and time available. 
+<br><br>9. Students should undergo reviews for three times in 6th semester during the internal assessment. Time table for IA should include project review; The guide should monitor the progress of Project work periodically and it should be finally evaluated for 25 marks at the end of 6th semester.  
+<br><br>10.	The IA marks will be evaluated based on oral presentation and assessment by the internal guide by adopting Rubrics being developed by Project committee.
+<br><br>11.	Real time problems, Industry related problems, should be chosen and it is a Responsibilities of the project committee / Programme coordinator/ Innovation club / I.I.T. cell to choose the appropriate project and to accept the Project Proposal
+<br><br>12.	Identification of Topic: The selection of topic is of crucial importance. It should be field of interest. It is advisable to choose the project can be completed on time and within the budget and resources. The topic should be clear, directional, focussed and feasible. 
+<br><br>13.	An outline of project proposal submitted & synopsis from student will initiate a dialogue between Student and Project coordinator who will then help you to work on the chosen topic and report.
+
+<br><br><b>C. Thrust areas identified for Project work</b>
+<br>Each student may be assigned any one of the following types of project/thesis work:
+
+<br><br><b>According to the local needs, the following major projects are suggested:</b>
+
+<br><br>1. Non-conventional energy
+<br>a)  Solar bicycle
+<br>b)  Solar scooter/motorcycle
+<br>c)  Solar power battery charger
+<br>d)  Wind power battery charger
+<br>e)  Solar car
+
+<br><br>2. Applications of electrical in Automobiles
+<br>a)	Motorized vehicle lifting jack
+<br>b)	Electrical vehicles
+<br>c)	Electro-magnetic brakes
+<br>d)	Electric mirrors
+<br>e)	Electromagnetic clutch
+<br>f)	Power windows (motorised)
+<br>g)	Battery charger
+
+<br><br>3. Applications of electronics in Automobiles 
+<br>a)	Automatic wiper
+<br>b)	Tilting head lights
+<br>c)	Automatic Dipper
+<br>d)	Low tyre pressure Indicator
+<br>e)	Digital speedometer
+<br>f)	Digital fuel gauge
+<br>g)	Rear view camera 
+<br>h)	Test setups of different sensors and actuators.
+<br>g)	Demonstration models of different automotive electronic control systems.
+
+<br><br>4. General Automobile field
+<br>a)  Regenerative braking system
+<br>b)  Steering controlled headlight
+<br>c)  Seat belt automatic locking system
+<br>d)  Hydraulic braking
+<br>e)  Electromagnetic shock absorber
+<br>f)  Digital auto speed limiter
+
+<br><br>5. Design and Fabrication of various types of lab equipment’s useful to the juniors.
+<br><br>7. Repair and overhauling of various Automobile components/system and lab equipment’s Available at polytechnic
+<br><br>8. Reconditioning of petrol/Diesel engine
+<br><br>9. Reconditioning of Hydraulic braking system.
+<br><br>10. Reconditioning of Air braking system
+<br><br>11. Reconditioning of Independent suspension system
+<br><br>12. Reconditioning of Gear box (any one)
+<br><br>13. Reconditioning of Steering. Systems
+<br><br>14. Painting of a vehicle
+<br><br>15. Implementation of 5S concept.
+<br><br>16. Construction of Battery.
+<br><br>17. Reconditioning of Starter motor/Alternator
+<br><br>18. Replacement/preparation of auto-electrical wiring
+<br><br>19. Tyre Retreading
+<br><br>20. Collection and analysis of data related automobile Engineering
+<br><br>21. Reconditioning of Two wheeler/Three wheeler/Four wheeler
+<br><br>22. Any agricultural based project (Harvesting/Sugarcane cutter/etc)
+<br><br>23. Project on alternate fuels/hybrid Technology 
+<br><br>24. Preparation of teaching aids related to automobile engg,
+<br><br>25. Any study project related to Automobile and allied areas in field
+<br><br>26. Any project related to industry/workshop based problems
+<br><br>27. Any projects related to low cost automation
+<br><br>28. Projects related to multi-disciplinary.
+<br><br>(Above list is a just an example. you can choose the project apart from the list)
+
+<br><br><b>D. Project report</b>
+
+<br><br>The Project Report should consist of following items:
+<br><br>1.	Introduction
+<br><br>2.	Review of Literature 
+<br><br>3.	Study Area
+<br><br>4.	Methodology/Design/fabrication/Tests
+<br><br>5.	Result and Discussion
+<br><br>6.	Conclusion and scope for future study
+<br><br>7.	References.
+<br>a) Project reports should be typed neatly in Times New Roman letters with font size 14 for titles and 12 for text on both sides of the paper with 1.5 line spacing on a A4 size paper (210 x 297 mm). The margins should be: Left - 1.5", Right - 1", Top and Bottom - 0.75". 
+<br>b) The total number of reports (Soft bound) to be prepared are
+<br> One copy to the department /library
+<br> One copy to the concerned guide(s) 
+<br> One copy to the candidate.
+<br>c) Before taking the final printout, the approval of the concerned guide(s) is mandatory and suggested corrections, if any, must be incorporated.
+<br>d) Every copy of the report must contain
+<br> Inner title page (White) 
+<br> Outer title page with a plastic cover 
+<br> Candidate declaration and Certificate in the format enclosed both from the institution and the organization where the project is carried out. 
+<br> An abstract (synopsis) not exceeding 100 words, indicating salient features of the work. 
+<br>e) The organization of the report should be as follows
+<br> Inner title page 
+<br> Abstract or Synopsis 
+<br> Acknowledgments                       
+<br> Table of Contents 
+<br> List of table & figures (optional)
+
+<br><br>Chapters(to be numbered in Arabic) containing Introduction-, which usually specifies the scope of work and its importance and relation to previous workand the present developments, Main body of the report divided appropriately into chapters, sections and subsections. 
+<br><br>The chapters, sections and subsections may be numbered in the decimal form for e.g. Chapter 2, sections as 2.1, 2.2 etc., and subsections as 2.2.3, 2.5.1 etc. 
+<br><br>The chapter must be left or right justified (font size 16).  Followed by the title of chapter centered (font size 18), section/subsection numbers along with their headings must be left justified with section number and its heading in font size 16 and subsection and its heading in font size 14. The body or the text of the report should have font size 12. 
+<br><br>The figures and tables must be numbered chapter wise 
+<br><br>The last chapter should contain the summary of the work carried, contributions if any, their utility along with the scope for further work.
+
+<br><br><b>Reference or Bibliography:</b> The references should be numbered serially in the order of their occurrence in the text and their numbers should be indicated within square brackets for e.g. [3].  The section on references should list them in serial order in the following format. 
+<br>1.	For textbooks – Dr.Paramar S, Welding process and technology, Khanna publishers, New Delhi, 2 Edition, 2003. 
+<br>2.	For papers – Y.Javadi and I.sattari, Welding distortion in pipes, Journal of pressure vessels and piping, Vol 85, Aug 2008, pp 337-343
+<br><br>Only SI units are to be used in the report.  Important equations must be numbered in decimal form for e.g. 
+<br>V = IZ    .....     (3.2)
+<br><br>All equation numbers should be right justified. 
+<br><br>Separator sheets, used if any, between chapters, should be of thin paper
+
+<br><br><b>CIE ASSESSMENT FOR FINAL REVIEW:</b>
+<br><br>1. Information survey and Data collection : 10
+<br>2. Presentation of Literature survey and Data collection : 10
+<br>3. Synopsis : 05
+<br><br><b>TOTAL = 25 Marks</b>
+<br><br><b>Prerequisite for the project work: Industrial Visits</b>

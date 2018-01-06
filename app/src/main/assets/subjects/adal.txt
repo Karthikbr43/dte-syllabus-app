@@ -1,0 +1,56 @@
+<b>Experiments:</b>
+
+<br><br>1.	Sort a given set of elements using Selection sort. Hence find the time and space complexities required to search an element.
+<br><br>2.	Implement DFS to check whether the Roads are connected to different places or not (use Fig 1.1 and Fig 1.3).<br><b><i>[Refer Fig. 1.1] </i></b>
+<br><br>3.	Implement BFS to check whether the Roads are connected to different places or not (use Fig 1.1 and Fig 1.3).
+<br><br>4.	Arrange ten students marks of ADA using Merge sort of Divide and conquer Technique.
+<br><br>5.	Arrange age of n students by Implementing Quick sort using Divide and conquer Technique.
+<br><br>6.	Arrange n students name using Insertion sort.
+<br><br>7.	For the following Graph in Fig 1.2 obtain the topological order in getting dressed by a professor<br><b><i>[Refer Fig. 1.2] </i></b>
+<br><br>8.	Compute the transitive closure (whether the path exists between each cities or not) for the given directed graph in Fig 1.3 using Warshall’s algorithm.<br><b><i>[Refer Fig. 1.3] </i></b>
+<br><br>9.	Find out the shortest path from each area to all the remaining areas in Fig 1.3 using all pairs shortest path algorithm of Floyd’s.
+<br><br>10.	A ship can carry up to 50 ton of load. If we have the following items to load with the respective profits, find out the maximum profit we can get using 0/1 knapsack problem solving algorithm of dynamic programming.
+<br><b><i>[Refer Fig. 1.4] </i></b>
+<br><br>11.	Find minimum cost spanning tree of a given undirected graph in Fig. 1.5 using Prim’s algorithm.<br><b><i>[Refer Fig. 1.5] </i></b>
+<br><br>12.	Find minimum cost spanning tree of a given undirected graph in Fig. 1.5 using Kruskal’s algorithm.
+
+<b>Reference Books:</b>
+
+<br><br>1)	Introduction to the design & Analysis of Algorithms by Anany  Levitin.
+<br>2)	Fundamentals of computer Algorithms by Ellis Horowitz Sartaj Sahani Sanguthevar Rajasekaran.
+<br>3)	Analysis and Design of algorithms by A.M. Padma reddy.
+<br>4)	http://www.personal.kent.edu/~rmuhamma/Algorithms/algorithm.html
+<br>5)	http://www.slideshare.net/VinayChinnappaReddy/ada-complete-notes
+<br>6)	http://www.just.edu.jo/~basel/algorithms/Algo%20Slides/algo_ch22_graph_part3.pdf
+<br>7)	http://www.dfs.de/dfs_karriereportal/en/Career/Pupils/Life%20on%20the%20DFS%20Cas/
+<br>8)	http://www.guru99.com/how-to-crack-password-of-an-application.html
+<br>9)	http://resources.infosecinstitute.com/10-popular-password-cracking-tools/
+
+<br><br><b>Student Activity</b>
+<br><br><b>Note:</b> The following activities or similar activities for assessing CIE (IA) for 5 marks (Any one)
+
+<br>1.	GPS Navigation systems
+<br>2.	Computer Networks
+<br>3.	Web Crawlers
+<br>4.	Facebook
+<br>5.	Getting Dressed
+<br>6.	Life on the DFS campus
+<br>7.	Crack Password an application of brute force method
+<br>8.	Parallelism
+<br>9.	Memory access
+<br>10.	Round off control
+<br>11.	Recursion
+<br>12.	Explicit stack
+<br>13.	Stack size
+<br>14.	Virtual Machines Migration based on Greedy Algorithm in Cloud Computing
+<br>15.	Back tracking linux
+<br>16.	Back tracking for Flow-shop
+<br>17.	Digital Forensic analysis using backtrack
+
+<b>Scheme of Valuation for SEE:</b>
+
+<br><br>1.	Writing  two programs :	10+10=20
+<br>2.	Executing any one program with result :	20
+<br>3.	Viva Voice : 10
+
+<br><br><b>TOTAL = 50 Marks</b>

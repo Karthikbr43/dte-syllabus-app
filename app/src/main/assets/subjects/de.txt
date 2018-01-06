@@ -1,0 +1,50 @@
+UNIT – I: IC Logic families
+IC logic families- definition. Definitions- threshold voltage, propagation delay, power dissipation, noise margin, logic voltage level, fan-in, fan-out, speed, operating temperature, positive and negative logic. General characteristics- TTL, ECL and CMOS, advantages and disadvantages, Definition- Tri-state logic. IC- definition, advantages of IC over discrete components. 
+<br><b>[04 Hrs] [10 Marks] </b>
+
+UNIT – II: Digital Principles
+Definitions- bit, nibble, byte, word, and parity bit. Number system- definition, types, radix, decimal, BCD, binary and hexadecimal.BCD addition.Binary- addition, subtraction, Multiplication, Division, 1’s and 2’s complement. Hexadecimal- addition, subtraction, advantages. Conversion- decimal to binary and hexadecimal and vice-versa.ASCII, Gray codes, and list applications.
+<br><b>[08 Hrs] [25 Marks] </b>
+	
+UNIT – III: Boolean Algebra and Logic Gates
+Definition- Boolean variable, complement, Boolean function, expression, truth table and Buffer.Boolean Algebra- rules and laws.Logic gates NOT, AND, OR, NAND, NOR, EX-OR- definition, symbol, Boolean equation, truth table and working. De Morgan's theorems- statement and equations.Universal gates- definition, realisation of NOT, OR, AND and EXOR gates. Definitions of SOP and POS terms. Karnaugh’s map up to three variables- Simplification and draw logic diagram.
+<br><b>[09 Hrs] [25 Marks] </b>
+
+UNIT – IV: Combinational Logic Circuits
+<br>Definition. Adders- definition, types. Half adder- block diagram, logic diagram using AND and XOR, truth table and working. Full adder- block diagram, logic diagram using AND, OR and XOR,truth table and working. 
+<br>Multiplexer- definition, block diagram. 4:1 MUX- block diagram, truth table, working, logic diagram using basic gates and applications. DeMultiplexer- definition, block diagram.1:4 DeMUX- block diagram, truth table, working, logic diagram using basic gates and applications.Seven segment display- definition, types, working and applications. 
+<br>Encoders- definition, applications. Priority encoder 10 line to 4 line 74147 IC - pin diagram, truth table and working. Decoders- definition, applications. BCD to 7 segment decoder (7442 IC)- block diagram, truth table and working.
+<br><b>[11 Hrs] [30 Marks] </b>
+
+UNIT – V: Sequential Logic Circuits
+Definition. Definitions- level and edge triggering. Flip flops-definition, types and applications. RS flip flop and clocked RS flip flop- block diagram, truth table, logic diagram using NAND gates and working. JK flip flop- block diagram, truth table, logic diagram using NAND gates and working. Master slave JK flip flop with preset and clear input- block diagram only, truth table and working. D flip flop- block diagram, truth table and working.Shift Registers- definition,types and applications. Four bit SISO, SIPO, PISO and PIPO shift registers using D flip flops- block diagram, truth table and operation. Counters- definition, modulus concept, timing diagram, types and applications.  Four bit decade and binary asynchronous counter- block diagram using JK flip flops, truth table, timing diagramand working. Three bit synchronous up counter- block diagram, truth table, timing diagram and working.
+<br><b>[12 Hrs] [35 Marks] </b>
+	
+UNIT – VI: Digital Interfacing and Memories
+Interfacing- definition. TTL and CMOS interface- switch, LED, relay, motorand solenoid. TTL to CMOS and vice versa.ADC and DAC- definitions, types.Successive approximation ADC- block diagram and operation. Weighted Resistor DAC- block diagram and operation.Memories-definition, types, applications and working of MOS dynamic memory cell.
+<br><b>[08 Hrs] [20 Marks] </b>
+
+<b>Reference Books:</b>
+<br><br>1.	Digital Fundamentals by T. L. Floyd, Pearson International Publications, Ninth Edition, 2000.
+<br>2.	Electronics Principles by Malvino and Leach, Mc. Graw Hill, Third edition. 2000.
+<br>3.	Modern Digital Electronics by R P Jain, Tata McGraw-Hill Education, 2003.
+<br>4.	Digital Electronics: Principles and Applications by R. L. Tokheim, Tata McGraw-Hill Education, 2013.
+<br>5.	Electronics Analog and Digital by I. J. Nagrath, PHI Learning Pvt. Ltd., 2013 Edition.
+<br>6.	Principles of Digital Electronics by K. Meena, PHI Learning Pvt. Ltd., Fourth Printing, 2013.
+
+<br><br><b>E –Learning</b>
+<br><br>1.	https://en.wikipedia.org/wiki/
+<br>2.	https://www.google.co.in/search?sclient=psy-abandsite=andsource=hpandbtnG=Searchandq=JK+flip+flop+using+NAND+gates
+<br>3.	https://www.electronics-tutorials.ws › Sequential Logic
+<br>4.	https://www.circuitstoday.com/flip-flops
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br><b>Note:</b> Any one to be submitted with 2 pages self HAND WRITTEN report
+<br><br>1. Study and prepare a report of different IC packages and mention different scale of integration.
+<br>2. List any 2 applications with diagrams used with ASCII and Gray code each.
+<br>3. List the ICs used for different logic gates with their pin diagram details.
+<br>4. Rig up common anode 7 segment display circuit using Breadboard and IC trainer kit and display 0-9.
+<br>5. List the ICs used for Flip flops, Shift registers, Counters with their pin diagrams.
+<br>6. Prepare a report on TTL and CMOS ICwith pin diagram for interfacing Relays, Motor and Buzzer.
+<br>7. Identification and checking ICs using IC Tester.

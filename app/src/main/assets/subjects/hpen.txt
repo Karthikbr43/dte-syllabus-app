@@ -1,0 +1,66 @@
+UNIT - I: INTRODUCTION TO HEAT POWER ENGINEERING
+Introduction, basic concepts of thermodynamics, definition and units of pressure, temperature, volume, density, specific heat, energy, work, force, power, heat and enthalpy. Fundamentals of thermodynamics - definition and scope, microscopic and macroscopic approaches, thermodynamic systems, control volume, control surface, some practical applications of engineering thermodynamics.
+<br>Thermodynamic properties, intensive and extensive properties. Thermodynamic state, state point, state diagram, path, process, cyclic and non-cyclic process, quasi-static process, reversible and irreversible process, steady and unsteady flow process, definition of equilibrium and its types, diathermic wall, zeroth law of thermodynamics.
+<br><b>FIRST LAW OF THERMODYNAMICS:</b> Joule’s experiment, statement of first law of thermodynamics, Energy, Energy as a property, modes of energy, Steady flow energy equation (without proof).
+<br><b>SECOND LAW OF THERMODYNAMICS:</b> Devices converting heat to work (a) in a thermodynamic cycle, (b) In a mechanical cycle, Devices converting work to heat in a thermodynamic cycle, Kelvin – Planck statement of second law of Thermodynamics, Clausius statement of Second law of Thermodynamics.
+<br><b>ENTROPY:</b> Definition and basic concepts of entropy.
+<br>  -Simple basic problems related to above topics.
+<br><br><b>[06 Hrs] [20 Marks] </b>
+
+UNIT - II: PERFECT GASES
+Laws of perfect gases, Derivation of characteristic gas equation. Universal gas equation, universal gas constant and their relationship with molecular weight of gas. Simple problems.
+<br><b>THERMODYNAMIC PROCESSES:</b> Various thermodynamic processes such as constant volume, constant pressure, constant temperature, hyperbolic, adiabatic, polytrophic and throttling process, Illustration of above processes using line diagram on pressure, volume and temperature scale. Determination of work done, internal energy, heat supplied or rejected, entropy for the above processes. Practical applications of various thermodynamic processes, Simple problems involving above processes.
+<br><br><b>[06 Hrs] [20 Marks] </b>
+
+UNIT - III: GAS POWER CYCLES
+Thermodynamic cycle, types of cycle, Carnot cycle, air standard cycle, assumptions made in while deriving air standard efficiency, Otto cycle, diesel cycle, dual cycle, comparison of Otto, diesel and Dual cycle. Illustration of above cycles using line diagram on pressure, volume, temperature and entropy scale. practical applications of various thermodynamic cycles, simple basic problems involving above topics.
+<br><br><b>[06 Hrs] [20 Marks] </b>
+
+UNIT - IV: AUTOMOBILE ENGINEERING
+Introduction, basic structure of an engine,  basic engine components,  cylinder block, cylinder head, gaskets, cylinder liners, types of cylinder liners, piston and piston pin,  piston rings, types of piston rings, connecting rod, crank shaft, cam shaft, crankcase, engine valves, Flywheel, Governor, Radiator, Dynamometer.
+<br><br><b>[06 Hrs] [20 Marks] </b>
+
+UNIT - V: I C ENGINES
+Introduction, classification, working principle of S I and C I (2S, 4S) engines, spark plug, turbocharger, super charging, scavenging, detonation, knocking, octane number, cetane number, Emission from engines. Alternative fuels for engines.
+<br><b>PERFORMANCE OF I C ENGINES:</b> measurement of power, BP, IP, FP, SFC. Efficiency, mechanical efficiency, BTE, Relative efficiency, Heat balance sheet, simple basic problems involving determination of performance parameters.
+<br><br><b>[06 Hrs] [20 Marks] </b>
+
+UNIT - VI: AUTOMOBILE ACCESSORIES
+Cooling and Lubrication system, necessity of cooling system and lubrication system, air cooling and water cooling, components of water cooling system – fan, radiator, pump and thermostat, functions of carburettor, fuel injection systems, Fuel injection pump, Fuel injectors, working of simple carburettor, CRDI system.
+<br>Principle of friction clutches, constructional details of centrifugal clutch, Necessity for gear ratios in transmission, working of constant mesh gear box, Rear axle, purpose of front axle, necessity of steering system, power steering, necessity of suspension system. Leaf spring and coil spring suspension system, independent suspension for front wheel and rear wheel. Working of telescopic shock absorber, Functions of brakes, working of internal expanding brake, working of disc brake.
+<br><br><b>[06 Hrs] [20 Marks] </b>
+
+<b>Text books:</b>
+
+<br><br>1.	A Text book of Thermal Engineering,	R S Khurmi and J K Gupta, S Chand 
+<br>2.	Engineering Thermodynamics, P K Nag, Tata Mcgraw- Hill 
+<br>3.	Thermal Engineering, P.L.Ballaney, Khanna.Publishers 
+<br>4.	Basic thermodynamics, B K Venkanna and swathi, B V 	PHI Publications
+<br>5.	Basic thermodynamics, R K Hegde and N Murthy, Sapna publications
+<br>6.	Practical Thermodynamics, G D Rai, Khanna Publisher 
+<br>7.	Applied Thermodynamics,	B K Venkanna and swathi, B V PHI Publications
+<br>8	Automobile Engineering vol I and Vol II, Kirpal Singh
+
+<br><br><b>E –Learning</b>
+
+<br><br>a. http://www.nptel.iitm.ac.in/video.php?subjectId=112105123 (IIT-B Video lectures)   
+<br>b. http://www.thermofluids.net/  
+<br>c. http://www.learnerstv.com/Free-Engineering-Video-lectures-ltv301-Page1.htm  
+<br>d. http://www.grc.nasa.gov/WWW/k-12/airplane/thermo.html  
+<br>e. http://www.youtube.com/watch?v=Xb05CaG7TsQ  
+<br>f. http://www.youtube.com/watch?v=aAfBSJObd6Y  
+<br>g. http://www.youtube.com/watch?v=DHUwFuHuCdw  
+<br>h. http://www.youtube.com/watch?v=kJlmRT4E6R0  
+<br>i. http://www.youtube.com/watch?v=GKqG6n6nAmg  
+<br>j. https://youtu.be/zTuzQ7tWgdw
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>1. Visualize and Identify applications of : Laws of thermodynamics, engine accessories and parts.
+<br>2. Prepare charts of Otto, diesel cycle. Tabulate main points of differences between them.
+<br>3. Write the specifications of I.C. Engine and
+<br>4. Arrange visit to any auto workshop
+
+<br><br><b>Note:</b> The activities or similar activities for assessing CIE (IA) for 5 marks (Any one)
+<br>1. Each student should do any one of the following type activity or any other similar activity related to the course and before conduction, get it approved from concerned Teacher and HOD.
+<br>2. Each student should conduct different activity and no repeating should occur	

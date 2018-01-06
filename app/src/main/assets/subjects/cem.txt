@@ -1,0 +1,48 @@
+UNIT - I: Introduction, Raw Material and Calculations
+Definition, history of cement and its applications.
+<b>Raw Materials:</b> Describe Lime, sources of lime, calcinations of limestone, slaking of lime, types of lime and its role in cement. Describe role of Silica, alumina, Iron oxide – their sources of each raw material in the manufacture of cement.
+<b>Batch calculations:</b> Calculation of Lime Saturation Factor (LSF), Alumina Modulus, Silica modulus and their importance.  Describe various phases present in cement with their composition and role in cement.
+<br><b>[08 Hrs] [20 Marks] </b>
+
+UNIT - II: Manufacturing process
+Illustrate Dry Process, Wet Process and Semi-Dry Process of making cement with sequential flow diagram. Describe raw mill grinding, mixing and homogenization. Enumerate the advantages and limitations of different processes.
+<b>Burning:</b>  Describe Constructional aspects of rotary kiln (both wet & dry), types of Pre-calciners, Sketch Showing Cyclone Separators, Pre-heaters. Refractories used in each zone, construction of Burner pipe with sketch & fuel used. Importance of Shape of the Flame, Secondary Air & Coating formation. Discuss the reactions occurring in different Zones during firing.
+<b>Cooling :</b>  Importance of cooling,  illustrate various types of coolers like rotary, grate and planetary coolers.
+<b>Grinding of Clinker:</b> Illustrate the clinker grinding in tube mill & ball mill, study the effect of temperature on gypsum during grinding of clinkers.
+<br><b>[09 Hrs] [25 Marks] </b>
+
+UNIT - III: Hydration
+Describe the hydration & heat of hydration of cement and its various phases C<sub>2</sub>S, C<sub>3</sub>S, C<sub>3</sub>A.  Describe retarding and accelerating of setting time, types of set retarders and set accelerators with examples, Define flash set / quick set and false setting.
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT - IV: Properties & Testing of Cement 
+Illustrate physical testing methods:  Normal consistency, Setting time – Initial and final setting time, Compressive strength, Soundness by Le-chatelier’s and autoclave method and Fineness by Blains air permeability method
+Chemical Testing: Determination of various oxides in cement CaO, SiO<sub>2</sub>, Al<sub>2</sub>O<sub>3</sub>, Fe<sub>2</sub>O<sub>3</sub>, MgO, SO<sub>3</sub>, Insoluble residue and Loss on Ignition
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT - V: Types of Cement
+Generalise  Ordinary Portland cement of different grades (33, 43 & 53) with technical data sheet. Describe Blended cement: Portland Pozzolona cement, Portland slag cement, advantages of blended cement. Describe White cement, Sulphate resisting cement, Oil well cement, Rapid hardening Cement, High alumina cement, Low heat cement, quick setting Cement, hydrophobic cement and IRS-T special grade Cement (53S cement).
+<br><b>[09 Hrs] [25 Marks] </b>
+
+UNIT - VI: Environmental & Safety Measures
+Discuss the pollutants from cement industry & pollution control measures in cement industry. 
+Describe the devices for particulate contaminants like cyclone dust collector, Bag filters, Electrostatic precipitators (ESP’S), Scrubbers or wet collectors. Illustrate control devices for gaseous contaminants like multiple fixed bed absorber, Tray tower, packed tower, surface condenser, contact condenser. 
+<b>Safety aspects:</b> Use of PPE (Personal Protection Equipments) like safety harness, goggles, reflector jacket, masks, thermal insulating gloves etc.
+<br><b>[06 Hrs] [15 Marks] </b>
+	
+<b>Reference Books:</b>
+
+<br><br>1.  Engineering Materials, Rangwala
+<br>2.  Cement technology, Lea
+<br>3.  Advanced cement technology, S.N. Ghosh
+<br>4.  Ceramic and glass materials, James F Shackelford
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>1. Student should collect datasheets of different cement (OPC, PPC, PSC, white cement) available in the market and make a comparative report.
+<br>2. Analyse the phase diagram of CaO-SiO<sub>2</sub> / CaO-Fe<sub>2</sub>O<sub>3</sub>/ SiO<sub>2</sub>-Al<sub>2</sub>O<sub>3</sub> and explain the phases in detail.
+<br>3. Draw the typical plant layout of a cement plant showing all necessary sections and make a report on the same.
+<br>4. Surf the internet /books and gather information regarding the utilisation of blast furnace slag in cement manufacturing.
+<br>5. Student should visit a nearby cement industry & make a report on it.
+
+<br><br><b>Note:</b> Student should prepare hand written report with minimum 2-3 pages and reports should not be copied from earlier batches. And other similar tasks can be assigned.

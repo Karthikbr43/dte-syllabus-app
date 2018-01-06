@@ -1,0 +1,59 @@
+<b>Experiments:</b>
+
+<br><br><b>Hydraulics Lab</b>
+<br><br>1.	Determination of Coefficient of discharge for Rectangular Notch
+<br>2.	Determination of Coefficient of discharge for Triangular Notch
+<br>3.	Determination of Co-efficient of discharge for Trapezoidal Notch
+<br>4.	Determination of Coefficient of discharge for Venturimeter.
+<br>5.	Determination of Coefficient of discharge, Coefficient of contraction, and Coefficient of velocity for Circular Orifice.
+<br>6.	Determination of Loss of Head due to Friction in Pipe line of different diameters.
+<br><br><b>Water Analysis Lab</b>
+<br><br>7.	Collection of Water Samples- Surface, Running and Ground water samples.
+<br>8.	Determination of Turbidity of Water by Jackson turbidity meter / Nephelo Turbidity meter
+<br>9.	Determination of Color of Water.
+<br>10.	Determination of Total solids, Suspended Solids and Dissolved solids of water.
+<br>11.	Determination of hardness- total hardness, Calcium and Magnesium Hardness, Permanent Hardness.
+<br>12.	Determination of pH Value (pH meter method and pH paper) of water sample.
+<br>13.	Determination of Alkalinity and acidity of water sample.
+<br>14.	Determination of Chlorides of water sample.
+<br>15.	Determination of Nitrates of water sample.
+<br>16.	Determination of Calcium of water sample.
+<br>17.	Tests
+<br>18.	Field Visits to water treatment plant and sewerage treatment plant and preparation of Report and Presentation.
+
+<b>Reference Books:</b>
+
+<br><br>1. Hydraulic Lab Manual Compiled – T.T.T.I. – Chennai – 113.
+<br>2. Ghosh and Talapohia– Experimental Hydraulic –Khanna Publishers –New Delhi
+<br>3. Central Public Health EnggOrganisation(CPHEO) water supply Manual 
+<br>4. National environmental engineering Institute (NEERI) water supply manual 
+<br>5. Water supply engineering by-Birdie
+<br>6. Water supply and sewage disposal by – S.K.Garg.
+<br>7. Water supply and sanitary engg. By –Rangawala.
+
+<br><br><b>Student Activity</b>
+
+<br><br>1.	Visit to Water Treatment Plant	
+<br>2.	Visit to Sewerage Treatment Plant
+<br>3.	Visit to a HOUSING Colony and Study of Water Supply and Sewerage System
+<br>4.	Prepare/Download a dynamic animation to illustrate the following: 
+<br>•	Working principle of hydraulic pumps. 
+<br>•	Working of different types of hydraulic devices (applications). 
+<br>•	Download the catalogue of Hydraulic devices. 
+<br>•	Arrange visit to nearby Hydraulic equipment based industries.
+<br>5.	Prepare reagents for conducting graded exercises.
+
+<br><br><b>Note:</b> Following is the list of proposed student activities such as (5 marks for CIE). Each student should submit Field visit report  on any one of the following visits.
+
+<b>Scheme of Valuation for SEE:</b>
+
+<br><br><b>Hydraulics lab</b>
+<br>1.	Writing Procedure /Formulae and Tabular column : 05
+<br>2.	Conduction of  Experiment :	15
+<br><br><b>Water Analysis Lab</b>
+<br>3.	Writing Procedure /Formulae and Tabular column : 05
+<br>4.	Conduction of  Experiment :	15
+<br>5.	Calculation and Result : 05
+<br>6.	Graded exercise + Suggested activity report	: 05
+
+<br><br><b>TOTAL = 50 Marks</b>

@@ -1,0 +1,38 @@
+UNIT I: Welding Arc and consumables
+Definition of an arc,  structure and characteristics, cathode spot, cathode drop zone, arc column, anode and the anode drop zone, Arc efficiency ,Arc blow ,Electrical characteristics of an arc, Types of welding arcs, methods of arc initiation, Role of electrode polarity, Arc stability , coated electrodes, purposes of electrode coatings,  light coated electrodes, heavy coated electrodes, classifications and coding of covered electrodes(heavy coated) for carbon and carbon- manganese structural steel,  welding rods and wires, welding fluxes, shielding gases, other gases ,gas mixtures 
+<br><b>[08 Hrs] [15 Marks] </b>
+
+UNIT I: Arc welding Power source
+Arc welding power sources and its requirement, volt ampere characteristics of a welding power source, external static volt ampere characteristic, constant current characteristics , constant voltage characteristics, selection of a static volt-ampere characteristic for welding process, A.C. power sources, operating principles of welding transformer, requirement of welding transformer, basic types of welding transformer, the high reactance types welding transformer, D.C. welding power source, opposition series generator, rectified D.C. welding power source, SCR welding power source.
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT III: SMAW and SAW
+SMAW Equipment, Weld joint design for SMAW, Welding current , SMAW operations, Metal fusion and weld penetration, Electrode motions, positions in welding,  variants in SMAW process, applications of SMAW,  SAW equipment and materials, electrical circuit and setup for SAW,  SAW process and operation,  process variables, types of joint and edge preparations, preparations for welding, procedure and techniques for automatic sub merged arc welding ,semi automatics submerged arc welding,  applications, variants of SAW
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT IV: Resistance welding
+Introduction,  Basic principles of process,  Resistance spot welding, Spot welding sequence, Welding cycle, welding variables , resistance welding equipment, Machine rating, types of equipment, spot welding electrodes, weld ability , Seam welding, Seam welding electrodes ,Joint design, Application, Variants of resistance seam welding, projections welding, Heat balance, Applications, Variants of projection welding
+<br><b>[08 Hrs] [25 Marks] </b>
+
+UNIT V: Electro Slag Welding and Electro Gas Welding
+Equipment and material of ESW, Power source,  Wire feeder, Electrode guide tube, Retaining blocks,  Welding head and controls, Materials, Electrical circuit and a setup for ESW, ESW operation and technique, Process variables,  Deposition Rates, weld joint design,  weld structure and properties,  Applications, Variants of ESW, Setup and process details of EGW,  Uses
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT VI: Economics in Welding
+Introduction, material preparation, assembly and preheating, welding costs, productions, post- welding operations, scrap allowance, standard time for welding - simple problems and flame cutting.
+<br><b>[06 Hrs] [15 Marks] </b>
+
+<b>Reference Books:</b>
+
+<br><br>1.	Welding principles and practices by Edward R. Bohnart, Mc. Graw Hill Education, 2014.
+<br>2.	Welding and Welding technology, Richard L little, Mc. Graw Hill Education
+<br>3.	Welding processes and technology – Dr. Parmar.R.S
+<br>4.	Welding processes and technology – O.P Khanna
+<br>5.	Foundry, Forming and Welding, P.N.Rao 2nd Edition TMH
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br><b>Note:</b> The following activities or similar activities for assessing CIE (IA) for 5 marks (Any one)
+
+<br><br>1. Make Visit to nearest work shop ,observe the different Arc and Gas, TIG and MIG welding and make a hand written report
+<br>2. Observe the welding shop of your polytechnic and study its specifications and list the general safety.

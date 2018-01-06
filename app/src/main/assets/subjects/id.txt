@@ -1,0 +1,41 @@
+UNIT I: CONVENTIONAL REPRESENTATION
+Standard convention using SP–46 (1988), Materials like Cast Iron, Mild Steel, Brass, Bronze, Aluminum, wood, Glass, Concrete and Rubber. Long and short break in pipe, rod and shaft. Various sections- Half, removed,-Standard convention of Knurling, Splined shafts, and chain wheels-Springs with square and flat ends, Gears, sprocket wheel-Counter sunk & Counter bore.
+<br><b>[09 Hrs] [15 Marks] </b>
+
+UNIT II: DIALS
+Pressure gauge dial, Dial indicators, Tachometer, Ammeter, Voltmeter and Speedometer
+<br><b>[09 Hrs] [15 Marks] </b>
+
+UNIT III: SECTION OF INSTRUMENTS
+Sectional views, Cutting plane line, Type of sections -Full section, Half section, Top half in section, Bottom half in section, Right half in section, Left half in section, Partial or Broken section, Revolved section, Removed section, Offset section and Practice on sectioning of different types of instruments.
+<br><b>[12 Hrs] [15 Marks] </b>
+
+UNIT IV: PRODUCTION DRAWINGS
+Surface roughness, Indication of machining, Symbol showing direction of lay, Roughness grades, Machining allowances, Machining symbols used in industry.
+<br><b>[06 Hrs] [15 Marks] </b>
+
+UNIT V: ASSEMBLY DRAWING OF INSTRUMENTS
+Introduction to the assembly drawing, Steps involved in preparing assembly drawing, Details sequence in assembly, Preparation of details and Assembly of parts with sectional views of Water meter, Dial indicator, Pressure gauge, Wall clock, Parallel rule and Movement holder. (Front, Top and Side views).
+<br><b>[36 Hrs] [70 Marks] </b>
+
+UNIT VI: TRACING AND BLUE PRINTING
+Tracing of the above exercises and Blue printing the same.
+<br><b>[06 Hrs] [-- Marks] </b>
+
+<b>Reference Books:</b>
+<br><br>1. Machine Drawing- N.D.Bhatt, Charotar Publication, Anand
+<br>2. Machine Drawing-Sidheshwar-Tata McGraw Hill
+<br>3. Code of practice for general engineering-IS Code SP 46(1988)- Engineering Drawing Practice for School and colleges
+<br>4. Production Drawing-L.K.Narayanan,P.Kannaich,- New Age International Publication
+<br>5. Computer Aided Engineering Graphics –R.K.Hegde & Niranjan Murthy.
+<br>6. Fundamental of Engineering -K.R. Gopala Krishna Subhas Publishers.
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>1. Select at least four simple measuring instruments. Get them approved by teacher. Measure and sketch them in a drawing sheet with dimensions.
+<br>2. Select at least one simple measuring device, disassemble it in group of 5-6 students, Get them approved by teacher. Measure and sketch them in a drawing sheet with dimensions. Example- assembly of Water meter, Dial indicator etc.
+<br>3. Bring Actual assembly of measuring instrument from workshop/industry, measure dimensions, sketch it and make 2D production drawing for the same.
+
+<br><br><b>Note:</b> The activities or similar activities for assessing CIE (IA) for 5 marks (Any one)
+<br>1. Each student should do any one of the following type activity or any other similar activity related to the course and before conduction, get it approved from concerned Teacher and HOD.
+<br>2. Each student should conduct different activity and no repeating should occur

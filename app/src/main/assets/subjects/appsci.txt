@@ -1,0 +1,106 @@
+UNIT - I : MECHANICS
+<b>Units and Measurements:</b> Definition of unit, types of unit (fundamental and derived)<br><br>
+
+<b>SI units:</b> Definition, Basic and supplementary units, advantages.<br><br>
+
+<b>Measuring Instruments:</b> Vernier calipers, principle and least count, diagram of vernier calipers with labeling the parts. Screw gauge(pitch, ZE, ZC), principle and least count, diagram of  screw gauge with labeling the parts, simple problems.
+
+<br><br><b>Scalars and Vectors:</b> Definition of scalar and vector with examples, representation of a vector, definition of resultant, equilibium and equilibant. Laws of vectors: Statement of law of parallelogram of forces, Converse law of triangle of forces, Lami’s theorem. Deriving an expression for magnitude and direction of resultant of two vectors acting at a point. Resolution of vectors, mentioning rectangular component of resolution of vector. Experimental verification of law of parallelogram of forces, Converse law of triangle of forces, Lami’s theorem. Simple problems on laws of vectors 
+
+<br><br><b>Parallel forces:</b> Types of parallel forces, Moment of force: definition, S.I unit, types and examples. Couple: definition with examples. Moment of a couple. Conditions of equilibium of coplanar parallel forces,  applications. Experimental verification of Conditions of equilibium of coplanar parallel forces using moment bar and simple  problems.
+<br><b>[08 Hrs] [24 Marks] </b><br>
+
+UNIT - II : PROPERTIES OF SOLIDS AND LIQUIDS
+<b>Properties of solids:</b> Definitions of deforming force, elasticity and plasticity, examples for elasticity and plasticity, definition of stress and its types with examples and its S.I unit, definition of strain and its types with examples, elastic limit, Hooke’s law, stress - strain graph with explanation. Modulie of elasticity and its types, derivation of an expression for Young’s modulus of a material. Definition of  Compressibility and factor of safety. Simple problems on stress, strain and Young’s modulus.
+
+<br><br><b>Properties of liquids:</b> Definition of thrust and pressure with S.I units. Derivation of expression for pressure at a point inside the liquid at rest, simple problems. 
+
+<br><br><b>Energy of liquid in motion:</b> Kinetic, Potential energies and Pressure energy in moving liquid. 
+
+<br><br><b>Bernoulli’s theorem:</b> statement and expression (No derivation). Cohesive and adhesive forces, angle of contact. 
+
+<br><br><b>Surface Tension:</b> Definition of surface tension and its S.I unit, factors affecting surface tension, applications of surface tension, capillarity and its applications.
+
+<br><br><b>Viscosity:</b> Types of flow of liquid, definition of stream line flow and turbulent flow, definition of viscosity, expression for coefficient of viscosity, experimental determination of coefficient of viscosity of water, effect of temperature on viscosity. List of applications of viscosity. Simple problems.
+<br><b>[10 Hrs] [27 Marks]</b>
+
+UNIT - III: HEAT AND PROPERTIES OF GASES		
+<b>Concept of heat and temperature:</b> Definitions of heat and temperature with S.I units, definition of Specific heat of substance with S I unit, equation for specific heat of a substance (no derivation).
+
+<br><br><b>Transmission of heat:</b> Definitions of conduction, convection and radiation with examples, definition of thermal conductivity, derivation of co-efficient of thermal conductivity(K) and its S.I unit. Applications of conduction, convection and radiation, simple problems on K.
+
+<br><br><b>Gas laws:</b> Statement of Boyle’s law, Charle’s law, Gay-Lussac’s law, derive the relation between them (PV=nRT), definition of Cp and Cv ,relation between them (Mayer’s equation no derivation), simple problems on Boyle’s law and  Charle’s  law.
+
+<br><br><b>Thermodynamics:</b> Definition of  thermodynamics, Laws of thermo dynamics: Zeroth law, Ist law and IInd law (only statement), types of thermodynamics process: isothermal process, adiabatic process.
+<br><b>[07 Hrs] [20 Marks]</b>
+
+UNIT - IV: WAVE MOTION		
+<b>Simple Harmonic Motion:</b> Definition of periodic motion with example, definition of Simple Harmonic Motion, representation of S.H.M with respect  to particle in circular motion, derivation of displacement of a particle executing S.H.M. Definitions of period, frequency, amplitude, in case of vibating particle.
+
+<br><br><b>Wave:</b> Definition of wave, wave period(T), wave frequency (n or f), wave amplitude (a), wave length(λ) and wave velocity (v) in case of wave motion. Derive the relation between v, n and λ.  simple problems.
+
+<br><br><b>Types of waves:</b> Mechanical and Non mechanical waves with examples. Definition of longitudinal and transverse waves, differences. 
+
+<br><br><b>Propagation of sound waves in air:</b> Newton’s formula for the velocity of sound in air and Laplace’s correction to it, various factors affecting velocity of sound in air. Simple problems.
+
+<br><br><b>Vibations:</b> Free vibations, Forced vibation, Damped vibations and Un-damped vibations with examples. Resonance with examples. Laws of transverse vibations of stretched string, derivation of equation for fundamental frequency of vibations of stretched string. Simple problems. Experiment to determine the unknown frequency of a given tuning fork by absolute and comparison methods using sonometer.
+
+<br><br><b>Stationary waves:</b> Formation of stationary waves and their characteristics. Experimental determination of velocity of sound in air by using resonance air column apparatus.
+
+<br><br><b>Beats:</b> Formation of Beats, definition of beat frequency, its applications.
+<br><b>[10 Hrs] [32 Marks]</b>
+
+UNIT - V:MODERN PHYSICS 		
+<b>Electromagnetic waves:</b> Definition, generation of electromagnetic waves and their properties.
+
+<br><br><b>Electromagnetic spectrum:</b> Definition, classification and its applications.
+
+<br><br><b>Lasers:</b> Principle and   listing the types of Laser, properties of Laser, applications.
+
+<br><br><b>Nano-Technology:</b> Definition of Nano-Technology, advantages and dis-advantages of nano-Technology. 
+
+<br><br><b>Advance Communication Systems:</b> Basic elements of communication systems with block diagram, List commonly used terms in electronic communication systems. 
+
+<br><br><b>Satellite communication:</b> Introduction, advantages and disadvantages, 
+
+<br><br><b>Optical fiber:</b> principle and applications.
+<br><b>[07 Hrs] [20 Marks]</b>
+
+UNIT - VI: INDUSTRIAL CHEMISTRY
+<b>Electrolysis:</b> Definition of electrolyte, types of electrolytes with examples, definition of electrolysis. Arrhenius theory of electrolytic dissociation. Mechanism of Electrolysis. Faradays laws of Electrolysis: state and explain.
+
+<br><br><b>Corrosion:</b> Definition, necessary conditions for corrosion, electrochemical theory of corrosion, list the preventive methods of corrosion.
+
+<br><br><b>Batteries:</b> Basic concept, classification and applications of batteries.
+
+<br><br><b>Fuel cells:</b> Definition, mentioning the types and advantages.
+
+<br><br><b>Metallurgy:</b> Definitions of minerals, ore, flux, slag, alloys.  Purpose of making alloys, composition and uses of alloys.
+
+<br><br><b>Polymers:</b> Definition and classification of polymers, methods of polymerization and applications.
+
+<br><br><b>Composite materials:</b> Definition, types, advantages and dis-advantages of composite materials.
+
+<br><br><b>Solutions:</b> Definition of solute, solvent, solutions. Saturated and unsaturated solutions, concentration of solutions:  normal, molar and molal solutions, simple problems on concentration of solution. 
+
+<br><br><b>pH Value:</b>  Hydrogen ion concentration and concept of pH, definition of pH of solution,  pH scale, applications of pH in  different fields.
+<br><b>[10 Hrs] [30 Marks]</b>
+
+<b>Reference Books:</b>
+
+<br>1.	Principle of physicsfor class XI  and XII by V.K.Mehata and Rohit Mehta, as per Karnataka state PUC syllabusS.Chand and Company, New Delhi 
+<br>2.	Engineering chemistry for Diploma  by Ranjan Kumar Mahapatra (PHI Learning Pvt. Ltd., New Delhi)
+<br>3.	Basic Physics by Kongbam Chandramani Singh  (PHI Learning Pvt. Ltd., New Delhi)
+<br>4.	Principle of physics by P.V.Naik (PHI Learning Pvt. Ltd. New Delhi)
+
+<br><br><b>Website:</b>
+
+<br><br>1.	www.rsc.org/Education/Teachers/resources/Inspirational/…/4.3.1.pdf
+<br>2.	www.nanogloss.com/nanotechnology/advantages and disadvantages
+<br>3.	www.freebookcentre.net/physics/ introductory-physics-books.html
+
+<br><br><b>e-books:</b>
+
+<br><br>1.	Introduction to physics – II, Robert P Johnson. 
+<br>2.	Lecture notes physics university of Rochester.
+<br>3.	Text book of Physics poynting J.H Thomson sir J.J.

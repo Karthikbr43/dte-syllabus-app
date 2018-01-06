@@ -1,0 +1,53 @@
+UNIT - I:
+<b>INTRODUCTION:</b> Review of Chemistry fundamentals, Methods of Sampling Gravimetric and Volumetric analysis, Calorimetric methods of water analysis.
+<br><b>CHEMICAL EQUIVALENTS:</b> Atomic Structure, Types of Chemical bonds, Solutions of Equilibrium constants, Standard Solution, Equivalent weight, Normal Solution, Normality, Molarities, Lecheteliers Principle, Solubility Constant, Common ion effect.
+<br><b>ACIDS AND BASES:</b> Acid base equilibrium, pH Indicators, Buffers, Hardness of water.
+<br><b>[13 Hrs] [35 Marks] </b>
+
+UNIT - II:
+<b>OXIDATION AND REDUCTION:</b> Electrochemistry, Electrometric pH measurements, Different types of electrodes used and their significance, Electrode conductivity, Specific conductance, Oxidation reduction potential.
+<br><b>COLORIMETRIC ANALYSIS:</b> Lamberts and beers law, photoelectric colorimeters, Spectrophotometers, Colour comparison tubes, calibration and use, Flame Photometers.
+<br><b>[07 Hrs] [20 Marks] </b>
+
+UNIT - III: 
+<b>ABSORPTION AND ADSORPTION:</b> Difference between absorption and adsorption, Importance of adsorption in environmental Engineering, Use of activated carbon as an adsorbent.
+<br><b>ORGANIC CHEMISTRY:</b> Carbon, Oxygen and Nitrogen Cycles, BOD and COD, Significance of DO, TOD and TOC.
+<br><b>[10 Hrs] [25 Marks] </b>
+
+UNIT - IV:
+<b>COLLOIDAL CHEMISTRY:</b> Meaning and Size, Types of colloids- Lyophillic colloids and Lyophobic colloids, Properties of colloids, Colloidal dispersions in liquids, Colloidal dispersions in air, Differences between colloids and crystalloids. Zeta potential, 
+<br><b>BIO CHEMISTRY:</b> Meaning of enzymes and their importance, Effect of temperature on aerobic and anaerobic bio chemical processes, Effects of pH on biochemical reactions.
+<br><b>[08 Hrs] [25 Marks] </b>
+
+UNIT - V:
+<b>RADIO CHEMISTRY:</b> Isotopes nature of radiation, Units of radio activity, Atomic transactions and Artificial radioactivity, Nuclear fission, and Nuclear fusion, Use of radioactive materials on tracers, Properties of alpha, beta and gamma radiations.
+<br><b>OSMOSIS AND DIALYSIS:</b> Definition and application of osmosis and dialysis.
+<br><b>[08 Hrs] [25 Marks] </b>
+
+UNIT - VI: 
+<b>ENVIRONMENTAL SEGMENTS:</b> Air pollution and Global Environmental change, Environmental segments, earth's radiation balance zone, ozone chemistry, Green house effect, Acid rain.
+<br><b>[06 Hrs] [15 Marks] </b>
+
+<b>Text books:</b>
+<br><br>1)	Chemistry for Environmental Engineers : Clair N Sawyer and Ferry and Mcarty
+<br>2)	Environmental chemistry - A.K.De
+<br>3)	Textbook –Environmental Chemistry: An Analytical Approach by Ken Overway.
+
+<br><br><b>Suggested Student Activity:</b>
+<br>The topic should be related to the course in order to enhance his knowledge, practical skill and lifelong learning, communication, modern tool usage. The following activities or similar activities for assessing CIE (IA) for 5 mark (Any one). Students are suggested to take up the following activities individually or in group not exceeding 5 students..
+
+<br><br>1. Explain why the formula of sodium chloride is Nacl and the formula of calcium chloride is CaCl2.
+<br>2. Both, oxygen and Diamond have same kind of bond, but they have really different properties. Look for their properties in the Internet and explain why they are so different.
+<br>3. How do engineers use acids and bases?
+<br>4. What metals are used most commonly to make expensive jewelry? Where are they found on the activity series? Why are these metals preferred for precious jewelry?
+<br>5. Difference between oxidation and reduction?
+<br>6. How can a light beam that passes through a sample of a given solution help determine its concentration?
+<br>7. Identify and collect different adsorption and absorption material available in our environment.
+<br>8. Calculate COD of a sample of water if 30 mL of the sample consumed 2.8 mL of 0.2 N potassium dichromate solutions?
+<br>9. The permanganate method was the oldest method commonly used in the water industry for COD determination. Nowadays, the dichromate procedure is most widely used instead of permanganate method. Explaining why it is so?
+<br>10. How do greenhouse gases keep us warm?
+<br>11. As the earth warms, more water vapour is introduced into the atmosphere. Explain briefly how this can be viewed as both negative and a positive feedback for global warming.
+
+<br><br><b>Note:</b> 
+<br>1. Students should select any one of the above or other topics relevant to the subject approved by the concerned faculty, individually or in a group of 3 to 5. Students should mandatorily submit a written report and make a presentation on the topic. The task should not be repeated among students. Report will be evaluated by the faculty as per rubrics. Weightage for 5 marks Internal Assessment shall be as follows: (Unsatisfactory 1, Developing 2, Satisfactory 3, Good 4, Exemplary 5)
+<br>2. Reports should be made available along with bluebooks to IA verification officer

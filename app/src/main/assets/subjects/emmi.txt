@@ -1,0 +1,49 @@
+UNIT I: Characteristics and Classification of instruments
+Characteristics of instruments, precision, accuracy, sensitivity, resolution, tolerance, errors, types of errors, classification of instruments, necessity of torque instruments and types.
+<br><b>[04 Hrs] [10 Marks] </b>
+
+UNIT II: Construction and Operation of indicating instruments
+Construction and operation of moving coil, moving iron voltmeter and ammeter, calibration and range extension of voltmeter, ammeter, mention the types, applications, advantages and disadvantages.
+<br><b>[12 Hrs] [35 Marks] </b>
+
+UNIT III: Construction and Operation of Watt meter and energy meter
+Construction and operation of wattmeter, measurement of power by two wattmeter method. Energy meter, Calibration of energy meter, mention the types, applications, errors, advantages and disadvantages.
+<br><b>[08 Hrs] [25 Marks] </b>
+
+UNIT IV: Measurement of Resistance, Inductance and Capacitance
+Measurement of unknown resistance by using wheatstonebridge, Kelvinbridge. Measurement of inductance by using Maxwell’s bridge. Measurement of capacitance by using Schering Bridge.
+<br><b>[04 Hrs] [10 Marks] </b>
+
+UNIT V: Digital meters
+Block diagram and explain operation of Digital frequency meter, digital synchronoscope, digital non contact type tachometer, digital p.f.meter, digital trivectormeter, digital tong tester, digital LCR meter, digital multimeter and voltmeter (only BLOCK DIAGRAMS) and their applications, advantages and disadvantages, comparison with analog meters.
+<br><b>[12 Hrs] [35 Marks] </b>
+
+UNIT VI: Transducers, Sensors and Signal conditioning circuits
+Meaning of transducers, selection of transducers, Need for signal conditioning, block diagram of a.c. and d.c. signal conditioning, applications explain with a circuit diagram, strain gauges LVDT, RVDT, Thermocouple, Pyrometer, Peizo-electric, Opto-sensor, Bolometer for measuring AF and RF power measurements, applications.
+<br><b>[12 Hrs] [30 Marks] </b>
+
+<b>Reference Books:</b>
+<br><br>1. Electrical Measurements and measuring instruments By G.K.BanerjeePHI Publications
+<br>2. Instrumentation and Control by D.Patranabis by PHI Publications
+<br>3. Electrical Measurements and measuring instruments by A.K.SawhneyDhanpatRai   publications
+
+<br><br><b>E –Learning</b>
+
+<br><br>1.https://www.academia.edu/.../A_K.Sawhney-A_course_in_Electrical_and_Elect...
+<br>2.https://en.wikipedia.org/.../List_of_electrical_and_electronic_measuring_
+<br>3.Nptel.iitg.ernet.in › ... › Electrical and Electronic Measurements (Video)
+<br>4.https://www.npl.co.uk/.../beginners-guide-to-measurement-in-electronic-and-ele..
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br>Prepare a self hand-written report of minimum 2 pages on any one of the following:(Each group has to carry out the activity individually and report should be maintained).
+<br>1. Methods adopted for calibration of digital energy meters in ESCOMS.
+<br>2. Standard meters used in nearby industries or substations.
+<br>3. Applications of various digital measuring instruments in a particular industry.
+<br>4. Applications of various transducers in a particular industry. Mention the purpose.
+<br>5. Specifications of various meters.
+<br>6. Specifications of various transducers.
+<br>7. Special meters used for detecting cable faults.
+<br>8. Meggar and Earth tester.
+<br>9. CTs and PTs.
+<br>10. Manufacturing process of digital meters.

@@ -1,0 +1,32 @@
+<b>Experiments:</b>
+
+<br><br>1.	Screen effectiveness and
+<br>2.	Sieve analysis
+<br>3.	Leaf filter
+<br>4.	Plate and filter press
+<br>5.	Batch Sedimentation
+<br>6.	Beaker decantation
+<br>7.	Batch centrifuge
+<br>8.	I.C.I sedimentation
+<br>9.	Air Elutriation
+<br>10.	Air Permeability
+<br>11.	Jaw crusher
+<br>12.	Drop weight crusher
+<br>13.	Ball Mill
+
+<b>Reference Books:</b>
+
+<br><br>1.	UNIT Operations of Chemical Engineering, McCabe and  W.L Smith V Edn., McGrawHill.
+<br>2.	Introduction to Chemical Engineering, Badger, W.L. and Banchero J.T, 3rd Edition, McGraw Hill
+<br>3.	Coulson and Richardson’s Chemical Engineering Vol. 2
+<br>4.	Particulate Technology   and  Separation Processes, Coulson J.M. and Richardson J.F., 4th Edition.
+<br>5.	Perry’s Chemical Engineers’ Handbook, McGrawHill .
+
+<b>Scheme of Valuation for SEE:</b>
+
+<br><br>1.	Procedure : 10
+<br>2.	Conduction : 10
+<br>3.	Calculation and Result : 20
+<br>4.	Viva : 10
+
+<br><br><b>TOTAL = 50 Marks</b>

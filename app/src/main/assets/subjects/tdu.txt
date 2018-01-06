@@ -1,0 +1,69 @@
+UNIT – I: ELECTRIC SUPPLY SYSTEMS
+Definition, components, typical ac power supply scheme, Comparison of DC and AC transmission, Advantages and limitations of High transmission voltage (only list), various systems for power transmission.
+<br>Elements of transmission line, factors for finding the economical transmission voltage, Requirements of satisfactory electric supply. 
+<br><br><b>[04 Hrs] [10 Marks] </b>
+
+UNIT – II: TRANSMISSION MEDIUM
+<b>OVERHEAD LINES</b>: Main components of overhead lines, Conductor materials- properties, commonly used materials, Line supports- properties, commonly used type, Insulators- properties and types, Corona- definition, formation, factors affecting corona, advantages and disadvantages, methods to reduce corona.
+<br>Constants of a transmission line, Skin effect. 
+<br>Classification of overhead transmission lines: voltage regulation and transmission efficiency, Short, medium, and long transmission lines- simple diagrams with explanation.
+<br><b>UNDERGROUND CABLES</b>: Definition, necessary requirements, construction of a 3 conductor cable, Insulating materials for cables- properties, materials. Classification of cables, XLPE cables. Types of cable faults.
+<br><br><b>[08 Hrs] [25 Marks] </b>
+
+UNIT – III: HVDC, FACTS and SUBSTATIONS
+<b>HVDC Transmission and FACTS</b>: Principle of HVDC system operation, advantages of HVDC transmission, Limitations of HVDC transmission, Comparison between EHV-AC and HVDC transmission, Types of DC links – monopolar DC link, bipolar DC link, Homopolar DC link. Ground return, earth electrode and station earth.
+<br>FACTS Controllers- Definition, Objectives, functions of basic types of FACTS.
+<br><b>SUBSTATIONS</b>: Function, points considered while laying out substation, classification, comparison between outdoor and indoor substation, symbols for equipment in substation,
+<br><br><b>[06 Hrs] [15 Marks] </b>
+
+UNIT – IV: POWER DISTRIBUTION
+Definition, single line diagram of low tension distribution system, classification of distribution systems, AC distribution- classification. DC distribution- need and types, Overhead versus underground system, connection schemes of distribution system, requirements of a distribution system, design considerations in distribution system, Ground detectors. 
+<br><b>Distribution Automation</b> - Need, characteristics, functions and benefits.
+<br><b>SCADA</b> - Block diagram, functions and advantages of SCADA.
+<br><br><b>[08 Hrs] [25 Marks] </b>
+
+UNIT – V: ELECTRICAL HEATING, REFRIGERATION AND AIR CONDITIONING		
+<b>ELECTRICAL HEATING</b> - Different types of domestic heating appliances, Types of electric furnaces, Construction and operation of electric furnaces, Temp controlling methods, Special electric material used in electric furnaces, Electric oven - Types and working	
+<br><b>REFRIGERATION AND AIR CONDITIONING</b> - Principles of refrigeration, Working systems of refrigeration, Temp control systems, Criteria for air conditioning, Air conditioning.	
+<br><br><b>[13 Hrs] [35 Marks] </b>
+
+UNIT – VI: ELECTRIC WELDING,  ELECTRO CHEMICAL PROCESS AND  ILLUMINATION
+<b>ELECTRIC WELDING</b>-  principle of electric welding, Properties of electric arc, Welding generator and transformer, Types of electric welding					
+<br><b>ELECTRO CHEMICAL PROCESS</b>- Principles of electro deposition, Electro plating application, Factors affecting Electro plating, Factors governing Electro better electro deposition.
+<br><b>ILLUMINATION</b>- Laws of Illumination and units, Study of different types of lamps and fixtures, Design of lighting for industry, requirement, utilization factors, depreciation factors,
+<br>Problems on illumination design (Industrial and street light)
+<br><br><b>[13 Hrs] [35 Marks] </b>
+
+<b>Reference Books:</b>
+
+<br><br>1.	Principles of Power System” by V. K. Mehta, Rohit Mehta S. Chand Publishers, 4th Revised edition 2008
+<br>2.	Electrical Power Generation Transmission and  Distribution by S.N.Singh, PHI Publication	
+<br>3.	Transmission and Distribution of Electric Power by J.B Gupta Katsons Publications.
+<br>4.	Electric Power Distribution Automation by M.K Khedkar, University Science Press (Laxmi Publications) 
+<br>5.	Power System Operation and Control by Dr.B.R Gupta, S.Chand Publishers.
+<br>6.	Utilisation of Electric power and electric traction by G. C. Garg, Khanna Publishers, New Delhi.
+<br>7.	Utilisation of Electrical Power by R K Rajput, Laxmi Publications Pvt. Ltd, New Delhi.
+
+<br><br><b>e - Links:</b>
+
+<br><br>1.	Magazines-ABB Review-u Pictures of the Future by Siemens 
+<br>2.	www.abb.com/review,www.siemens.com/pof
+<br>3.	 www.newnespress.com
+<br>4.	www.youtube.com/
+<br>5.	https://en.wikipedia.org/wiki/
+<br>6.	www.schenieder.com
+
+<br><br><b>Suggested Student Activity:</b>
+<br><b>Note:</b> Any one to be submitted with 3 pages self HAND WRITTEN report
+<br><br>1.	Visit nearby Power transmission system, study and identify the different parts and submit a report. 
+<br>2.	Prepare a report on new technologies used in OH lines and UG cables.
+<br>3.	Prepare a report on latest trends in power transmission. 
+<br>4.	Prepare a report on VSC-HVDC power transmission. 
+<br>5.	Prepare a report on SCADA vs Distribution automation. 
+<br>6.	Prepare a report on Smart Grid distribution system.
+<br>7.	Prepare a report on latest trends in Heating circuits.
+<br>8.	Prepare a report on latest trends in Welding technology.
+<br>9.	Prepare a report on latest trends in Refrigeration and Air conditioning.
+<br>10.	Prepare a report on latest trends in Electro plating.
+<br>11.	Prepare a report on latest trends in Illumination technologies.
+<br>12.	Visit nearby substation and submit a report. 

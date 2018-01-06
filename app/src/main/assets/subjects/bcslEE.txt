@@ -1,0 +1,61 @@
+<b>Experiments:</b>
+
+<br><br><b>Computer hardware and software:</b>
+<br>1.	Understand and identify Computer front panel switches and back panel connections and physical components of a Computer.
+<br>2.	Create Icons, Folders, Creating/ Opening of file, Editing and saving the document, Copy, Cut and Paste operations on Operating System.
+<br>3.	Install and Use the Utilities like pdf Reader, Zip tool, Audio/ Video players, etc. 
+<br>4.	Install any one Operating System.
+<br>5.	Install and configure Printer and LAN card.
+<br>6.	Create E-Mail account, Send and Check email, Search, Download and Upload an attachment.
+
+<br><br><b>Using Word Processor (select page A4, portrait, with margins):</b>
+
+<br>7.	Create a Business or Personal Letter using Italics, Bold, Fonts, Indent, Paragraph, etc.
+<br>8.	Create a Company Letterhead using Tables, Text Box, Picture and Background.
+<br>9.	Create a Simple Newsletter using 2 columns, Drop Cap, Pictures, etc.
+<br>10.	Create a Resume or Curriculum Vitae using Bullets, Lines, Tables, etc.
+<br>11.	Create an Invitation/ Greeting card. 
+<br>12.	Create the Cover page of a Project Report using Word Art, insert Picture Image.
+
+<br><br><b>Using Spread sheet:</b>
+
+<br>13.	Create a worksheet with ten columns, each column for Sl. No., Register No., Student Name, and one column for each Course, enter ten student records and find the sum of all columns and rows using sum feature.  
+<br>14.	Create a worksheet containing the pay details of employees (containing Basic pay, DA, HRA, Medical allowance, with Deductions- PF, PT, Insurance) and find Gross and Net salary using different formulas.
+<br>15.	Create a results sheet containing Candidate's Register No., Name, Marks for all Courses, Total Marks, Percentage and Result. Result must be calculated as below:
+<br>Distinction if Total Percentage >= 70 %
+<br>First Class if Total Percentage > = 60 % and < 70 %
+<br>Second Class if Total Percentage >= 50 % and < 60 %
+<br>Pass if Total Percentage >= 35 % and < 50 % provided the candidate has secured at least 35 marks in each Course or Fail otherwise.
+<br>16.	Create a Simple Bar Chart and Pie Chart to highlight the sales of a company for three different periods, also give different colours and legends.
+
+<br><br><b>Using Presentation Tool:</b>
+<br>17.	Create a Presentation consisting of 6 slides about Computer hardware, Software, Peripheral devices (including Input and Output devices).
+<br>18.	Create automated/ slide transition Presentation of six slides with timings and animation about Sources of Electrical Energy, Advantages and Applications.
+
+<b>Reference Books:</b>
+
+<br><br>1.	Computer Fundamentals Concepts, Systems, Application by D. P. Nagapal, S. Chand Publications, RP-2014, ISBN: 81-219-2388-3.
+<br>2.	Fundamentals of Computers by V. Rajaraman and Neeharika Adabala, PHI Publications, 2015 Edition.
+<br>3.	http://www.tutorialsforopenoffice.org/
+<br>4.	http://www.libreoffice.org/get-help/documentation/
+
+<br><br><b>Student Activity</b>
+
+<br><br>1.	Mini project on Computer hardware and Software.
+<br>2.	Identify the faulty part in the PC and replace the same for its working.
+<br>3.	Mini project on Super Computer and Server System.
+<br>4.	Mini project on Computer configurations with different makes/ Manufacturer
+<br>5.	Mini project on DTP using Computers.
+<br>6.	Mini project on Computers available in the Institute with complete configurations. 
+<br>7.	Applications of Computers in Engineering field.
+
+<br><br><b>Note:</b> Any one to be submitted with 3 pages report
+
+<b>Scheme of Valuation for SEE:</b>
+
+<br><br>1.	Exercise on Computer Hardware or Software :	10
+<br>2.	Exercise on Word / presentation	: 15
+<br>3.	Exercise on spreadsheet	: 15
+<br>4.	Viva-voce :	10
+
+<br><br><b>TOTAL = 50 Marks</b>

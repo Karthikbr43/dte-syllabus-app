@@ -1,0 +1,56 @@
+Unit – I: Tutorials and Graded Exercises
+
+1.	Familiarization of precautions to be taken  while using  instruments like multimeter, ammeter, voltmeter, signal generator, CRO, Regulated power supply etc.
+<br><br>2.	Identification of semiconductor devices and their leads like transistor, FET, DIAC, TRIAC, diode, UJT, SCR etc.
+<br><br>3.	Testing of devices(diode, transistoretc)  using multimeter
+<br><br>4.	Familiarization of any simulation software (preferably open source) 
+<br><br>5.	Determination of knee voltage and forward dynamic resistance of a junction diode
+<br><br>6.	Determination of the Reverse Characteristic curve of  Zener diode
+<br><br>7.	Demonstration of Zener diode as a  voltage regulator 
+<br><br>8.	Determination of the input characteristics of BJT in CE configuration.
+<br><br>9.	Determination of the output characteristics of BJT in CE configuration and calculation of ‘β’.
+<br><br>10.	Determination of the input characteristics of BJT in CB configuration.
+<br><br>11.	Determination of the output characteristics of BJT in CB configuration and calculation of ‘α’.
+<br><br>12.	Determination of the reverse characteristics of a Photodiode.
+<br><br>13.	Determination of the output characteristics of   Photo Transistor.
+<br><br>14.	Determination of the Transfer characteristics of enhancement MOSFET and determine threshold voltage
+<br><br>15.	Demonstration of  BJT as a switch to control LED 
+<br><br>16.	Demonstration of MOSFET as a switch to control LED 
+<br><br>17.	Determination of the V-I Characteristics of UJT.
+<br><br>18.	Determination of the  V-I Characteristics of SCR.
+<br><br>19.	Determination of the V-I Characteristics of DIAC
+<br><br>20.	Determination of the V-I Characteristics of TRIAC
+<br><br>21.	One open-ended experiment of similar nature and magnitude of the above
+
+Unit – II: Project Activities [CIE- 05 Marks]
+
+1. Collect specification and prepare charts displaying symbols of semiconductor devices (At least 10 devices and at least 10 variants in each category).
+
+<br><br>2. Open-ended activity like
+<br>(i)	Obtain characteristics of a diode under simulated environment and determine knee voltage, forward and reverse dynamic resistance and PIV.
+<br>(ii) Create a circuit to blink two LEDs alternatively with a noticeable delay.
+<br>(iii) Any other such activities that can contribute for the student’s knowledge in respect of this course.
+
+<br><br><b>Execution Mode</b>
+<br><br>1.	Maximum of 4 students in each batch for project activity.
+<br>2.	Project activity 1 and 2 are mandatory for every batch. 
+<br>3.	Project activities shall be carried out throughout the semester and present the project report at the end of the semester. 
+<br>4.	Report-size shall be qualitative and not to exceed 10 pages; one report per batch.
+<br>5.	Each of the activity can be carried out off-class; however, demonstration/presentation should be done during laboratory sessions. 
+<br>6.	Assessment shall be made based on quality of activity, presentation/demonstration and report.
+
+<b>Reference Books:</b>
+
+<br><br>1.	Electronics laboratory primer, S. Poorna Chandra, B.Sasikala, S. Chand Technical Publication. ISBN 81-219-2459-6
+<br>2.	Fundamentals of Electronic Devices and Circuits Laboratory Manual ,David A. Bell Oxford University Press, ISBN 978-0-19-542988-6
+<br>3.	Electronic Devices,Thomas L Floyd,ISBN10:  8177586432
+	
+<b>Scheme of Valuation for SEE:</b>
+
+<br><br>1.	Identification of semiconductor and their pins/ Testing of device functionality etc. :	05
+<br>2.	Writing circuit diagram and procedure of one experiment	: 10
+<br>3.	Conduction : 20
+<br>4.	Result : 05
+<br>5.	Viva-voce : 10
+
+<br><br><b>TOTAL = 50 Marks</b>

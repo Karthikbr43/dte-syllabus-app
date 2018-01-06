@@ -1,0 +1,47 @@
+<b>Experiments:</b>
+
+<br><br><b>I-Parameters of water</b>
+
+<br>1.	Evaluate the acidity of water sample.
+<br>2.	Calculate the alkalinity of water sample
+<br>3.	Estimate the total dissolved solids in water sample.
+
+<br><br><b>II-Parameters of soap</b>
+<br>4.	Point out the Moisture content in the soap sample.
+<br>5.	Appraise he Percentage of fatty matter content in the soap sample by wax cake method.
+<br>6.	Test the Moisture content in grease.
+
+<br><br><b>III-Parameters of oil</b>
+<br>7.	Estimate the saponification value of oil sample.
+<br>8.	Evaluate the iodine number of oil sample.
+<br>9.	Analyse the acid value of oil sample.
+<br>10.	Test the flash point and fire point of oil sample.
+<br>11.	Test the pour point and cloud point of oil sample
+
+<br><br><b>IV-Instrumental analysis of oils</b>
+<br>12.	Determine the viscosity co-efficient of oil sample using Ostwald’s viscometer.
+<br>13.	Calculate the viscosity co-efficient of oil using Redwood viscometer.
+<br>14.	Examine the specific gravity of oil sample.
+
+<br><br><b>V-Open-ended experiments</b>
+<br>15.	Estimate the percentage of ammonia content in the nitrogenous chemical fertilizer ammonium sulphate.
+<br>16.	Analyse the cement sample to determine total percentage of calcium oxide and magnesium oxide present in the sample.
+<br>17.	Assess the calorific value of solid/liquid fuel sample using bomb calorimeter.
+<br>18.	Conduct proximate analysis of coal with respect to moisture content, volatile matter and ash content.
+
+<b>Reference Books:</b>
+<br><br>1.	Vogel`s Inorganic Qualitative and Quantitative Analysis.
+<br>2.	Practical chemistry By O.P.Pande. & others.
+<br>3.	Qualitative and quantitative analysis by Alex 
+<br>4.	Instrumental methods of analysis by Willard D & Merits
+<br>5.	Instrument methods of analysis Chathan & Sharma
+
+<b>Scheme of Valuation for SEE:</b>
+
+<br><br>1.	Identification of  apparatus/equipments/ chemical compounds/ tools/ etc. : 05
+<br>2.	Writing  Procedure : 10
+<br>3.	Conducting of experiment : 20
+<br>4.	Results	: 05
+<br>5.	Viva-voce : 10
+
+<br><br><b>TOTAL = 50 Marks</b>

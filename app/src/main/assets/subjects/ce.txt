@@ -1,0 +1,54 @@
+UNIT-I: Introduction to Control Systems
+Introduction, Open loop control system,, Closed loop control system, Development of control systems, Multivariable control system, Advantages of control systems
+<br><b>[04 Hrs] [10 Marks] </b>
+
+UNIT-II: Modeling of Physical Systems
+Physical system, Physical model and Mathematical model, Differential equations: Mechanical translational system, Mechanical rotational system, Thermal system, Liquid level system, Analogous systems (Force-Voltage and Force-Current)       																                    8 Hours
+<br><b>[08 Hrs] [20 Marks] </b>
+
+UNIT-III: Transfer functions, Block diagrams and Signal flow graphs
+Introduction to Laplace transform, Definition of Laplace transform, Inverse of Laplace transform, Laplace transform theorems, Laplace transform pairs, Transfer function, Procedure for deriving transfer functions, Block diagram algebra, Block diagram of a Single-input closed-loop system, Signal flow graphs: Signal flow graph of a closed-loop system, Construction of signal flow graph, Mason’s Gain formula (only definition and equation)
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT-IV: Time response of feedback control systems
+Transient response and Time response of control system, Standard test signals: Step signal, Ramp signal, Parabolic signal, Impulse signal, Time response of first-order systems for step-signal, Time response specifications, Performance indices for step response, Compensations in second and higher order systems (PD, PI and PID controller), Lag-Lead Compensation	
+<br><b>[08 Hrs] [20 Marks] </b>
+
+UNIT-V: Stability – concepts and analysis and Root Locus Techniques
+Concept of stability, Relative stability, Conditions for stability, methods determination of stability of linear continuous data system (without involving root solving) of Routh-Hurwitz stability criterion, Introduction to Root locus concept, Construction of Root loci, Construction rules, Breakaway points on real axis – analytical approach, Breakaway points on real axis – graphical approach, Breakaway directions of Root locus branches, Determination of roots from Root locus, Root contours
+<br><b>[12 Hrs] [35 Marks] </b>
+
+UNIT-VI: Frequency response and analysis
+Introduction to Frequency response specifications, Polar plots, Bode plots, General procedure for constructing Bode plots, All-pass and Minimum-phase systems, Log-magnitude versus phase plots
+<br><b>[10 Hrs] [30 Marks] </b>
+
+<b>Reference Books:</b>
+<br><br>1. I.J. Nagarath and M. Gopal, “Control Systems Engineering”, 5th edition, New Age International, New Delhi, 
+<br>2. Benjamin C. Kuo and Farid Golnaraghi, “Automatic Control Systems”, 8th edition, Wiley India, New Delhi
+<br>3. Katsuhiko Ogatta, “Modern Control Engineering”, 4th edition, Pearson Education, Bangalore, 
+<br>4. Schaum’s Outline of Feedback and Control Systems
+<br>5. S N Verma, “Automatic Control System”, Khanna Publishers
+
+<br><br><b>Website:</b>
+<br><br>1.	http://www.site.uottawa.ca/~rhabash/ELG4152LN01.pdf
+<br>2.	https://www.ent.mrt.ac.lk/~rohan/teaching/EN2142/Reading/DORFCH1.pdf
+<br>3.	http://www.electrical4u.com/signal-flow-graph-of-control-system/
+<br>4.	http://ocw.nctu.edu.tw/upload/classbfs1209114844102343.pdf
+<br>5.	https://www.maplesoft.com/content/EngineeringFundamentals/11/MapleDocument_11/Block%20Diagrams,%20Feedback%20and%20Transient%20Response%20Specifications.pdf
+<br>6.	http://lpsa.swarthmore.edu/Root_Locus/RLocusExamples.html
+<br>7.	https://www.youtube.com/watch?v=CRvVDoQJjYI
+<br>8.	http://www.me.ust.hk/~mech261/index/Lecture/Chapter_7.pdf
+<br>9.	https://www.facstaff.bucknell.edu/mastascu/eControlHTML/Freq/Freq5.html
+<br>10.	https://www.facstaff.bucknell.edu/mastascu/eControlHTML/Freq/Freq5.html
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>1. Prepare root locus for given problems
+<br>2. Prepare bode plot for given problems
+
+<br><br><b>Note:</b> 
+
+<br>1. Group of max four students should do any one of the above activity or any other similar activity related to the course COs and get it approved from concerned Teacher and HOD. 
+<br>2. No group should have activity repeated or similar 
+<br>3. Teacher should ensure activities by different groups must cover all COs 
+<br>4. Teacher should asses every student by using suitable Rubrics approved by HOD

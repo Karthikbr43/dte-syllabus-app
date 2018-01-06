@@ -1,0 +1,65 @@
+UNIT I: Introduction to Ceramic Products and Processing
+Definition, Classification, properties and application of following traditional and advanced ceramic products with examples. 
+<br>a. Traditional Ceramics – White wares (terracotta, earthenware, stoneware and porcelains), cements, glass, refractories, abrasives. 
+<br>b. Advanced Ceramic products – Electrical and Electronic, Magnetic, Mechanical, Special Refractories, Optical, Chemical, Bio-Ceramics and Nuclear Ceramic Products. 
+<br><b>[06 Hrs] [15 Marks] </b>
+
+UNIT II: Additives
+Define and briefly explain the role with examples - Surfactants, Water, Organic Liquids, Flocculants and Deflocculants, Binders, and Plasticizers, foaming and antifoaming agents, lubricants and preservatives. Study the thixotropic characters.
+<br><b>[08 Hrs] [20 Marks] </b>
+
+UNIT III: Batch Preparation
+Definition of batch preparation, Dry mix and Wet mix. Demonstrate methods of body preparation by dry and wet method, State and list the uses of Brongniart’s Formulae, Describe Defects and Remedy in Dry mix. Enumerate the advantages and disadvantages of dry and wet method. Explain Weathering, Ageing and Souring of body’s, Tempering and Pugging (ordinary and deairing). 
+<br><b>[08 Hrs] [25 Marks] </b>
+
+UNIT IV: Forming
+Illustrate the shaping process with sketches and constructional features of machinery for following process: 
+<br>a. Plastic Shaping –Hand moulding with potter’s wheel, Jiggering and Jolleying, 
+<br>b. Semi-plastic Shaping - pressing, extrusion, injection moulding and turning. 
+<br>c. Dry Pressing - study the Particle packing characteristics, outline the important parameters of pressing (powder, die and pressure characteristics), explain stages in pressing. Types of presses: Toggle press, Fly press/screw press, Friction press, Hydraulic press, Isostatic press and Hot isostatic press. 
+<br>d. Casting - Slip casting (solid, hollow and Core) and Tape casting. Explain Surface finishing methods - Trimming, Smoothening, Grinding, Blanking, Punching and Laminating. 
+<br><b>[15 Hrs] [45 Marks] </b>
+
+UNIT V: Drying and Firing
+Definition, mechanism of drying, classification of driers based on heat source, type of material (raw material / Product), list various driers, mode of operation. Describe Firing, biscuit firing, glost firing, sintering, vitrification and stages of firing. List various furnaces and kilns with their field of application. Discuss the general constructional features of drier and furnace.
+<br><b>[09 Hrs] [25 Marks] </b>
+
+UNIT IV: Process flowcharts
+Illustrate and explain general Manufacturing Process (dry and wet) of Ceramic Products with flow chart. 
+<br>Describe the following process with flow diagram - Bone china plates by jiggering, Ceramic cups by jolleying, Terracotta roofing tile by pressing, Insulators by turning, Wash basins by slip casting, Refractories by semi-dry pressing, Floor tiles by dry pressing, Substrates by tape casting, Spark plugs by isostatic pressing.
+<br><b>[06 Hrs] [15 Marks] </b>
+
+<b>Reference Books:</b>
+
+<br><br>1. White wares, Sudhir Sen 
+<br>2. Indian Pottery, Mirmira
+<br>3. Industrial Ceramics,	Singer and Singer
+<br>4. Introduction to Ceramics, W D Kingrey
+<br>5. Mineral Processing, S K Jain
+<br>6. Ceramic Processing, James Reed
+
+<br><br><b>E –Learning</b>
+
+<br><br>1.	http://www.britannica.com/art/whiteware
+<br>2.	http://www.ceramicindustry.com › Topics
+<br>3.	http://www.minerals.net/
+<br>4.	http://www.mineralminers.com/
+<br>5.	http://www.webmineral.com
+<br>6.	http://www.geology.com/
+
+<br><br><b>Video Links:</b>
+
+<br><br>1. Porcelain Insulator: http://www.youtube.com/watch?v=rpKHxt9o-M0
+<br>2. Sanitary Wares: http://www.youtube.com/watch?v=CAthI2Rigys
+<br>3. Glazed Tiles: http://www.youtube.com/watch?v=EIjE_F026EQ
+<br>4. Spray Drier: http://www.youtube.com/watch?v=0o4ZCjHnaRw
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>1. Visit a nearby ceramic industry and make a report on the product manufactured.
+<br>2. Arrange a guest lecture on ceramic processing and student should make a report on the talk given.
+<br>3. Surf the internet /books and gather information regarding ceramic or vitrified tiles tiles/sanitary/bone china manufacture.
+<br>4. Make a report on how quality of water affects ceramic processing.
+<br>5. Student should prepare a report on Gel Casting/ Tape Casting/ Robo Casting/ Centrifugal casting/ pressure casting / vacuum casting/ investment casting or similar with recent advancements in respective methods
+
+<br><br><b>Note:</b> Student should prepare hand written report with minimum 2-3 pages and reports should not be copied from earlier batches. And other similar tasks can be assigned.

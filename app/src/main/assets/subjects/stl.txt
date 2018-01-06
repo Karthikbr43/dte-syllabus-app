@@ -1,0 +1,37 @@
+<b>Experiments:</b>
+
+<br><br>1.	Understand The Automation Testing Approach (Theory Concept ).
+<br>2.	Using Selenium IDE, Write a test suite containing minimum 4 test cases.
+<br>3.	Conduct a test suite for any two web sites.
+<br>4.	Install Selenium server and demonstrate it using a script in Java/PHP.
+<br>5.	Write and test a program to login a specific web page.
+<br>6.	Write and test a program to update 10 student records into table into Excel file.
+<br>7.	Write and test a program to select the number of students who have scored more than 60 in any one subject (or all subjects).
+<br>8.	Write and test a program to provide total number of objects present / available on the page.
+<br>9.	Write and test a program to get the number of list items in a list / combo box.
+<br>10.	Write and test  a program to  count number of items present on a desktop.
+<br>11.	Open ended Experiment: Mini Project – Not for exam but to compulsory to be included in Record 
+
+<b>Reference Books:</b>
+
+<br><br>1.	Testing in 30+ Open Source Tools, Rahul Shende, Shroff Publishers & Distributor Pvt. Ltd, ISBN 13: 9789350231005 ( page numbers from 15 to 117 )
+<br>2.	http://seleniumhq.org/
+<br>3.	http://sourceforge.net/projects/sahi/
+<br>4.	http://testng.org/doc/index.html
+
+<br><br><b>Suggested list of student activities:</b>
+
+<br><br>1.	Demonstrate any one open source tool for software other than that used in lab exercises 
+<br>2.	Prepare test cases for any software application.
+<br>3.	Quiz
+
+<br><br><b>Note:</b> The activities or similar activities for assessing CIE (IA) for 5 marks (Any one). Each student should conduct different activity and no repeating should occur.
+
+<b>Scheme of Valuation for SEE:</b>
+
+<br><br>1.	Record : 05
+<br>2.	Procedure writing for one program : 10
+<br>3.	Execution with results : 25
+<br>4.	Viva Voice : 10
+
+<br><br><b>TOTAL = 50 Marks</b>

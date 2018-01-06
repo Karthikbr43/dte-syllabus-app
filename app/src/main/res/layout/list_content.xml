@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/simple_list_item">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/unit_name"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:textColor="@color/colorPrimary"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/contents"
+        android:scrollbars="vertical"
+        android:isScrollContainer="true"
+        android:layout_below="@+id/unit_name"
+        android:textIsSelectable="true"
+        android:longClickable="true"
+        android:textColor="@color/text_color"
+        android:gravity="fill_horizontal"
+        android:textSize="17sp"
+        android:linksClickable="true"
+        android:lineSpacingExtra="2sp"
+        android:paddingTop="10dp"
+        android:autoLink="web"
+        android:textColorLink="@color/CornflowerBlue"/>
+
+</RelativeLayout>

@@ -1,0 +1,58 @@
+UNIT – I: EXTRACTION
+Liquid–liquid extraction – Liquid equilibrium – Triangular charts and their use – Liquid system – Choice of solvent for extraction equipments for extraction – Co-current, cross–Current and counter-current extraction (principles only) description of liquid–liquid extraction equipments.
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT - II: LEACHING
+Principles of leaching – Equipment for leaching – Tray thickener - Ballman extractor – Rotocel extractor. 
+<br><b>[08 Hrs] [20 Marks] </b>
+
+UNIT - III: ADSORPTION
+Definition – Principles - Physical adsorption – Chemisorption - Examples – Nature of adsorbents – Adsorption equilibrium – industrial adsorbers - Effect of temperature on adsorption operation. Pressure swing adsorption (PSA) – uses – types – Temperature swing adsorber – 2 bed TSA & 3 bed TSA 
+<br><b>[10 Hrs] [25 Marks] </b>
+
+UNIT – IV: ION EXCHANGE
+Theory of ion exchange – Fundamental principles – Relative affinities of various ions – Ion exchange resins – Resin types – mass transfer resistance in ion exchange – Ion exchange operations – cycle – Mixed bed ion exchange – Applications of Ion exchange
+<br><b>[06 Hrs] [20 Marks] </b>
+
+UNIT – V:  ABSORPTION
+Gas absorption principles – Equilibrium solubility of gases – Ideal and non ideal liquid solution – Henry’s law choice of solvent for absorption – Equilibrium curve and operating line for absorption and desorption system – Tray towers and packed towers for absorption – Absorption factor – Height equivalent of theoretical plate – Statement of equations for calculations of height of absorption tower.
+<br>Packed towers construction and operation – Regulator and random packing – Characteristics of packing – Packing supports – Liquid distributor – Entrainment separator – Loading of packed towers.
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT – VI: SEEPARATION TECHNIQUES
+Novel separations (only basic principles and applications) – Super critical fluid extraction – Perevaporation – Membrane separation – Electrodialysis - Reserve Osmosis – Chromatographic column separation .
+<br><b>[08 Hrs] [20 Marks] </b>
+
+<b>Reference Books:</b>
+<br><br>1.	Unit operations of chemical engineering by W.L.Mc Cabe and J.C. Smith McGraw Hill Book Co.
+<br>2.	Introduction to chemical engineering by W.L.Badger and J.T.Banchero.
+<br>3.	Mass transfer operation by R.E.Treybal. 
+<br>4.	Principles of unit operations by A.S.Foustetal.
+<br>5.	Perry’s Chemical engineer’s hand book.
+<br>6.	Mass transfer operation by K A Gavhane.
+<br>7.	Mass transfer operation by  Kiran D Patil
+
+<br><br><b>e - Links:</b>
+
+<br><br>1.	https://www.youtube.com/watch?v=J3QFoXRoKEg
+<br>2.	https://www.youtube.com/watch?v=h8tFnC4pNGc
+<br>3.	https://www.youtube.com/watch?v=klOKn0anuMg
+<br>4.	https://www.youtube.com/watch?v=mcTQDEVmtZI
+<br>5.	https://www.youtube.com/watch?v=_feJwOwsCzc
+<br>6.	https://www.youtube.com/watch?v=hreAO6Iqraw
+<br>7.	https://www.youtube.com/watch?v=gYnGgre83CI
+<br>8.	https://www.youtube.com/watch?v=Xan22OPTKMQ
+<br>9.	https://www.youtube.com/watch?v=LQfVJ0MvqEo
+<br>10.	https://www.youtube.com/watch?v=JaUpUqMzE30
+<br>11.	https://www.youtube.com/watch?v=aCLMfewkfYE
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>1.	Prepare a report on  types of absorption columns.
+<br>2.	Write a report about extraction equipments..
+<br>3.	Write a report on leaching applications and search out suitable possible solvents for each application.
+<br>4.  Prepare a study report on  construction and working of various  adsorption and ion exchange equipments.
+
+<br><br><b>Note:</b> The activities or similar activities for assessing CIE (IA) for 5 marks (Any one)
+<br>1.	Each student should do any one of the following type of activity or any other similar activity related to the course and before conduction, get it approved from concerned Teacher and HOD.
+<br>2.	Each student should conduct different activity and no repeating should occur

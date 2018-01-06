@@ -1,0 +1,97 @@
+<b>Experiments:</b>
+
+<br><br><b>PART - A</b>
+
+<br><br><b>1.Introduction</b>- Linux Architecture- Shell, Kernel, System calls.
+ <br>Linux installation- Steps for installing Linux Operating System
+ <br>Comparison between Linux and other Operating Systems, Applications of Linux Operating System.
+
+<br><br><b>2.Internal and External commands in Linux.</b>
+<br>	• Internal commands- echo, type, etc.
+<br>	• External commands- ls, cp, mv, rm, cat, etc
+<br>	• Other commands – tput clear, who, cal, date, bc, man, passwd, uname   ( with different options).
+
+<br><br><b>3.Working with files and directories.</b>
+	<br>• Know the categories of files.
+	<br>• Directory related Commands – pwd, mkdir, rmdir, cd, ls
+	<br>• Manipulating Absolute paths and Relative paths using cd command.
+	<br>• File related Commands –  cat, cp, mv, rm, comm, cmp, diff, tar, umask, wc
+
+<br><br><b>4.Basic File attributes.</b>
+	<br>• Listing seven attributes of a file : ls and its options
+	<br>• File Permissions: Absolute and Relative permissions
+	<br>• Manipulating File permissions using chmod command
+	<br>• Manipulating File Ownership using chown command
+	<br>• Manipulating Hardlink and Softlink using ln command
+
+<br><br><b>5.Learn to use vi editor.</b>
+	<br>• Three modes of vi editor.
+	<br>• Input mode commands.
+	<br>• Command mode commands.
+	<br>• Ex mode commands.
+
+<br><br><b>6.Simple Filters</b> – head, tail, cut, paste, sort, uniq, tr, pr.
+<br><br><b>7.Expressions and search patterns</b>   .(dot operator), *, ^, +, ?, grep, egrep, fgrep
+<br><br><b>8.Process Management commands.</b>
+	<br>• Process creation, status, Identifying process,  ps -f and its options, 
+	<br>• Running process in background, Job control, and Process termination.
+	<br>• Changing process priority, scheduling process (Usage of sleep and wait commands)
+
+<br><br><b>9.Introduction to shell programming.</b>
+	<br>• Introduction, Uses of shell script, Shell special characters, comments, command separator, escaping, quoting command substitution.
+	<br>• Creating shell script, Shell identifiers, Shell variables, Destroying a variable, Positional parameters and command line arguments.
+	<br>• Evaluating expressions, Text formatting with echo and tput script termination.
+<br><br><b>10.Shell control structures </b>
+	<br>• if, case, for, while, relational and logical operators,  
+	<br>• Advanced filter – sed and awk.
+<br><br><b>11.Linux system administration</b>
+      <br>Managing file system, Disk management utilities, mounts, umount, df, du, fdisk, su, useradd etc.     
+<br><br><b>12.	Linux Environment </b>
+	<br>Introduction, Environment variables, Command prompt system variables, Profiles, files, terminal variable stty command and its options,   Command history, editing Environment variable.
+
+
+<br><br><b>PART-B</b>
+
+<br><br>13.Write a shell script to display current date, time, username and directory.
+<br><br>14.Write script to determine whether given file exist or not, file name is supplied as command line argument, also check for sufficient number of command line argument
+<br><br>15.Write shell script to show various system configuration like:
+	<br>a)Currently logged user name and his long name
+	<br>b)Current shell
+	<br>c)Your home directory
+<br><br>16.Write shell script to show various system configuration like:
+	<br>a)Your operating system type
+	<br>b)Your current path setting
+	<br>c)Your current working directory
+	<br>d)Show all available shells
+<br><br>17.Write a Shell script to accept any two file names and check their file permissions.
+<br><br>18.Write a Shell script to read a file name and change the existing file permissions.
+<br><br>19.Write a shell script to print current month calendar and to replace the current day number by ‘*’or ‘**’ respectively.
+<br><br>20.Write a C-program to fork a child process and execute the given Linux commands.
+<br><br>21.Write a C-program to fork a child process, print owner process ID and its parent process ID.
+<br><br>22.Write a C-program to prompt the user for the name of the environment variable, check its validity and print an appropriate message.
+
+<b>Reference Books:</b>
+
+<br><br>1.	“UNIX - Concepts and Applications”, Sumitabha Das 4th Edition, Tata McGraw Hill, 2006.
+<br>2.	http://www.freeos.com/guides/lsst/
+<br>3.	http://heather.cs.ucdavis.edu/~matloff/Linux/LinuxInstall.pdf  (Chapter 1, Linux installation).
+<br>4.	http://docs.fedoraproject.org/en-US/Fedora/20/pdf/Installation_Guide/Fedora-20-Installation_Guide-en-US.pdf.
+
+<br><br><b>Student Activity</b>
+
+<br><br><b>Note: the following activities or similar activities for assessing CIE (IA) for 5 marks (Any one)</b>
+
+<br><br>1.	Conduct a survey on the advantages of Linux Operating System and prepare a report of  2 to 3 pages.
+<br>2.	Prepare Report of 2 to 3 pages on Linux Administration.
+<br>3.	Conduct a survey on other editors available in Linux Operating System with their features and prepare a report of 2 to 3 pages.
+<br>4.	Compare the file system in Linux with the file system in Windows and submit a report.
+<br>5.	Conduct a case study on handling various Networking Commands in Linux Operating System and submit a report.
+
+<b>Scheme of Valuation for SEE:</b>
+
+<br><br>1.Write  the  syntax  of  commands with examples from any one exercise from PART-A : 10
+<br>2.Write any one program from PART-B : 10
+<br>3.Execution of PART A commands and PART B Program with result : 10+10
+<br>4.Viva voce : 10
+
+<br><br><b>TOTAL = 50 Marks</b>

@@ -1,0 +1,70 @@
+<b>Experiments:</b>
+
+<br><br>1.	Basics of Auto CAD and User interface.
+<br><br>2.	Introduction to Drawing and Modifying tools and Commands in CAD
+<br><br>3.	Drawing the basic geometric images from command prompt.
+<br><br>4.	Drawing simple 2D sketches of ceramic machinery from the list with proper scale/proportions.
+<br>a)	Refractory shapes
+<br>b)	Porcelain Insulators.
+<br>c)	Jaw crusher.
+<br>d)	Toothed roll crusher
+<br>e)	Ball mill
+<br>f)	Fly Press
+<br>g)	Lab model furnace.
+<br><br>5.	Drawing simple 3D models of ceramic products with 3D operation tools with proper scale/proportions.
+<br>a)	Ash Tray
+<br>b)	Stoneware pipe
+<br>c)	Cup with handle
+<br><br>6.	Attaching materials and applying light effects to give realistic effects to 3D objects.
+<br><br>7.	Basics of Image Editing software’s and User interface.
+<br><br>8.	Image editing tools in the software and familiarisation with terminologies, default settings, colour profiles etc. encountered in image editing software.
+<br><br>9.	Adjust the brightness, contrast and colour balance of the picture so as to give an elegant look.
+<br><br>10.	Using appropriate image editing tools to remove blemishers/glitches from a given photo. (blur, sharpen, smudge, clone, healing brush etc.)
+<br><br>11.	Extract a specific image from a photo and organise it on separate background scenery. (select with feather)
+<br><br>12.	Design a text with different blending effects.
+<br><br>13.	Displaying the given background through some text (using Mask). 
+<br><br>14.	From a colour picture of parrots, make only the background to Black and White.
+<br><br>15.	Design a visiting card containing at least one graphic and text information.
+<br><br>16.	Design a cover page for the book in your subject area in CMYK mode.
+
+<b>Reference Books:</b>
+
+<br><br>1.	http://prodesigntools.com/pdf/Adobe_Photoshop_Elements_9_Guide.pdf
+<br>2.	http://gimp-savvy.com/BOOK/
+
+<br><br><b>eResources:</b>
+<br><br>1.	Open Source Tutors: www.spoken-tutorial.org/
+<br>2.	AutoCAD Notes http://www.cad-notes.com/autocad-articles/
+<br>3.	Manuals http://controlmanuals.com/files/Computing-Software/AutoCAD-p1.html
+<br>4.	CAD Making Cup with handle: https://www.youtube.com/watch?v=3lx_FWEQLag
+<br>5.	Photoshop Video Tutorials https://www.youtube.com/user/pstutorialsws
+<br>6.	Photoshop Video Tutorials https://www.youtube.com/user/NewWorldOps
+<br>7.	Photoshop Basics http://www.photoshoptutorials.ws/category/photoshop-tutorials/basics/
+<br>8.	GIMP Tutorials http://www.gimp.org/tutorials/The_Basics/
+<br>9.	GIMP Video Tutorials https://www.youtube.com/user/GIMPtricks
+
+<br><br><b>Student Activity</b>
+
+<br><br><b>CAD</b>
+<br><br>1.	Draw a specified lab layout (plan/top view) and label the items placed over there.
+<br>2.	Draw the 3D view of the simple ceramic lab equipments with proper scale.
+<br>3.	Draw the 2D sketch of ceramic equipments coming in the subject with correct proportion.
+<br>4.	Draw a 3D view of given ceramic ware with proper dimension.
+
+<br><br><b>Image Editing</b>
+<br><br>5.	Prepare cover page of college magazine of given size.
+<br>6.	Take an old partially damaged photograph and correct it.
+<br>7.	From a given photo except specified object make rest of them black and white.
+<br>8.	Design a beautiful pattern for decorating a floor tile.
+<br>9.	Design a beautiful greeting with photos for printing on a ceramic cup. 
+
+<br><br><b>Note:</b> Students should do two activities each from CAD and Image Editing work, and make a hand written report on the operations done in performing the work and attach the print outs. And similar tasks can be given.
+
+<b>Scheme of Valuation for SEE:</b>
+
+<br><br>1.	Write the description of given drawing / modifying command from CAD or Image Editing software : 05
+<br>2.	Draw a given 2D/3D sketch in CAD : 20
+<br>3.	Design a given work in Image Editing software : 20
+<br>4.	Viva / oral : 05
+
+<br><br><b>TOTAL = 50 Marks</b>

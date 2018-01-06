@@ -1,0 +1,49 @@
+UNIT-I: INTRODUCTION TO AUTOMOTIVE ELECTRONICS
+Meaning of automotive electronics, various electrical components in automobiles, complete electrical circuit diagram of automobiles, simplified vehicle system block diagram, open and closed loop systems in automobiles, color codes and terminal designations, multiplex data bus, CAN.
+<br><b>[05 Hrs] [15 Marks] </b>
+
+UNIT-II: CHARGING AND STARTING SYSTEMS
+<b>Charging systems</b>: Requirements of charging system, principle of charging system, principle of Mechanical Regulators, charging circuits with graphical representation for winter commuting, power management system and smart charge system and Fault conditions.
+<br><b>Starting Systems</b>: Requirements of starting system, general layout starting system design, equivalent circuit for a starter and battery, basic starting circuit, necessity of starter motor, types, pre-engaged starter circuit, integrated starters, features of electronic starter control, Diagnosing starting system faults, Circuit testing procedure.
+<br><b>[11 Hrs] [25 Marks] </b>
+
+UNIT-III: IGNITION AND FUEL CONTROL SYSTEMS
+<b>Ignition systems</b>: Functional requirements of ignition systems, types of ignition system, Advance angle (timing), fuel consumption & exhaust emissions, conventional and electronic ignition components, electronic ignition system, hall-effect pulse generator, closed loop dwell and current limiting, capacitor discharge ignition system, programmed ignition system, Distributor less ignition system.
+<br><b>Electronic fuel Control</b>: Meaning of Combustion, combustion process in spark ignition engine, phenomenon of Detonation, pre-ignition process in engines, fuel injection process in engines, typical control layout of fuel injection system, common fuel injection system, single and multi-point injection system, Diesel fuel injection system, typical electronic diesel control system and common rail fuel injection system.
+<br><b>[11 Hrs] [30 Marks] </b>
+
+UNIT-IV: ENGINE MANAGEMENT SYSTEMS
+Introduction, Lambda, Knock, Idle speed, combined engine and fuel management, ignition and fuel control system, exhaust emission control process in engines, process and techniques of control of diesel emissions and full vehicle control system.
+<br><b>[11 Hrs] [25 Marks] </b>
+
+UNIT-V: CHASSIS ELECTRICAL SYSTEMS
+ABS system, Active suspension system, various sensors and actuators used in chassis system, electronic traction control system, automatic transmission system, active steering system and electronic clutch.
+<br><b>[07 Hrs] [25 Marks] </b>
+
+UNIT-VI: COMFORT AND SAFETY SYSTEMS
+Electric seat adjustment, door locking circuit, door locking system, electric window circuit, airbag system, belt tensioners, Car navigation system, GPS, basic security, reverse sensing and parking aid, wiper mechanisms with different linkage arrangements and electronic control of windscreen wipers.
+<br><b>[07 Hrs] [25 Marks] </b>
+
+<b>Reference Books:</b>
+<br><br>1. “Automobile Electrical and Electronic System ” by Tom Denton , 3rd ed,2004 – ELSEVIER publication
+<br>2. Hillier’s Fundamentals of Automotive Electronics By VAW. Hillier, 2nd edn.
+
+<br><br><b>e - Links:</b>
+<br><br>1. http://www.dailymotion.com/video/xiynbx_car-starting-system-video_auto
+<br>2. http://www.howacarworks.com/basics/how-the-starting-system-works
+<br>3. http://www.procarcare.com/icarumba/resourcecenter/encyclopedia/icar_resourcecenter_encyclopedia_starting1.asp
+<br>4. http://www.autoshop101.com/forms/h8.pdf
+<br>5. https://www.youtube.com/watch?v=umdoG7qdWWs
+<br>6. https://www.youtube.com/watch?v=xtaUkrsJ3Z8
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>1. Visit auto garage/ service station and identify different components/ sensors of automobiles.
+<br>2. Visit any service centre and observe the function of various systems and prepare a report on diagnostic tools.
+
+<br><br><b>Note:</b> 
+
+<br>1. Group of max four students should do any one of the above activity or any other similar activity related to the course COs and get it approved from concerned Teacher and HOD. 
+<br>2. No group should have activity repeated or similar 
+<br>3. Teacher should ensure activities by different groups must cover all COs 
+<br>4. Teacher should asses every student by using suitable Rubrics approved by HOD

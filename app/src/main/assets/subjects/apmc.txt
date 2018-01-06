@@ -1,0 +1,43 @@
+UNIT - I: AIR POLLUTION AND METEROLOGY
+<b>Introduction:</b> Air pollution definition, importance & composition of atmosphere, Sources and classification of air pollutants.
+<br><b>Meteorology and Air pollution:</b> Meteorological factors influencing air pollution, Plume behaviour, Wind rose.
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT - II: EFFECTS OF AIR POLLUTION
+<b>Factor affecting human health:</b> Mechanism of action of air pollutants, Health effects, Effect of specific pollutant on human, Effect of specific pollutant on animals
+<br><b>Effect of air pollutant on plants:</b> Structure of normal leaf, Air pollutants affecting plants, Forms of damage to leaves & injury to plants, Effect of specific air pollutants on plants
+<br><b>Economic effect of air pollution:</b> Mechanism of deterioration of materials by air pollution, Material damage and economical loss due to air pollution, Effect of air pollution on Taj Mahal
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT - III: AIR POLLUTION SAMPLING
+<b>Sampling procedures:</b> Basic consideration for air sampling, Air sampling devices for particulates and gases, Duration and location of sampling kit, List the Sampling methods..
+<br><b>[08 Hrs] [20 Marks] </b>
+
+UNIT - IV: ANYLSIS OF AIR SAMPLES
+<b>Analysis of samples:</b> Factors affecting accurate data, Chemical methods, Instrumental methods. Absorption spectrometric methods, Thermal conductctivity 
+<br><b>[06 Hrs] [15 Marks] </b>
+
+UNIT - V: CONTROL EQUIPMENTS
+<b>Control of air pollution:</b> Objectives of using control equipments Settling chambers, Cyclone, Bag Filters, Electrostatic precipitator, Scrubber, Factors affecting choice of equipment 
+<br><b>[12 Hrs] [35 Marks] </b>
+
+UNIT - VI: AIR POLLUTION IN INDUSTRIES
+<b>Air Pollution from major industrial operations:</b> Cement and Thermal power plants.
+<br><b>Smoke pollution:</b> sources and effects of smoke.
+<br><b>[06 Hrs] [15 Marks] </b>
+
+<b>Reference Books:</b>
+<br><br>1. Air pollution by M.N. Rao and H.V.N. Rao
+<br>2. Air pollution By Henry C. Pekins: Kogakusha
+<br>3. Air pollution by W.C. Faith & Arthurakkinson witen Int
+<br>4. Air pollution by WHO Publication
+<br>5. Air (Presentation & Control of pollution) Act 1981.
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br><b>Note:</b>  The following activities or similar activities for assessing CIE (IA) for 5 marks (Any one)
+<br><br>1.	Student should visit any nearby industries and  Identify the  sources of air pollutants and their  control
+<br>2.	Visit Meteorological department and study the variables used for measuring meteorological parameters
+<br>3.	Student should visit any nearby Hospital and investigate the health effects due to air   pollution.
+<br>4.	Student should visit any nearby horticulture Nursery and investigate the effects due to air   pollution on plants
+<br>5.	Write a report on air pollution control equipments used in cement industries

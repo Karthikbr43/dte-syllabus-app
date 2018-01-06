@@ -1,0 +1,39 @@
+UNIT I:SOILS
+Definition of soil and its functions, Soil Phases- Solid, Liquid Phase, Gaseous Phase, Properties of Soil -Physical Properties of Soil, Soil/Irritability Classification, Soil Water or Soil Moisture, Soil Classification , Major Soils of India -Alluvial Soils, Black Soils, Red Soils, Laterites and Lateritic Soils (Ultisols, Oxisols, Alfisols),  Desert Soils (Aridisols, Entisols), Tarai Soils (Mollisols), Saline and Sodic Soils (Aridisols, Inceptisols, Alfisols, Entisols, Vertisols) , Acid Soils 
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT II:SOIL SURVEY AND LAND CAPABILTY
+Definition ,objectives, uses of soil survey, types of soil survey, soil mapping unit, interpretation of soil survey and soil report, importance of soil survey, Land capability classification- land capability groupings , geo graphic information system(GIS),strategies  for implementation, problems of GIS, cartographic modeling, problems for implementation  prospects of GIS, modern soil information system
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT III:SOIL EROSION AND ITS CONTROL
+Definition of soil erosion, types of erosion, causes of water erosion- Rain drop erosion, Sheet erosion, Rill erosion, Gully erosion, Water fall erosion, and Channel erosion, factors affecting water erosion-climate, topography, vegetation andsoil,  Harmful effects and control techniques of water erosion -wind erosion, movement of soil particles by wind. Factors affecting wind erosion and control of wind erosion, some soil physical constraints.
+<br><b>[09 Hrs] [25 Marks] </b>
+	
+UNIT IV:SPECIAL SOIL CONSERVATION PROBLEMS 							 
+Introduction, Torrents or choc and its remedial measures, Stream bank erosion, Road side erosion and control measures, Land slips and its remedial measures, Shifting cultivation, Sea erosion, Factors affecting erosion by water i.e. climate, topography and vegetation, Soil losses, Universal soil loss equation (USLE)
+<br><b>[09 Hrs] [25 Marks] </b>
+
+UNIT V:SOIL MECHANICS
+Definition of soil mechanics, Preliminary definition and relationship- three phase diagram of soil, Physical Properties of Soil, Physical and index Properties like Porosity, Voids ratio, Degree of saturation, density index andconsistency limits, determination of field density of soil by sand replacement and core cutter method. Problems on voids ratio and porosity.
+<br><b>[08 Hrs] [25 Marks] </b>
+
+UNIT VI:SOIL HYDRALICS
+Introduction- Permeability of soil, Darcy’s law, Mohr’s stress circle of soil, determination of coefficient of permeability by constant head and falling head permeability test.
+<br><b>[06 Hrs] [10 Marks] </b>
+
+<b>Text books:</b>
+
+<br><br>1.	“A TEXT BOOK OF AGRONOMY”- BY B. CHANDRASEKARANand K. ANNADURAI, NEW AGE INTER NATIONAL PUBLICATIONS, NEW DELHI-  (FOR-UNIT-1, Page no 237 )
+<br>2.	“INTRODUCTION TO SOIL SCIENCE” -BY DILIP KUMAR DAS, KALYANI PUBLISHERS.- (FOR UNIT- 2and3, pages139-148 and 475 )
+<br>3.	“PRINCIPLES OF AGRICULTURE ENGINEERING, VOL-I andII”-BY A.M. MICHAEL  and T.P. OJHA.- (FOR  UNIT NO -4)
+<br>4.	“SOIL MECHANICS AND FOUNDATION”- BY B.C.PUNMIA.- (FOR  UNIT NO -5and6)
+<br>5.	“SOIL MECHANICS”-BY V.N.S.MURTHY.
+
+<br><br><b>References:</b>
+
+<br><br>1.	http://www.agri.ankara.edu.tr/fcrops/1289__AGRONOMI_METIN_KITABI.pdf.
+<br>2.	http://staff.oouagoiwoye.edu.ng/CV/OOU_NASJ_P2061_340131537.pdf
+<br>3.	http://www1.inecol.edu.mx/repara/download/III_1_Principles%20of%20Soil%20Conservation%20and%20Management_I.pdf
+<br>4.	http://nptel.ac.in/courses/Webcourse-contents/IIT-%20Guwahati/soil_mech/
+<br>5.	http://www.dcr.virginia.gov/soil_and_water/documents/nmtmscbss.pdf

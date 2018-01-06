@@ -1,0 +1,42 @@
+<b>Suggested List of Projects (Any Similar Projects may be considered)</b>
+<br><br>1. A Mobile Robot
+<br>2. A Mechatronics Race Car
+<br>3. An Electronic Canon / Catapult
+<br>4. An Elevator
+<br>5. An Air Boat
+<br>6. An Automatic Window Curtain
+<br>7. A Crane
+<br>8. A Basic Robotic ARM
+<br>9. A Stamping Machine
+<br>10. An Automated Box/Item Sorter
+<br>11. A Goods Transporter
+<br>12. An Automated Garage Door
+<br>13. A Car Park Barrier
+<br>14. A Remote Plant Watering System
+<br>15. A Pet Feeder
+<br>16. Remote controlled car using Arduino and T.V. remote
+
+<br><br><b>You may also visit following links</b>
+<br><br>1. http://www.electronicshub.org/arduino-project-ideas/
+<br>2. https://www.elprocus.com/mini-electronics-project-ideas/
+<br>3. http://www.circuitstoday.com/arduino-projects-and-circuits-collection
+<br>4. http://todayscircuits.blogspot.com/2012/07/arduino-based-project-ideas-top-40.html#.V-r854h94dU
+
+<br><br><b>Instructions</b>
+<br><br>1. The project must be selected so as to has to Integrate Mechanical, Electrical ,Electronics and related technologies in building up of an intelligent Device/System/Process
+<br>2. The Project has to be carried out by the students in a convenient groups of four to six students per batch
+<br>3. Project committee in the institution should give the approval for doing the project
+<br>4. Maintain the Register in the institution to record all project to avoid the repetition
+<br>5. After approval the students list should be displayed in the notice board alongwith guide at the beginning of Fifth semester
+<br>6. Six periods per week should be allotted in the time table and this time should be Utilized by the students to receive the information from the guide, Literature Survey, Computer analysis or field work as required by the project
+<br>7. Each batch of students should submit their synopsis at the end of 5th semester
+<br>8. The guide should monitor the progress of Project periodically and it should be evaluated for 25 marks at the end of 5 & 6 semester as CIE based on Rubrics
+<br>9. The Project Report should consist of Candidate declaration, Certificate, synopsis, Acknowledgments, Table of Contents, List of table & figures, Introduction, Literature Review, principle of working, Methodology, Design, fabrication, Tests, Result, Conclusion and scope for future improvement and References. 10. Project reports should be prepared in Times New Roman with font size 14 for Titles and 12 for text with 1.5 line spacing on an A4 size paper. The margins should be: Left – 1.5", Right - 1", Top and Bottom - 0.75" 
+
+<br><br><b>Industrial Visit</b>
+<br><br>Students should visit industries in their respective domain during 5 semesters and submit the comprehensive report focusing on study of plant layout , product, process, , tooling, jigs and fixtures and quality aspects etc.
+
+<br><br><b>CIE ASSESSMENT FOR FINAL REVIEW:</b>
+<br><br>1. Project synopsis : 15
+<br>2. Industrial visit & Report : 10
+<br><br><b>TOTAL = 25 Marks</b>

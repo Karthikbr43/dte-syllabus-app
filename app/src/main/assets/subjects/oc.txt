@@ -1,0 +1,43 @@
+UNIT - I: FUNDAMENTALS OF ORGANIC CHEMISTRY
+<b>1. Introduction</b> – Modern Concepts of organic chemistry and organic compounds- scope of organic chemistry – study of organic chemistry as a separate branch- Hydrocarbons – saturated hydrocarbons– unsaturated hydrocarbons- Homologous series and functional groups- Nomenclature of organic compounds.
+<br><b>2. Isomers and Isomerism</b> – classification – structural isomerism-chain/nuclear-position- functional-      metamerism – stereo isomerism-geometrical-cis-trans-optical isomerism.                                             
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT - II: ORGANIC REACTIONS AND THEIR MECHANISMS
+Free radicals- homolytic-heterolytic fission - carbocations-carboanions- substitution reactions -nucleophilic-electrophilic-substitution reactions-addition reactions-condensation reactions- -elimination reactions- -polymerization-fermentation-oxidation-reduction reactions-inductive-electromeric reactions and their reaction mechanisms.
+<br><b>[08 Hrs] [20 Marks] </b>
+
+UNIT - III: ALIPHATIC HYDROCARBONS
+Preparation, Properties and uses of Methane- Ethene- Ethyne-Halides- bromoehane-Alcohols-ethyl alcohol- Ethers-diethylether- Aldehydes- formaldehyde- Ketones-acetone- Carboxylic Acids-formic acid- Esters- ethyl acetate- Amines-methyl amine.
+<br><b>[16 Hrs] [50 Marks] </b>
+
+UNIT - IV: AROMATIC HYDROCARBONS
+Isolation, preparation/manufacture, properties and uses of Benzene and phenol 
+<br><b>[06 Hrs] [15 Marks] </b>
+  
+UNIT - V: ORGANIC COMPOUNDS OF BIOLOGICAL IMPORTANCE
+Carbohydrates-definition- sources-classification-glucose-fructose-sucrose-starch-cellulose-glycogen- their molecular formulae-structural formulae-amino acids- classification-Proteins- sources-composition-classification- Hormones-insulin-oxytosin-adrinalin- Vitamins-classification-vitamin-A-vitamin-B-complex-vitamin-C-vitamin-D-vitamn-E-vitaman-K-sources-deficiency diseases.
+<br><b>[06 Hrs] [15 Marks] </b>
+
+UNIT - VI: ORGANIC COMPOUNDS IN DAY-TO-DAY LIFE
+Food Flavours/additives-Definition- Nutritive value-balanceddiet-examples-Perfumes-Definition-clasification-composition-examples-Drugs-medicins-characteristics-chemotherapy-classification-Dyes- definition-characteristics- classification-knowledge  of green chemistry  by learn the objectives and twelve principles of green chemistry.
+<br><b>[06 Hrs] [15 Marks] </b>
+
+<b>Reference Books:</b>
+
+<br><br>1.	Text book of Organic Chemistry – Arun Bahl and B.S. Bahl (S.Chand)
+<br>2.	Text book of Organic Chemistry – I.N. Fenaor
+<br>3.	Text book of Organic Chemistry – Puri and Sharma 
+<br>4.	Fundamentals of Organic Chemistry – S. Nafis Haider (S.Chand) 
+<br>5.	Chemistry for Engineers – Dr. Rajesh Agnihotri (Wiley)
+<br>6.	Text Book Of Chemistry For PUC (Commissonarate Of PU Board, Karanataka)
+<br>7.	A Text book of Pharmaceutical chemistry – Jayashree Ghosh (S.Chand)
+<br>8.	Organic chemistry by W.H. Perkin
+<br>9.	Organic chemistry by Amgadm M. Rabie and others
+<br>10.	Principles of Organic chemistry by T.A. Geishmain
+<br>11.	Principles of Organic chemistry by Ramarao Nadendla
+<br>12.	 Basic concepts of Organic chemistry by D.N.Singh
+
+<br><br><b>E –Learning</b>
+<br><br>1.	http://www2.chemistry.msu.edu/faculty/reusch/VirtTxtJml/intro1.htm
+<br>2.	http://www.masterorganicchemistry.com/

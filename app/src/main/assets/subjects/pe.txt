@@ -1,0 +1,37 @@
+UNIT – I: INTRODUCTION TO POWER ELECTRONICS
+Concept of power electronics&Power electronic devices-Power diode- Structure, Characteristics ,types and  applications, Power transistor-types, switching characteristicsandapplications,MOSFET-operation, transfer characteristics and applications  , IGBT –structure and applications,SCR-layer diagram, transitor analogy, Characteristics,  LASCR –structure and  operation, GTO Triac-characteristics,triggering modes, DIAC Characteristics ,operation and applications
+<br><b>[09 Hrs] [35 Marks] </b>
+
+UNIT – II: SCR CONTROL CIRCUITS
+Methods of turning on the SCR,General layout of firing circuit, R and RC Firing circuits, Pulse triggering using UJT , Digital firing scheme, Commutation and types.
+<br><b>[06 Hrs] [15 Marks] </b>	
+	
+UNIT – III: RATINGS ,PROTECTION & MOUNTING OF THYRISTORS
+Voltage and current ratings of SCR, Protection of SCR against Over voltage , Over current, di/dt and dv/dt, Types of Mounting of SCRs
+<br><b>[03 Hrs] [10 Marks] </b>
+
+UNIT – IV: CONVERTERS
+Types of converters,Phase control , Full controlled bridge converter, dual converters, three phase  converters, Choppers-definition, step up and step down choppers, different chopper configurations, inverters-definition ,VSI and CSI, Half bridge inverter and full bride inverter, three phase bridge inverter, cyclo converter-mid pointcyclo converter, step up and step down cyclo converter , advantages and disadvantages
+<br><b>[13 Hrs] [35 Marks] </b>
+
+UNIT – V: POWER SUPPLIES AND STABILIZERS
+SMPS and operation, Buck Boost converter,power line disturbances ,sources and effects  power conditionersOperation of relay type AC voltage stabilizer,  advantages and disadvantages of Relay type stabilizer - AC servo voltage stabilizer ,advantages and disadvantages,UPS-  Battery size and required voltage for UPS, OFF  line UPS - ON  line UPS 
+<br><b>[08 Hrs] [20 Marks] </b>
+
+UNIT – VI: APPLICATIONS
+<b>Power system applications</b> - Static excitation system for alternators, Bi polar  HVDC   system -static  , AC circuit breaker  ,interconnection  of renewable energy sourcesand energy storage systems  to the utility ,GridThyristor switched capacitors and thyristor switched inductors,
+<br><b>Industrialapplications</b> - Switch mode welder,Voltage source series resonant inverters in induction heating,solid state relay speed control of shuntwound DC motor by armature voltage control method,soft starting of Induction motor,static slip recovery system in induction motor(static scherbius drive),speed control of Induction Motor by Variable voltage frequency   method
+<br><b>Domestic Applications</b> - High frequency lighting system,SCR battery charger
+<br><b>[13 Hrs] [40 Marks] </b>
+
+<b>Reference Books:</b>
+
+<br><br>1.	Power Electronics by Dr P S  Bimbhra  , Khanna   Publishers, New Delhi
+<br>2.	Industiial Electronics and Control  Biswanath Paul  PHI Publication   Edition-II	
+<br>3.	Thyristorised power controllers  GK Dubey
+<br>4.	Power and industrial  Electronics  by  Harish C Rai
+<br>5.	Power electronics by Mohan  Undeland& Robbins, Wiley Publications	
+<br>6.	Modern Power  Electronics by P.C.Sen
+<br>7.	Power Electronics – RaghunathRao,
+<br>8.	Voltage Stabilizers and cut outs-Mc Sharma , BPB Pulications
+<br>9.	Switch Gear and protection  by J B Gupta , Katson Publication

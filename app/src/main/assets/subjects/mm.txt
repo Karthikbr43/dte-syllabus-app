@@ -1,0 +1,88 @@
+UNIT I: MEASURING INSTRUMENTS
+Measurement-definition-methods of measurement-Significance-Terms applicable to measuring instruments: Precision and Accuracy, Sensitivity and Repeatability, Range, Threshold, Hysteresis, calibration -Errors in Measurements-Systematic and Random error. Measuring instruments- Factors in selecting the measuring instruments -Thread measurements:-Bench micrometer- Thread gauge micrometer- Angle measurements- Bevel protractor, Sine Bar, Gauges: plain plug gauge, snap gauge, ring  gauge-.Surface finish-  Measurement of surface finish by Talysurf surface roughness tester-Co-ordinating measuring machine.
+<br><b>[12 Hrs] [30 Marks] </b>
+
+UNIT II: TRANSDUCERS AND STRAIN GAUGES
+Transducers- concept-Characteristics, Transducers selection factors, classifications of Transducer, actuating mechanisms. Voltage and current generating analog transducers- Types-Piezoelectric transducer. Strain Measurements: Strain gauge, Classification, Berry-type mechanical strain gauge, optical strain gauges, mounting of strain gauges, Strain gauge rosettes-two and three elements, Gauge factor
+<br><b>[10 Hrs] [30 Marks] </b>
+	
+UNIT III: MEASUREMENT OF FORCE, TORQUE, AND PRESSURE
+Force measuring devices- Spring Balance, Proving ring, Strain guage type Load cell- Torque measuring devices- Prony brake, Hydraulic dynamometer-.pressure measuring devices- -Diaphragm type pressure gauge- Bourdon tube pressure gauge- Mcloed gauge, Construction, working and applications.
+<br><b>[06 Hrs] [20 Marks] </b>
+
+UNIT IV: APPLIED MECHANICAL MEASUREMENTS
+Speed measurement- Classification of tachometers. Working principle, construction, working of Revolution counters and Eddy current tachometers. Displacement measurement- Working principle, construction, working  of Linear variable Differential transformers (LVDT)-Flow measurement- Working principle, construction, working  of Rotometers-Temperature measurement. Principle, construction, working  of Resistance thermometers and Optical Pyrometer, Thermocouples.
+<br><b>[09 Hrs] [25 Marks] </b>
+
+UNIT V: MISCELLANEOUS MEASUREMENTS
+Humidity measurement–construction, working of hair hygrometer-Density measurement-Measurement of density using hydrometer, Liquid level measurement –-Measurement of liquid level by using sight glass, Float gauge-Biomedical measurement- construction, working  of Sphygmo monometer
+<br><b>[06 Hrs] [15 Marks] </b>
+
+UNIT VI: LIMITS,FITS,TOLERENCE AND TESTING OF GEOMETRIC DIMENSIONS
+Concepts-  Interchangeability, Selective Assembly, Basic Definitions, Graphical illustration of limits and Tolerances. Fit-Classification of fits. Systems of fits-Hole Basis System and Shaft Basis system, Systems of tolerancing-Unilateral System and Bilateral System, Machine tools alignment testing-Checking Parallelism, Straightness, runout, alignment testing of machine tool during erection as per IS standard procedure
+<br><b>[09 Hrs] [25 Marks] </b>
+
+<b>Text books:</b>
+<br><br>Mechanical Engineering Measurement - Thomas Beckwith, N.Lewis Buck, Roy Marangoni - Narosa Publishing House, Bombay
+
+<br><br><b>References:</b>
+<br><br>1.	 Mechanical Engineering Measurements - A. K. Sawhney - DhanpatRaiand Sons, New Delhi. 
+<br>2.	“ Metrology and Measurement”  by Anand K Bewoor,Vinay kulakarni ,Tata McGraw hill New delhi  2009
+<br>3.	 “Principles of Engineering metrology” by Rega Rajendra  Jaico publishers-2008
+<br>4.	“Dimensional Metrology “by Connie Dotson, DELMAR ,cenage learning,2007
+<br>5.	“Engineering Metrology” by R.K.Jain, Khanna Publishers, 1994
+
+<br><br><b>E –Learning</b>
+
+<br><br>1.	http://en.wikipedia.org/wiki/Metrology (metrology). 
+<br>2.	https://www.youtube.com/watch?v=4hlNi0jdoeQ (vernier). 
+<br>3.	https://www.youtube.com/watch?v=FNdkYIVJ3Vc(vernier). 
+<br>4.	https://www.youtube.com/watch?v=O8vMFFYNIfo (micrometer) 
+<br>5.	https://www.youtube.com/watch?v=h98HPVuWjLA (depth micrometer) 
+<br>6.	 https://www.youtube.com/watch?v=SmXfGan_NXQ (telescopic gauge) 
+<br>7.	http://www.authorstream.com/Presentation/007sandeepks-1858141-angular-measurment/ (angular measurement). 
+<br>8.	http://askguru.net/t-Angular-Measurement-ppt 
+<br>9.	 https://www.youtube.com/watch?v=aBzh6i5fQ70 (surface roughness) 
+<br>10.	https://www.youtube.com/watch?v=S7SXD6sKQ-I(surface roughness) 
+<br>11.	 https://www.youtube.com/watch?v=eVpoJzLJa0U(surface roughness) 
+<br>12.	https://www.youtube.com/watch?v=3Od7vnoMwGg(surface roughness) 
+<br>13.	https://www.youtube.com/watch?v=XnLiTPGE6pk (three wire thread measurement) 
+<br>14.	 https://www.youtube.com/watch?v=Gdvtw0pTAOs (thread pitch). 
+<br>15.	https://www.youtube.com/watch?v=qMgXGedDffw (dial indicator) 
+<br>16.	http://www.authorstream.com/Presentation/donzvasanth-1501139-unit-2-linear-angular-measurement/ 
+<br>17.	http://en.wikipedia.org/wiki/List_of_gear_nomenclature#Addendum (gear nomenclature). 
+<br>18.	https://www.google.co.in/search?q=gear+tooth+vernier+caliperandtbm=ischandtbo=uandsource=univandsa=Xandei=MIuEUsqSOsiKrQeywIFQandved=0CCgQsAQandbiw=1600andbih=804 (gear tooth vernier). 
+<br>19.	http://www.youtube.com/watch?v=lc4dsNvm2Ks (principle of mech. meas). 
+<br>20.	http://www.youtube.com/watch?v=nv3GuJArjNU (Transducers). 
+<br>21.	http://www.youtube.com/watch?v=iMIzApq1CQ0 (pressure measurement). 
+<br>22.	http://www.youtube.com/watch?v=JKuoQ5FV2c8 (temperature meas.). 
+<br>23.	http://www.youtube.com/watch?v=GNOI_7ftbQ0(temperature meas.) . 
+<br>24.	 http://www.youtube.com/watch?v=7xUdPVpafyI (flow measurement). 
+<br>25.	http://www.ignou.ac.in/upload/Unit-4-62.pdf (limit gauges). 
+<br>26.	http://www.scribd.com/doc/55242715/8/Types-of-limit-gauges 
+<br>27.	http://www.youtube.com/watch?v=v25PCV_IJCw (sensors) 
+<br>28.	 http://www.youtube.com/watch?v=QItuf6lNvmI(sensors) 
+<br>29.	http://www.youtube.com/watch?v=pOvTyvBqzgM (displacement sensors) 
+<br>30.	http://www.youtube.com/watch?v=inLkCOwVgyM (force sensors) 
+<br>31.	 http://www.youtube.com/watch?v=jxv0ITAr74A(force sensors) 
+<br>32.	 http://www.youtube.com/watch?v=0MP_9n08urA(force sensors) 
+<br>33.	http://www.youtube.com/watch?v=zAddvPHfKnw(force sensors) 
+<br>34.	 http://www.youtube.com/watch?v=_fQSMVf3hdM (calibration). 
+<br>35.	 http://www.youtube.com/watch?v=HwSxBRaxn_4(calibration). 
+<br>36.	http://www.youtube.com/watch?v=ZymDMUuVuyY (geometrical Tol.) 
+<br>37.	 http://www.gobookee.org/measurement-of-geometric-tolerances-in-manufacturing/ 
+<br>38.	 http://www.me.metu.edu.tr/courses/me410/exp1/410exp1theory.pdf 
+<br>39.	 http://www.youtube.com/watch?v=5eaSkU6Ecik (flatness measurement) 
+<br>40.	http://www.youtube.com/watch?v=1tBnpzyhVXU (measuring straightness) 
+<br>41.	 http://www.youtube.com/watch?v=1JNCe9fwRUw (measuring perpendicularity) 
+<br>42.	http://www.youtube.com/watch?v=eJ8a0k8kQIE( Roundness and cylindricity) 
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>1. Each student will select and bring at least one mechanical component. Sketch each component. Sketch and label main parts of instruments to be used. Calculate least count of the instrument/s to be used. Measure and record applicable dimensions of each component using suitable instrument
+<br>2. Sketch the part and setup, list the instruments used, list the steps followed and record the observations for checking straightness
+<br>3. Select appropriate limit gauge for given dimension/part and check the dimension with gauge.
+
+<br><br><b>Note:</b> The activities or similar activities for assessing CIE (IA) for 5 marks (Any one)
+<br>1. Each student should do any one of the following type activity or any other similar activity related to the course and before conduction, get it approved from concerned Teacher and HOD.
+<br>2. Each student should conduct different activity and no repeating should occur

@@ -1,0 +1,48 @@
+UNIT I: Fundamentals and Introduction to XHTML
+<b>Fundamentals</b> – A brief introduction to Internet, Origins, What the Internet Is, Internet Protocol Addresses, Domain Names, The World Wide Web, Origins, Web or Internet, Web browsers, Web servers, Web Server Operations, General Server Characteristics, Apache, IIS, Uniform Resource Locators, URL Formats, URL Paths, Multipurpose Internet Mail Extensions, Type Specification, Experimental Documental Types, Hypertext Transfer Protocol, The Request Phase, The Response Phase,  Security, The web Programmers Toolbox
+<br><b>Introduction to XHTML</b>: Syntactic differences between HTML and XHTML 
+<br><b>[04 Hrs] [10 Marks] </b>
+
+UNIT II: JavaScript and XHTML documents and Dynamic documents with JavaScript
+<b>JavaScript and XHTML documents</b> – The JavaScript Execution Environment, The Document Object Model, Element Access in JavaScript, Events & Event Handling, Basic Concepts  of Event handling, Events, Attributes & Tags, Handling Events from Body Elements, Handling Events from Button  Elements, Handling Events from Textbox & password Elements, The Focus Event, Validating from Input, The DOM 2 Event Model, Event Propagation, Event handler registration, An Example of the DOM 2 Event Model, The Navigator Object, DOM Tree Traversal and Modification, DOM Tree Traversal, DOM Tree Modification.
+<br><b>Dynamic documents with JavaScript</b>: Introduction, Positioning Elements, Absolute Positioning, Relative Positioning, Static Positioning, Moving Elements, Element Visibility, Changing Colors & Fonts, Changing Colors, Changing Fonts, Dynamic Contents, Stacking Elements, Locating the Mouse Cursor, Reacting to the Mouse Click, Slow Movement of Elements, Dragging & Dropping Elements.
+<br><b>[12 Hrs] [35 Marks] </b>
+
+UNIT III: Introduction to XML
+Introduction, The Syntax of XML, XML Document Structure, Document Type Definitions, Declaring Elements, Declaring Attributes, Declaring Entities, A Sample DTD, Internal & External DTDs, Namespaces, XML Schema, Schemas  Fundamentals, Defining the Schema, Defining the Schema Instances, An Overview of Data types, Simple Types, Complex Types, Displaying Raw XML Documents, Displaying XML Documents with CSS.
+<br><b>[08 Hrs] [25 Marks] </b>
+
+UNIT IV: Introduction to PHP and Database access through the Web
+<b>Introduction to PHP</b>: Origins and Uses of PHP, Overview of PHP, General Syntactic Characteristics, Primitives, Operations and Expressions, Variables, Integer Type, Double Type, String Type, Boolean Type, Arithmetic Operations  &  Expressions, String Operations, Scalar Type conversions,  Output, Control statements, Relational Operators, Boolean Operators, Selection Statements, Loop statements, An Example, Arrays, Array Creation, Accessing array Elements, Functions for Dealing with Arrays, Sequential Access to Array Elements, Sorting Arrays, Functions, General Characteristics of Functions, Parameters, The scope of Variables, The Lifetime of Variables, Pattern Matching, Form Handling, Files, Opening and Closing Files, Reading from a File, Writing to a File, Locking Files, Cookies, Introduction to Cookies, PHP Support for Cookies, Session Tracking.
+<br><b>Database access through the Web</b>: Database Access with PHP & MySQL, Potential Problems with Special Characters, Connecting to MySQL & Selecting the Database, Requesting MySQL Operations, A PHP/ MySQL Examples, Database Access with JDBC & MySQL, JDBC & MySQL, Metadata, Examples.
+<br><b>[16 Hrs] [45 Marks] </b>
+
+UNIT V: Java Web Software
+Introduction to Servlets, Overview, Details, Servlet Containers, The NetBeans IDE, Storing information on Clients, Cookies, Servlet support for Cookies, Examples, JavaServer Pages(JSP), Motivation for JSP, JSP Documents, The Expression Language, The JSTL control action elements, JavaBeans, Model-View-Controller Application Architecture, JavaServer Faces, The tag libraries, JSF event handling, An example application.
+<br><b>[06 Hrs] [15 Marks] </b>
+
+UNIT VI: Introduction to Ruby
+Origins and Uses of Ruby, Scalar Types & their Operations, Numeric & String Literals, Variables and Assignment Statements, Numeric Operators, String Methods, Simple Input & Output, Screen Output, Keyboard Input, Control Statements, Control Expressions, Selection & Looping Statements,  Fundamentals of Arrays, The For – in Statement, Built-in Methods for arrays and Lists, Examples,  Hashes, Methods, Fundamentals, Local variables, Parameters,  Classes, The basics of Classes, Access Control, Inheritance, Code blocks & Iterators, Pattern matching, Basics of Pattern Matching, Remembering matches, Substitutions.
+<br><b>[06 Hrs] [15 Marks] </b>
+
+<b>Text books:</b>
+<br><br>1.	Programming the World Wide Web, 7th edition, Robert W.Sebesta , Pearson Education, ISBN- 9789332518827
+
+<br><br><b>Reference Books:</b>
+
+<br><br>1.	http://www.tutorialspoint.com/
+<br>2.	http://www.w3schools.com/
+<br>3.	Web Programming – Building Internet Applications, 3rd edition, Chris Bates, Wiley  publisher
+<br>4.	Web Technologies— HTML,JavaScript,PHP,java,JSP,ASP.Net,XML & Ajax – Black  Book, Wiley,  ISBN : 978-81-7722-997-4
+<br>5.	PHP A Begineer’s Guide --- Vikram Vaswami  , TMH publishers. ISBN: 13:978-0-07-014069-1    
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>1. Prepare a simple website using NetBeans IDE.
+<br>2. Demonstration of PHP program which includes database access.
+<br>3. Create a simple webpage using JSON.
+<br>4. Quiz
+
+<br><br><b>Note:</b> The activities or similar activities for assessing CIE (IA) for 5 marks (Any one)
+<br>1. Each student should do any one of the following type activity or any other similar activity related to the course and before conduction, get it approved from concerned Teacher and HOD.
+<br>2. Each student should conduct different activity and no repeating should occur

@@ -1,0 +1,60 @@
+UNIT I: Mechanical Basics
+<b>Friction</b>: Definition, types of Friction, effect of friction, necessity of lubrication, type of lubricants. 
+<br><b>Transmission of power</b>: definitions of belt drives – types: open and crossed, fast and loose pulley, stepped cone pulley, jokey pulley with sketch and brief explanation. Types of belts – flat and v-belts. Explanation on velocity ratio with simple problems. 
+<br><b>Gear Drives</b> – types: spur, helical, spiral, bevel, worm and worm wheel, rack and pinion.
+<br><b>Bearings</b> - definition, need of bearings in transmission system, Types of Bearings: Ball bearings, Roller bearings, Radial Bearing and Thrust bearings with sketch and brief description.
+<br><b>[08 Hrs] [20 Marks] </b>
+
+UNIT II: Fasteners
+<b>Fasteners</b> - Definition, types and applications of threaded and non threaded, left hand and right hand, bolts and nuts, locking devices – split pin, screw pin, spring washers, locking nuts.
+<br><b>Welding</b> - Introduction, types of welding (Arc and Gas), soldering, brazing with their schematic arrangements and comparison between these systems.
+<br><b>[06 Hrs] [15 Marks] </b>
+
+UNIT III: Material Handling
+Conveyor systems - belt conveyors, screw / auger conveyor, bucket elevators, fluidized bed conveyer, slurry pumps and diaphragm pump,
+<br><b>[06 Hrs] [15 Marks] </b>
+
+UNIT IV: Size reduction
+Principles of comminution, definition of crushing and grinding, closed and open circuit operations of size reduction, Classification of size reduction equipments. Crushers – Understand the construction and working of  Jaw crushers - Blake and Dodge Jaw Crushers, Gyratory Crushers, Cone crushers, Crushing rolls single and double (toothed and Smooth), Hammer mill, pan mill. Grinders – Understand the construction and working of Ball mills, Tube mills, conical mills, Pot mills with their parts, critical speed, calculation of speed of the ball mill, factors effecting grinding efficiency in tumbling mills. 
+<br><b>[12 Hrs] [40 Marks] </b>
+
+UNIT V: Grading and Body Making
+<b>Grading</b> – need for screening, factors affecting screen performance, Grizzles, revolving screens (trommels), Gyratory screens, Vibrating sieves, Air separators, Magnetic separators,  cyclone separators, filter press, bag filters, scrubbers. 
+<br>Pug mill, De-airing pug mill, Mixers – ribbon mixers, blunger, agitator. Explain construction and working of each machine with neat sketch. 
+<br><b>[09 Hrs] [30 Marks] </b>
+
+UNIT VI: Driers
+Batch dryer: chamber dryer, radiation drier, microwave drier.
+<br>Continuous dryer: Humidity dryer, belt dryer, horizontal drier, vertical drier, pneumatic drier, rotary/drum drier, tunnel drier and spray drier.
+<br><b>[09 Hrs] [25 Marks] </b>
+
+<b>Reference Books:</b>
+
+<br><br>1.	Mechanical Engineering Science, K. R. GopalaKrishna
+<br>2.	Industrial Ceramic, Singer and Singer, IBH Publisher.
+<br>3.	Mineral Processing,	S. K Jain, CBS Publisher
+<br>4.	Unit Operations of  Chemical Engineering, Warren L McCabe, McGRAW Hill
+<br>5.	Mineral Processing Technology, Barry A. Wills, Tim Napier-Munn
+<br>6.	A Concise Introduction to Ceramics,	George C. Phillips, Amazon Publication
+<br>7.	Advanced Ceramic Processing and Technology. Vol. 1, 	Jon G.P. Binner.
+<br>8.	Ceramic Processing Technology, James Reed
+
+<br><br><b>E –Learning</b>
+
+<br><br>1.	https://en.wikipedia.org/wiki/Crusher
+<br>2.	https://en.wikipedia.org/wiki/Ball_mill
+<br>3.	https://en.wikipedia.org/wiki/Mechanical_screening
+<br>4.	https://en.wikipedia.org/wiki/3D_printing
+<br>5.	http://digitalfire.com/4sight/education/index.html
+<br>6.	http://lindaarbuckle.com/arbuckle_handouts.html
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>1. Student should visit nearby industry / machine lab & automobile lab in college and observe the transmissions systems and make a report on gear drives.
+<br>2. Student should visit nearby workshop, observe the welding systems and make a report on types of welding they use & precautions they take while working with it.
+<br>3. Student should visit nearby ceramic/related industry and prepare a report on various machines used in production line.
+<br>4. Student should surf the internet, collect information on advanced upcoming machinery related to ceramic field and make a report.
+<br>5. Student should collect the videos / animated graphics of machinery and give presentation (soft copy to be submitted) with their descriptive report.
+<br>6. Student should prepare a prototype/working model of any machinery from the syllabus and make a user manual for actual machine.
+
+<br><br><b>Note:</b> Student should prepare hand written report with minimum 2-3 pages and reports should not be copied from earlier batches. And other similar tasks can be assigned.

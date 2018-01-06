@@ -1,0 +1,55 @@
+UNIT I: INTRODUCTION TO DESIGN
+Machine Design–Classification-General considerations-Load-stress-strain,-stress-strain diagram for mild steel- Bending and torsion stress equations - Factor of Safety and Factors governing selection of factor of Safety- Stress Concentration – Causes & Remedies- Designation of materials as per IS- using of design data book 
+<br><b>[04 Hrs] [05 Marks] </b>
+
+UNIT II: DESIGN OF FASTENERS
+Stresses in Screwed fasteners- bolts of Uniform Strength- Design of Bolts - Design of studs for cylinder cover-simple problems on design of bolts subjected to external force -Design of Riveted joints -classification- Important terms used in riveted joints-materials for rivets-Failures of riveted joints-Strength and efficiency of riveted joints-Simple problems on Single and Double riveted lap joint -Single and Double riveted Butt joint (with single and double strap) 
+<br><b>[12 Hrs] [40 Marks] </b>
+
+UNIT III: DESIGN OF SHAFTS, KEYS
+Types of Shafts- Shaft materials-Standard Sizes- Design of Shafts (Hollow and Solid) using strength and rigidity criteria-design for line shafts supported between bearings with one or two pulleys in between or one overhung pulley.
+<br>Keys-Types-Design of Sunk Keys, Effect of Keyways on strength of shaft-Simple problems (excluding keyways). 
+<br><b>[10 Hrs] [20 Marks] </b>
+
+UNIT IV: DESIGN OF SIMPLE MACHINE PARTS
+Design of Couplings – Solid Muff Coupling- Flange coupling (Protected and Unprotected type) - Cotter Joint - Knuckle Joint
+<br><b>[14 Hrs] [50 Marks] </b>
+
+UNIT V: DESIGN OF SPRINGS
+Spring – terminology, materials and specifications-Classification and Applications of Springs- Stresses in springs, Wahl’s correction factor, Deflection of springs-Design of Helical compression springs subjected to uniform applied loads like I.C. engine valves, weighing balance, railway buffers and governor springs-Problems on helical compression springs only- Leaf springs – Construction and application
+<br><b>[08 Hrs] [20 Marks] </b>
+
+UNIT VI: ERGONOMICS & AESTHETIC CONSIDERATION IN DESIGN
+Ergonomics of Design-Man-Machine relationship-Equipments for control-Ergonomics considerations in design of controls-Equipments for display-Ergonomics considerations in design of display.-Aesthetic considerations regarding shape, size, color (Morgan’s code).
+<br><b>[04 Hrs] [10 Marks] </b>
+
+<b>Reference Books:</b>
+
+<br><br>1.	A Text book of Machine Design	R.S. Khurmi & J.K.Gupta	S. Chand publication
+<br>2.	Machine design	S G Kulkarni	McGraw Hill Education Publications
+<br>3.	Introduction to Machine design	V B Bhandari	McGraw Hill Education Publications
+<br>4.	Design Of Machine Elements Vol I, Vol II	J.B.K. Das , P.L. Srinivas Murthy	Sapna Publication
+<br>5.	Machine Component Design	William Orthwein	Jaico publication
+<br>6.	Design Data Hand Book  for Mechanical Engineers  	K Mahadevan  &  K Balaveera  Reddy CBS publications
+
+<br><br><b>Website:</b>
+
+<br><br>1. http://nptel.ac.in/courses/Webcourse-contents/IIT%20Kharagpur/Machine%20design1/left_home.html   
+<br>2. http://nptel.ac.in/courses/Webcourse-contents/IIT%20Kharagpur/Machine%20design1/left_mod4.html  
+<br>3. http://nptel.ac.in/courses/Webcourse-contents/IIT%20Kharagpur/Machine%20design1/left_mod7.html . 
+<br>4. http://nptel.ac.in/courses/Webcourse-contents/IIT%20Kharagpur/Machine%20design1/left_mod4.html  
+<br>5. http://nptel.ac.in/courses/Webcourse-contents/IIT%20Kharagpur/Machine%20design1/left_mod5.html  
+<br>6. http://nptel.ac.in/courses/Webcourse-contents/IIT%20Kharagpur/Machine%20design1/left_mod8.html  
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>1. The students should identify at least five applications .He should select the materials for identified applications by using design data hand book. List the mechanical properties of material selected.
+<br>2. Observe the system where transmission of power takes place through shaft, Keys, coupling, pulley and belt drive. Get the required information regarding power transmitted (power output by motoror engine etc.). By selecting suitable materials, design the shaft, key and coupling.
+<br>3. Assignments on design of Helical Springs, Screwed joints, Riveted joints [one each] with free hand sketches.
+<br>4. The student should Download and present various presentations related to design of machine elements
+<br>5. The student should Download and present various presentations related to stresses in machine elements.
+<br>6. The student should Download and present various presentations related to failure of machine elements.
+
+<br><br><b>Note:</b> The activities or similar activities for assessing CIE (IA) for 5 marks (Any one)
+<br>1. Each student should do any one of the following type activity or any other similar activity related to the course and before conduction, get it approved from concerned Teacher and HOD.
+<br>2. Each student should conduct different activity and no repeating should occur

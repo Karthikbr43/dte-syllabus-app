@@ -1,0 +1,82 @@
+UNIT-I: INTRODUCTION TO MAINTENANCE
+1.0 Introduction
+<br>1.1 Scope of Maintenance
+<br>1.2 Maintenance Objectives
+<br>1.3 Functions and Responsibilities of Maintenance Department
+<br>1.4 Maintenance Types and Systems.
+<br>1.4.1 Introduction
+<br>1.4.2 Preventive maintenance
+<br>1.4.3 Breakdown Maintenance
+<br>1.4.4 Corrective Maintenance
+<br>1.4.5 Routine Maintenance
+<br>1.5 Condition based maintenance system [CBMS or CBM]
+<br><br><b>[08 Hrs] [15 Marks] </b>
+
+UNIT-II: MAINTENANCE OF JOBS AND TECHNOLOGIES
+2.1 Introduction
+<br>2.2 Dismantling and assembling
+<br>2.3 Inspection and Adjustments
+<br>2.4 Maintenance of welding
+<br>2.5 Metal stitching.
+<br>2.6 Maintenance & Cleaning
+<br>2.7 Maintenance of Machining
+<br>2.8 Material improvement
+<br><br><b>[08 Hrs] [30 Marks] </b>
+
+UNIT-III: MAINTENANCE OF ORGANIZATION AND DEFECT LIST GENERATION AND REPORTING
+3.1 Introduction
+<br>3.2 Lines of reporting for maintenance
+<br>3.3 Man power Requirement
+<br>3.4 Selection and training of craft personnel
+<br>3.5 Selection and training of supervisor personnel
+<br>3.6 Defect list generation and defect / failure analysis
+<br>3.6.1 Introduction
+<br>3.6.2 Defect or failure Generation.
+<br>3.6.3 Classification of failure
+<br>3.6.4 Defect Reporting and Record keeping.
+<br><br><b>[08 Hrs] [15 Marks] </b>
+
+UNIT-IV: CONDITION MONITORING
+4.1 Introduction
+<br>4.2 Condition monitoring techniques
+<br>4.3 Visual monitoring
+<br>4.4 Temperature monitoring
+<br>4.5 Leakage monitoring
+<br>4.6 Vibration monitoring
+<br>4.7 Causes of machine vibration
+<br>4.8 Lubricant monitoring
+<br>4.9 Cracks monitoring
+<br>4.10 Corrosion monitoring
+<br>4.11 Noise and Sound monitoring
+<br>4.12 Smell monitoring
+<br>4.13 Benefits of condition monitoring
+<br><br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT-V: MAINTENANCE PLANNING AND SCHEDULING AND T P M
+5.1 Introduction
+<br>5.2 Job Planning
+<br>5.3 Steps of Job planning
+<br>5.4 Job Manuals
+<br>5.5 Job Scheduling
+<br>5.6 Short term planning
+<br>5.7 Long term planning
+<br>5.8 Total Productive maintenance
+<br>5.8.1 Introduction
+<br>5.8.2 Training for Total Productive Maintenance
+<br>5.8.3 Improvement needs and six major loss areas
+<br><br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT-VI: COMPUTER MANAGED MAINTENANCE SYSTEM [CMMS], MACHINE TOOL FOUNDATION
+6.1 Introduction
+<br>6.2 Approach towards computerization
+<br>6.3 Scope of computerization
+<br>6.4 Material management module
+<br>6.5 Machine Tool Foundation
+<br>6.5.1 Introduction
+<br>6.5.2 Factors to be considered for M/c Tool foundation plan
+<br>6.5.3 Installation of Machine Tool.
+<br><br><b>[08 Hrs] [25 Marks] </b>
+
+<b>Reference Books:</b>
+<br><br>1. MAINTENANCE ENGINEERING BY Er Sushil Kumar Srivastava, S CHAND PUBLICATION
+<br>2. Maintenance of machineries hand book ,TATA Mg

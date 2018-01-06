@@ -1,0 +1,69 @@
+UNIT I: FLUIDS, PRESSURE AND ITS MEASUREMENTS AND HYDROSTATICS 
+Fluid-definition, types and properties (simple problems).
+<br>Pressure and its measurements-Definition of fluid pressure, intensity of pressure and pressure head, Pascal’s law, atmospheric pressure, gauge pressure, absolute pressure, vacuum pressure and their relations, Measurement of pressure: Piezometer, Manometer, differential manometer, (simple problems).
+<br>Hydrostatics-Total pressure and centre of pressure on vertical planes like, triangular , rectangular and circular plane surfaces (simple problems).
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT II: FLOW OF FLUIDS
+Definition of discharge, Types of flow and their comparison, uniform and non-uniform flow, steady and unsteady flow, stream line and turbulent flow, rotational and irrotational flow, compressible and incompressible flow. 
+<br>Continuity equation- simple problems.
+<br>Energies in fluid motion and their heads- Potential, Kinetic and Pressure head
+<br>Bernoulli’s theorem (without proof), assumptions and its limitations–simple problems. Horizontal venturimeter, theory and simple problems.
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT III: FLOW THROUGH ORIFICES, NOTCHES AND WEIRS.
+Definition, types of orifices, vena contracta, hydraulic co-efficient and their relationship (simple problems), Flow through only circular orifice (simple problems without derivation), Definition and types of mouthpiece (only theory).
+<br>Definition of notch, and its types, discharge calculation for rectangular, triangular and trapezoidal notch (simple problems without derivation).
+<br>Definition of weir, types, discharge over rectangular and cippolitte weir (simple problems without derivation)
+<br><b>[13 Hrs] [35 Marks] </b>
+
+UNIT IV: FLOW THROUGH PIPES
+Loss of fluid friction, Types of losses-major and minor losses, Darcy’s and Chezy’s formula for head loss due to friction (simple problems). 
+<br>Hydraulic gradient and Total Energy Line.
+<br>Flow through single pipe, Flow from one reservoir to another reservoir through single pipe, (simple problems).
+<br>Water hammer, surge tanks (only theory).
+<br><b>[07 Hrs] [20 Marks] </b>
+
+UNIT V: FLOW THROUGH CHANNELS
+Definition and classification of channels.
+<br>Discharge through channels using Chezy’s and Manning’s formula (no derivation – simple problems only). 
+<br>Most economical sections for rectangular and trapezoidal channels (simple problems).
+<br><b>[08 Hrs] [20 Marks] </b>
+
+UNIT VI: PUMPS AND TURBINES
+Working principle of Reciprocating and centrifugal pumps ( Only Theory)
+<br>Turbine, types and its working principle of Pelton and Francis turbine ( Only Theory)
+<br><b>[04 Hrs] [10 Marks] </b>
+
+<b>Text books:</b>
+<br><br>1. Hydraulics and Fluid Mechanics - Dr. P.N.Modi and DrS.M.Seth
+<br>2. Hydraulics and Fluid Mechanics - Dr. JagadishLal
+<br>3. Hydraulics and Fluid Mechanics - Abdulla Sheriff
+<br>4. Hydraulics and Hydraulic Machinery V. Thanikachelam T.T.T.I Madras - 600 113
+<br>5. Hydraulics, Fluid Mechanics and Fluid Machines - S.Ramamrutham.
+<br>6. Hydraulics, Fluid Mechanics and Fluid Machines Bansal A R.
+<br>7. Hydraulics, Fluid Mechanics and Hydraulic Machines  R S Khurmi
+
+<br><br><b>Suggested Student Activity:</b>
+<br>The topic should be related to the course in order to enhance his knowledge, practical skill and lifelong learning, communication, modern tool usage.
+
+<br><br>1. Prepare/Download a dynamic animation to illustrate the following:
+<br>2. Working principle of hydraulic pumps.
+<br>3. Working of different types of hydraulic devices (applications).
+<br>4. Download the catalogue of Hydraulic devices.
+<br>5. Arrange visit to nearby Hydraulic equipment based industries.
+<br>6. To visit an industry and submit a report on pressure measuring devices.
+<br>7. To prepare a report on pressure measuring devices available in market with its specifications
+<br>8. To carryout market survey for pipes of different sizes and materials available.
+<br>9. To visit & submit a report on nearby canal/irrigation structures/dam site to know the usage of notches and weirs.
+<br>10. To assess conditions of water supply mains of your locality and quantify the damages and remedial measures to be taken.
+<br>11. Types of pumps available in market and its uses.
+<br>12. Hydrological aspects of drought in your district
+<br>13. Hydrological aspects of small hydels in western ghats
+<br>14. Hydrological status of a few tanks in and around district a study using gis and remote sensing
+<br>15. Proposed mini hydel project near by your locality
+<br>16. Hydraulic floor crane, hydraulic four wheel jack, hydro power, hydraulic car lift, water wheel, hydraulic regenerative braking system
+
+<br><br><b>Note:</b> 
+<br>1. Students should select any one of the above or other topics relevant to the subject approved by the concerned faculty, individually or in a group of 3 to 5. Students should mandatorily submit a written report and make a presentation on the topic. The task should not be repeated among students. Report will be evaluated by the faculty as per rubrics. Weightage for 5 marks Internal Assessment shall be as follows: (Unsatisfactory 1, Developing 2, Satisfactory 3, Good 4, Exemplary 5)
+<br>2. Reports should be made available along with bluebooks to IA verification officer

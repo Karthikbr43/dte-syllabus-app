@@ -1,0 +1,56 @@
+UNIT I: FORCE MEASUREMENT
+Introduction to Force Measurement, Basic methods of Force Measurement, Scales & Balances, Equal arm balance, Un-equal arm balance, Multiple lever systems, Pendulum scale, Accelerometers, Hydraulic & Pneumatic load cells, Elastic sensing elements, Proving rings.
+<br><b>[08 Hrs] [25 Marks] </b>
+
+UNIT II: TORQUE MEASUREMENT
+Introduction to Torque Measurement, Torque reaction methods, Strain gauge torsion method, Stroboscopic method, Optical torsion meter, Electrical torsion meter.
+<br><b>[07 Hrs] [15 Marks] </b>
+
+UNIT III: DYNAMOMETERS
+Introduction to Shaft Power Measurement, Dynamometers - Classification, Rope brake dynamometer, Prony brake dynamometer, Hydraulic dynamometer, Eddy current Brake dynamometer, D.C dynamometers, A.C dynamometers - Servo controlled dynamometers, Instantaneous measurement of power.  
+<br><b>[09 Hrs] [30 Marks] </b>
+
+UNIT IV: TRANSDUCERS & STRAIN GAUGES
+Introduction to Transducers, Classification, Transducers sensitivity, Variable resistance transducers, Variable inductance transducers, LVDT, Capacitive transducers, Piezo-electric transducers, Wheat-stone bridge circuit, Potentiometers. Introduction to Strain gauges, Types of Strain Gauges,  Strain measuring technique, Requirements of  Strain Gauges,  Gauge factor, Alloys & materials, Surface preparation & bonding techniques.
+<br><b>[12 Hrs] [30 Marks] </b>
+
+UNIT V: ANGULAR VELOCITY & ACCELERATION MEASUREMENT
+Introduction to Angular Velocity measurement, Mechanical tachometer, Electrical tachometer, Contactless electrical tachometers - Inductive pick-up tachometer, Capacitive pick-up tachometer, Photo-electric tachometer. Introduction to Acceleration measurement, Piezo-electric Accelerometer, Seismic accelerometer, Strain Gauge Accelerometer, LVDT Accelerometer, Potentiometric accelerometer.
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT VI: INDICATING & RECORDING MEANS
+Introduction, Display communication from the instrument to user, Analog & Digital displays, Mechanical pointers, Multipoint, Multi-pointer & Multirange indicators, Data recording, Mechanical recorders – Pressure Chart Recorder, Electromechanical recorders - Ultra-violet recorders.
+<br><b>[06 Hrs] [15 Marks] </b>
+
+<b>Text books:</b>
+
+<br><br>1.	Mechanical Measurements And Instrumentation	A. K. Sawhney and Puneeth Sawhney	DhanpatRai & Sons, New Delhi.
+<br>2.	Mechanical Measurement and Control	Dr.D.S.Kumar	Metropolitan Book Company Pvt. Ltd., New Delhi
+<br>3.	Mechanical Engineering Measurement	Thomas Beckwith, N.Lewis Buck, Roy Marangoni	Narosa Publishing House, Bombay
+<br>4.	Mechanical and industrial measurement	R.K.Jain	Khanna publishers
+<br>5.	Principle of Industrial  instrumentation	D.Patranabis	Tata Mc Graw hill education.
+
+<br><br><b>Website:</b>
+
+<br><br>1.	http://www.npl.co.uk/upload/pdf/forceguide.pdf
+<br>2.	http://www.appmeas.co.uk/torque-transducers-and-torque-sensors.html
+<br>3.	http://instrumentationandcontrollers.blogspot.in/2011/05/optical-torsion-meter.html
+<br>4.	http://instrumentationandcontrollers.blogspot.in/2012/08/electrical-torsion-meter-torque.html
+<br>5.	http://www.qec.edu.sa/eng/students/lectures/322_attachments/85/ME%20343/Lecture%2015-%20Force%20measurement.pdf
+<br>6.	http://www.jor.se/measurement/Kyowa/Kyowa-PDF/whats.pdf
+<br>7.	http://www.engr.usask.ca/classes/EE/323/notes_2005/chapter7.pdf
+<br>8.	http://www.mfpt.org/PDFs/MFPT%2059%20%20ACCELERATION%20MEASUREMENTS%20SESSION%204-19-05_comp.pdf
+<br>9.	http://people.wku.edu/david.neal/117/Unit2/AngVel.pdf
+<br>10.	http://www.me.ua.edu/me360/PDF/Readout.pdf
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>1. Each student will select and bring at least one mechanical component. Sketch each component. Outline its applications and submit an handwritten report.
+<br>2. Conduct study on real time applications of a Transducer / Strain gauge and submit a hand report on the study.
+<br>3. Take case study on applications of any one Recording system in nearby industry; submit report on same.
+<br>4. Sketch any one Tachometer, list the steps followed and record the observations for measuring the Torque and submit an handwritten report.
+<br>5. Select appropriate Transducer / Strain gauge and interpret its concept and List / note the advantages, limitations & applications and submit an handwritten report.
+
+<br><br><b>Note:</b> The activities or similar activities for assessing CIE (IA) for 5 marks (Any one)
+<br>1. Each student should do any one of the following type activity or any other similar activity related to the course and before conduction, get it approved from concerned Teacher and HOD.
+<br>2. Each student should conduct different activity and no repeating should occur

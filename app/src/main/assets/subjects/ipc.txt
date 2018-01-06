@@ -1,0 +1,57 @@
+UNIT I: Process variables & temperature, pressure measuring instruments
+Process variable – static and dynamic characteristics of process instruments – measurement of temperature-different types of thermometers – bimetallic thermometer, industrialthermometer,mercury-in-glassthermometer,resistance ,thermocouples,radiation pyrometer,optical pyrometer- principles involved – working. Instruments used for pressure measurement – bourdon gauge – Bellows-Diaphragms – Vacuum measuring instruments-pirani gauge
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT II: Measuring instruments- Level, Viscosity, Humidity, Ph, Density
+Direct level measurement-Bob and tape, Sight or gauge   glass method,Float and tape guage,float and shaft method.Indirect level measurement –air or gas purge method, pressuregauge method, flowmeasurment-orificemeter,venturimeter,pitot tube, rotameter, humidity measurement- psychrometric method, Dew point method, density- hygrometer,viscosity-redwood viscometer.
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT III: Process Control
+Principles and uses of automatic process control, block diagram,physical diagram,operational diagram – Modes of control – Principles of ON/OFF – Proportional – Derivative – Integral, PI ,PD, PID  and P-I-D control	,Response-open loop and closed loop
+<br><b>[08 Hrs] [20 Marks] </b>
+
+UNIT IV: Controllers
+Working principles of pneumatic controllers – proportional,derivative,integral ,proportional and integral, proportional  and derivative, proportional,integral and derivative controllers, Electrical –P-controller,PI,PD,PID, Electronic controllers –  P-controler,PI,PD,PID,Role  of micro processors in process control,Digital control systems.
+<br><b>[08 Hrs] [25 Marks] </b>
+
+UNIT V:Final control elements
+Final control elements- introduction – elements of control valves – sliding stem valves,rotary stem valves, valve plug designs,actuators, Pneumatic – Mechanical - Electrical types - Working principles.-  Application of Computers in process control
+<br><b>[08 Hrs] [20 Marks] </b>
+
+UNIT VI: Analytical instruments
+Principles of chromatography – Gas liquid chromatography – Thermal analysis – Principles – Working of DTA – TGA (Thermo Gravimetric Analyser) - Spectrometers – Principles - Working of U.V. Spectrometers – INFRA Red spectrometer
+<br><b>[08 Hrs] [20 Marks] </b>
+
+<b>Reference Books:</b>
+
+<br><br>1.	Industrial instrumentation by – Donala P Eckman weley eastern Ltd, 1984.
+<br>2.	Instrumental methods of chemical analysis by – B.K Sharma Yrel Pub :- House.
+<br>3.	Outline of chemical instrumentation and process control by Dr A. Suryanarayan, Khanna publications. 
+<br>4.	Instrumentation & process control by R P Vyas.
+<br>5.	Process control by Harriott.
+<br>6.	Instrumentation & process control by S K Singh
+
+<br><br><b>Website:</b>
+<br><br>1.	https://www.youtube.com/watch?v=HHFdJ6dyeDA
+<br>2.	 www.supercoolsliderule.com 
+<br>3.	http://www.explainthatstuff.com/how-pyrometers-work.html
+<br>4.	https://www.youtube.com/watch?v=o0GZA-vU3MY
+<br>5.	https://www.youtube.com/watch?v=-9IfpNAESlM
+<br>6.	https://www.youtube.com/watch?v=DCzu4e9Q80k
+<br>7.	https://www.youtube.com/watch?v=xWWg8J60r3A
+<br>8.	https://www.youtube.com/watch?v=jNVePBvI2ps
+<br>9.	https://www.youtube.com/watch?v=CRl-Un3FY8M
+<br>10.	http://instrupedia.blogspot.in/2012/02/bubbler-level-measurement-system.html
+<br>11.	https://www.youtube.com/watch?v=vwY-xWMam7o
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>1. Each student will be given an activity to prepare a tabulated summary for types of Instruments for measuring different process variables.(Summary includes instruments used in industries other than that mentioned in the syllabus.)
+<br>2. List out any five pressure measuring devices available in market with its specifications and current market price.
+<br>3. Each student will give an activity to prepare a tabulated summary of different modes of controls used in different process.
+<br>4. Prepare a summary of applications of different types of electronic controllers, electrical controllers in various fields.
+<br>5. Make a summary of recent applications of various Spectrometers, chromatographic instruments in various fields.
+
+<br><br><b>Note:</b> The activities or similar activities for assessing CIE (IA) for 5 marks (Any one)
+<br>1. Each student should do any one of the following type activity or any other similar activity related to the course and before conduction, get it approved from concerned Teacher and HOD.
+<br>2. Each student should conduct different activity and no repeating should occur

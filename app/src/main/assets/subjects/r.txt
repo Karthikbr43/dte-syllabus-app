@@ -1,0 +1,58 @@
+UNIT I: Introduction to Refractories
+Definition of Refractory, Discuss general properties of refractory. Classification of refractories based on chemical nature; acidic, basic and neutral with definition and examples. Classification based on operating temperature - low heat duty, medium heat duty, high heat duty and super duty with examples. 
+<br><b>[07 Hrs] [20 Marks] </b>
+
+UNIT II: Phase Equilibrium
+Define and explain phase, phase rule, double component system - alumino silicate and Magnesium silicate systems, triple component system - ferrous alumino silicate, lime alumino silicate systems. Interpretation of phase diagram for selection of refractory batch. Definition and explanation of sintering, vitrification and fusion.  
+<br><b>[06 Hrs] [15 Marks] </b>
+
+UNIT III: Manufacturing
+Explain raw materials, composition, shaping and firing methods with flowchart, with properties and applications in ceramic industries for the following refractories: Fire clay, Silica, Alumino-silicate, Magnesite, Dolomite, Chrome-Mag Mag–Chrome, Alumina, Chromite, Carbon and Graphite.
+<br><b>Special refractory</b>: Silicon Carbide, Silicon nitride, Zirconia, SIALON, Electro cast refractory and Insulation refractory. Precasted and Prefired refractories.
+<br><b>[15 Hrs] [40 Marks] </b>
+
+UNIT IV: Properties and Testing
+Describe the effect of following properties on quality of refractory and their tests – Green Density and Fired Density, Porosity, Permeability, Water Absorption, Abrasion Resistance, Refractoriness (P.C.E.), Refractoriness Under Load, Cold Crushing Strength, Modulus of Rupture (Hot and Cold), Thermal expansion, Permanent Linear Change on Reheating (PLCR), Thermal Conductivity, Spalling resistance, Erosions resistance and Slag resistance.
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT V: Applications
+Applications of refractories in Glass industry, Cement Industry, Steel – Ferrous and non-ferrous industries, thermal power stations, sugar industries, chemical and fertiliser industries. Explain with diagram of arc furnace, blast furnace, coke oven, thermal boiler for power plant.
+<br><b>[08 Hrs] [25 Marks] </b>
+
+UNIT VI: Monolithic Refractories
+Definition of monolithic refractories, Explanations on types - Castables Refractories, Plastic Refractories, Ramming Refractories, Patching Refractories, Coating Refractories, Refractory Mortars, Insulating Castables and their installation method.
+<br><b>[06 Hrs] [15 Marks] </b>
+
+<b>Reference Books:</b>
+
+<br><br>1.	Refractory,	Rashid Chesti
+<br>2.	Fuels Furnaces and Refractories, O P Gupta
+<br>3.	Industrial Ceramics, Singer and Singer
+<br>4.	Fuels Furnaces, Refractories and Pyrometry 	AVK Suryanarayana, BSPublications
+<br>5.	Industrial Furnaces, W Trinks
+
+<br><br><b>E –Learning</b>
+
+<br><br>1. http://www.en.wikipedia.org
+<br>2. http://www.indfurnace.com
+<br>3. http://www.cumi-murugappa.com/refractories
+<br>4. http://www.firebricks.co.in
+<br>5. http://www.epa.gov/ttnchie1/ap42/ch11/final/c11s05.pdf
+<br>6. http://www.idc-online.com/technical_references/pdfs/mechanical_engineering/Type_of_Monolithic_Refractories.pdf
+<br>7. http://www.youtube.com/watch?v=2A7iBp8yfZg
+<br>8. http://www.youtube.com/watch?v=USlytoLMIWo
+<br>9. http://www.youtube.com/watch?v=zALVuWpo2xs
+<br>10. http://www.youtube.com/watch?v=03oSe7B4I0A
+<br>11. http://www.youtube.com/watch?v=QYVBbzW_7TY
+<br>12. http://www.youtube.com/watch?v=EFnWnlCLsEw
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>1. Student should implement phase diagrams and prepare some compositions of refractory and make a report on it.
+<br>2. Visit a nearby refractory industry and make a report on the product manufactured.
+<br>3. Arrange a guest lecture on refractories and student should make a report on the talk given.
+<br>4. Surf the internet /books and gather information regarding recent developments in refractories and its application. And make a report on it.
+<br>5. Visit a nearby industry using heat treatment, and make a report on the type & shape of the refractory they use.
+<br>6. Make a report on availability of different shaped refractories in the market.
+
+<br><br><b>Note:</b> Student should prepare hand written report with minimum 2-3 pages and reports should not be copied from earlier batches. And other similar tasks can be assigned.

@@ -1,0 +1,46 @@
+Unit - I: Tutorials and Graded Exercises
+
+<b>Part-A: Digital Communication Experiments</b>
+1.	Prove sampling theorem for low-pass signals.
+2.	Conduct an experiment to study the effect of aliasing
+3.	Perform an experiment to study Pulse Code Modulation and Demodulation.
+4.	Generation of Delta modulated signal and  adaptive delta modulation signal
+5.	Generation and detect of BASK signal.
+6.	Generation and detect of BFSK signal
+7.	Perform an experiment to generate and detect BPSK signal using trainer kit.
+8.	Demonstrate TDM using Fiber Communication System.
+9.	Demonstrate PC to PC communication using Fiber Optic Digital Link.
+
+<b>Part-B: Data Communication and Networking experiments</b>
+10.	Exercise on crimping Network Cable and Testing using Cable Tester
+11.	Configuration of TCP/IP Protocols settings in Windows or Linux.
+12.	Install a peer to peer network and test with Net meeting.
+13.	Install a network between 3 or more computers using network switch and test for sharing resources
+14.	Establish LAN between Linux and Windows Systems and Share Printer  
+15.	Install a Wireless network using Access Point and Wireless Network card between 3 or more computers and Test by Sharing a Printer 
+16.	Setup Internet using modem, PSTN Line/WLL/Broad Band and Internet account share internet through LAN
+
+Unit – II: Project /Student Activities [CIE- 05 Marks]
+1.	Design and implement a digital communication link employing ASK or FSK.
+2.	Demonstration and report on functioning of remote PC access through Internet.
+
+<b>Reference Books:</b>
+1.	Electronics laboratory primer, S. Poorna Chandra, B.Sasikala, S. Chand Technical Publication. ISBN 81-219-2459-6
+2.	Digital Communications, Dr. K.N.Hari Bhat and Dr.D.Ganesh Rao, III Edition, Sanguine Technical Publishers.
+3.	https://www.youtube.com/watch?v=Wh9knsYSodI
+4.	https://www.youtube.com/watch?v=pIlBlNW7sOo
+5.	https://www.youtube.com/watch?v=YmPziPfaByw
+6.	https://www.youtube.com/watch?v=Q3tpT1aMZKY
+7.	https://www.youtube.com/watch?v=jXGo4hIZWAY
+8.	Computer Networks- 5th Edition- Andrew S Tanenbaum- Pearson-Prentice Hall
+9.	www.windowsnetworking.com
+10.	www.networktutorials.info
+
+<b>Scheme of Valuation for SEE:</b>
+
+1.	Write-up for two experiments (one each from Part-A and Part-B) with applicable circuit/block diagram/procedure/table/Ideal graph/formulae :	15
+2.	Construction/Conduction of both the experiments : 20
+3.	Result : 10
+4.	Viva-voce :	05
+
+<br><br><b>TOTAL = 50 Marks</b>

@@ -1,0 +1,58 @@
+UNIT - I: Kinematic Mechanisms
+Kinematic link, kinematic pair, kinematic chain, Structure, machine, mechanism, their differences , inversion of mechanism, inversions of four bar chain, single slider crank chain and its inversion, double slider crank chain and its inversion.
+<br><b>[06 Hrs] [20 Marks] </b>
+
+UNIT - II: Power Transmission System
+Classification of power transmission system, power transmission by open belt drive and closed belt drive, velocity ratio and simple problems on velocity ratio, creep and slip in belt drive, power transmission by rope, chain and gear drives, types of gears: spur gear, bevel gear ,helical gear and rack and pinion, simple and compound gear trains.
+<br><b>[06 Hrs] [20 Marks] </b>
+
+UNIT - III: Simple Stresses and strain
+Stress, Strain, Types of stresses-tensile stress, compressive stress and shear stress, Hooke’s Law, simple problems on above.
+<br><b>[10 Hrs] [25 Marks] </b>
+
+UNIT - IV: Bending of Beams
+Types of Load-Concentrated Load, Uniformly Distributed and Uniformly Varying Load. Shear Force, bending , sign conventions, SF and BM diagram for simply supported and cantilever beam for Concentrated Load, Uniformly Distributed and Uniformly Varying Load, simple problems on these
+<br><b>[10 Hrs] [25 Marks] </b>
+
+UNIT - V: Thermodynamic Cycles
+Laws of thermodynamics – first, second and zeroth law, perfect gas, gas laws, general gas equation, specific heats, thermodynamic processes - constant volume process, constant pressure process, isothermal process, adiabatic process, polytropic process, carnot cycle, otto cycle and diesel cycle (efficiency equation without derivation). Simple problems on efficiency of carnot and otto cycle
+<br><b>[12 Hrs] [30 Marks] </b>
+
+UNIT - VI: Applied Thermodynamics
+Working principle of 4 stroke petrol engines, 4 stroke diesel engine, 2 stroke petrol engine and 2 stroke diesel engine, working principle of vapour compression and vapour absorption refrigeration system, concept of summer air conditioning, winter air conditioning and all year air conditioning system	                                                                                                                                                                                     
+<br><b>[08 Hrs] [25 Marks] </b>
+
+<b>Reference Books:</b>
+
+<br><br>1: Theory of Machines by, R.S.Khurmi, S Chand and company
+<br>2: Strength of materials by, R.S.Khurmi, S .Chand and company
+<br>3: Thermal engineering by R.S.Khurmi, S .Chand and company
+<br>4: Theory of Machines by S.S Rathan, Tata MacGraw hill publications, New Delhi.
+
+<br><br><b>E –Learning</b>
+
+<br><br>http://freevideolectures.com/Course/2359/Kinematics-of-Machines#
+<br>http://www.learnerstv.com/video/Free-video-Lecture-2304-Engineering.htm#
+<br>https://en.wikipedia.org/?title=Kinematics
+<br>http://www.ignou.ac.in/upload/Unit-3-56.pdf
+<br>http://web.aeromech.usyd.edu.au/AMME2301/Documents/Chapter02.pdf
+<br>https://www.youtube.com/watch?v=Hd8w_7s_78A
+<br>http://bendingmomentdiagram.com/tutorials/calculation-shear-force/#
+<br>http://www.tutorvista.com/content/physics/physics-iii/heat-and-thermodynamics/thermodynamic-processes.php
+<br>http://www.tezu.ernet.in/sae/Download/Icengine.pdf
+<br>http://freevideolectures.com/Course/2372/Refrigeration-and-Air-Conditioning/1
+<br>http://www.iitg.ernet.in/scifac/qip/public_html/cd_cell/chapters/uk_saha_internal_combustion_engine/qip-ice-02-basic%20cycles.pdf
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>1. Take a photo of a actual kinematic mechanism, prepare, explain and submit a report of 2 to 3 pages in handwritten form
+<br>2. Go to nearest vehicle garage/service station, get a used/replaced transmission element , prepare drawing of it, explain and submit a report of 2 to 3 pages in handwritten form
+<br>3. Take a photo of a actual Structural member/building/mechanism subjected to tensile or Compression or Bending or combined loads , prepare, explain and submit a report of 2 to 3 pages in handwritten form
+<br>4. Take a photo of a engine used in any automobile, prepare, explain and submit a report of 2 to 3 pages in handwritten form
+
+<br><br><b>Note:</b> 
+
+<br>1. Group of max four students should do any one of the above activity or any other similar activity related to the course COs and get it approved from concerned Teacher and HOD. 
+<br>2. No group should have activity repeated or similar 
+<br>3. Teacher should ensure activities by different groups must cover all COs 
+<br>4. Teacher should asses every student by using suitable Rubrics approved by HOD

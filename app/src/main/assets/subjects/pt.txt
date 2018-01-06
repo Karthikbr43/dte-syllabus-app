@@ -1,0 +1,56 @@
+UNIT – I:  SIZE REDUCTION
+Nature of material to be crushed – Hardness structure, moisture content grind ability, Surface area, particle size. Size reduction methods wet and dry grinding, aids in grinding – Energy required for size reduction. Laws of crushing  –Kick’s law – Rittinger’s and Bond’s law – Open and closed circuit grinding, Crushing and grinding equipment’s – Jaw crushers, gyratory crusher- toothed and smooth Crushers, hammer mill, tube mill, rod mill, ball mill, fluid energy mill and their  Industrial applications.
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT – II:  SIZE SEPARATION
+Particles regular and irregular, Particle size , Average particle size, Particle size Measurement, sampling of particle size – Microscopic determination of particle size.
+<br>Screening – Sieves – Sieves standard – Differential and cumulative analysis, industrial Screens – Revolving – Shaking –vibrating – Oscillating – Gyrating screens, screen  surfaces, screen efficiency and other separation operations like – Classifications - settling tank, Classifier’s Jigging’s, froth flotation, Magnetic separators, Tabling.
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT - III: FLUID  SOLID  SEPARATION
+Centrifuge – Principle – Classification of centrifuges – Batch, Semi continuous and Continuous type centrifuge and their field of application –. Gravity sedimentation operation,  principle of  batch sedimentation test – Kynch    theory – Gravity thickener equipment and its operation , Sedimentation centrifuge and Centrifugal filter. Dust collector such as gravity settler, impingement separators – Cyclone separators. Centrifugal separator,  fabric filters and electrostatic precipitators their principles of working and Industrial applications.
+<br><b>[08 Hrs] [20 Marks] </b>
+
+UNIT - IV: FILTRATION
+Filtration –Principles – Types of filtration equipments – Filter press- washing and non  Washing – Leaf filter  – Rotary drum filter – and their construction operation and field of applications. Filters medium, filter aids and applications – Constant pressure and constant volume filtration –filter cake resistance and factors affecting rate of filtration.
+<br><b>[08 Hrs] [25 Marks] </b>
+
+UNIT – V: SAMPLING,STORAGE,HANDLING AND CONVEYING
+Sampling of solids ,storage of  solids , open and closed storage, bulk and bin storage, methods of storage of liquids and acids.
+<br>Conveying of solids – Principle – Properties of solids – Types of conveyors, belt conveyor, chain conveyor, bucket elevator, screw conveyor accessories, pneumatic conveying, field of application.
+<br><b>[08 Hrs] [20 Marks] </b>
+
+UNIT – VI: MIXING AND AGITATION
+Principles, Purpose of agitation, agitation equipments - Impellers – Propellers, paddles and turbines – Their operational characteristics and applications.
+<br>Flow patterns in agitation vessels – Swirling and vortex formation and their prevention , Power consumption of agitators. 
+<br>Principles of Mixing – Equipments  – kneading machines. Muller mixer- Ribbon blender – Tumbling mixer, their performance and application. 
+<br><b>[08 Hrs] [20 Marks] </b>
+
+<b>Reference Books:</b>
+
+<br><br>1.	Unit Operations of Chemical Engineering, McCabe and  W.L Smith V Edn.,McGrawHill.
+<br>2.	Introduction to Chemical Engineering, Badger, W.L. and Banchero J.T, 3rd Edition, McGraw Hill 
+<br>3.	Coulson and Richardson’s Chemical Engineering Vol. 2
+<br>4.	Particle Technology   and  Separation Processes, Coulson J.M. and Richardson J.F., 4th Edition.
+<br>5.	Perry’s Chemical Engineers’ Handbook, McGrawHill .
+<br>6.	Unit operations -1 by K.V Gahvane.
+
+<br><br><b>E –Learning</b>
+<br><br>https://www.youtube.com/watch?v=yTIePG1E-kY
+<br>https://www.youtube.com/watch?v=tL21JCLG9s8
+<br>https://www.youtube.com/watch?v=yrWzS_oqNGU
+<br>https://www.youtube.com/watch?v=1Wf1q5FHdk0
+<br>https://www.youtube.com/watch?v=NSUbcndrCnI
+<br>https://www.youtube.com/watch?v=A1REpwnPVS8
+<br>https://www.youtube.com/watch?v=gs6COsREjqY
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>1. Prepare a Model of Size reduction equipments and write a report.
+<br>2. Write a report about Conveyors other than mentioned in the syllabus.
+<br>3. Write a report on Materials of construction of Crushing and grinding equipments.
+<br>4. Prepare a study report on Separation of fine Particles from fluids by methods other thanthat mentioned in the syllabus content.
+
+<br><br><b>Note:</b> The activities or similar activities for assessing CIE (IA) for 5 marks (Any one)
+<br>1. Each student should do any one of the following type activity or any other similar activity related to the course and before conduction, get it approved from concerned Teacher and HOD.
+<br>2. Each student should conduct different activity and no repeating should occur

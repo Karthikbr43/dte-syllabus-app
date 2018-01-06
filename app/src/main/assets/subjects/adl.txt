@@ -1,0 +1,57 @@
+<b>Experiments:</b>
+
+<br><br><b>PART - A: ANALOG ELECTRONICS</b>
+
+<br><br>1.	Construct a suitable circuit to obtain the forward bias characteristics of Diode.
+<br>2.	Rig up and test the Zener diode as Voltage regulator.
+<br>3.	Construct and test the NPN transistor to obtain input and output characteristics in CE mode.
+<br>4.	Build and test the circuit of Transistor as a Switch.
+<br>5.	Construct and test the phototransistor (opto-isolator) as a switch.
+<br>6.	Construct an experiment for full wave bridge rectifier circuit with and without C filter and measure ripple factor.
+<br>7.	Build and test Single stage RC coupled amplifier and obtain frequency response on Semi-log graph sheet.
+<br>8.	Construct and demonstrate OP-AMP as a Comparator.
+<br>9.	Construct an experiment to test 555 Timer as Monostable multivibrator.
+
+<br><br><b>PART - B: DIGITAL ELECTRONICS</b>
+
+<br>10.	Construct a circuit to verify the truth tables of NOT, AND, OR, NOR and NAND gates.
+<br>11.	Construct a circuit to verify the truth table of Full Adder using basic gates.
+<br>12.	Construct a circuit to verify the truth table of JK Flip flop using IC 7476.
+<br>13.	Construct a circuit to verify the truth table of 4:1 multiplexer using IC 74153 and 1:4 De-multiplexer using IC 74139.
+<br>14.	Rig up and test the truth table of Decade Asynchronous Counter IC 7490.
+<br>15.	Construct an experiment to display0-9 digits using standard Seven segment display with the help of decoder/ driver IC 7446/ or 7447.
+<br>16.	Construct and test interfacing of suitable CMOS IC to Switch, LED, 6V Relayand 12 V DC Motor (from Reference Book no. 3).
+<br>17.	Construct and test Interfacing of suitable TTL IC to Buzzer and Solenoid (from Reference Book no. 3).
+
+<b>Reference Books:</b>
+<br><br>1.	Electronics Laboratory Primer by S. Poornachandra and B. Sasikala, S. Chand Publishers and Co, 2010.
+<br>2.	Laboratory Experiments and PSPICE Simulations in Analog Electronics by L.K.Maheshwari and M.M.S.Anand Publishers – PHI Learning Pvt. Ltd.
+<br>3.	Digital Electronics: Principles and Applications by R. L. Tokheim, Tata McGraw-Hill Education, 2013
+<br>4.	http://jntuhome.com/wp-content/uploads/2011/11/JNTU-B.Tech-Digital-Electronics-Lab-Manual.pdf
+<br>5.	www.physics.ibu.edu.tr/dosyalar/elek.pdf
+
+<br><br><b>Student Activity</b>
+
+<br><br>1.	Using CRO measure amplitude, frequency, and time period of a signal from function generator.  
+<br>2.	Visit nearby Electronics shop/ market or in your Lab and prepare a report of different IC available for Voltage Regulators.
+<br>3.	Construct and test MOSFET as a Switch.
+<br>4.	Construct and test Crystal Oscillator.
+<br>5.	Construct and test OP-AMP as Differentiator.
+<br>6.	Construct and test OP-AMP as Integrator.
+<br>7.	Construct and test OP-AMP as Voltage follower.
+<br>8.	Construct and test OP-AMP as Inverting Amplifier.
+<br>9.	Construct and test Binary Counter.
+<br>10.	Construct and test any one type of Shift register.
+<br>11.	Prepare a report on TTL and CMOS IC with pin diagram for interfacing different ratings of DC Motors.
+
+<br><br><b>Note:</b> Any one to be submitted with 3 pages report
+
+<b>Scheme of Valuation for SEE:</b>
+
+<br><br>1.	Identification of different components/ devices/ ICs : 05
+<br>2.	Circuit diagram and Procedure(For any One experiment) : 10
+<br>3.	Conduction : 20
+<br>4.	Results	: 05
+<br>5.	Viva-voce : 10
+
+<br><br><b>TOTAL = 50 Marks</b>

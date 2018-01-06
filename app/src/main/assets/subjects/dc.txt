@@ -1,0 +1,59 @@
+UNIT - I: Digital communication techniques
+Definition of signal and classification. Functional Block diagram of digital communication system. Comparison of analog and digital communications. Base band and pass band transmission. Definition of information capacity, entropy, bit-rate, baud rate and bandwidth of digital data and solve simple problems. Shannon’s theorem, Shannon-Hartley theorem, amount of information, sampling process, and sample and hold circuit. Types of sampling. Sampling theorems for low pass and band pass signals. Nyquist criterion and aliasing effect. Analog pulse modulation techniques-PAM, PPM, PWM.
+<br><b>[09 Hrs] [25 Marks] </b>
+
+UNIT - II: Digital coding of analog Signals
+Quantization. Definition, process and  classification.   Pulse-code modulation system and DPCM Quantization noise and companding process. Delta modulation system and adaptive delta modulation. Applications, advantages and disadvantages in each case. Comparison of different pulse modulation methods. Line coding and types - unipolar RZ and NRZ, Polar RZ and NRZ, bipolar NRZ (AMI), split phase Manchester format with examples. 
+<br><b>[07 Hrs] [20 Marks] </b>
+
+UNIT – III: Digital modulation techniques
+Base band transmission of binary data. Significance of inter symbol interference (ISI) and eye pattern. Digital modulation techniques-Binary and M-ary. Generation and detection(coherent and non-coherent) of   Binary ASK, FSK, PSK, QPSK(Coherent only), DPSK. Merits/demerits and applications. Concept of Minimum Shift Keying (MSK) and GMSK. Comparison of different modulation techniques.
+<br><b>[12 Hrs] [30 Marks] </b>
+
+UNIT - IV: Multiplexing techniques and multiple Access 
+Concept of FDM and TDM, 4-channel PAM/TDM system, signaling rate, transmission bandwidth, synchronization, crosstalk and guard time. Digital multiplexers-principle, classification. Performance factors- bit rate, transmission channel bandwidth. Solve simple problems. Advantages and disadvantages of TDM. Working principle of T1 digital carrier system. Multiple access methods-TDMA, FDMA and CDMA and  Comparison.
+<br><b>[06 Hrs] [20 Marks] </b>
+
+UNIT - V: Error Detection and Correction
+Definition of error, types of errors and redundancy, error control strategies, error control codes, Parity check bit coding, LRC, VRC, CRC, Checksum with examples.
+<br><b>[06 Hrs] [20 Marks] </b>
+
+UNIT - VI: Transmission Media
+Classification of transmission media: guided and unguided media, construction, merits, demerits and applications of twisted pair, co-axial and optical fibers. Block diagram of basic fiber optic communication system. Optical fiber-principle of operation, numerical aperture, angle of acceptance, configurations, losses, splices, connecters, couplers and switches. Optical emitters-LED and semiconductor LASERS, Optical detectors-APD and PIN diode and concepts of WDM. 
+<br><b>[12 Hrs] [30 Marks] </b>
+
+<b>Reference Books:</b>
+
+<br><br>1.	Digital Communication Systems, Simon Haykin, Wiley India, ISBN:9788126542314 	
+<br>2.	Digital and analog communication systems, K.Sham Shanmugam, Wiley India, ISBN:978126536801.
+<br>3.	Fiber Optic Communication systems, 3ed, w/cd,  Agarwal, Wiley India, ISBN:9788126513864.
+<br>4.	Analog and Digital Communications, T. L. Singal, McGraw Hill Education (india) Pvt. Ltd. New Delhi. ISBN 10: 0071072691 ISBN 13: 9780071072694.
+<br>5.	 Digital Communications, P. Ramkrishna Rao, McGraw Hill Education (india) Pvt. Ltd. New Delhi. ISBN-10:0-07-070776-6, ISBN-13:978-0-07-070776-4.
+<br>6.	Principles of Electronic Communication Systems, Louis E. Frenzel, Tata McGraw Hill Education Pvt. Ltd. New Delhi, ISBN-13:978-0-07-066755-6, ISBN-10:0-07-066755-1.
+<br>7.	Introduction to Analog and Digital Communications, 2ed, Haykin, Wiely India, ISBN:9788126536535.
+<br>8.	Fiber Optic Communication Systems, Dr.R.K.Singh, Wiley India, ISBN:9788126531349. 
+<br>9.	http://electronicdesign.com/communications/understanding-modern-digital-modulation-techniques
+<br>10.	https://www.youtube.com/watch?v=Q_-Bts76TfI
+<br>11.	https://www.youtube.com/watch?v=YJmUkNTBa8s
+<br>12.	https://www.youtube.com/watch?v=7h2xr-pi5VQ
+<br>13.	https://www.youtube.com/watch?v=Wh9knsYSodI
+<br>14.	https://www.youtube.com/watch?v=PWaNMjimtP0
+<br>15.	https://www.youtube.com/watch?v=9VmA2S2XiCo
+<br>16.	https://www.youtube.com/watch?v=ifgs0uypC78
+<br>17.	https://www.youtube.com/watch?v=pIlBlNW7sOo
+<br>18.	https://www.youtube.com/watch?v=aNqiTCZ-nko
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>1. Collect and prepare a handwritten brief report on the functional blocks in digital communication system such as scramblers, unscramblers, equalizers or clock recovery circuits with specifications and applications.
+<br>2. Recognize/identify the digital modulation technique and line coding for the voice signal transmission in telephone system and Prepare a brief handwritten report with specifications and applications.
+<br>3. Visit a nearest telephone exchange, collect and prepare a handwritten brief report on optical fibers for the communication purpose with specifications.
+<br>4. Identify the type of multiplexing and multiple access technique used for the mobile communication purpose and Prepare a handwritten brief report on any one with specifications and applications.
+<br>5. Recognize the optical emitters or optical detectors used for optical fiber communications and prepare a handwritten report that includes specifications, cost, applications, etc.
+
+<br><br><b>Note:</b> The activities or similar activities for assessing CIE (IA) for 5 marks (Any one)
+<br>1. At least one activity is mandatory for each batch of 2 students; carried throughout the semester and submit the report before the end of the semester.
+<br>2. Report shall be qualitative and not to exceed 6 pages.
+<br>3. Activity can be carried out off-class; however, demonstration/presentation should be done in the class room.
+<br>4. Teacher is expected to observe and record the progress of students’ activities
+<br>5. Assessment is made based on quality of work as prescribed by the following rubrics table.

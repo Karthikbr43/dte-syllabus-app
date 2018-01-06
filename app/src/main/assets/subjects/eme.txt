@@ -1,0 +1,61 @@
+UNIT - I : MAINTENANCE SCHEDULE
+Introduction, Necessity of maintenance, maintenance systems, vehicle inspection check lists, vehicle inspection reports, log books, Job Card, Workshop activities, Maintenance Schedule of LMVs, HMVs (general maintenance schedule) daily, weekly, monthly & periodic maintenance.
+<br><b>[06 Hrs] [20 Marks] </b>
+
+UNIT - II : DIAGNOSTIC TECHNIQUES
+Introduction, Diagnostic process-six stage process, diagnostics flow chart, Mechanical diagnostic techniques- Noise conditions-Vibration conditions-Road test, Diagnosing Engine problems before repair- causes and remedies for : excess oil consumption- fuel consumption- Lack of power output- Engine noises description  (Crank noises-Piston noises-Valve train noises- Pre-ignition - Detonation-Broken Engine Mount) – overheating of engine –Loss of coolant- Oil pressure problems- Engine will not crank- Engine cranks slowly but does not start- Engine back fires- Excess smoke- on board diagnostic- Need- Benefits- different methods of accessing DTCs( Diagnostic Trouble Codes), OBD II DTCs, OBD II Drive Cycle, Introduction to Engine Analyzer & scan tools.
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT - III : REPAIR AND OVERHAULING OF ENGINE
+Overhauling of multicylinder engine : Procedure- Engine Removal from vehicle- Engine Cleaning methods- Engine dismantle - Engine parts inspection and cleaning - servicing of Manifolds- Cylinder Head-  Valve mechanism- cam shaft – hydraulic valve lifter- Fly wheel- Crank shaft-  Bearings - Connecting rods – Piston assembly- cylinder block-liners, Assembly of engine - Valve clearance setting- engine tune-up. 
+<br><b>[09 Hrs] [35 Marks] </b>
+
+UNIT - IV: ENGINE EMISSIONS AND THEIR CONTROL
+Air pollution –Introduction -  Pollutants from S.I Engine – main sources , SI engine emission   control  methods by – Engine modification – Treatment of exhaust gases – Fuel modification, Positive crankcase ventilation, Evaporative loss control device, Exhaust gas recirculation. Pollutants from C.I engines –types of smoke – causes of smoke - smoke meters – filter darkening type – Light extinction type, smoke control methods. 	
+<br><b>[08 Hrs] [20 Marks] </b>
+
+UNIT - V: ESTIMATION & COSTING
+Definition of Estimating, Importance of Estimating, Aims of Estimating, Functions of Estimator, Qualities of Estimator, procedure of Estimating, Sources of Errors in Estimating, constituents of Estimation.
+<br>Costing -Definition- Objectives & aims of Costing, elements of cost, components of cost, methods of Cost allocation, Difference between Estimating and Costing.
+<br>Calculate the material cost of simple component like- step pully- rivets- flywheel-crankshaft-Connecting rod- Valve- Gibb headed key, simple problems on components of cost & on cost allocation. 
+<br><b>[10 Hrs] [20 Marks] </b>
+
+UNIT - VI : DEPRICIATION & REPAIR ESTIMATE
+Depreciation- Definition- depreciation fund, causes of depreciation, methods of calculating depreciation, simple problems on straight line method, diminishing balance method, sinking fund method, sum of the year’s digit method, machine hour basis method. 
+<br>Estimate the cost of repairing of auto components- Starter- Alternator-  Fuel Injection pump- Injector- Fuel pump- Clutch, Estimate the cost of overhauling of Major assemblies of- Engine - top overall hauling - major overhauling- Gearbox- Differential unit- Steering system - Brake system- Hub greasing - Suspension system ( Independent and Rigid)	
+<br><b>[09 Hrs] [20 Marks] </b>
+
+<b>Reference Books:</b>
+
+<br><br>1.	Vehicle Maintenance and Garage Practice	Doshi . Panchal . Maniar, PHI Learning Private Limited.
+<br>2.	Maintenance of Automotive Engines	Tim Gilles	Cengage Learning.
+<br>3.	Advanced Automotive Fault Diagnosis: Automotive Technology: Vehicle Maintenance and Repair	Tom Denton  	Cengage Learning.
+<br>4.	Automotive Computer Controlled Systems- Diagnostic tools and techniques, Allan W. M. Bonnick	Butterworth-Heinemann
+<br>5.	Mechanical Estimating and Costing 	S.C. Sharma & T.R.Banga	KHANNA PUBLISHERS.
+<br>6.	Automotive Engineering-Fuels & Emissions, Classroom Manual	Ken Pickerill	Cengage Learning.
+<br>7.	Automotive Engineering –Engine Performance Classroom Manual 	Barry Hollembeak	A Butterworth-Heinemann Title; 3 edition
+<br>8.	Internal Combustion Engines	M.L.Mathur & R.P.Sharma	Dhanpath rai & Sons.
+<br>9.	IC Engines 	V Ganesan	McGraw Hill Education(India) Private Limited, NEW DELHI.
+<br>10.	Internal Combustion Engines	M.L.Mathur & R.P.Sharma	Dhanpat Rai & Sons.
+<br>11.	Automobile Engineering	Kamaraju Ramakrishna	PHI Publication.
+
+<br><br><b>Website:</b>
+
+<br><br>1  http://www.tidyforms.com/download/automotive-maintenance-log.html
+<br>2. http://slsi.net/downloads/Monthly_Vehicle_Checklist.doc.pdf
+<br>3. http://www.tidyforms.com/download/vehicle-maintenance-schedule-template/page-8.html
+<br>4. http://www.kohlerengines.com/maintenance/basicTroubleshooting.htm#troubleshooting1
+<br>5. http://www.auto-facts.org/engine-diagnosis.html
+<br>6. http://slideplayer.com/slide/726802/
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>1. Visit service station to prepare job card and maintenance schedule of different vehicles.
+<br>2. Prepare Diagnosis chart and information about OBD II Scanners.
+<br>3. Visit local service station, garages to prepare document on servicing of engine.
+<br>4. Collecting of emission standard norms for different makes and models of the vehicles.
+<br>5. Prepare repair estimate of MPFI, CRDI repair, etc.
+
+<br><br><b>Note:</b> The activities or similar activities for assessing CIE (IA) for 5 marks (Any one)
+<br>1. Each student should do any one of the following type activity or any other similar activity related to the course and before conduction, get it approved from concerned Teacher and HOD.
+<br>2. Each student should conduct different activity and no repeating should occur

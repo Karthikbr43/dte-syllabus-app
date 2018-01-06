@@ -1,0 +1,96 @@
+UNIT – I: Basic principles of measurement
+1.0	Basic principles of measurement
+<br>1.1	Legal Metrology
+<br>1.2	Need of inspection
+<br>1.3	Measuring system
+<br>1.4	Precision and accuracy
+<br>1.5	Distinction between precision and accuracy
+<br>1.6	Factors affecting the accuracy of the measuring system
+<br>1.7	Sensitivity
+<br>1.8	Readability
+<br>1.9	Calibration
+<br>1.10 Magnification
+<br>1.11 Repeatability
+<br>1.12 Reproducibility
+<br>1.13 Errors in measurement
+<br>1.14 Types of errors-controllable and random
+<br>1.15 Types of standard-
+ <br>1.15.1 Line-Yard and Meter
+ <br>1.15.2 End 
+ <br>1.15.3 Wave length standard	
+<br>1.16 Sub division of Standards –Primary, secondary, Tertiary and working Standard
+<br><br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT - II: Introduction to comparators
+2.0	Introduction to comparators
+<br>2.1	Need for a comparator
+<br>2.2	Use of comparator
+<br>2.3	Essential characteristics of a good comparator
+<br>2.4	Classification
+<br>2.4.1 Mechanical comparator
+<br>2.4.1.1 Dial indicator.
+<br>2.4.2 Mechanical optical comparator
+<br>2.4.3 Solex pneumatic gauge 
+<br><br><b>[08 Hrs] [20 Marks] </b>
+
+UNIT - III: Angular, Screw and Gear measurement
+4.0	Introduction to angular measurement
+<br>4.1	Sine bar, types, uses, limitations and errors in sine bar
+<br>4.2	Angle dekkor
+<br>4.3	Autocollimator
+<br>4.4	Screw thread terminology
+<br>4.5	Parkinson gear roll tester
+<br>4.6 Coordinate Measuring Machine (CMM)	
+<br><br><b>[08 Hrs] [25 Marks] </b>
+
+UNIT - IV: Transducers
+3.0	Transducers
+<br>3.1	Introduction
+<br>3.2 Criterion for selection of transducer			
+<br>3.3	Mechanical Transducer
+<br>3.3.1	Elastic Transducer
+<br>3.3.2	Hydro pneumatic Transducer
+<br>3.4	Electrical Transducer
+<br>3.4.1	Sliding contact resistive Transducer
+<br>3.4.2   Piezo-Electrical Transducer	
+<br>3.5	Electronic Transducer
+<br><br><b>[09 Hrs] [25 Marks] </b>
+
+UNIT - V: Measurement frequency, load, flow and torque
+5.0	Measurement frequency, load, flow and torque
+<br>5.1 Introduction
+<br>5.2	Simple Electronic counter
+<br>5.3	Frequency meter
+<br>5.4 Hydraulic and pneumatic load cell
+<br>5.5	Turbine flow meter
+<br>5.6	Magnetic flow meter				
+<br>5.7 Prony Brake Dynamometer
+<br><br><b>[09 Hrs] [25 Marks] </b>
+
+UNIT - VI: Measurement of temperature, pressure
+6.1	Measurement of Temperature and Pressure
+<br>6.2	Bimetallic Thermometer 
+<br>6.3	Thermocouple
+<br>6.4	Optical pyrometer
+<br>6.5	Diaphragm pressure gauge 
+<br>6.6	Differential pressure cell
+<br>6.7 Open and closed loop control system.
+<br><br><b>[08 Hrs] [20 Marks] </b>
+
+<b>Reference Books:</b>
+
+<br><br>1. Engineering Metrology- R. K. JAIN, Khanna Publishers
+<br>2. Mechanical Measurements-R K Jain,
+<br>3. Engineering Metrology- I C Gupta, Dhanpat Rai Publications
+<br>4. Engineering Metrology-Anand Bewoor,Tata McGraw Hill
+<br>5. A Text Book of Metrology - By M. MAHAJAN.  DHANPAT RAI Company 	
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>1. Prepare a chart to show the standard (meter & yard) or Assignments
+<br>2. Prepare a chart to show the different types of comparator & transducer or assignment
+<br>3. Prepare a chart to show the working principle of angle dekkor or Assignments
+
+<br><br><b>Note:</b> The activities or similar activities for assessing CIE (IA) for 5 marks (Any one)
+<br>1. Each student should do any one of the following type activity or any other similar activity related to the course and before conduction, get it approved from concerned Teacher and HOD.
+<br>2. Each student should conduct different activity and no repeating should occur

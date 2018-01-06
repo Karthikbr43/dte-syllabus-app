@@ -1,0 +1,46 @@
+Unit - I
+1.0	Introduction
+1.1 Different tools and accessories required for lathe and drilling operation.
+1.2 Different Instruments required for lathe and drilling operation.
+
+Unit - II
+2.0 Introduction
+2.1	Grinding of tools (as per nomenclature) 
+2.2	Practice on lathe
+
+Unit - III
+3.0 Practice the following exercises
+3.1 Facing
+3.2 Step turning
+3.3 Taper turning
+3.4 Knurling
+3.5 Chamfering.
+3.6 Grooving.
+
+Unit - IV
+4.0 Thread cutting (External V and square thread)	
+4.1 Right hand thread cutting
+4.2 left hand thread cutting
+
+Unit - V     
+5.0 Eccentric turning on lathe
+
+Unit - VI
+6.0 Practice on drilling machine.
+6.1 Drilling a hole
+6.2 Reaming the hole
+6.3 Tapping the hole
+6.4 Gauge practice.
+
+<b>Reference Books:</b>
+<br><br>"TOOL ROOM PRACTICE"
+
+<b>Scheme of Valuation for SEE:</b>
+
+<br><br>1.	Listing of tools and operations required for performing job	: 05
+<br>2.	Planning of job	: 05
+<br>3.	Operation performed	: 20
+<br>4.	Dimensional accuracy, finishing of job : 15
+<br>5.	Viva/oral :	5
+
+<br><br><b>TOTAL = 50 Marks</b>

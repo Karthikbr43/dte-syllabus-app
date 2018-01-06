@@ -1,0 +1,41 @@
+<b>Experiments:</b>
+
+<br><br><b>PART - A: PERFORMING EXPERIMENTS</b>
+<br><br>1.	Estimate the leaching efficiencies in single and multistage operations
+<br>2.	Verify Rayleigh’s equation for simple distillation 
+<br>3.	Determination of vapourisation and thermal efficiencies in steam distillation
+<br>4.	Determination of NTU and HTU in packed bed distillation column.
+<br>5.	Determination of rate of drying and drying characteristics in atmospheric tray drier.
+<br>6.	Determination of the Diffusivity Co-efficient
+<br>7.	Draw the drying characteristics curve for the given samples dried in vacuum dryer
+<br>8.	Determination of equilibrium relationship between three component system
+<br>9.	Determination of the de colorization efficiency
+<br>10.	Determination of the equilibrium relationship between three component system
+
+<br><br><b>PART - B: OPEN ENDED EXPERIMENTS</b>
+<br><br>11.	Adsorption Studies
+<br>12.	Liquid-Liquid extraction (Single stage and multistage operation)
+
+<b>Reference Books:</b>
+
+<br><br>1.	unit operation of chemical Engg by W.L.Mc cabe J.C.Smith Mc Graw Hill book co.
+<br>2.	Introduction to chemical Engg by W.L.Badger & J.T.Banchero.
+
+<br><br><b>SUGGESTED STUDENT ACTIVITY:</b>
+
+<br><br>1. 	Collect/ download product catalogues with specification of various types of mass transfer equipments and details . 
+<br>2. 	Identify and list at least 10 equipments/devices which are used in mass transfer operations in industries. Also state the specific applications of those. 
+<br>3. 	At least one visit of any power plant/ industry where various items like distillation columns, absorption towers, extractors ,gas-liquid separators., Various types dryers, cooling tower, condenser etc. can be shown to students. 
+
+<br><br><b>Note:</b>
+<br>1.	Each student should submit any one of the following type activity or any other similar activity related to the course and before take up get it approved from concerned Teacher and HOD.
+<br>2.	Each student should conduct different activity and no repetition should occur
+
+<b>Scheme of Valuation for SEE:</b>
+
+<br><br>1.	Procedure  writing : 10
+<br>2.	Conducting of Experiment : 10
+<br>3.	Calculation, results, Inference : 20
+<br>4.	Viva : 10
+
+<br><br><b>TOTAL = 50 Marks</b>

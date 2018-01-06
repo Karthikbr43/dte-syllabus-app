@@ -1,0 +1,51 @@
+Unit - I
+1. Program to illustrate the following addressing modes
+<br>1.1 Immediate
+<br>1.2	Register  
+<br>1.3	Direct 
+<br>1.4	Indirect
+<br>2.  Program to add two 8 bit Signed and Unsigned numbers separately
+<br><br>3.  Program to add an array of 8bit numbers and store result in internal data RAM
+<br><br>4.  Program to convert two digits packed BCD to unpacked BCD and vice versa
+<br><br>5.  Program to convert two digits packed BCD to ASCII and vice versa
+<br><br>6.  Program to separate positive and negative numbers in a series of N-eight bit numbers
+<br><br>7.  Program to count the number of ones and zeros in two consecucutive internal  data memory locations
+<br><br>8.  Program to find smallest /largest number in an array of numbers stored in  external data RAM
+<br><br>9.  Program to generate specified time delay
+<br><br>10. Program to separate Even and Odd numbers in a series of N-eight bit numbers
+<br><br>11. Program to search a number in the given array of numbers stored in internal program memory
+<br><br>12. Program to illustrate multiplication and division
+<br><br>13. Program to clear all the bytes that have even numbers of ones stored in bit  addressable internal data RAM
+
+Unit - II
+1.  Interface eight channels ADC to temperature transducer/variable voltage source and display temperature/voltage level signal segment display 
+<br><br>2.  Interface DAC to generate different waveforms with variable frequency and amplitude using variable pot
+<br><br>3.  Generate different tones using DAC through Buzzer/speaker
+<br><br>4.  To interface a seven segment display/LCD and Hex keypad, application  may be to read, count and display the key pressed a number of times key pressed
+<br><br>5.  Write the program to interface stepper motor/DC motor to control direction, steps and speed by accepting keys pressed from keypad
+<br><br>6.  To interface LCD and keys to display the real time clock with preset facility using programmable RTC chips
+<br><br>7.  To interface matrix display: display characters, numbers on 25X14 dots display in different size
+<br><br>8.  To interface LCD and keys to generate moving text display
+<br><br>9.  To interface infrared: Control the relays with respect to the remote control keys pressed
+<br><br>10. To interface infrared: Transmit the date from one system to another using IR keyboard and display or Keyboard and motor can be used to verify
+<br><br>11. Interface digital elevator simulator module. Write a program to control eight floors with arrow display for direction and seven segment displays for  floor indications
+<br><br>12. Traffic light control simulator for a junction connecting at least four roads
+
+<b>Reference Books:</b>
+
+<br><br>1.	The 8051 Microcontroller & Embedded systems using assembly and C (2ndEdition) –M.A.Mazidi , J.C. Mazidi & R.D.McKinlay ISBN: 81-317-1026-2
+<br>2.	The 8051 Microcontroller(4th Edition)- MacKenzie , ISBN:81-317-2018-7
+<br>3.	The 8051 Microcontroller(1st Edition) – Dr.Uma Rao & Andhe Paallavi, ISBN: 81-317-3252-5
+<br>4.	Microcontrollers & applications, Ramani Kalpathi, & Ganesh Raja , ISBN: 81-888-4918-9
+<br>5.	Embedded C - Michael .J.Pont - Pearson Education -2002 ISBN 0 201 79523 X 
+
+<br><br><b>Student Activity</b>
+<br><br>1. Students can make models of Micro controller applications excluded from the curriculum.
+
+<b>Scheme of Valuation for SEE:</b>
+
+<br><br>1.	Writing and execution of any one  specified program from unit-I using simulator : 15
+<br>2.  Download and execute any one specified  Application from unit-II : 15+10
+<br>3.	Viva Voce :	10
+
+<br><br><b>TOTAL = 50 Marks</b>

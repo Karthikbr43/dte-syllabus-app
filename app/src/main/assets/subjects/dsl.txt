@@ -1,0 +1,50 @@
+<b>Experiments:</b>
+
+<br><br><b>PART – A </b>
+
+<br><br>1.Write a C program to illustrate the use of pointers in arithmetic operations.
+<br>2.Write a C program to swap two numbers using Call by value and Call by reference parameter passing techniques.
+<br>3.Write a C program to find the smallest element in an array of 10 elements using pointers.
+<br>4.Write a C program to create a dynamic array of integers using pointers.
+<br>5.Write a C program to illustrate the use of function pointer.
+<br>6.Write a C program to count the number of characters in a given file.
+<br>7.Write a C program to create a file that contains at least 5 records which consists of Book No., Book Name, Author, Publisher, and price.
+<br>8.Write a C program to  display the contents of the file created in program No. 5  in the following format  
+	<br><b>Book No.        Book Name          Author        Publisher       Price</b>
+<br>9.Write a C program to copy one file to another file using command line arguments.
+
+<br><br><b>PART – B  </b>
+
+<br><br>10.Write a C program to implement singly linked list: insert, delete, search and display.
+<br>11.Write a C program to illustrate Stack operations using arrays.
+<br>12.Write a C program to find the GCD of two numbers using recursion
+<br>13.Write a C program to evaluate a POSTFIX expression using stack operations.
+<br>14.Write a C program to implement queue using arrays.
+<br>15.Write a C program to implement queue using linked list.
+<br>16.Write a C program to implement binary tree traversal operations.
+<br>17.Write a C program to sort an array using bubble sort
+<br>18.Write a C program to sort an array using selection sort.
+<br>19.Write a C program to search a given number using linear search.
+<br>20.Write a C program to search a given number using binary search.
+
+<b>Reference Books:</b>
+<br><br>1.	Data Structures using C  by E. Balaguruswamy - Tata McGraw-Hill Education
+<br>2.	Data Structures using C  by Aaron M Tenenbaum  - Pearson Education India
+
+<br><br><b>Student Activity</b>
+
+<br><br><b>Note: the following activities or similar activities for assessing CIE (IA) for 5 marks (Any one)</b>
+
+<br><br>1.	Conduct a survey on various uses of pointers and submit a report of 2 pages.
+<br>2. 	Conduct a survey on the real time applications of Stacks and Queues and submit a report of 3 to 4 pages.
+<br>3.	Conduct a survey on the real time applications of Linked Lists and Trees and submit a report of 3 to 4 pages.
+<br>4.	Compare C structures and Java Classes and submit a report. 
+<br>5.	Quiz, Presentation and Seminars
+
+<b>Scheme of Valuation for SEE:</b>
+
+<br><br>1.Writing one program from PART-A and one program from PART-B : 10+10=20
+<br>2.Executing any one program with result : 20
+<br>3.Viva : 10
+
+<br><br><b>TOTAL = 50 Marks</b>

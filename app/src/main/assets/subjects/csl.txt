@@ -1,0 +1,101 @@
+Unit I: Tutorials and Practice
+
+1.	Introduction to MATLAB/ SCI LAB; features, applications and software versions, STARTING and QUITTING, MATLAB DESKTOP
+<br><br>2.	DESKTOP TOOLS; Command Window, Command History, Launch Pad, Help Browser, Current Directory Browser, Workspace Browser, Editor/ Debugger
+<br><br>3.	GETTING STARTED MATLAB; Using it as a calculator, Creating variables, Overwriting variable, Error messages, Making corrections, Controlling the hierarchy of operations or precedence, Controlling the appearance of floating point number, Managing the workspace 
+<br>Keeping track of your work session, Entering multiple statements per line, Getting help
+<br><br>4.	MATHEMATICAL FUNCTIONS;  Examples 
+<br>BASIC PLOTTING; Creating simple plots, Adding titles, axis labels, and annotations, Multiple data sets in one plot, Specifying line styles and colors, Copy/Paste Figures, Saving Figures
+<br><br>5.	WORKING WITH MATRICES; Introduction, Matrix generation
+<br><br>6.	ARRAY OPERATIONS; Matrix arithmetic operations, Array arithmetic operations
+<br>SOLVING LINEAR EQUATIONS; Matrix inverse, Matrix functions
+<br><br>7.	INTRODUCTION TO PROGRAMMING IN MATLAB 
+<br>INTRODUCTION, M-FILE SCRIPTS; Examples, Script side-effects 
+<br>M-FILE FUNCTIONS; Anatomy of a M-File function, Input and output arguments, INPUT/OUTPUT COMMANDS
+<br><br>8. 	CONTROL FLOW AND OPERATORS 
+<br>INTRODUCTION, CONTROL FLOW; The ‘‘if...end’’ structure, Relational and logical operators, The ‘‘for...end’’ loop, The ‘‘while...end’’ loop, Other flow structures, Operator precedence, SAVING OUTPUT TO A FILE 
+<br><br>9.	DEBUGGING M-FILES;
+<br>INTRODUCTION, DEBUGGING PROCESS; Preparing for debugging, Setting breakpoints , Running with breakpoints, Examining values , Correcting and ending debugging , Ending debugging, Correcting an M-file.
+<br>10.	SUMMARY OF COMMANDS, MAIN CHARACTERISTICS OF MATLAB; History, Strengths, Weaknesses, Competition
+
+Unit II: Graded Exercises
+
+1.	Ohm’s law - If R = 10 Ohms and the current is increased from 0 to 10 A with increments of 2A.Write a program/ simulate to generate a table of current, voltage and power dissipation. 
+<br><br>2.	Resistances combination- Write a program/ simulate to solve the equivalent resistance of series and parallel combinations up to three resistances R1, R2 and R3.
+<br><br>3.	KVL- Using Mesh/ loop analysis solve and simulate the given circuit to find the loop currents I1, I2 and I3.
+<br><b><i>[Refer Fig. 1.1] </i></b>
+<br><br>4.  KCL- Using Nodal analysis, solve and simulate the given circuit to find the nodal voltages V1, V2 and V3.
+<br><b><i>[Refer Fig. 1.2] </i></b>
+<br><br>5.	Maximum Power Transfer theorem- In figure the RLvaries from 0 to 50 k Ω, Write a program and simulate to plot the power dissipated by the load. Verify that the maximum power dissipation by the load occurs when RLis 10 kΩ.
+<br><b><i>[Refer Fig. 1.3] </i></b>
+<br><br>6.	Impedance and Admittance- Simplify following impedance Z and express it both in rectangular and polar form. Also compute Admittance Y.
+<br><b><i>[Refer Fig. 1.4] </i></b>
+<br><br>7.	RL ac circuit- For an series R-L circuit, the voltage v(t) and current i(t) are given as;
+<br><b><i>[Refer Fig. 1.5] </i></b>
+<br>Simulate the above condition and plot a sketch of v(t) and i(t) for t = 0 to 20 milli seconds.
+<br><br>8.	RC circuit- For the figure shown, the input voltage is a rectangular pulse with an amplitude of 5 Volts and a width of 0.5 sec. C = 10 µF and R = 1000 kΩ. Write a program and simulate to plot the output voltage V0(t) from zero seconds and end at 1.5 seconds.
+<br><b><i>[Refer Fig. 1.6] </i></b>
+<br><br>9.	Half Wave Rectifier- A half-wave rectifier circuit is shown in figure. It consists of an alternating current (ac) source, a diode and a resistor. Write a program and simulate to obtain the input and output plots. Assume suitable values for the ac source and time frame.
+<br><b><i>[Refer Fig. 1.7] </i></b>
+<br><br>10.	Zener Voltage Regulator- A zener voltage regulator circuit of figure has the following data: <br><b><i>[Refer Fig. 1.8] </i></b>
+<br>Write a program to obtain the Breakdown characteristics and calculate the output voltage Vs = 30 Volts and Vs = 35 Volts.
+<br><b><i>[Refer Fig. 1.9] </i></b>
+<br><br>11.	OPAMP Differentiator- For the figure given assume suitable values for Input voltage and circuit components. Write a program and simulate to show a plot for OPAMP differentiator operation. 
+<br><b><i>[Refer Fig. 1.10] </i></b>
+<br><br>12.	Number System- Write a program and obtain code conversion for the following.
+<br>a) (99)<sub>10</sub> = (?)<sub>2</sub>  
+<br>b)(10011100)<sub>2</sub> = (?)<sub>10</sub>   
+<br>c) (6F9)<sub>16</sub> = (?)<sub>2</sub> and (?)<sub>10</sub> 
+<br><br>13.	Logic gates- Write a program/ script file that produces a truth tables for the NOT, AND, OR, NAND, NOR, and EXOR operations. Take a and b inputs as 4 bits.
+<br><br>14.	De-Morgan's Theorems- Write a program/ M-file to obtain the Truth Table to Prove De-Morgan's Theorems.
+<br><br>15.	Seven segment Display- Write a program to solve the 7 Boolean expressions of Seven segment display to get the results in table form to indicate ‘Display digit and segment  LEDs on’. 
+<br><b><i>[Refer Fig. 1.11] </i></b>
+<br>[To display the digit with 7 LEDs (light emitting  diode) arranged as shown in Fig, the input D should be converted to 4-bit digit code and assigned to 7 Boolean functions to determine the on or off state of each diode in the 7-segment LED display]
+<br><br>16.	Transformers- Write a program to compute voltages of primary and secondary, primary current and secondary current. 
+<br>The inputs are kVA = 100, E1 = 230 kV, transformation ratio K = 0.6. Missing data may be assumed suitably.
+<br><br>17.	DC Generators- Write a program to compute Emf generated in dc shunt generator with the given parameters like Ia= 10 A, IL = 9 A, Ra = 0.5 Ω, Rsh= 120 Ω, and RL= 6 Ω. Missing data may be assumed suitably.
+
+<b>Reference Books:</b>
+
+<br><br><b>For Pragramming:</b>
+<br>1.	Getting started with MATLAB by Rudra Pratap, Oxford University Press, 2005.
+<br>2.	MATLAB and its Applications in Engineering by Rajkumar Bansal, Pearson Publishers, ISBN-10: 8131716813, 2009.
+<br>3.	SCILAB(a Free Software to Matlab),Er. Hema Ramachandran and Dr. Achutsankar Nair, S. Chand Publishers, ISBN-10: 8121939704, 201.
+
+<br><br><b>For Electrical Engg. Basics:</b>
+<br>4.	Basic Electrical and Electronics Engineering by S. K. Bhattacharya, Pearson Education India, 2012 Edition.
+<br>5.	A Text Book of Practicals in Electrical Engineering by Dr. N. K. Jain, DhanpatRai Publishing Company, 2009. 
+
+<br><br><b>For Electronics Engg. Basics:</b>
+<br>6.	Electronics Laboratory Primer by S. Poornachandra and B. Sasikala, S. Chand Publishers and Co, 2010.
+<br>7.	Laboratory Experiments and PSPICE Simulations in Analog Electronics by L.K.Maheshwari and M.M.S.Anand Publishers – PHI Learning Pvt. Ltd.
+<br>8.	Digital Electronics: Principles and Applications by R. L. Tokheim, Tata McGraw-Hill Education, 2013.
+
+<br><br><b>E-Books: </b>
+<br><br>1.	http://in.mathworks.com/
+<br>2.	https://www.scilab.org/resources/documentation/tutorials
+<br>3.	Introduction to Programming with Matlab by J. Michael Fitzpatrick and John D. Crocetti, Department of Electrical Engineering and Computer Science, School of Engineering, Vanderbilt University, Nashville, TN, 2000-2011.
+<br>4.	Introduction to Matlab: Application to Electrical Engineering by HoussemRafik El Hana Bouchekara, Umm El Qura University, Februray 2011.
+<br>5.	A Matlab Tutorial by Dr. L. Doyle and Dr. A. Kokaram, Department of Electronic and Electrical Engineering, University of Dublin Trinity College, 2000.
+<br>6.	Electronics and circuit analysis using MATLAB by John. O. Attia, Department of Electrical Engineering, Prairie View AandM University, Boca Raton London, New York, Washington D.C., CRC Press, 1999.
+<br>7.	MATLAB for Electrical and Computer Engineering, Students and Professionals with Simulinkby Roland Priemer, University of Illinois at Chicago, Scitechpub.com, Edison, NJ, 2013.
+
+<br><br><b>Student Activity</b>
+
+<br><br>1.	Submit a report on MATLAB/ SCI Lab Engineering Applications, Features, Limitations, and Important Commands/ Instructions.
+<br>2.	Solve, Analyze and Simulate BJT as a Switch.
+<br>3.	Solve, Analyze and Simulate OP-AMP as Integrator.
+<br>4.	Solve, Analyze and Simulate 3 bit Adder circuit.
+<br>5.	Solve, Analyze and Simulate Transformer equivalent circuit.
+<br>6.	Solve, Analyze and Simulate DC Generator Emf equation.
+
+<b>Scheme of Valuation for SEE:</b>
+
+<br><br>1.	Circuit Solution (Key equations) : 05
+<br>2.	Writing and Entering Program/ Code/ M-file/ Script file	: 20
+<br>3.	Errors Debugging : 05
+<br>4.	Results	: 05
+<br>5.	Printout : 05
+<br>6.	Viva-voce :	10
+
+<br><br><b>TOTAL = 50 Marks</b>

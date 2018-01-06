@@ -1,0 +1,56 @@
+Unit - I: Introduction to Python
+Introduction to Python, Installing Python on Windows/Linux, Understanding Command Line, IDLE and the Interpreter ,General Syntax, Working with data types, Numbers and Fractions, Formatting Numbers, Working with Strings, Formatting Strings, Working with Dates, Operators(Arithmetical, Logical, Relational ) Conditionals(If, if-else, elif and nesting), Loops and Nesting of Loops(While and for, Break/Continue/Pass Statements, Boolean Operators in, not in, is, is not, and, or , not, Local and Global Variables) String Methods, Functions(UDF-User Defined Functions in Python, Fixed Arguments and Returning Value, Arguments with default values, Variable Number of Arguments) Lambda Expressions and Recursions, Collections(Lists(Mutable), Tuples (Immutable Lists), Dictionaries)Working with different Modules, File IO(File modes, Open and Close a file, read and write, creating and deleting text files, pathnames)
+
+Unit - II: Programming Exercises
+1.	Write a Python Script for temperature conversions using F=C*9/5+32 and C=(f-32)*5/9. Test your program with several values for Celsius and Fahrenheit
+<br><br>2.	Write a Python Script that displays various date-related values such as 
+<br>a)	Current date and time
+<br>b)	The day of the week, month and year
+<br>c)	Time in seconds since Jan 1, 2012(epoch)
+<br><br>3.	Write a Python Script to print consecutive integers in the form as shown.
+<br>1
+<br>1 2
+<br>1 2 3
+<br>1 2 3 4
+<br>1 2 3 4 5
+<br><br>4.	Write a Python Script using split() to compare word abc in a string x and find the match
+<br><br>5.	Write a Python Script using split() to print justified text
+<br><br>6.	Write a Python Script to explain Break, Continue and Pass statements
+<br><br>7.	Using a While Loop find the divisor of a number
+<br><br>8.	Write a Python Script to find Prime Numbers using while loop
+<br><br>9.	Write a Python Script  to find factorial of a number using Recursion
+<br><br>10.	Write a Python Script  to find GCD of two positive integers using Euclid’s algorithm & Recursion
+<br><br>11.	Write a Python Script to Calculate LCM of two positive integers.
+<br><br>12.	Write a Python Script  to count the occurrences of digits and letters in a string
+<br><br>13.	Write a Python Script  to find the various attributes of a file-modes like r,w,rw
+<br><br>14.	Write a Python Script  to read and write data into a text file
+<br><br>15.	Write a Python Script  to find whether a specified path references a file and if yes find the file size and timestamp
+
+<b>Reference Books:</b>
+<br><br>1.	https://www.cs.uky.edu/~keen/115/Haltermanpythonbook.pdf
+<br>2.	http://www.tutorialspoint.com/python/python_tutorial.pdf
+<br>3.	http://greenteapress.com/thinkpython/thinkpython.pdf
+<br>4.	http://www-scf.usc.edu/~jgada/documents/python.pdf
+<br>5.	http://www.ucs.cam.ac.uk/docs/course-notes/unix-courses/PythonAB/files/handout.pdf
+<br>6.	http://www.ucs.cam.ac.uk/docs/course-notes/unix-courses/PythonAB/files/handout.pdf
+<br>7.	https://kushaldas.in/details/pym.pdf
+<br>8.	http://www.cse.iitd.ac.in/~mcs112572/book1.pdf
+
+<br><br><b>Student Activity:</b>
+<br>1.	Write and execute Python program for a given application  not mentioned in the curriculum
+
+<br><br><b>Note:</b>
+<br>1. Each student should do above activity or any other similar activity related to the course COs and get it approved from concerned Teacher and HOD.
+<br>2. No student should have activity repeated or similar
+<br>3. Teacher should ensure activities by group must cover all COs
+<br>4. Teacher should asses every student by using suitable Rubrics approved by HOD
+
+<b>Scheme of Valuation for SEE:</b>
+
+<br><br>1.	Question from unit-1 : 10
+<br>2.	Writing two programs : 20
+<br>3.	Entering of any one program	: 05
+<br>4.	Execution of any one program : 10
+<br>5.	Viva Voce : 05
+
+<br><br><b>TOTAL = 50 Marks</b>

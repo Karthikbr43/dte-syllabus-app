@@ -1,0 +1,26 @@
+Unit - I: Turning practice
+Demonstration and detailed explanation of lathe, work holding devices, Description and specification of Cutting tools required, Various Turning operations performed in lathe(Prepare at least ONE model involving the following operations. Facing, Plain Turning, Step Turning, Taper Turning, Knurling, Thread cutting) and Safety practices to be observed.
+
+Unit - II: Drilling Practice
+Demonstration and detailed explanation of Radial drilling Machine, work holding devices, Description and specification of Cutting tools required, Various Drilling operations performed in Drilling machine (Prepare ONE model with two or three different sizes holes at different locations) 
+
+Unit - III: Milling Practice
+Demonstration and detailed explanation of Milling Machine, work holding devices, Selection and specification of Cutting tools required, Various Milling operations performed in Milling Machine (Prepare ONE model with square/hexagonal cross section from round bars with indexing and without indexing and ONE model on milling a key ways.
+
+<b>Reference Books:</b>
+<br><br>Elements of Workshop Technology (Vols. 1 and II) by Hajra Chaudhary
+
+<br><br><b>Student Activity</b>
+
+<br><br>1.	Visit local Machine shop, observe the Machining practices followed and submit a handwritten report of 2 to 3 pages
+<br>2.	Get a simple component,  observe the Various machining operations carried out  in a component, draw a sketch, list the operations, machines and cutting tool used and submit a handwritten report of 2 to 3 pages
+
+<b>Scheme of Valuation for SEE:</b>
+
+<br><br>1.	Listing of tools and operations required for performing job	: 05
+<br>2.	Marking of job : 05
+<br>3.	Operation performed	: 15
+<br>4.	Dimensional accuracy of job : 15
+<br>5.	Finishing of job : 10
+
+<br><br><b>TOTAL = 50 Marks</b>

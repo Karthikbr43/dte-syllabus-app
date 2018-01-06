@@ -1,0 +1,42 @@
+UNIT I: Moisture Content
+Define Moisture content, (mechanical, hygroscopic and chemical water) its effects on quality and price of the material, determination of moisture content, Loss on ignition and Theoretical loss on ignition. Calculate water of plasticity. Understand the use of advanced equipments in moisture determination.
+<br><b>[07 Hrs] [15 Marks] </b>
+
+UNIT II: Dimensional Changes 
+Definition of shrinkage (drying and firing), linear shrinkage and volume shrinkage. Relation between moisture content and shrinkage, Factor affecting shrinkage. 
+<br>Calculation of linear drying and firing shrinkage, volume drying and firing shrinkage and total shrinkage. Calculation of shrinkage water and porewater. Conversions from linear drying shrinkage to volume drying shrinkage and vice versa. Estimate the green size and final size of the product with known shrinkage factors. 
+<br><b>[09 Hrs] [25 Marks] </b>
+
+UNIT III: Porous Solids.
+Definition of Archimedes principle and its application. Understand the concept of pore structures (open pore, closed pore, solid volume and apparent solid volume), Calculate volume of porous and nonporous solids. Definition of Bulk density and true density. Calculation of Bulk Density, apparent solid density, Specific Gravity, Apparent porosity and Water absorption. Derive the expression for true porosity and calculate true porosity.
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT IV: Ceramic Suspensions
+Definition of slip, Calculating density of a body batch and slip, adjusting density of batch, preparing slip of known density. Calculations relating to Mixtures of solid particles and water, use of Brongniart’s formula in fluid calculations-calculating dry content in slip, Increasing the density of slip by adding dry content and Dilution problems.
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT V: Glaze calculation
+Definition of Molecular weights, calculation of molecular weights of ceramic raw materials and glaze/glass compositions, percentage composition and Empirical formula, calculation of glaze recipe to formula incorporating various ceramic raw materials, frits (Raw glaze and Fritted Glaze). And converting given glaze formula to the recipe.
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT VI: Strength of Ceramic Bodies
+Define strength, cold crushing strength, tensile strength, Modulus of Rupture. Study the factors affecting strength of a body. Calculations on Cold Crushing Strength, Tensile Strength, Modulus Of Rupture, effective modulus, finding mean, mode and median. Finding Standard Surface Factor and Standard Sieve Fraction.
+<br><b>[06 Hrs] [15 Marks] </b>
+
+<b>Reference Books:</b>
+
+<br><br>1.	Calculation in ceramics - By R. GRIFFITHS and Radfard
+<br>2.	Ceramics test and calculation - By A. I ANDREWS.
+<br>3.	Hand Book of glaze MFG - By F.U. TOOLEY volume I and II Ogden Flushing 
+<br>4.	Lead Glazes for Ceramic Food ware - By Richard L. Lehman (http://www.ilmc.org/Publications/ILMCFinalCombo8-02B.pdf)
+<br>5.	http://www.calculatoredge.com/new/avgdiameter.htm
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>1. Student should find various glaze compositions for different ceramic products and make a comparative report on their qualities.
+<br>2. Students should collect / (given formula/recipe of) three different glaze formula or percentage composition of known products and convert them to percentage glaze compositions or glaze formula and submit the report.
+<br>3. Make a report on modern instruments used in finding moisture content of material.
+<br>4. Make a report on any other methods of finding density of slurry in industry.
+<br>5. Make a report on instruments used in finding mechanical strength of ceramic products.
+
+<br><br><b>Note:</b> Student should prepare hand written report with minimum 2-3 pages and reports should not be copied from earlier batches. And other similar tasks can be assigned.

@@ -1,0 +1,59 @@
+<b>Topics:</b>
+
+<br><br><b>1. Safety precautions and first aid</b>
+<br>Draw standard electrical symbols related to electrical wiring.
+<br>Understand the components of simple electrical circuit consisting of source , load , protective devices and measuring instruments.
+<br>Identify open, close and short circuit.
+
+<br><br><b>2.i) Identify different types of electrician tools</b>
+<br>Combination plier, Cutting Plier, Nose plier, screw driver set, line tester , Poker, Hand Drill, Power Drill, Concrete Drill, Megger, Earth tester,  Continuity tester, crimping tool, wire cutter , Wire splicer, wire stripper standard wire gauge, , soldering iron, wooden mallet ,ball pin hammer, testing board and multimeter.
+
+<br><br><b>ii) Identify different types of wiring systems and their applications</b>
+<br>Surface conduit , concealed conduit, PVC casing capping
+<br>Types of wires, cables used for different current and voltage ratings
+
+<br><br><b>3. Identify different wiring accessories and hardware items</b>
+<br>SP, DP,  ICDP, ICTP, change over switch, SPST, DPST,DPDT, TPST,TPDT, rotary switches , micro switches, modular switches, 2 pin socket ,3 pin socket, 2 pin plug top , 3 pin plug top, ceiling rose, round block, switch boards, switch plates, modular switch enclosures, blank insert gang box , junction box, fan box, saddles ,screws
+
+<br><br><b>4. Identify various safety devices</b>
+<br>Types of fuse units and Materials for fuse wire, Glass cartridge fuse, types of HRC fuse, Kit kat fuse. Types of MCB, MCCB, RCCB, ELCB
+<br>Types of Earthing- Pipe earthing , Plate earthing and Chemical earthing
+
+<br><br><b>Experiments:</b>
+
+<br><br>1.	Prepare the following joints: Straight joint , Tee joint, Britannia joint, Western union joint
+<br>2.	Rig up a circuit to control three lamps in (a) series and (b) parallel using one SP switch.
+<br>3.	Rig up a circuit to control one lamp from one place and test the wiring for phase control.
+<br>4.	Rig up a circuit to control two lamps from two places independently
+<br>5.	Rig up a circuit to control one lamp and a socket independently
+<br>6.	Rig up a circuit to control one lamp from two place using two way switches (staircase wiring)
+<br>7.	Rig up a circuit to control a fan using electronic regulator.
+<br>8.	Wire up a fluorescent tube fitting, connect and test it.
+<br>9.	Rig up a calling bell circuit with indicator to be operated from three different places using push button switches.
+<br>10.	Connect a rotary switch to a two element heater to get low, medium and high effects.
+<br>11.	Prepare a meter board for lighting installation using energy meter, fuse, MCB, DP switch ELCB and indicator
+<br>12.	Connect different domestic appliances and measure the current drawn by them using tong tester.
+<br>13.	Test the lighting installation for open circuit, short circuit, polarity, insulation resistance and earth fault.
+
+<b>Reference Books:</b>
+
+<br><br>1.	Electrical trade practical’s – NIMI
+<br>2.	Electrical workshop practice – ANWANI.
+<br>3.	Guidelines for Electrical wiring in residential buildings -www.st.gov.my/
+<br>4.	General specifications for electrical works- www.cpwd.gov.in/
+<br>5.	Code of practice for electrical wiring installations- www.law.resource.org
+<br>6.	Electric supply and distribution code – www.kptcl.com
+
+<br><br><b>Student Activity</b>
+<br><br><b>Mini-Projects:</b> Like preparing extension box, switch box and wiring models, simple panel board, and distribution board, building wiring of a lab/ room, etc.
+
+<b>Scheme of Valuation for SEE:</b>
+
+<br><br>1.	Identify the electrician  tools and components : 05
+<br>2.	Prepare the given type of Joint : 05
+<br>3.	Draw wiring diagram and write procedure (Only One Question to be given)	: 10
+<br>4.	Conduction : 15
+<br>5.	Result : 05
+<br>6.	Viva : 10
+
+<br><br><b>TOTAL = 50 Marks</b>

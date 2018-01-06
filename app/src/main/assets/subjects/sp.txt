@@ -1,0 +1,90 @@
+UNIT I: Fundamentals of Protection
+Sources of Fault Power,Illustrate the Phenomena of Short Circuit with the help of a general circuit diagram,Types of faults &Harmful Effects of short circuit current,Symmetrical Faults on Three Phase Systems, Importance of calculation of Short Circuit Current, Define Percentage reactance and Base KVA, Meaning of Reactor, Use of current limiting reactors & their arrangements, List the steps for Symmetrical Fault Calculations, SimpleProblems on Symmetrical Fault Calculations.
+<br>Causes of over voltages, Lighting phenomena &over voltage due to lightning
+<br>Types of lightning arresters &surge absorbers & their Construction & principle of operation.
+<br><br>(Reference Book: Principles of Power System” by V. K. Mehta, Rohit Mehta S. Chand, 4th revised edition 2008)
+<br><br><b>[07 Hrs] [20 Marks] </b>
+
+UNIT II: Fuse and Circuit Breakers
+Meaning of Switch Gear , Essential features of Switch Gear, List different Switch Gear equipment used for switching and interruption of current, Differences between Indoor type and Outdoor  type Switch Gear.
+<br>Desirable Characteristics of Fuse elements, Types of Fuses, Fuse Element Materials
+<br>Important Terms: Current Rating of Fuse element, Fusing current, Fusing factor, Prospective current, cut off current , Pre Arcing Time, Arcing Time, Breaking Capacity, Total Operating Time.
+<br>HRC fuses –construction, types, working, Merits, Demerits and applications
+<br>Arc formation process, methods of arc extinction, working of Circuit Breaker by Trip Circuit  Mechanism, Circuit Breaker rating.
+<br>Explain the terminologies – Arc-Voltage, arching Time, Pre –Arching Time, Prospective Current, T R V, Recovery Voltage, R RR V, Total Break Time
+<br>Circuit breakers-Concept, Classification, Working principle, Construction, Merits, Demerits & Applications of OCB (Plain oil),ACB(Axial blast, crossblast),SF6 (SulpherHexa Fluoride)CB Non Puffer Type,VACUUM CB.
+<br>Maintenance Schedule of OCB,ACB, SF6 and VCB Circuit Breakers
+<br><br>(Reference Book: Principles of Power System” by V. K. Mehta, Rohit Mehta S. Chand, 4th reveised edition 2008)
+<br><br><b>[14 Hrs] [40 Marks] </b>
+
+UNIT III: Protective Relays
+Relay definition, required qualities of Protective Relaying,Necessity for Protection, Primary and Back up protection, Classification of protective Relaying,Important Terms: Pickup current, current setting, P S M, T S M, Time -P S M Curve
+<br>Construction and working of Induction type Non-directional over current relay
+<br>Introduction of Static relay, merits and Limitations,Static Type Over Current Relay,Comparison of Static Relays with Electro-Magnetic Relays
+<br>Block diagram and working of Microprocessor based Over Current Relay
+<br>Differential relay- Principle of operation, Current differential and Voltage balanced Differential relay
+<br>Distance relays:Definite distance and Time-distance Impedance Relay
+<br>Introduction to Numerical relays, Block diagram, working, Advantages of Numerical relays and different types
+<br>List different Testing Methods for Relays
+<br><br>(Reference Book: MadhavaRao T.S.,  'Power  System Protection  - Static  Relays', McGraw Hill, New Delhi,2nd Edition, 21st reprinted, 2008.
+<br>Power System Protection And Switchgear by Buvanesh A Oza, Nirmalkumar C Nair ,Rases P Mehta and Vijay H Makwana, McGraw HILL Education(India Pvt. Ltd) Newdelhi)
+<br><br><b>[12 Hrs] [35 Marks] </b>
+
+UNIT IV: Protection of Alternators and Transformers
+<b>Protection of Alternators:</b>
+<br>Abnormalities & Faults
+<br>Differential protection, Balanced Earth Fault Protection, Stator Inter Turn Protection
+
+<br><br><b>Protection of Transformers:</b>
+<br>Abnormalities & Faults 
+<br>Protective Systems for Transformers, Buchholz Relay, Earth Fault or Leakage Protection,
+<br>Combined Leakage and Overload Protection, Circulating Current Scheme for Transformers Protection
+<br><br>(Reference Book: Principles of Power System” by V. K. Mehta, Rohit Mehta S. Chand, 4th reveised edition 2008)
+<br><br><b>[08 Hrs] [25 Marks] </b>
+
+UNIT V: Protection of Feeders and Bus-Bars
+<br><b>Feeder Protection:</b>
+<br>Abnormalities & Faults
+<br>Time Graded Over Current Protection
+<br>Differential Pilot – Wire Protection
+<br>Basic principle of Distance Protection
+
+<br><br><b>Bus – Bar Protection:</b>
+<br>Abnormalities & Faults
+<br>Differential Protection of Bus -Bars
+
+<br><br>(Reference Book: Principles of Power System” by V. K. Mehta, Rohit Mehta S. Chand, 4th reveised edition 2008)
+<br><br><b>[05 Hrs] [15 Marks] </b>
+
+UNIT VI: Substation and Maintenance
+Explain the indoor and outdoor type substation						
+<br>Identify the various units of substation
+<br>Testing methods of Circuit Breakers
+<br>Testing methods of CT’s & PT’s
+<br>Maintenance Schedule of Relays
+<br>Introduction, Types& importanceof Neutral Earthing 
+<br>Substation Earthing
+<br>Principle and applications of Peterson coil
+
+<br><br>(Reference Book: Testing, commissioning, operation and maintenance of electrical equipment by Sunil S Rao ,Khanna Publications
+<br>Power System Protection And Switchgear by Buvanesh A Oza, Nirmalkumar C Nair ,Rases P Mehta and Vijay H Makwana, McGraw HILL Education(India Pvt. Ltd) Newdelhi)
+<br><br><b>[06 Hrs] [15 Marks] </b>
+
+<b>Text books:</b>
+<br><br>1)	Principles of Power System” by V. K. Mehta, Rohit Mehta S. Chand, 4th reveised edition 2008
+<br>2)	Power System Protection And Switchgear by Buvanesh A Oza, Nirmalkumar C Nair ,Rases P Mehta and Vijay H Makwana, McGraw HILL Education(India Pvt. Ltd) Newdelhi
+<br>3)	J.B.Gupta “Switchgear & Protection”, (edition), Katson Publisher,2008 
+<br>4)	MadhavaRao T.S.,  'Power  System Protection  - Static  Relays', McGraw Hill, New Delhi,2nd Edition, 21st reprinted, 2008.
+<br>5)	Handbook of Switchgears by BHEL
+<br>6)	Testing , commissioning , operation and maintenance of electrical  equipment by Sunil S     Rao ,Khanna Publications
+
+<br><br><b>e-books:</b>
+<br><br>1.	http://www.pdfsdocuments.com/testing-commissioning-operation-maintenance-electrical-equipments.pdf
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>1.	Identify various faults on the power system other than faults studied in the curriculum
+<br>2.	Identify the components of different types of circuit breakers used in LV & HV side with their specifications (throughvisits , video or model ).
+<br>3.	Study of specification of lightning arresters of different manufacturers throughBrochures / Literature	
+<br>4.	Study different types of over/under voltage relays, differential and distance relays using static relays ,microprocessor based and numerical relays
+<br>5.	Identify various faults in motors, Relays and Circuit Breakers and relevant protection schemes

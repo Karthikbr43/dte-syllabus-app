@@ -1,0 +1,39 @@
+Unit - I:
+1.	Demonstration  of equipment’s and process In Electroplating shop.
+<br>2.	Determine the effects of hydrochloric acids, sulphuric acid, Nitric acid.
+<br>3.	Practice of dressing wheels, polishing and buffing of different metals.
+<br>4.	Practice of chemical cleaning on mild steel and other metals.
+<br>5.	Demonstration of process used for sample preparation for plating such as Grinding.
+<br>6.	Demonstration of process in brushing and finishing.
+<br>7.	Preparing various electrolytes for electroplating of copper, Nickel, zinc and Chromium Testing the solution on different metals to determination of PH value for the above solutions
+<br>8.	Preparing the solution for Anodizing & colouring.
+<br>9.	Preparing the various metals for electroplating of copper plating on mild steel.
+<br>10.	Preparing the various metals for electroplating of nickel plating on brass.
+<br>11.	Preparing the various metals for electroplating of zinc.
+<br>12.	Anodizing on a given Aluminium articles and Colouring on anodized Aluminium articles
+<br>13.	Practice of Etching  & embossing on Aluminium and brass
+
+Unit - II:
+14.	Study the process of Non Destructive Testing Process.
+<br>15.	Inspect the welded joint by using liquid penetrant Testing method.
+<br>16.	Inspect the welded joint by using Magnetic Testing method.
+<br>17.	Inspect the welded joint by using Accousting emission testing method.
+<br>18.	Inspect the welded joint by using Ultra Sonic Testing method.
+
+<b>Reference Books:</b>
+<br><br>1.	Principle of electroplating by WILLIAM BLUM
+<br>2.	Canning electroplating handbook by CANNING
+<br>3.	Welding Engineering and Technology by R.S. PARMAR, IIT, Delhi, Kanna Publishers, 1999.
+<br>4.	Non Destructive Testing by Mc Gonnagle JJ – Garden and Reach, New York.
+<br>5.	Electrochemistry by  R.K. Jain.
+
+<b>Scheme of Valuation for SEE:</b>
+
+<br><br>1.	Listing of tools & operations required for performing job : 05
+<br>2.	Marking of job : 05
+<br>3.	Operation performed	: 10
+<br>4.	Dimensional accuracy of job	: 10
+<br>5.	Finishing of job : 10
+<br>6.	Viva : 10
+
+<br><br><b>TOTAL = 50 Marks</b>

@@ -1,0 +1,67 @@
+<b>Experiments:</b>
+
+<br><br>01.	Identify and practice to use of :- a) series test lamp, b) Megger, c) Earth tester, d)Multimeter,  e) Tongue tester, f) Neon tester.
+<br><br>02.	Identify and practice to use of :- a) AC, DC, AC / DC meters. b) Rheostats. c) tachometers , Analog and Digital. d) Phase sequence indicator.
+<br><br>03.	Identify the parts of D.C. machines, note down the name plate details and interpret it.
+<br><br>04.	Identify the terminals, and  test the field and armature windings of a DC machine for open circuit, short circuit and ground faults using test lamp / megger, check the insulation resistance, identify and locate the possible faults.
+<br><br>05.	Identify the parts of special machines: universal motor, stepper motor and brushless DC Motor, and test the coils and windings for its working condition.
+<br><br>06.	Identify the parts of a 3 point starter, test it ,and locate the faults and Suggest remedies, Note down the name plate details and interpret it.  . 
+<br><br>07.	Identify the parts of an Alternator, note down the name plate details and interpret it.  
+<br><br>08.	Identify the terminals, and test the field and armature windings of a Alternator for open circuit, short circuit and ground faults  using test lamp / megger, check insulation resistance, Identify and locate the possible faults and suggest remedies.
+<br><br>09.	Trace and draw the layout of different electrical machines in the laboratory and their power circuit wiring, healthy condition of fuses, switches ,MCB, ELCB check them for proper voltage, identify faults if any ,and rectify.
+<br><br>10.	Identify DC supply source / M-G set/ Rectifier, Main Control Panel, Distribution panel, Sub-Panels and the protection schemes in the Electrical laboratory, and maintain them, for proper operation.
+<br><br>11.	Check for proper EARTHING ,in the Electrical laboratory, and maintain them for proper operation.
+<br><br>12.	Draw the O.C.C (no-load or magnetization characteristics) of a Self excited DC shunt generator.  Determine the critical resistance. 
+<br><br>13.	Draw the load characteristics of DC Shunt generator.
+<br><br>14.	Connect, start and run a DC. Motor using a 3 point starter.
+<br><br>15.	Control the Speed of DC shunt motor by Flux Control Method. Plot the graph.
+<br><br>16.	Control the Speed of DC shunt motor by Armature voltage control. Plot the graph.
+<br><br>17.	Draw the Speed v/s armature current characteristics of a DC shunt motor by indirect loading method.
+<br><br>18.	Draw the magnetization characteristics of 3-ph alternator. Determine the critical resistance.
+<br><br>19.	Determine regulation of a 3-ph alternator by direct loading.
+<br><br>20. Determine regulation of 3-phase alternator by conducting O.C and S.C tests by EMF method.
+<br><br>21.	Conduct parallel operation of 3-ph alternators by Dark Lamp OR Bright Lamp OR Synchroscope method.
+<br><br>22.	Perform general preventive maintenance on DC Machines and 3 point starters. 
+<br><br>23.	Perform general preventive maintenance on Alternators and Panel Boards. 
+<br><br>24.	Perform general preventive maintenance on fuses, switches, rheostats, ,etc
+<br><br>25.	Internal Tests.
+
+<b>Reference Books:</b>
+
+<br><br>1.	Experiments in Basic Electrical Engineering by S. K. Bhattacharya, New Age International  Publications, 2007 Edition.
+<br>2.	Electrical trade theory and trade practice ( 1st and 2nd year) – National Instructional Media Institute (NIMI)
+<br>3.	Laboratory courses in Electrical Engineering. by S.G. Tarnekar, P. K. Karbanda and others, S. Chand Publishers.
+<br>4.	Electrical Machines by M.V.Deshpande- PHI Publications.
+<br>5.	Electrical Motors Application and control by M.V.Deshpande- PHI Publications.
+<br>6.  www.controlmanual.com / testing and maintenance of electrical machines.
+<br>7.  accessengineeringlibrary.com/.../electrical-equipment-handbook-troubles.
+<br>8.  www.slideshare.net/.../electrical-powerequipmentmaintenanceandtesting.
+<br>9.  https://www.crcpress.com/Electrical...Equipment-Maintenance...Testing...
+<br>10. electrical-engineering-portal.com › Resources.						
+<br>11. https://books.google.co.in/books?isbn=1574446568
+<br>12. http://www.scribd.com/doc/39578646/New-First-year-Electrical-lab-manual#scribd
+<br>13. http://mrcet.ac.in/newwebsite/pdfs/Labmanuals-13/ECE/LabManuals/DC%20LAB% 20%28180%29%20II-I.pdf
+
+<br><br><b>Student Activity</b>
+
+<br><br><b>Note:</b> Student has to submit a self hand written report of minimum 3 pages of any ONE activity listed below.
+
+<br><br>1.	Tests conducted on Electrical machines as per industrial standards / requirements.
+<br>2.	Fault identification and repair of DC machines, Alternator and special machines.
+<br>3.	Applications of special machines like universal , Brushless motor, stepper motor, etc.
+<br>4.	Prepare Maintenance schedule for motors and generators in the Electrical lab and perform maintenance as per schedule and record it.
+<br>5.	Prepare models and charts related to DC machines and Alternator
+<br>6.	Dis-assemble and assemble procedure / techniques as per standard practice.
+<br>7.	Rewinding practice of DC machine and Alternator.
+<br>8.	Prepare a suitable panel board for Electrical machines and equipments.
+<br>9.	Visit nearby Industry/Substation/Power Generating Station, and prepare a report on the  Motors and Generators used ,and their purpose.
+
+<b>Scheme of Valuation for SEE:</b>
+
+<br><br>1.	Identifying the parts and selection of meters/equipment : 05
+<br>2.	Circuit diagram with Procedure for one experiment : 10
+<br>3.	Connections ,Conduction and Tabulation of Readings : 20
+<br>4.	Calculation and Results : 05
+<br>5.	Viva-voce : 10
+
+<br><br><b>TOTAL = 50 Marks</b>

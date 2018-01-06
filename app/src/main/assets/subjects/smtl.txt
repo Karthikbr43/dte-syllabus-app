@@ -1,0 +1,113 @@
+<b>Experiments:</b>
+
+<br><br><b>Tests on Cement as per IS code</b>
+<br>1.	Determination of Fineness by Surface area (Blaine air Permeability apparatus / 90 micron sieve )
+<br>2.	Determination of Specific gravity
+<br>3.	Normal Consistency  and Setting time
+<br>4.	Test on Grade of Cement (Mortar Cube )
+
+<br><br><b>Tests on Aggregate as per IS code</b>
+<br>1.	Specific gravity of Fine Aggregate and Coarse Aggregate
+<br>2.	Water absorption test of Fine Aggregate and Coarse Aggregate
+<br>3.	Grading analysis of Fine and Coarse Aggregates
+<br>4.	Bulking of sand.
+<br>5.	Bulk Density of Coarse Aggregate
+
+<br><br><b>Tests on cement concrete as per IS code</b>
+<br>1.	Slump test
+<br>2.	Compaction factor test 
+<br>3.	Compressive strength of Concrete cubes and Split Tensile test for cylinders.
+<br>4.	Non destructive testing (Rebound hammer or  Ultra sonic pulse velocity)
+
+<br><br><b>Tests on Road Materials as per MORTH Specifications</b>
+<br>1.	Abrasion test on road aggregates by Los Angeles (Abrasion Testing Machine)
+<br>2.	Impact test on road aggregates.
+
+<br><br><b>Tests on other Building Materials as per IS Code</b>
+<br>1.	Water absorption test  and Compression test on bricks or building blocks
+<br>2.	Tensile test on steel 
+
+<br><br><b>Tests on Soils as per IS code</b>
+<br>1.	Grain Size analysis of soils
+<br>2.	Atterberg limits  a) Liquid limit   b) Plastic limit  c) Shrinkage limit
+<br>3.	Tests on Moisture content of soil (Oven drying method)
+<br>4.	Field Density of Soil By Core cutter
+<br>5.	Standard Proctor Compaction Test on soil
+
+<b>Reference Books:</b>
+
+<br><br>1.	Timoshenko and Young, Strength of Materials - Vol II, Von Nastrand Company, New York 
+<br>2.	Laboratory Manual prepared by the Department
+<br>3.	Shetty M.S, ‘Concrete Technology S. Chand and Co. Ltd, New Delhi. 
+<br>4.	Mehta P.K, ‘Properties of Concrete Tata McGraw Hill Publications, New Delhi 
+<br>5.	Neville AM, ‘Properties of Concrete ELBS Publications, London. 
+<br>6.	Relevant BIS codes. 
+<br>7.	http://site.iugaza.edu.ps/mymousa/files/Material_-Testing-lab-manual.pdf
+<br>8.	http://www.technicalsymposium.com/CIVIL_SEM5_CE2307LM.pdf
+<br>9.	http://docslide.us/documents/som-bmt-lab-manual-final.html
+
+<br><br><b>REFERENCES</b>
+<br>1. Concrete Technology  By MS Shetty (S. Chand Publication  16 Edition)
+<br>2. IS Codes 	
+<br>a)	IS 8112:1989 -43 Grade OPC Specification
+<br>b)	IS-4031-PART-2
+<br>c)	IS 12269:1987 -53 Grade OPC Specification	
+<br>d)	IS 1489(PART -I) :1991- Portland Pozzolona Cement Specification
+<br>e)	IS 383:1970 – Specification for Coarse and fine Aggregate for Concrete
+<br>f)	IS 456 :2000 – Pain and RCC Code of Practice	
+<br>g)	IS 1786:1985 – Specification for HYSD Steel bars and wires for RCC
+<br>h)	IS 2185 PART-I:1979–Specification for Concrete masonry units Hollow and Solid Concrete Blocks
+<br>i)	IS 1077 :1992 – Common Burnt Clay Building Bricks Specifications
+<br>j)	IS 2720 Part III – Determination of water contents of Soil
+<br>k)	IS 2720 Part IV – Grain size analysis of Soil
+<br>l)	IS 2720 Part V– Determination of Liquid limits and Plastic Limits of Soil
+<br>3. Material Testing Lab Manual – Gambir.
+<br>4. Soil Testing Manual – HD Charan and KS Grover.
+<br>5. MORTH (Ministry Of Road Transport and Highways) Specifications
+
+<br><br><b>Student Activity</b>
+
+<br><br>1.	Collect the information with proper justification for the fine aggregates used for different constructional activities such as foundation, plastering, concreting etc mentioning zonal classification.
+<br>2.	Extraction of disturbed and undisturbed soil samples and finds field density.
+<br>3.	Presentation on Strain gauges, strain indicators, extensometer.
+<br>4.	Prepare and compare Soil classification chart as per IS and ASTM or 3 Phase system.
+<br>5.	Writing and Collecting test report formats by consulting industry on various construction materials other than given experiments.
+<br>6.	Collecting Specifications of various materials and correlate with standards.
+<br>7.	Collecting and study of various IS codes regarding testing of materials.
+<br>8.	Spread sheet of concrete mix design template
+<br>9.	Collection of minimum compression strength values and water cement ratio of concrete used for different structural components from IS codes
+<br>10.	Tests on grouting and its applications
+<br>11.	Comparative study of  M-sand with Natural sand
+<br>12.	Tools and equipment with pictorial presentation chart
+<br>13.	Finding unit weight of various diameters of HYSD and TMT steel and compare with theoretical calculations.
+<br>14.	Model of plate load test.
+<br>15.	Water absorption test on Fine and coarse aggregate.
+<br>16.	Field tests on various building materials such as cement, sand, brick etc as per codes. 
+<br>17.	A study of local soils for rammed earth construction 
+<br>18.	Study of strenght and properties of eucalyptus as a truss material 
+<br>19.	Rammed earth wall 
+<br>20.	Role of geo synthetic in the improvement of strength of soil 
+<br>21.	Compressive strength characteristics of stacked stabilised soil cement blocks 
+<br>22.	Strength properties of bhalki soil
+<br>23.	Stabilization of soft soils using industrial wastes
+<br>24.	Study of strength parameters of silica fume concrete
+<br>25.	Study on infiltration rate on different soils of your city/town/locality
+<br>26.	Effect of ph on physical properties of fine-grained soils
+<br>27.	A study of laterite particles in adsorption of oil and grease
+
+<br><br><b>NOTE:</b>
+<br><br>1. Students should select any one of the above or other topics relevant to the subject approved by the concerned faculty, individually or in a group of 3 to 5. Students should mandatorily submit a written report and make a presentation on the topic.  The task should not be repeated among students. Report will be evaluated by the faculty as per rubrics. Weightage for 5 marks Internal Assessment shall be as follows:
+<br>(Unsatisfactory 1, Developing 2, Satisfactory 3, Good   4, Exemplary 5)
+<br><br>2. Reports should be made available along with bluebooks to IA verification officer
+
+<b>Scheme of Valuation for SEE:</b>
+
+<br><br>1.	Writing Procedure for a Question : 10
+<br>2.	Conduction of a Experiment : 10
+<br>3.	Tabulation/Calculation : 10
+<br>4.	Result / Conclusion : 5
+<br>5.	Viva : 5
+<br>6.	Task work :	5
+<br>7.	Record : 5
+
+<br><br><b>TOTAL = 50 Marks</b>

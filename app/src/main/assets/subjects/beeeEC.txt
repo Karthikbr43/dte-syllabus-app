@@ -1,0 +1,31 @@
+UNIT - I: Basics of Electricity
+<b>Overview:</b> Overview of electronics and communication engineering field, applications and as a programme. <b>Terminology and Definitions:</b> Current, EMF/voltage/electric potential, potential difference, resistance and conductance, components and circuit. <b>Ohm's law:</b> Statement, specific resistance, limitations, resistors in parallel and series and their combinations. Simple problems. <b>Kirchhoff’s laws:</b> Statements of current and voltage laws and simple problems. <b>Power and Energy:</b> Definitions, units and simple problems. <b>Cells:</b> Definition, classification (primary and secondary), comparison with examples, features of Lead Acid Battery, Lithium Ion and Nickel Metal Hydride, analyze series and parallel combination of cells, and list the precautions to be taken in battery maintenance.
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT - II: Electrostatics 
+<b>Definitions:</b> Charge, electric field, electric flux, flux density and field strength. <b>Coulomb's law:</b> Statement and illustration with simple problems. <b>Capacitor:</b> Definition of capacitor and capacitance, dielectric strength, absolute permittivity, relative permittivity, working principle, equation of capacitance, analysis of series and parallel combination of capacitors with simple problems. Charging and discharging (with equations) and the concept of time-constant and capacitive reactance.
+<br><b>[06 Hrs] [15 Marks] </b>
+
+UNIT – III: Electromagnetic Induction
+<b>Electromagnetic Laws:</b> Statements of Faraday's and Lenz's laws. <b>Definitions:</b> Flux, MMF, reluctance, absolute permeability, relative permeability, self-inductance, mutual inductance. <b>Inductors:</b> Energy stored in an inductor-equation, analysis of inductance in series and parallel, co-efficient of coupling, simple problems, inductive reactance and definition of quality factor.
+<br><b>[07 Hrs] [20 Marks] </b>
+
+UNIT - IV: AC Circuits Duration
+<b>DC and AC:</b> Definition and comparison. <b>Sinusoidal Wave/signal:</b> Amplitude, peak value, cycle, frequency, time period and phase and half-sine wave. <b>Definitions:</b> Phase difference, leading and lagging phase angles, RMS, average value, form factor, and peak factor. Simple problems. <b>RLC Circuits:</b> Current and voltages in a pure R, L and C circuit with phasor diagrams. Analysis of RL, RC and RLC series circuits-voltage, currents, impedance, phasor diagrams. AC quantities in complex form-polar and rectangular. Simple problems.
+<br><b>[10 Hrs] [35 Marks] </b>
+
+UNIT - V: Electrical Machines 
+<b>Classification:</b> Static and dynamic (rotary) machines, examples. <b>Transformer:</b> Definition, study of principle of operation of transformer, derivation of EMF equation, turns ratio, voltage transformation ratio, step-up and step-down transformers, losses, efficiency, regulation, and simple problems. <b>Classification Transformers:</b> Based on cores, frequency, power and application, and their features. Applications of isolation and pulse transformers. Working principle and applications of auto-transformer. <b>DC machines:</b> Principle of operation and features of DC motors and generators. <b>AC machines:</b> Features of AC motors and alternators. 
+<br><b>[09 Hrs] [20 Marks] </b>
+
+UNIT - VI: Passive Components
+<b>Definition:</b> Passive and active components. <b>Resistors:</b> Specification of resistors. Classification of resistors based on construction and their features, features and examples of fixed and variable resistors, features of linear and logarithmic potentiometers, and principle of operation, applications of LDR, VDR and thermistor. <b>Capacitors:</b> Specifications of capacitors. Classification of capacitors based on dielectric materials and applications and their features. <b>Inductors:</b> Specifications of inductors. Classification based on core and frequency .Applications of inductors.
+<br><b>[10 Hrs] [25 Marks] </b>
+
+<b>Reference Books:</b>
+
+<br><br>1.	Basic Electrical Engineering, V. K. Mehta and Rohit Mehta, S. Chand and Company Publishers, RE 2012, ISBN 81219087
+<br>2.	Fundamentals of Electrical and Electronics Engineering, B. L. Theraja, S. Chand and Company.REPRINT 2013, ISBN 8121926602
+<br>3.	Electronic Components, Dr. K. Padmanabhan and P. Swaminathan, Lakshmi Publications, 2006.
+<br>4.	http://electrical4u.com/ 
+<br>5.	http://www.electronics-tutorials.ws

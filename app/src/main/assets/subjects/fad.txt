@@ -1,0 +1,51 @@
+UNIT - I: Introduction to fluid mechanics
+Concept and classification of fluids, newton’s law viscosity, properties of fluids, density, specific gravity, specific weight, specific volume, viscosity, dynamic viscosity, kinematic viscosity, surface tension, capillarity and cavitation,  compressibility, fluid pressure at point, Pascal’s law, pressure head, pressure intensity, concept of absolute vacuum, vapour pressure, gauge pressure, atmospheric pressure, definition of buoyancy, simple and differential manometers, bourdon pressure gauge- simple problems
+<br><b>[07 Hrs] [20 Marks] </b>
+
+UNIT - II: Fluid Dynamics
+Fluid flow-Types of fluid flows, continuity equation, bernoulli’s theorem, venturimeter, construction, principle of working, Coefficient of discharge, Discharge through venturimeter and notches, Orifice meter, pitot tube – Construction, Principle of working, hydraulic coefficients, simple problems		
+<br><b>[09 Hrs] [25 Marks] </b>
+
+UNIT - III: Fluid machinery
+Hydraulic turbines- Classification  of turbine , construction and working principle of pelton wheel, Francis and Kaplan turbine, use of Penstock, Anchor Block, Surge tank and Draft tube. Concept of cavitation in turbines, simple problems.
+<br>Pumps-classification of pumps, construction and working of Centrifugal pump, need for priming of centrifugal pump, multistage centrifugal pump, reciprocating pump, types, construction and working, Air Vessel, construction and working Submersible pump, slip, simple calculation of discharge, Work done, Power, efficiency of pumps.
+<br><b>[10 Hrs] [25 Marks] </b>
+
+UNIT - IV: Basics of Aerodynamics
+Introduction, Flying Machines, History of Aviation, Different types with examples,  Lighter than air type, Balloons and Airships, Heavier than air type, different parts of Airplane, aircraft, helicopters and Hovercraft. Classification of airplanes based on distinguishable feature and usage along with examples, Modern developments.
+<br><b>[08 Hrs] [20 Marks] </b>
+
+UNIT - V: Principles of Flight
+Fundamental Aerodynamic variables: Aerodynamic  forces and moments,  Lift generation, Drag polar, L/D ratio, Airfoils, Airplane performance like Thrust / Power available, climb and glide, maximum range and endurance, take off and landings, wings, fuselage and tail surface, concept of static stability, control surfaces. Reynolds number and Mach number, measurement of airspeed. Streamlines, path lines and streak lines. Angular velocities, vorticity, circulation Stream function, velocity potential, bluff body.
+<br><b>[09 Hrs] [25 Marks] </b>
+
+UNIT - VI: Airplane Propulsion
+Mechanism of thrust production, Requirement of power, various means of producing power, Jet engines. Use of propellers as means of producing forward thrust. Functioning of Jet engine, turbo-prop, turbo-fan, turbo-shaft, Prop-fan, Rocket Propulsion, Classification of rockets like liquid and solid propellant rockets.
+<br><b>[09 Hrs] [30 Marks] </b>
+
+<b>Text books:</b>
+<br><br>1. Bansal R.K, “Fluid Mechanics and Hydraulics Machines”, 9th Edition, Laxmi Publications Private Limited, New Delhi. 2011.
+<br>2. R.S.Khurmi,“Fluid Mechanics and Machinery”,S. Chand and Company, 2nd Edition, 2007.
+<br>3. Fundamentals of Aerodynamics: John D. Anderson, McGraw-Hill publication. 
+<br>4. R S Shevell, Fundamentals of Flight, Prentice Hall
+<br>5. Introduction to flight: John D. Anderson, McGraw-Hill publication.6th Edition.
+
+<br><br><b>Reference Books:</b>
+<br><br>1. Ramamritham. S, “Fluid Mechanics, Hydraulics and Fluid Machines”, Dhanpat Rai and Sons, Delhi, 2004.
+<br>2. Kumar. K.L., “Engineering Fluid Mechanics”, 7th Edition, Eurasia Publishing House Private Limited, New Delhi, 1995.
+<br>3. P. N Modi and S. M. Seth, “Hydraulics and Fluid Mechanics Including Hydraulics Machines”, 19th Edition, Standard Book House, 2013
+<br>4. Aerodynamics for engineering students: E L Houghton and P W Carpenter, 	Edward Arnold publication, 
+<br>5. Anderson David Wand Scott Eberhardt. Understanding Flight.2nd ed. McGraw-   Hill, Professional, 2009.
+<br>6. Szebehely.V.G and Mark.H. Adventures in celestial mechanics. 4th ed. WILEY-VCH 
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>1. Each student will give an activity to prepare a tabulated summary for types of fluid which is available around city (Summary includes properties of fluid indicated in chapter-1)
+<br>2. List out any five pressure measuring devices available in market with its specifications and current market price.
+<br>3. Each student will give an activity to prepare a tabulated summary for types of pipes available in market. (Summary includes type, specification, size range, material, rate and applications).
+<br>4. Each student will give an activity to prepare a different parts of airplanes & helicopter
+<br>5. Each student will give an activity to prepare a different parts of jet propulsion
+
+<br><br><b>Note:</b> The activities or similar activities for assessing CIE (IA) for 5 marks (Any one)
+<br>1. Each student should do any one of the following type activity or any other similar activity related to the course and before conduction, get it approved from concerned Teacher and HOD.
+<br>2. Each student should conduct different activity and no repeating should occur

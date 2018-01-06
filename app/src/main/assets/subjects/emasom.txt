@@ -1,0 +1,100 @@
+UNIT I: INTRODUCTION TO ENGINEERING MECHANICS  
+Force and characteristics of a force, Force system: - Definition, classification of force system according to plane and line of action,  Composition of Forces: - Definition, Resultant force, moment of a force,Principle of transmissibility of forces,Law of moments
+<br>Simple Problems on forces.
+<br><b>[05 Hrs] [15 Marks] </b>
+
+UNIT II: SIMPLE STRESSES AND STRAINS
+ Definition of rigid body, plastic body, mechanical properties of metal-(Rigidity, Elasticity, Plasticity, Compressibility, Hardness, Toughness, Stiffness, Brittleness, Ductility, Malleability, Creep, Fatigue, Tenacity, Durability) Definition of stress, strain, Classification of stress, strain, (Types of stresses -Tensile, Compressive and Shear stresses Types of strains - Tensile, Compressive and Shear strains - Elongation and Contraction - Longitudinal and Lateral strains - Poisson’s Ratio ) Stress-strain curve for mild steel, HYSD bar and non-ferrous materials, (yield stress/ proof stress, Hooke’s law, St. Venant‟s principle, Ultimate stress, breaking stress and percentage elongation. Working stress - Factor of safety - Percentage reduction in area - Significance of percentage elongation and reduction in area of cross section ), 
+<br>Stresses in bars of composite section (Modular ratio – Problems on axially loaded composite sections like RC.C / Encased columns.) Principles of superposition, Deformation of uniform bars and bars of varying cross-section, Volumetric strain and change in volume, Relation among  elastic constants
+<br>Types of loading – gradual, suddenly applied load and Impact load Definition of strain energy, modulus of resilience and proof resilience. Comparison of stresses due to gradual load, sudden load and impact load. Thermal stresses.
+<br><b>[10 Hrs] [25 Marks] </b>
+
+UNIT III: GEOMETRICAL PROPERTIES OF SECTIONS
+Centroid, centre of gravity, Concept of moment of inertia, Centre of gravity of plane areas such as rectangle, triangle, circle, semicircle and quarter circle. Parallel axis and perpendicular axis theorem, Radius of gyration and polar moment of inertia, problems on C.G of irregular sections, M.I of symmetrical and unsymmetrical sections (I, T, C,  L- section)  problems,
+<br><b>[10 Hrs] [25 Marks] </b>
+
+UNIT IV: BENDING MOMENTS AND SHEAR FORCE
+Types of beams –(simply supported, cantilever, fixed and continuous beams,)Types of loading- (Axial load, Transverse load,point load, uniformly distributed load, uniform varying load moment load) support reactions for determinate structures, End conditions, Concept of shear force and bending moment, sign convention. 
+<br>Relation between bending moment, shear force and rate of loading 
+<br>Shear force and bending moment diagrams for simply supported beams, overhanging beams and cantilever subjected to point loads, UDL, point of contra flexure.
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT V: THEORY OF SIMPLE BENDING  
+Introduction – Bending stress in beam, Assumptions in simple bending theory, bending equation, neutral axis, Modulus of rupture, section modulus, flexural rigidity, moment of resistance, Problems on Bending stress distribution diagram-variation of bending stresses across the cross section of the beams only rectangular and T section. Shear Stress distribution diagram for rectangular, I, T-section beams.
+<br><b>[08 Hrs] [20 Marks] </b>
+
+UNIT VI: SLOPE AND DEFLECTION OF BEAMS
+Introduction – Definitions of slope, deflection - Slope and deflection using Moment area method for simply supported and cantilever, subjected to symmetrical point loads and UDL.
+<br><b>[04 Hrs] [15 Marks] </b>
+
+UNIT VII: COLUMNS
+Introduction – Short and long columns - Euler’s theory on columns - Effective length, slenderness ratio - radius of gyration, buckling load - Assumptions, Euler’s Buckling load for different end conditions - Limitations of Euler’s theory - and problems.
+<br><b>[05 Hrs] [15 Marks] </b>
+
+<b>Text books:</b>
+
+<br><br>1.	Ramamurtham. S., “Strength of Materials”, 14th Edition, Dhanpat Rai Publications, 2011
+<br>2.	Khurmi R S, “Applied Mechanics and Strength of Materials ”, 5 Edition, S.Chand and  company 
+<br>3.	Fundamentals of strength of materials by P N Chandramouli” PHI New delhi
+<br>4.	Basavarajaiah and Mahadevappa, “Strength of Materials”, CBS Publishers, New Delhi. 
+<br>5.	 Ferdinand Singer, “Strength of Materials”, Harper and Row Publications 
+<br>6.	Srinath L S, Prakash Desayi,.Srinivasa Murthy N, S.AnanthaRamu, “Strength of Materials”, MacMillan, India, New Delhi.
+<br>7.  S SBhavikatti,  Strength of  Materials.
+
+<br><br><b>References:</b>
+
+<br><br>1.	Madan Mohan das, Mimi das Saikia, Bhargab Mohan das – Basic Engineering Mechanics And Strength of Materials- PHI Learning private limited, New Delhi.   
+<br>2.	Popov E.P, “Engineering Mechanics of Solids”, 2nd Edition, Prentice-Hall of India, New Delhi, 2002.
+<br>3.	Nash W.A, “Theory and problems in Strength of Materials”,Schaum Outline Series,    McGraw-Hill Book Co., New York, 1995.
+<br>4.	Kazimi S.M.A, “Solid Mechanics”, Tata McGraw-Hill Publishing Co., New Delhi, 2003.
+<br>5.	Ryder G.H, “Strength of Materials”, 3rd Edition, Macmillan India Limited, 2002.
+<br>6.	Bansal R. K, “Strength of Materials”,Laxmi Publications, New Delhi, 2012.
+<br>7.	Timoshenko S.P, “Elements of Strength of Materials”, Tata McGraw-Hill, Delhi.
+<br>8.	James M. Gere, “Mechanics of Materials” - (5th Edition), Thomson Learning.
+<br>9.	Beer and Johnston, “Mechanics of Materials”, TATA McGraw Hill.
+<br>10.	E P Popov, “Mechanics of Solids”, Prentice Hall of India. 
+<br>11.	Relevant IS Codes
+
+<br><br><b>Suggested Student Activity:</b>
+<br>The topic should be related to the course in order to enhance his knowledge, practical skill and lifelong learning, communication, modern tool usage.
+
+<br><br>1. Drawing Shear force and Bending Moment diagrams on Graph Paper simply supported beam, Cantilever and Draw the load diagram (free body diagram) by knowing SFD (each 6 problems).
+<br><br>2. To determine the moments of inertia of the given irregular body, composite sections, built up sections.
+<br><br>3. In spread sheet finding centre of gravity; IZZ and IYY of I, L,T and channel sections
+<br><br>4. Using MS excel prepare the abstract sheet with given data and calculate moment of inertia using formula bar
+<br><br>5. Writing report on (any one)
+<br>a. Study on Deformation behavior of Simply Supported Beam, measurement of Young’s Modulus and Deflection of Beam.
+<br>b. Conduct a experiment calculating the tensile stress of Bamboo if used as a reinforcing material
+<br>c. Calculate the tensile stress induced in the hanging rod of ceiling fan and suggest an alternate material
+<br>d. Calculate the tensile stress induced in the rope made up of jute
+<br>e. Determine the rigidity modulus of the material of the suspension wire.
+<br>f. Determine the flexural strength of the given tile by conducting a bending test
+<br>g. Conduct a deflection test on wooden beam and determine the value of Young’s Modulus of wood.
+<br>h. Draw a graph “load Vs deflection”.
+<br>i. Conduct a compression test on the given wooden cube and find its ultimate strength parallel to its fibres
+<br>j. Maxwell's Theorem of Reciprocal Deflection
+<br>k. Write material specifications for any two structural steels.
+<br><br>6. Visit the Institute’s Library / internet center and list the books/journals/conferenceproceedings, e-books and any other resources available on the topics suggested by the teacher. Prepare references consisting name of the author, title of the book/paper, publication and place of publication, volume No.s, page numbers and year of publication(any one). Some examples:
+<br>a) Tensometer,
+<br>b) Strain hardening
+<br>c) Punching shear.
+<br>d) Comparison of Compressive strength of Bricks, Blocks and Concrete.
+<br>e) Tension test on Mild steel and HYSD bars.
+<br>f) Compression test of Mild Steel, Cast iron and Wood.
+<br>g) Bending Test on Wood and Mild steel.
+<br>h) Plastic deflection
+<br>i) Compound stress
+<br>j) Torsion
+<br>k) Thick and thin cylinders
+<br>l) Glass fibres
+<br>m) Carbon fibres
+<br>n) Hoop stress
+<br>o) Varignons theorem
+<br>p) Euler–Bernoulli beam theory
+<br>q) Trusses
+<br>r) Statically indeterminate structures
+<br>s) Prismatic beam
+
+<br><br><b>Note:</b> 
+<br>1. Students should select any one of the above or other topics relevant to the subject approved by the concerned faculty, individually or in a group of 3 to 5. Students should mandatorily submit a written report and make a presentation on the topic. The task should not be repeated among students. Report will be evaluated by the faculty as per rubrics. Weightage for 5 marks Internal Assessment shall be as follows: (Unsatisfactory 1, Developing 2, Satisfactory 3, Good 4, Exemplary 5)
+<br>2. Reports should be made available along with bluebooks to IA verification officer

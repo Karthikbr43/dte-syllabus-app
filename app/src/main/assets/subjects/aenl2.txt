@@ -1,0 +1,37 @@
+<b>Experiments:</b>
+
+<br><br>1.	Identification of different components in Fuel supply system of Petrol engines
+<br><br>2.	Inspection and cleaning of fuel tank and fuel lines.
+<br><br>3.	Servicing and testing of AC mechanical fuel pump.
+<br><br>4.	Servicing and testing of Electrical fuel pump.
+<br><br>5.	Servicing of Two wheeler carburettor and Identify its different circuits
+<br><br>6.	Servicing of  SU carburettor and identify its different circuits
+<br><br>7.	Identification of different components in Fuel supply system of Diesel engines.
+<br><br>8.	Servicing of Air cleaners.
+<br><br>9.	Replacing of petrol and diesel Fuel filters
+<br><br>10.	Servicing of Plunger type Fuel feed pump.
+<br><br>11.	Servicing of diesel Fuel injection pump.
+<br><br>12.	Servicing and testing of diesel Fuel injectors.
+<br><br>13.	Bleeding of diesel fuel feed system.
+<br><br>14.	Servicing of Radiator.
+<br><br>15.	Cleaning of water jackets by reverse flushing method.
+<br><br>16.	Servicing of water pump.
+<br><br>17.	Replacing of engine oil and oil filters
+<br><br>18.	Servicing of Gear type oil pump.
+<br><br>19.	Servicing of Rotor type oil pump.
+<br><br>20.	Servicing of vane type oil pump.
+
+<b>Reference Books:</b>
+
+<br><br>01.	Mechanic Motor Vehicle Trade theory and Practical, National Instructional Media Institute, Chennai
+<br>02.	Automobile Engineering Practicles, N.Malhotra,	Asian publishers
+<br>03.	Bosch/Delphi/Lucas TVS Service Manuals,	Mico Bosch
+<br>04.	Vehicle Maintenance and Garage Practice,	Jigar  A Doshi,	PHI Learning,Delhi
+
+<b>Scheme of Valuation for SEE:</b>
+
+<br><br>1.	Writing procedure for One exercise from list of exercises(1-10)  and One exercise from list of exercises(11-20) : 05+05=10
+<br>2.	Conducting and Performance on One exercise from list of exercises(1-10) and One exercise from list of exercises(11-20) : 15+15=30
+<br>3.	Viva-voice	: 10
+
+<br><br><b>TOTAL = 50 Marks</b>

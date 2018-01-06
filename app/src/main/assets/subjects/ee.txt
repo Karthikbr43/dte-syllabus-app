@@ -1,0 +1,60 @@
+UNIT I: Technical Terms & Definitions
+Technical Terms: Administration, Management, Organization, Bonus, capital, Direct Labour…etc., Definition of estimating, Importance of estimating, Aims of estimating, Functions of estimation department, Qualities of estimator, Functions of estimator, Estimating procedure, Sources of errors, Constituents of estimation, Definition of Costing, Aims of costing, Procedure for costing, costing methods, Advantages of costing, Classification of costing, Difference between Estimating & Costing.
+<br><b>[06 Hrs] [10 Marks] </b>
+
+UNIT II: Elements of Costs
+Definition of elements of costs-Material, Labour & Expenses, Components of cost, verheads-Fixed & Variable overheads, Allocation of On-costs, Simple problems to find the selling price of a product & allocation on-costs.
+<br><b>[08 Hrs] [25 Marks] </b>
+
+UNIT III: Depreciation & Obsolescence, Wages & Incentives
+Definition of Depreciation & Obsolescence, causes of Depreciation,   Methods of calculating depreciation by a) Straight Line method, b) Diminishing balance method, c) Sinking fund method, Definition of Wages, Nominal wages, Real wages, Living wages, Fair wages, Minimum wages, Minimum, factors which influencing wages, characteristics of a good wages or incentive system, components of pay structure, method of wage payment, incentives, types of incentives, bonus system, method of bonus.
+<br><b>[09 Hrs] [25 Marks] </b>
+
+UNIT IV: Menstruation & Estimation of Material cost
+Areas of Plane figures, Areas of Irregular figures, Surface areas & Volumes of Solids, Position of centroid, Procedure for calculating the material cost, Simple problems on material cost.
+<br><b>[09 Hrs] [25 Marks] </b>
+
+UNIT V: Estimation of Machine shop
+Definition of cutting speed, Feed & Depth of cut, Estimation of time on different operations such as Turning, Knurling, Facing, Drilling, Boring, Reaming, Threading,Tapping,Milling, Grinding, Shaping & Planning.
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT VI: Estimation in Sheet Metal shop & welding shop
+Operations in Sheet Metal shop, Sheet Metal joints, Estimation of time, Simple problems on Estimation of time in sheet metal shop.
+<br>Definition of welding, Types of Welding joints, Gas Welding, Gas cutting & Electric/Arc Welding,  Simple problem on finding the cost of, a) Arc Welding, b) Gas Welding, c) Gas cutting
+<br><b>[10 Hrs] [30 Marks] </b>
+
+<b>Text books:</b>
+
+<br><br>1.	Mechanical estimationand costing by T.R.Banga and S.C.Sharma Khanna publishers
+<br>2.	Mechanical Estimation by  Malhothra 
+<br>3.	Industrial Organisation and Engineering Economics by T.R.Banga and S.C.Sharma Khanna publishers
+<br>4.	Mechanical Estimation NITTTR Chennai NITTTR Chennai 
+<br>5.	Mechanical costing and estimation by Singh and Khan Khanna Publishers
+<br>6.	Process planning & cost estimation M.Adithan New age International
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>1. Collect the finished parts from industries/market/scrap merchants Measure the dimensions and prepare production drawings of the parts using A4 size paper. Estimate the material cost
+<br><br>2. WELDING ESTIMATION:
+<br>a) Determine raw material volume for all welded parts.
+<br>b) Select welding rod to be used. Estimate quantity of welding rod required.
+<br>c) Determine material and consumables costs.
+<br>d) For each part, estimate welding cost. Show the assumptions and steps followed to estimate welding cost.
+<br>e) Derive total cost of the part.
+<br><br>3. CASTING ESTIMATION:
+<br>a) Determine raw material volume for all casted parts (calculate input weight, cut weight, net weight, losses etc.).
+<br>b) Prepare pattern drawings (production drawings with all dimensions, surface finishes, allowances, etc.) for all parts.
+<br>c) Estimate pattern cost.
+<br>d) Determine material and consumables costs.
+<br>e) For each part, estimate casting cost. Show the assumptions and steps followed to estimate casting cost.
+<br>f) Derive total cost of the part.
+<br><br>4. MACHINING ESTIMATION:
+<br>a) Determine raw material volume for all machined parts.
+<br>b) For each part, tabulate operation, cutting tool/s to be used and cutting parameters (speed, feed and depth of cut) to be used.
+<br>c) Estimate raw material cost.
+<br>d) For each part, estimate machining cost. Show the assumptions and steps followed to estimate machining cost.
+<br>e) Derive total cost of parts
+
+<br><br><b>Note:</b> The activities or similar activities for assessing CIE (IA) for 5 marks (Any one)
+<br>1. Each student should do any one of the following type activity or any other similar activity related to the course and before conduction, get it approved from concerned Teacher and HOD.
+<br>2. Each student should conduct different activity and no repeating should occur

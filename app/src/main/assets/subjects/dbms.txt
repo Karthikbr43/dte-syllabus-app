@@ -1,0 +1,52 @@
+UNIT I : Databases and Data Base Users
+Introduction, An Example, Characteristics of the database approach, Actors on the scene, Workers behind the scene, Advantages of using the DBMS Approach, A Brief History of Database Applications, When Not to use a DBMS
+<br><b>Database System Concepts and Architecture</b> - Data Models, Schemas, and Instances, Three-Schema Architecture and Data Independence, Database Languages and Interfaces, The Database System Environment, Centralized and Client /Server Architectures for DBMSs, Classification of database Management System.
+<br><b>[08 Hrs] [22 Marks] </b>
+
+UNIT II: Data Modelling Using the Entity-Relationship(ER) Model
+Using High-Level Conceptual Data Models for Database Design, An example Database Application,  Entity Types, Entity Sets, attributes and keys, Relation Types, Relationship Sets, roles and structural constraints, Weak Entity Types, Refining the ER Design for the Company Database, ER Diagrams, naming, conventions and design issues, Relationship Types of Degree Higher Than Two.
+<br><b>[08 Hrs] [22 Marks] </b>
+
+UNIT III: Relational Data Model and Relational Data Base Constraints	     
+Relational Model concepts, Relational Model Constraints and relational database schemas, Update Operation, Transaction and Dealing with constraints violations.	
+<br><b>[08 Hrs] [22 Marks] </b>
+
+UNIT IV: SQL: Schema Definition, constraints, queries and views		      
+SQL Data Definition and data types, Specifying constraints in SQL, Schema Change statement in SQL, Basic queries in SQL, More Complex SQL queries, INSERT, DELETE and UPDATE statements in SQL, Specifying constraints and Assertions and Triggers, Views(Virtual Tables) in SQL
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT V: Functional Dependencies and normalization for relational databases
+Informal Design guidelines for relation schemas, Functional dependencies, Normal forms based on primary keys, General Definition of second and third normal forms, Boyce-codd Normal form.
+<br><b>[08 Hrs] [24 Marks] </b>
+
+UNIT VI: Fundamentals of Data Base Transaction Processing and NoSQL
+Introduction to transaction processing, transaction and system concepts, desirable properties of transactions.
+<br><b>NoSQL</b> – Introduction, Distributed Systems, Advantages and Disadvantages of Distributed Computing, Scalability, What is NoSQL? Why NoSQL? RDBMS vs. NoSQL, Brief history of NoSQL, CAP theorem (Brewer’s Theorem), NoSQL pros/cons,  NoSQL Categories, Production deployment. 
+<br><b>[10 Hrs] [25 Marks] </b>
+
+<b>Text books:</b>
+
+<br><br>1.	Fundamentals of Database Systems, Sixth edition, 2014, Ramez Elmasri, Shamkan B.    Navathe, Pearson Education, ISBN- 9788131792476 
+<br><br>2.	http://www.w3resource.com/mongodb/nosql.php  --for NoSQL - Unit  VI
+
+<br><br><b>References:</b>
+
+<br><br>1.	Fundamentals of Database Management Systems, Mark L. Gillenson, 2009, Wiley India
+<br>2.	Database Management Systems – Raghu Ramakrishnan and Johannes Gehrke – 3rd Edition, McGraw-Hill, 2003
+<br>3.	DBMS a practical approach , by E R Rajiv Chopra, S Chand publications.
+<br>4.	http://elearning.vtu.ac.in/10CS54.html
+<br>5.	http://www.tutorialspoint.com/dbms/
+<br>6.	http://www.indiabix.com/technical/dbms-basics/
+<br>7.	http://beginner-sql-tutorial.com/sql.htm
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>1. Identify and do a case study on relationship types of degree higher than two in ER data modelling
+<br>2. Design E-R diagrams for the following databases with all constraints specifications.
+<br>a) Hospital Management b) Hotel Management c) Student Database
+<br>3. Conduct a survey on various applications of database and submit a report of 3 to 4 pages.
+<br>4. Conduct a case study on any one Online Transaction Processing System (OLTP) and submit a report of 3 to 4 pages. Ex: Online Banking , Online Reservation (Bus, Train, Airlines)
+
+<br><br><b>Note:</b> The activities or similar activities for assessing CIE (IA) for 5 marks (Any one)
+<br>1. Each student should do any one of the following type activity or any other similar activity related to the course and before conduction, get it approved from concerned Teacher and HOD.
+<br>2. Each student should conduct different activity and no repeating should occur

@@ -1,0 +1,89 @@
+Unit I: RCC STRUCTURES
+ 1.	Introduction to detailing of RCC structural elements as per IS:456-2000 and SP-34. Detailing of steel structures as per IS:800-2007 and SP-6(1).
+<br> 2.	Introduction to drafting software and demonstration of CAD commands
+
+<br><br><b>Drawing and Detailing of structural elements for given design data using CAD: </b>
+ <br>3.	Doubly reinforced beam
+ <br>4.	T-beam
+ <br>5.	Lintel with chejja
+ <br>6.	One way slab and Two way slab
+ <br>7.	One way continuous slab
+ <br>8.	RCC column with isolated footing (Square and Rectangular)
+ <br>9.	Dog-legged with waist slab and Folded plate staircase
+ <br>10.Cantilever Retaining wall
+
+<br><br><b>NOTE: Preparing bar bending schedule using excel sheets for the above RCC elements.</b>
+
+Unit II: STEEL STRUCTURES
+<b>Drawing and Detailing of structural steel elements for given data using CAD</b>
+<br> 11. Steel truss details with bolted/welded connection.
+ <br>12. Beam to beam simple connection
+ <br>13. Beam to column simple connection
+ <br>14. Column with slab base
+ <br>15. Column with gusseted base
+
+ <br><br><b>NOTE: Prepare schedule of sections and calculate quantity of steel using spread sheets.</b>
+
+Unit III: 
+ <b>For given drawing prepare estimation using spread sheet:</b>
+ <br>16. Manhole
+ <br>17. Septic Tank with Soak pit
+ <br>18. Slab culvert
+ <br>19. Simple Weir
+
+ Unit IV:
+ 20. Demo on Building Information Module software like RIVET Architecture, ECHO SIM, STAAD PRO, ETAB and GIS (Free open source software)
+ 
+<b>Reference Books:</b>
+
+<br><br>1.	IS 456:2000 code of practice for plain & reinforced concrete.
+<br>2.	SP 16 : Design Aid for reinforced concrete 
+<br>3.	SP 34:  Hand book on Concrete Reinforcement and detailing (1987)
+<br>4.	IS 13920: Ductile detailing of RC structures
+<br>5.	IS 800 - 2007: Code of Practice for General construction in steel
+<br>6.	SP(6) 1: Hand book for structural steel sections
+<br>7.	Hand book on Concrete Reinforcement and Detailing by MG. SHAHA.	
+<br>8.	Detailing of RCC structures by SAWHNY.
+<br>9.	Details of Steel Structure by SAWHNY.
+<br>10.	https://www.youtube.com/watch?v=lW_cbyxHlSU
+<br>11.	http://www.comp-engineering.com/ETABManE.htm
+
+<br><br><b>Equipment List:</b>
+<br><br>1.	Computers with Latest Configuration. (One Computer per student in practical session.)
+<br>2.	Any latest licensed Computer Aided Drafting Software.
+<br>3.	Plotter of size A2/A3
+<br>4.	LCD Projector
+<br>5.	UPS 5KVA
+
+<br><br><b>SUGGESTED ACTIVITIES:</b>
+
+<br><br>The topic should be related to the course in order to enhance his knowledge, practical skill, lifelong learning, communication and modern tool usage.
+<br><br>1.	Prepare spreadsheet of design of RCC elements 
+<br>2.	Analyse the elements of structures using available open source software
+<br>3.	Draw and detail of RCC elements using available open source software
+<br>4.	Drafting & Detailing of reinforcement for Truss using CAD 
+<br>5.	Drafting & Detailing of reinforcement for Slab bridge using CAD 
+<br>6.	Create a Solid Model of beam using CAD
+<br>7.	Use of Structural Analysis software (Open source software), design a Simply supported beams with UDL and Cantilever beam with UDL.
+<br>8.	Prepare a quantity surveying in estimation of Tank sluice using spread sheet
+<br>9.	Prepare a quantity surveying in estimation of Septic Tank using spread sheet
+<br>10.	Deflection and Stresses in beams using analysis software
+<br>11.	Concrete mix design and mathematical calculations using CAD
+<br>12.	Development of Excel sheet for design of Singly Reinforced Beam
+<br>13.	Linking all  the constructional activities using project management software
+<br>14.	Digitization of existing topo sheet or any map using GIS.
+
+<br><br><b>NOTE: </b>
+<br><br>1. Students should select any one of the above or other topics relevant to the subject approved by the concerned faculty, individually or in a group of 3 to 5. Students should mandatorily submit a written report and make a presentation on the topic.  The task should not be repeated among students. Report will be evaluated by the faculty as per rubrics. Weightage for 5 marks Internal Assessment shall be as follows: (Unsatisfactory 1, Developing 2, Satisfactory 3, Good4, Exemplary5)
+<br>2. Reports should be made available along with bluebooks to IA verification officer
+
+<b>Scheme of Valuation for SEE:</b>
+
+<br><br>1.	Detailing and calculation of steel quantity of any one structural elements. RCC or Structural steel	
+	<br>a) Drawing and detailing manually for the given data : 10
+	<br>b) Drawing the same using CAD : 15
+	<br>c) Calculation of steel using spread sheet : 05
+<br><br>2.	Estimation of any one given drawing in unit 3 : 10
+<br><br>3.	Viva-voce : 10
+
+<br><br><b>TOTAL = 50 Marks</b>

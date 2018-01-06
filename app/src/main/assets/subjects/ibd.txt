@@ -1,0 +1,81 @@
+UNIT I:	EARTHEN  DAMS AND CANALS
+<b>(a)EARTHEN DAMS</b> 
+(i) Types of earthen bunds, details of earthen bund such as side slope, revetment, hearting, core walls, rock toe and drainage arrangements as per standards.
+(ii) Draw the cross section and sectional plan showing details of drainage arrangements of the following using given data (without design).
+•	Earthen bund with homogeneous materials 
+•	Earthen bund with hearting 
+•	Earthen bund with core wall
+<b>(b) CANALS</b>
+Components of canal.
+Draw the cross section of the following canals showing components for the given data (without design).
+•	Canal in full cutting
+•	Canal in full Embankment
+•	Canal in partial cutting and partial embankment
+<br><b>[09 Hrs] [15 Marks] </b>
+
+UNIT II: TANK SLUICE
+1.	For the given discharge determination of the size of the  orifice                                      
+<br>2.	Draw the longitudinal section, half plan at top, half plan at foundation   level ,half front elevation and half sectional elevation of the following for the given data (without structural design).
+<br>•	Head and Gibbet wall type-slab barrel with plug       Arrangement.                                         
+<br>•	Tower head type- slab barrel with shutter arrangement
+<br>•	Pipe sluice -Tower head and head -gibbet wall type with plug arrangement
+<br><br><b>[18 Hrs] [35 Marks] </b>
+
+UNIT III: TANKS WEIRS
+1.	Components of tank weir-body wall, abutment, wing walls, return wall, bund, protection works (solid, grouted apron, stone revetment), Cut off wall and back batter.
+<br>2.	Determination of the length of waste weir for a given catchment area.  
+<br>3.	Draw the half longitudinal section, half front elevation, half plan at top, half plan at foundation level & cross section of the following types of weir for the given data. 
+<br>•	Waste weir with water cushion 
+<br>•	Surplus weir with Stepped apron
+<br>(Calculate  bottom width of Abutments, wing wall and return wall using thumb rule)
+<br><br><b>[15 Hrs] [50 Marks] </b>
+
+UNIT IV: CULVERTS
+Components of culvert, Calculation of flood discharge at culvert using empirical formula, determination of linear water way and number of openings from the given data.
+<br>Draw the half longitudinal section, half longitudinal elevation, half plan at top, half plan at foundation level & cross section for the following 
+<br>•	Single span slab culvert with splayed wing walls
+<br>•	Two span slab culvert with return wing walls
+<br>•	Two span box culvert with splayed wing walls
+<br>•	Pipe culvert                      
+<br><br><b>[15 Hrs] [25 Marks] </b>
+
+UNIT V: R.C.C. T - BEAM BRIDGE (Railways & Highways)
+1.	General Principles involved in the design of RCC t beam bridge (with out design) 
+<br>2.	Components of bridge, Calculation of flood discharge at bridge using empirical formula, determination of linear water way and number of openings from the given data.
+<br>3.	Details of abutment, piers, wing walls etc to be determined using thumb rules and standard practice.
+<br>4.	Draw the half longitudinal section, half longitudinal elevation, half plan at top, half plan at foundation level & cross section half through pier and half through centre span of the following types of weir for the given data.
+<br>•	Two span RCC T- beam highway bridge with return wing walls.
+<br>•	Two span RCC T-beam highway bridge with splayed wing walls.   
+<br>•	Two span RCC T-Beam railway bridge with splayed wing walls.
+<br><br><b>[12 Hrs] [25 Marks] </b>
+
+<b>Reference Books:</b>
+
+<br><br>1.	Irrigation manual – Ellis. Tamil Nadu Govt. Publication 
+<br>2.	Irrigation Drawing - Sathyanarayana murthy (Subhash stores Bangalore)
+<br>3.	Design of bridge - by N. Krishna murthy (Subhash stores Bangalore)
+<br>4.	Bridge Engineering - Johnson D. Vector Oxford IBH Publications
+<br>5.	Design and construction of highways bridge - K. S. Rekshit ( New Central Book Agency    Calcutta - 9
+<br>6.	Irrigation Engineering and hydraulic structures - S.K. Garg (Khanna Publishers, Delhi)
+<br>7.	Bridge Engineering - J.S. Allegia ( Charotar book stall anand)
+<br>8.	Irrigation and water power engineering  - B.C.Punmia, Pande, B.B.Lal Lakshmi Publications, 7/21, Ansari Road, Daryaganj, New Delhi - 110 002.
+<br>9.	Principles and practice of irrigation engineering - S.K.Sharma (S.Chand and company Pvt. Ltd. Ramnagar, New Delhi - 110 055
+<br>10.	Irrigation Engineering - vol I, II and III K.R. Sharma, A text book of irrigation engineering and Hydraulics structures R.K.Sharma(Oxford - IBH publishing Co.,)
+<br>11.	Bridge engineering by ponnuswamy (Mc Graw Hill Education, Publication)
+<br>12.	Civil Engineering Drawing Manual - TTTI Publications.
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>1. 1. Visit to a nearby canal, take the field data and draw the c/s of canal.
+<br>2. Identify and take the details of existing tank weir/tank sluice in the vicinity of your area and draw all the views.
+<br>3. Identify and take the details of existing culvert/highway bridge/railway bridge nearby and draw all the views.
+<br>4. For the given data prepare a model of any one of the following.
+<br>a) Tank sluice
+<br>b) Tank weir
+<br>c) Culvert
+<br>d) Railway/Highway bridge
+
+<br><br><b>Note:</b>
+<br>1. Students should select any one of the above or other topics relevant to the subject approved by the concerned faculty, individually or in a group of 3 to 5. Students should mandatorily submit a written report and make a presentation on the topic. The task should not be repeated among students. Report will be evaluated by the faculty as per rubrics. Weightage for 5 marks Internal Assessment shall be as follows: (Unsatisfactory 1, Developing 2, Satisfactory 3, Good 4, Exemplary 5)
+<br>2. Reports should be made available along with bluebooks to IA verification officer.
+<br>3. Report should contain log sheet, respective drawings and photos

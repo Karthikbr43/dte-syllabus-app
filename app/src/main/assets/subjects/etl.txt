@@ -1,0 +1,50 @@
+<b>Experiments:</b>
+
+<br><br><b>Part - A: Performing experiments</b>
+<br><br>1.	Differentiate the dynamometers and their torque measurement arrangements
+<br>2.	Determine compression pressure of single cylinder engine (SI and CI)
+<br>3.	Determine the Compression pressure of multi cylinder engine
+<br>4.	Determine the vacuum pressure of multi cylinder engines
+<br>5.	Sketch Valve timing diagram of an engine
+<br>6.	Sketch port timing diagram of an engine
+<br>7.	 Determine  injection pressure of fuel injectors
+<br>8.	Examine calibration of FIP (phasing and Calibration)
+<br>9.	Conduct experiment to  Determine the performance of  SI engine
+<br>10.	Conduct experiment to  Determine the performance of  CI engine
+<br>11.	Conduct the experiment to determine indicated power of Multi cylinder engine ( Morse test)
+<br>12.	Conduct experiment to  Determine the performance of two stroke SI engine
+<br>13. Compute Heat balance sheet for SI engines
+<br>14. Compute Heat balance sheet for CI engines
+
+<br><br><b>Part - B: Open experiments</b>
+<br><br>1.	Performance test on Diesel engine using  alternative fuel
+<br>2.	Performance test on Petrol engine using  alternative fuel
+
+<b>Reference Books:</b>
+
+<br><br>1. Elements of Thermal Engineering by R.S.Khurmi/ Rajputh
+<br>2. Automobile Engg by Kirpal Singh (Vols. 1 and II)
+<br>3. Internal Combustion Engines by Mathur and Sharma
+<br>4. Internal Combustion Engines by N Ganeshan
+<br>5. Thermal Engineering by Kodanda Ramanna
+<br>6. Thermal Engineering by Balleni
+
+<br><br><b>SUGGESTED STUDENT ACTIVITY:</b>
+
+<br><br>1.	Collect/ download the information’s regarding different types of engine loading with dynamometer  
+<br>2.	Collect data on different types of injection types and injection pressure.  
+<br>3.	Explain the working of Fuel injection pump with the help of U tube videos 
+<br>4.	Explain testing of engines with the help of U tube videos
+
+<br><br><b>Note:</b>
+<br>1.	Each student should submit report on any one of the following type of activities or any other similar activity related to the course.  Before taking up, it should be approved by concerned Teacher and HOD.
+<br>2.	Each student should conduct different activity and no reparation should be allowed.
+
+<b>Scheme of Valuation for SEE:</b>
+
+<br><br>1. Writing procedure : 5+5
+<br>2. Conducting of Experiment - Experiment(Group of Five) : 10+10
+<br>3. Calculation, results, Inference : 15
+<br>4. Viva-voce : 05
+
+<br><br><b>TOTAL = 50 Marks</b>

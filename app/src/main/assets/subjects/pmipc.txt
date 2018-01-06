@@ -1,0 +1,51 @@
+UNIT – I: PLANT MAINTENANCE
+Need for maintenance-feature of break down-schedules-corrective, preventive and productive maintenance-procedure effort of maintenance on output and quality-maintenance of schedules-cost of maintenance-co-ordinate of maintenance department with other-spare part control-equipment replacement analysis. Preparing equipment for maintenance-vessel entry-lubrication-types of lubricant-purpose of lubrication-properties of lubricant-maintenance of equipment on stream-fittings, pipes and lines, valves, boilers, heat exchangers-high pressure vessels, batch reactor, air compressors, centrifugal pumps.
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT – II: HAZARDS MANAGEMENT
+Detection- methods to detect- types of hazard-hazard analysis & management –HAZOP Analysis- PHA-check list-risk management& measures-chemical hazard -dust –thermal- electric. Hazard assessment.
+<br><b>[08 Hrs] [20 Marks] </b>
+
+UNIT – III: WATER  PURIFICATION
+Water sources-importance of water-Waste water characteristic-Water test-Hardness-PH –COD-BOD-TDS-TOD-TOC-Thod-Water purification-Settling-Sedimentation-Filtration-Lime soda-Ionic exchange process-Zeolite - Reverse osmosis process-Deminerization of water-Desalination-Boiler feed water treatment process.
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT – IV: EFFLUENT TREATMENT
+Various methods of waste water treatment- screening- settling- flocculation-filtration-coagulation-trickling filters-Activated sludge process-sludge digestion-lagooning-oxidation pond-land treatment.
+<br><b>[06 Hrs] [20 Marks] </b>
+
+UNIT – V: AIR & NOISE POLLUTION AND CONTROL
+Sources-Effects-Classification of pollutant-Methods of control-Particulate control-Control at source & Process changes-Equipment of settling chamber-Cyclone-Fabric filter-Electrostatic –Wet scrubber-Adsorption Equipment. Noise pollution: Sources of noise-Type of industrial noise & that’s effect- Reduction of noise
+<br><b>[06 Hrs] [20 Marks] </b>
+
+UNIT – VI: INDUSTRIAL WASTE WATER TREATMENT
+Sugar  industry - pulp & paper - tanning – cement - breweries – pesticides- fertilizer- refinery.
+<br><b>[12 Hrs] [25 Marks] </b>
+
+<b>Reference Books:</b>
+
+<br><br>1.	Outlines of chemical technology, Dryden
+<br>2.	Shreve’s Chemical Process Industries
+<br>3.	Environmental pollution & control in chemical process industries, S C Bhatia
+<br>4.	Chemical process industry safety, KSN Raju
+<br>5.	Environmental Pollution control Engg. By C.S. Rao
+<br>6.	Safety and hazard management in Chemical industries
+<br>7.	Safety and hazard management by M.N. Vyas
+<br>8.	Engineering Chemistry by S.K. Jain
+
+<br><br><b>e - Links:</b>
+
+<br><br>1. http://www.wisegeek.com/what-is-plant-maintenance.htm#
+<br>2. https://www.youtube.com/watch?v=xJ0iufFS4fU
+<br>3. https://www.youtube.com/watch?v=bSirBWBNcBI
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>1.	Prepare a report on maintenance procedure of chemical equipments. 
+<br>2.	Write a report about industrial hazard and remedies.
+<br>3.	Write a report on industrial water treatment and waste water treatment.
+<br>4.	Prepare a study report on effluent treatment of any chemical industry
+
+<br><br><b>Note:</b> The activities or similar activities for assessing CIE (IA) for 5 marks (Any one)
+<br>1.	Each student should do any one of the following type of activity or any other similar activity related to the course and before conduction, get it approved from concerned Teacher and HOD.
+<br>2.	Each student should conduct different activity and no repeating should occur

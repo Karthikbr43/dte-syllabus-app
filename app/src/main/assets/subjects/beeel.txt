@@ -1,0 +1,36 @@
+<b>Experiments:</b>
+
+<br><br>1.	Construct a suitable circuit to verify Ohm’s law.  
+<br><br>2.	Rig up and test the wiring circuit to control a lamp and a three pin socket independently.
+<br><br>3.	Rig up and test the wiring circuit to control two lamps independently.
+<br><br>4.	Construct and test fluorescent lamp circuit.
+<br><br>5.	Construct and test the staircase wiring circuit (control from 2 places).
+<br><br>6.	Construct and test Meter board wiring using single phase Energymeter, MCB/ELCB, Kit-kat fuse and neutral link.
+<br><br>7.	Build and test a circuit to measure power and power factor in a single phase ac circuit.
+<br><br>8.	Construct a circuit to measure energy in KWh in a single phase ac circuit.
+<br><br>9.	Construct a suitable circuit to start and reverse the direction of three phase induction motor using DOL/ Star-Delta/ Auto-Transformer starter.
+<br><br>10.	Test and make a report of the fully charged and discharged conditions of a given Lead-acid battery.
+<br><br>11.	Construct a circuit using a single Relay to turn ON a lamp connected to NC and to turn OFF another lamp connected to NO contacts of Relay.
+<br><br>12.	Construct a circuit to obtain the forward bias characteristic of a Diode.
+<br><br>13.	Construct and test Zener diode as a voltage regulator.
+<br><br>14.	Build and test halfwave rectifier circuit.
+<br><br>15.	Build and test full wave bridge rectifier circuit (without filter).
+<br><br>16.	Construct a circuit to verify the truth tables of NOT,AND, OR, NOR and NAND gates.
+<br><br>17.	Identify and draw the layout diagram for a simple PANEL BOARD/consisting of bus bars, CB/MCB/ELCB, meters, HRC fuses, magnetic contactors, cables, earthing points.
+
+<b>Reference Books:</b>
+
+<br><br>1.	Experiments in Basic Electrical Engineering by S.K.Bhattacharya, New Age International Publications, 2007 Edition.
+<br>2.	A Text book on Laboratory courses in Electrical Engg. by S.G. Tarnekar and P.K.Karbanda.
+<br>3.	http://www.scribd.com/doc/39578646/New-First-year-Electrical-lab-manual#scribd
+<br>4.	http://mrcet.ac.in/newwebsite/pdfs/Labmanuals-13/ECE/LabManuals/ DC%20LAB% 20%28180%29%20II-I.pdf
+
+<b>Scheme of Valuation for SEE:</b>
+
+<br><br>1.	Identification of meters/ equipments/ wires/ tools/ etc.: 05
+<br>2.	Writing Circuit diagram and Procedure* : 10
+<br>3.	Conduction : 20
+<br>4.	Results : 05
+<br>5.	Viva-voce :	10
+
+<br><br><b>TOTAL = 50 Marks</b>

@@ -1,0 +1,72 @@
+UNIT I: Transformers 
+<b>Working principle, construction and classification</b> -  Working principle of transformer. Classify the various types of transformers Based on construction Based on application.	 Explain briefly the various parts of the transformer and explain the functions of each part. Name the different insulating material used in transformer.	 Write the properties and uses of transformer oil. Explain the construction of core type and shell type transformers.	
+<br><b>Emf Equation</b>-Derive emf equation and explain transformation ratio. Solve problem on emf equation.	
+<br><b>Operation</b> - Explain the operation of a transformer on no load and on load with vector Diagrams. Solve the problem on transformer on no load.	
+<br><b>Equivalent circuit</b>-Define the equivalent resistance of a transformer as refereed to primary and 	secondary side .Explain magnetic leakage in a transformer core. Explain leakage reactance and calculate equivalent reactance as referred to primary and secondary side.	
+<br>Write the formula for equivalent impedance.
+<br>1) Referred to primary.   2) Referred to secondary			
+<br>Draw the equivalent circuit diagram of a transformer.	
+<br><b>Regulation and Efficiency</b> - Explain the various losses in a transformer.	Define voltage regulation and efficiency in the transformer.	Write equation for voltage regulation and efficiency. State the condition for maximum efficiency Define all day efficiency.	Solve the problems on all day efficiency. Pre-determine the Regulation and Efficiency of 1-ph transformer by conducting O.C. and  S.C. tests.
+<br><b>Parallel operation</b>-Explain the necessity and conditions for parallel operation.	Explain with neat sketches parallel operation of single phase transformers with their load sharing.	
+<br><br><b>[14 Hrs] [40 Marks] </b>
+
+UNIT II: Three- Phase transformers
+<b>Three-Phase transformers</b>-Explain working principle and construction of 3 phase        transformers. Explain star-star, Delta-Delta, star-Delta, Delta-star, open delta and Scott connections 
+<br><b>Cooling of transformer</b>-Explain the necessity of cooling of transformer.	List and explain the various types of cooling of transformer. Write the meaning of AN, ON, OFA.
+<br><b>Auto transformer</b>-Explain briefly an auto transformer. Compare auto transformer with two winding transformer. List the application of auto transformer.	
+<br><br><b>[06 Hrs] [15 Marks] </b>
+
+UNIT III: Induction Motors
+<b>Working principle</b>-Explain the working principle of induction motor. Compare with a Transformer. Explain how the rotating magnetic field is produced by polyphase supply. Define the terms slip, frequency of rotor current.
+<br><b>Types</b>-Describe the construction of stator, squirrel cage rotor and phase wound rotor.    
+<br><b>Torque</b>-Derive an expression for starting torque.	Explain the starting torques of squirrel cage and slip ring induction motor. State the condition for max starting torque. Explain the effect of change in supply voltage on starting torque. State equation for torque under running conditions. Draw torque - slip curves. State relationship between- Full load torque and maximum torque. Starting torque and maximum torque.
+<br><b>Equivalent circuit</b>- Draw the equivalent circuit of an induction motor.	
+<br><b>Power output</b>-State the relationship between rotor power input, rotor copper loss, and Mechanical power developed and slips. Solve problems on the above.
+<br><br><b>[11 Hrs] [30 Marks] </b>
+
+UNIT IV: Starting and Speed control of Induction Motors
+<b>Starting</b>-Explain the necessity of starters for 3-phase induction motors and list the various types of starters .Explain the construction and working of	D.O.L. Starter, Star-Delta Starter and Auto-Transformer Starter.
+<br><b>Speed control</b>-with neat circuit diagram. Explain the speed control of 3-ph induction motor. Change of applied voltage, Change of frequency (Variable voltage and variable frequency) and Rheostat control.
+<br><br><b>[07 Hrs] [20 Marks] </b>
+
+UNIT V: Synchronous Motors
+<b>Working principle</b>-Describe the general principle of operation of synchronous motor.	Compare the synchronous motor with induction motor.
+<br><b>Operation on load</b>-Explain the effect of change in excitation at constant load and V-curves
+<br><b>Characteristics</b>-Explain the effect of excitation on armature current and power factor.	
+<br><b>Hunting</b>-Explain hunting and its prevention.	
+<br><b>Starting</b>-Explain the methods of starting synchronous motor.		
+<br><b>Applications</b>-Explain the applications of synchronous motors.
+<br><br><b>[07 Hrs] [20 Marks] </b>
+
+UNIT VI: Single Phase Induction Motors
+<b>Principle of Operation</b>-Double revolving field theory. Starting-Resistance Split phase motor, Capacitor split phase motor - Capacitor Start Induction motor, Capacitor Start and Run Induction motor, Shaded pole motor.
+<br><b>Linear induction motor</b>-Introduction, Explain the principle of working and characteristics of linear induction motor. Magnetic Levitation.
+<br><b>Induction Generators</b>-Explain Induction Generators and its applications.
+<br><br><b>[07 Hrs] [20 Marks] </b>
+
+<b>Reference Books:</b>
+<br><br>1.	Electrical Technology volume 2 - BL Theraja and A.K.Theraja S.Chand publication.
+<br>2.	Principles of Electrical Machines by V.K.Mehtha.S.Chand publication.
+<br>3.	Electrical machines - Theory and Practice by M.N. Bandyopadhyay PHI publication.
+<br>4.	Electrical Machines by Bhattacharya. Tata McGraw Hill Co.
+<br>5.	Electrical Machines - J.B.Guptha  Kataria and Sons Publications.
+
+<br><br><b>E –Learning</b>
+<br><br>1.	http://www.schandgroup.com
+<br>2.	http://phindia.com
+<br>3.	http://ikbooks.com
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br>Each Student has to prepare and submit at least 3 pages of self hand written report (Construction details, type of windings used, Insulating materials used, cooling methods, applications etc.,) preferably by visiting a nearby Substation/ Power station/ Industry/ Factory etc., considering any one of the following topics.
+<br>1. 1-ph & 3-ph Transformers, Core type, Shell type, Step-up Transformer, Step-Down Transformer.
+<br>2. Different Cooling Methods ( any one type )
+<br>3. Transformer winding with properties of insulating materials used.
+<br>4. 1-ph and 3-ph Auto-Transformer.
+<br>5. 3-ph Induction motor- Squirrel-cage and Slip-ring type.
+<br>6. Speed control of Induction motor.
+<br>7. Types of Starters.
+<br>8. 3-ph Synchronous Motors.
+<br>9. 1-ph Induction motors and Linear Induction Motors.
+<br>10. Magnetic Levitation.
+<br>11. Induction Generators.

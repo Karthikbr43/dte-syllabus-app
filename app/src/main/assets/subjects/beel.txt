@@ -1,0 +1,58 @@
+Unit – I: Tutorial and Graded Exercises
+
+1.	Identification of passive components: 
+<br>(i)	Given code/color bands/symbols, find the value, and 
+<br>(ii) Given the value, find the code/pattern or bands of colors.
+<br>(iii) Compare the values of passive components using color code/symbols and meter method.
+<br><br>2.	Familiarization of Lab tools, tag-board, bread board, printed circuit board (PCB) and transformers.
+<br><br>3.	Process and classification of soldering. List the precautions to be taken during soldering. Demonstration of qualitative soldering for simple circuits.
+<br><br>4.	Sketch the front panels of laboratory equipment such as RPS, CRO, Multimeter, LCR meter and Signal Generator. List their functions. Familiarize with their operation and usage.
+<br><br>5.	Demonstrate the use of Multimeters-Analog and Digital and discuss the precautionary measures to be taken while using them. Measuring of AC/DC voltages and currents using multimeters
+<br><br>6.	Demonstrate the verification of Ohm’s law.
+<br><br>7.	Experimental verification of effective resistance in the following cases using Ohm’s law.i. Series resistance network, ii. Parallel resistance network and iii. Combination network.
+<br><br>8.	Measure effective inductance of inductors connected in i. Series, ii. Parallel and   iii. Series-Parallel combination using LCR meter and compare with the theoretical values.
+<br><br>9.	Measure effective capacitance of capacitors connected in i. Series, ii. Parallel and   iii. Series-Parallel combination using LCR meter and compare with the theoretical values.
+<br><br>10.	Demonstrate and observe the effect of cells connected in series and parallel.
+<br><br>11.	Demonstrate Kirchhoff’s current law for a simple DC circuit.
+<br><br>12.	Demonstrate Kirchhoff’s voltage law for a simple DC circuit.
+<br><br>13.	Compute the impedance (magnitude) of a series RLC circuit using Ohm’s law and compare it with the theoretical value.
+<br><br>14.	Demonstrate the operation of CRO: Measure AC and DC Voltages, Frequency and Phase angle.
+<br><br>15.	Demonstrate the control of an electric lamp using a typical relay and measure the operating/release voltages.
+<br><br>16.	Determine the characteristics of light dependent resistor (LDR).
+<br><br>17.	Determine the characteristics of voltage dependent resistor (VDR).
+<br><br>18.	Open-ended experiment of similar nature and magnitude of the above
+
+Unit – II: Project Activities [CIE- 05 Marks]
+
+1. Open-ended activity like
+<br>(i) Collection of catalogues and specification sheets, preparation of a chart displaying symbols of passive components and connectors/cables. 
+<br>(ii) Collection of the contributors (scientists) and contribution details to the field of Electrical and Electronics engineering (At least 10). Or
+<br>(iii) Any other such activities that can contribute to the student’s knowledge in respect of this course.
+
+<br><br>2. Record the best practices used in the disposal of E-waste and precautions in the operation of electrical appliances.
+
+<br><br><b>Execution Mode</b>
+<br><br>1.	Maximum of 4 students in each batch for project activity.
+<br>2.	Project activity 1 and 2 are mandatory for every batch. 
+<br>3.	Project activities shall be carried out throughout the semester and present the project report at the end of the semester. 
+<br>4.	Report-size shall be qualitative and not to exceed 10 pages; one report per batch.
+<br>5.	Each of the activity can be carried out off-class; however, demonstration/presentation should be done during laboratory sessions. 
+<br>6.	Assessment shall be made based on quality of activity, presentation/demonstration and report.
+
+<b>Reference Books:</b>
+<br><br>1.	Basic Electrical Engineering, V. K. Mehta and Rohit Mehta, S. Chand and Company Publishers, RE 2012, ISBN 81219087
+<br>2.	Fundamentals of Electrical and Electronics Engineering, B. L. Theraja, S. Chand and Company. REPRINT 2013, ISBN 8121926602
+<br>3.	Electronic Components, Dr. K. Padmanabhan and P. Swaminathan, Lakshmi Publications, 2006.
+<br>4.	http://www.vlab.co.in/
+<br>5.	http://electrical4u.com/ 
+<br>6.	http://www.electronics-tutorials.ws
+
+<b>Scheme of Valuation for SEE:</b>
+
+<br><br>1.	Identification of meters/ tools/equipment’s/components/wiresetc. : 05
+<br>2.	Writing circuit diagram and procedure of one experiment	: 10
+<br>3.	Conduction : 20
+<br>4.	Result : 05
+<br>5.	Viva-voce :	10
+
+<br><br><b>TOTAL = 50 Marks</b>

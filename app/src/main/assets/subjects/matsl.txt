@@ -1,0 +1,71 @@
+Unit – I: Tutorials and Practice
+
+Tutorial
+1.	Introduction
+1.	Definition, need, and types of programming languages and their selection criterion. 
+2.	Introduction to MATLAB/SCILAB (Features, capabilities and applications) and development environment.
+3.	Program execution process.
+4.	Program format.
+5.	Concept and examples of built-in functions and the concept of toolboxes.
+6.	Variables and constants: Definition, naming (identifiers or labels for different entities), initialization and accessing of variables. Constants and their representation.
+7.	Data types-classification, memory requirement, range of values, usage and type specifiers. 
+8.	Operators and Operands: Unary and binary operators. Arithmetic, logical, relational, combinational-assignment and special operators. Precedence and associativity.  Unary and binary operands.
+9.	Statements-tokens and expressions. 
+10.	Standard input and output statements and plot functions. 
+11.	Escape characters.
+2	Control structure
+1.	Branching: Conditional (if, if-else, nested and ladder if-else, switch constructs) and unconditional (break, continue and go to statements). 
+2.	Looping: Entry controlled (for and while).
+3	Arrays/Matrices and strings 
+1.	Definition, declaration, initialization (static and run-time or dynamic) and arrays, matrices and strings. 
+2.	Accessing of strings, array and matrices elements and relevant operations.
+4	Functions 
+1.	Concept, advantages, classification, creation and application of                        functions.   
+2.	Comparison of built-in, library and user-defined functions.
+
+
+
+
+Practice
+1.	Write program for the following problems (Assume right units. Search and use library functions wherever possible). Unless specified, built-in functions may be used if necessary.
+1.	Display your country name. 
+2.	Compute the area and circumference of a circle given the radius.
+3.	Compute simple interest given the interest rate, principal and duration. 
+4.	Compute compound interest given the interest rate, principal, compounding-nature and duration. 
+5.	Swap contents of two variables without using intermediate variables.
+6.	Factorial of a single digit number.
+7.	Absolute value of a number.
+8.	Largest of three numbers.
+9.	Logarithm of a number.
+10.	Y=sin(θ1+ θ2)+cos(θ1- θ2) given θ1and θ2in degrees.
+11.	Average of N numbers read through keyboard (at run-time).
+12.	Average of the numbers in 3x4 matrix.
+13.	Plot discharging voltage across capacitor.
+2	Analyze the program
+Given the program or block of program (Matlab or Scilab), analyze the program and estimate/predict/record the output or error as the case may be. Instruct the student to justify the answer/output. 
+[For e.g., A=246; B=-90; C=A+B*(10/A) +100; sprintf (‘%f’, C); in Matlab]
+Such analysis should be carried out for all the concepts covered in this course.
+
+
+Unit – II: Project Activities [CIE- 05 Marks]
+
+Write the algorithm/flow-chart and code for the following problems (Assume appropriate data and units wherever necessary. Built-in functions can be used wherever necessary unless specified).
+
+
+
+<b>Reference Books:</b>
+
+1.	MATLAB and its Applications in Engineering, RajkumarBansal, Pearson Publishers, ISBN-10: 8131716813, 2009.
+2.	SCILAB(a Free Software to Matlab),Er. HemaRamachandran and Dr. Achutsankar Nair, S. Chand Publishers, ISBN-10: 8121939704,2011
+3.	http://in.mathworks.com/
+4.	https://www.scilab.org/resources/documentation/tutorials
+	
+<b>Scheme of Valuation for SEE:</b>
+
+1	Short questions on Unit-I (only write-up)	10
+2	Writing steps /Algorithm/Procedure and program for two questions from the graded exercises.	 15
+3	Execution/Implementation/Simulation/Interpretation of either one of theprograms written in 2.	 15
+4	Open-ended problem (Problems not covered in Sl. No. 15 of graded exercise): Writing program andits execution/implementation.	05
+5	Viva-voce	05
+
+<br><br><b>TOTAL = 50 Marks</b>

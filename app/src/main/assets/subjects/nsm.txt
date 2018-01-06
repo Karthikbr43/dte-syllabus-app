@@ -1,0 +1,42 @@
+UNIT I: Introduction and Cryptography
+<b>Introduction:</b> Computer security concepts, The OSI security architecture, Security attacks, Security services, Security mechanisms, A model for network security, Standards
+<br><b>Cryptography:</b> Symmetric Encryption Principles, Symmetric Block Encryption Algorithms, Random and Pseudorandom Numbers, Stream Ciphers and RC4, Cipher Block Modes of Operation, Approaches to Message Authentication, Secure Hash Function, Message Authentication Codes, Public Key Cryptography Principles, Public-Key Cryptography Algorithms, Digital Signatures.
+<br><b>[16 Hrs] [40 Marks] </b>
+
+UNIT II: Hardware and Software Security
+Hardware Security, Smart Cards, Biometrics, Virtual Private Networks, Types of VPN’s,  Trusted Operating Systems, Pretty Good Privacy (PGP), Security Protocols, Security Socket Layer, Transport Layer Security, IPSec, S/MIME(Secure/Multipurpose Internet Mail Extension)
+<br><b>[06 Hrs] [15 Marks] </b>
+
+UNIT III: Intrusion Detection System and Firewalls
+<b>IDS:</b> What is not an IDS?, Infrastructure of IDS, Classification of IDS, Host-based IDS, Network based IDS, Anomaly Vs Signature Detection, Normal Behaviour Patterns-Anomaly Detection,  Misbehaviour Signatures-Signature Detection , Parameter Pattern Matching, Manage an IDS.
+<br>Malicious Software, Safeguards, Firewalls, Packet-Filtering Firewalls, State full Inspection Firewalls, Proxy firewalls, Guard, Personal Firewalls, Limitations of Firewalls.
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT IV: Wireless Security
+Wireless Application Protocol, WAP Security, Authentication, Integrity, Confidentiality, Security Issues with Wireless Transport Layer Security (WTLS), Wireless LAN, WLAN Configuration, WLAN Technology consideration, Wireless LAN Security, Access Point Security, Work Station Security, Safeguarding Wireless LAN’s.
+<br><b>[06 Hrs] [20 Marks] </b>
+
+UNIT V: Web Security
+Client/Server Architecture, Security considerations and Threats, Web traffic security approaches, SSL/TLS for secure web services, The Twin concept of “SSL Connection” and “SSL Session”, SSL session state, SSL Connection State, SSL Record Protocol, SSL Handshake Protocol, Secure Hypertext Transport Protocol(S-HTTP), Secure Electronic Transaction(SET), Business Requirements, SET Participants, SET Transaction Flow.              	
+<br><b>[08 Hrs] [25 Marks] </b>
+
+UNIT VI: Security and Law, Internet Governance and Email Policy
+<b>Security and Law:</b> Regulations in India, Information Technology Act 2000, Cyber Crime and the IT Act 2000,  Indian Contract Act, 1872, Indian Penal Code, Indian Copyright Act, Consumer Protection Act, 1986, Specific Relief Act, 1963, Government Initiatives, Future Trends-Law of Convergence.
+<br><b>Internet Governance and Email Policy:</b> Internet Governance, Network Security Aspects in E-Governance, Security Monitoring Tools, Electronic Mail, What are the e-mail Threats that Organization’s face?, Why do you need an E-mail Policy?, How do you create an E-mail Policy?, Publishing the E-mail Policy, University E-mail Policy, Electronic mail policy.
+<br><b>[06 Hrs] [15 Marks] </b>
+
+<b>Text books:</b>
+<br><br>1.	Network Security and Management,2nd edition,  Brijendra Sing, PHI, ISBN: 9788120339101   (Chap: 2,3,4,5,6)
+<br>2.	Network Security Essentials: Applications and Standards, 4/e, William Stallings, Pearson, ISBN: 9788131716649 (Chap 1)
+
+<br><br><b>References:</b>
+<br><br>1.	Network Security Bible, 2nd edition, Eric Cole, Wiley  Publisher, ISBN: 9788126523313
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>1. 	Make a survey in any industry/ institute to understand the way security is provided for information. Videos can also be used to make the survey.
+<br>2. 	Quiz
+
+<br><br><b>Note:</b> The activities or similar activities for assessing CIE (IA) for 5 marks (Any one)
+<br>1. Each individual student should do any one of the following type activity or any other similar activity related to the course and before conduction, get it approved from concerned course coordinator and programme coordinator.
+<br>2. Each student should conduct different activity and no repetition should occur.

@@ -1,0 +1,54 @@
+UNIT I: FUNDAMENTALS OF MEASUREMENTS AND INSTRUMENTS
+Necessity of Measurement, methods, terminology, electronic measurement system, errors-types, dynamic characteristics of an instrument, statistical analysis, standards-different types, bridges-D.C & A.C.
+<br><b>[06 Hrs] [10 Marks] </b>
+
+UNIT II: ELECTROMECHANICAL INDICATING INSTRUMENTS
+Different types, PMMC meter, multi range voltmeters & ammeters, electrodynamometer – principles
+<br><b>[08 Hrs] [20 Marks] </b>
+
+UNIT III: TESTING INSTRUMENTS
+Cathode ray oscilloscope, Dual trace, Sampling oscilloscope, Digital storage oscilloscope, CRO probes, Function generator, Sweep frequency generator.
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT IV: TRANSDUCER
+Classification of Electrical transducers, Strain Gauges, LVDT, Capacitive transducers, Piezo-electric transducers, Proximity sensors, Digital optical encoders. 
+<br><b>[07 Hrs] [15 Marks] </b>
+
+UNIT V: ANALOG METER
+Electronic voltmeters, A.C voltmeters using Half wave rectifiers & Full wave rectifiers, Ohm-meters: series
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT VI: DIGITAL METER
+Different types of digital voltmeters, atomisation in DVM, Electronic counters, Digital frequency meters, Time interval measurements, Digital LCR meter, Digital multi meter 
+<br><b>[08 Hrs] [30 Marks] </b>
+
+UNIT VII: INSTRUMENT MAINTAINANCE AND PROTECTION
+Troubleshooting of Instruments, Precautions, Grounding & Shielding.
+<br><b>[03 Hrs] [10 Marks] </b>
+
+<b>Text books:</b>
+<br><br>a) Electronic measurements & Instrumentation (2nd revised edition) by R.K.Rajput
+<br>b) Electronic measurements & Instrumentation (3rd revised edition) by Sanjay Talbar & Akhilesh Upadhyaya.
+<br>c) Electronic Instrumentation (2nd edition) by Kalsi
+<br>d) Modern Electronic Instrumentation & Measurement Techniques by Helfrick & Cooper.
+
+<br><br><b>e - Links:</b>
+
+<br><br>1. www.nptel.ac.in
+<br>2. http://freevideolectures.com/Course/3164/Digital-Electronics
+<br>3. http://www.freebyte.com/electronics/ 
+<br>4. https://www.circuitlogix.com
+<br>5. http://www.vlab.co.in
+<br>6. www.electronics-tutorials.ws
+<br>7. http://www.allaboutcircuits.com
+<br>8. http://ocw.mit.edu/
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>1. Presentation on microprocessor based instruments.
+<br>2. Visit any small scale industry and make a report on maintenance and protection of instruments.
+<br>3. Analyze on any one of the instrument by dismantling the instrument.
+
+<br><br><b>Note:</b> The activities or similar activities for assessing CIE (IA) for 5 marks (Any one)
+<br>1. Each student should do any one of the following type activity or any other similar activity related to the course and before conduction, get it approved from concerned Teacher and HOD.
+<br>2. Each student should conduct different activity and no repeating should occur

@@ -1,0 +1,182 @@
+UNIT I:
+<b>1. Soils and its Properties</b>
+<br>1.	Types of soils and their suitability to construction of the structures.
+<br>2.	Bearing Capacity and determination of safe bearing capacity of the soils by plate load test.
+<br>3.	Method of improving the safe bearing capacity.
+<br>4.	SBC Values for various types of Soils.
+<br><br><b>2. Foundations</b>
+<br>1.	Definition and purpose of Foundation.
+<br>2.	Shallow foundations: Spread footing, combined footing, Strap footings and Raft foundation.
+<br>3.	Deep foundation: Pile foundations-End bearing piles, friction piles, Foundation in Black Cotton Soil.
+<br>4.	Causes for failure of foundation and preventive measures.
+<br>5.	Necessity of shoring and strutting in foundation excavation and process of dewatering.
+<br><b>[11 Hrs] [30 Marks] </b>
+
+UNIT II:
+<b>3. Stone and Brick masonry</b>
+<br>1.	Terms used in stone masonry and brick masonry
+<br>2.	Coursed rubble masonry and Ashlar masonry.
+<br>3.	Stone Cladding works for facing of walls.
+<br>4.	List Bonds used in Brick masonry, Study of English bond and Flemish bond and their uses.
+<br>5.	Construction of cavity walls.
+<br>6.	Partition walls-bricks, Concrete block, Glass, Plywood, hard board and aluminium.
+<br><br><b>4. Dampness and Prevention of dampness</b>
+<br>1.	Definition and causes of dampness
+<br>2.	Effects of dampness and prevention of dampness
+<br>3.	List the materials used for damp proof course.
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT III:
+<b>5. Lintels and Arches</b>
+<br>1.	Necessity of lintels and arches, sunshades, sun breakers and canopy, portico.
+<br>2.	RCC lintels, sun shades, sun breakers, plinth beams and grade beams.
+<br>3.	Arch-Terms used, Types of arches-Flat, Segmental, and Semi-circular only.
+<br><br><b>6. Doors and Windows</b>
+<br>1.	Definition of doors, windows and ventilator and their purpose
+<br>2.	Standard size of doors, windows and ventilators for different types of building as per I.S codes.
+<br>3.	Important types of doors, windows and ventilators in general use.
+<br>4.	Fixtures for doors, windows and ventilators.
+<br><b>[06 Hrs] [15 Marks] </b>
+
+UNIT IV:
+<b>7.Stairs</b>
+<br>1.	Technical terms 
+<br>2.	Requirements of a good stair.
+<br>3.	Classification of stairs, brief description and their suitability.
+<br>4.	Uses of Ramps, Escalators and lifts.
+<br><br><b>8.Floors</b>
+<br>1.	Definitions and types of floors.
+<br>2.	Selection of flooring material
+<br>3.	Laying of Ceramic tile flooring, Vitrified flooring, Marble flooring, Wooden flooring, Vinyl flooring and Cement concrete floorings.
+<br><br><b>9. Roof</b>
+<br>1.	Definition of roof and common types of roofs used in general.
+<br>2.	Pitched roof- basic elements.
+<br>3.	Steel trusses.
+<br>4.	Common types of Roofing materials.
+<br>5.	Flat RCC roof-advantages and disadvantages.
+<br>6.	Weather proof course for flat roofs.
+<br><b>[12 Hrs] [35 Marks] </b>
+
+UNIT V:	
+<b>10. Scaffolding and Shoring</b>
+<br>1.	Scaffolding-component parts of scaffolding, Types of scaffolding and props.
+<br>2.	Use of Steel tube scaffolding
+<br>3.	Types of shoring-Raking, Flying and Dead shores.
+<br><br><b>11. Plastering, Pointing and Painting</b>
+<br>1.	Object of plastering and requirements of good plaster.
+<br>2.	Method of cement plastering
+<br>3.	Types of plaster finishes-Smooth, sand faced, rough cast, pebble dash, depter, scrapped, textured finish.
+<br>4.	Method of pointing and types of pointing.
+<br>5.	Methods of painting, distempering and varnishing on different surfaces.
+<br><b>[07 Hrs] [20 Marks] </b>
+
+UNIT VI:
+<b>12. Ventilation systems</b>
+<br>1.	Definition, Necessity and requirements of ventilation system
+<br>2.	Types of ventilation
+<br><br><b>13. Earthquake Resistant Buildings</b>
+<br>1.	List Earthquake zones in India.
+<br>2.	Precautionary measures to be taken for buildings prone to earth quake.
+<br><br><b>14. Miscellaneous</b>
+<br>1.	Water proofing, structural glazing, bamboo as a construction material, precast composed panel, anti-termite treatment.
+<br><b>[06 Hrs] [15 Marks] </b>
+
+<b>Text books:</b>
+<br><br>1.	Building construction—B.C.Punmia; Ashok Kumar Jain; Arun Kumar Jain, Firewall Media, 2005
+<br>2.	Building Construction- P.C.Varghese, PHI Learning Pvt. Ltd.2009
+<br>3.	Building construction—S.C.Rangwala, Charotar Publishing House Pvt. Limited, 2009
+<br>4.	Building construction and Materials —Gurucharan Singh, Jain Book Agency
+<br>5.	Building construction—Sushil kumar, Standard Publishers Distributors Delhi, 2001
+
+<br><br><b>IS Codes</b>
+<br><br>1.	IS 2720: Methods of tests for soils.
+<br>2.	IS 1904-(1986): Code of Practice for Design and Construction of Foundations in Soils: general requirements.
+<br>3.	IS 1080-(1985): Code of Practice for Design And Construction of Shallow Foundations in Soils.
+<br>4.	IS 2212-(1991): Code of practice for brick works.
+<br>5.	IS 1597-1 and 2(1992): Construction of Stone Masonry-Code of practice.
+<br>6.	IS 4326 (1993) Code of practice for Earth quake resistant design of structures.
+<br>7.	IS 1893-1 (2002) Criteria for Earth quake resistant design of structures
+
+<br><br><b>E –Learning</b>
+<br><br>1.	https://www.youtube.com/watch?v=rPlOd2qUcCI
+<br>2.	https://www.youtube.com/watch?v=nMIl3krK-GI
+<br>3.	https://www.youtube.com/watch?v=ob4oOtx9m40
+<br>4.	https://www.youtube.com/watch?v=6mncKCIl8pI
+<br>5.	https://www.youtube.com/watch?v=6OAHO9zgeXM
+<br>6.	https://www.youtube.com/watch?v=C1byOuqC684
+<br>7.	https://www.youtube.com/watch?v=j1bL_1NBvIc
+<br>8.	https://www.youtube.com/watch?v=cQGDP8kWEMM
+<br>9.	https://www.youtube.com/watch?v=NxNoH86WJjI
+<br>10.	https://www.youtube.com/watch?v=rh1Z-i14-h0
+<br>11.	https://www.youtube.com/watch?v=veF4uSUtrEY
+<br>12.	https://www.youtube.com/watch?v=USat6LdENzU
+<br>13.	https://www.youtube.com/watch?v=OYjEUXON8cY
+<br>14.	http://www.nicee.org/EQTips.php
+
+<br><br><b>Suggested Student Activity:</b>
+<br>The topic should be related to the course in order to enhance his knowledge, practical skill and lifelong learning, communication, modern tool usage.
+
+<br><br>1. Collect different types of soil samples and to identify the properties.
+<br>2. Study the load distribution from structural components to soil and prepare a report.
+<br>3. Collect and study different photographs of various foundations and prepare a report.
+<br>4. Prepare a case study on foundation failure.
+<br>5. Identify different types of masonry materials and study their properties
+<br>6. Collect and study different photographs of stairs and arches.
+<br>7. Collect different types of flooring materials and prepare a report.
+<br>8. Collect and study the different types of Damp Proofing materials and prepare a report.
+<br>9. To prepare models of various types of foundations.
+<br>10. To prepare models of different types of masonry arrangements.
+<br>11. To prepare models of different types of scaffolding.
+<br>12. To prepare models of different types of roofs trusses.
+<br>13. Prepare a chart of Earth quake zones of India.
+<br>14. Understand the classification of earth quake zones of India.
+<br>15. Plan suitable schedule of openings for building works.
+<br>16. Plan a Weather proofing work for a flat roof.
+<br>17. Visit any nearby material testing laboratory and prepare a report on various tests conducted on building materials.
+<br>18. Write a report on advanced construction techniques used in civil engineering.
+<br>19. Prepare a report on prefabricated construction.
+<br>20. Watch a video on anti-termite treatment and prepare a presentation on anti- termite treatment.
+<br>21. Visit any nearby construction site and write a report on various construction activities.
+<br>22. Prepare a report on the use of modern construction equipment’s in construction.
+<br>23. Studies on the strength of stabilised mud block masonry and burnt brick masonry using cement soil quarry dust mortar
+<br>24. Comparison of risk assessments for underground construction projects
+<br>25. Study of copper tailing as a plastering material
+<br>26. A study on preparation of bricks using copper tailing waste
+<br>27. Report of sandwiched panel elements as a partitioning wall material
+<br>28. Load bearing capacity of unreinforced brick masonry vault
+<br>29. Enhancement of characteristic strength and durability of brick masonry
+<br>30. Report of brick and brick masonry strength for your district.
+<br>31. Size effect of masonry joint on compressive strength of stabilised mud blocks
+<br>32. Case report on building cracks and causes and its prevention
+<br>33. Some studies on the use of strength booster low cost additives in burnt brick manufacture
+<br>34. Experimental investigation on brick masonry domes
+<br>35. Stabilised copper tailing blocks
+<br>36. Low cost roofing tiles
+<br>37. Some studies on the strength behaviour of fly ash bricks
+<br>38. Report and manufacture of masonry blocks different machines with different materials
+<br>39. Size effect of masonry joint on compressive strength of stabilised mud blocks
+<br>40. Liqueconss floors and roofs
+<br>41. Strength analysis of cement stabilised soil blocks a case report
+<br>42. Low cost bricks making
+<br>43. Appropriate technology to manufacture common building burnt brick
+<br>44. Behaviour of masonry wall subjected to dynamic load
+<br>45. Development of b.c soil stabilised building blocks using lime and fly ash
+<br>46. A laboratory report on the utilisation of red mud in pavements and as building material
+<br>47. Fly ash mosaic flooring tiles
+<br>48. Analysis of hyperbolic paraboloid shell foundation
+<br>49. Characteristic report of BC soil of village
+<br>50. Flexural behaviour of gfrp wrapped masonry beams
+<br>51. Fly ash bricks
+<br>52. Bioclimatic building design in three climate zones in state
+<br>53. Earthquake resistant wooden house Design procedure for pile caps
+<br>54. Control Of Corrosion On Underwater Piles
+<br>55. Deep Foundations Case Histories
+<br>56. Design of Shallow Foundations
+<br>57. Analysis Of Stability Of existing Slopes
+<br>58. Development Of BC Soil Stabilised Building Blocks Using Lime And Flyash
+<br>59. DIAGRID
+<br>60. Soil Nailing
+
+<br><br><b>Note:</b> 
+<br>1. Students should select any one of the above or other topics relevant to the subject approved by the concerned faculty, individually or in a group of 3 to 5. Students should mandatorily submit a written report and make a presentation on the topic. The task should not be repeated among students. Report will be evaluated by the faculty as per rubrics. Weightage for 5 marks Internal Assessment shall be as follows: (Unsatisfactory 1, Developing 2, Satisfactory 3, Good 4, Exemplary 5)
+<br>2. Reports should be made available along with bluebooks to IA verification officer

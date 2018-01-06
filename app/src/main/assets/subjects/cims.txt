@@ -1,0 +1,69 @@
+UNIT-I: CIM and Automation
+Production systems,(facilities, manufacturing support system), automation In production system (automated manufacturing system, computerized manufacturing support systems,)automation and principles and stagiest(USA principle, ten strategies for automation and process strategies)Basic elements of an automated system, levels of automation.
+<br><b>[05 Hrs] [10 Marks] </b>
+
+UNIT-II: CNC Machines
+Emergence of CNC Machines, Basic Configuration of CNC system, Machining Centre, Applications, Advantages and Disadvantages of CNC Machines, Introduction to Part
+<br>Programming-Coordinate system-Dimensioning-Axes & motion nomenclature, Definition and importance of various positions like machine zero, home position, and work piece zero, CNC part programming- Structure of part programme -Word addressed format-Preparatory function(G)-Miscellaneous function(M)- Tool compensation-Subroutines (Macros)(L)-Canned cycles-Mirror image, Simple programme on Milling and Turning operations
+<br><b>[15 Hrs] [35 Marks] </b>
+
+UNIT-III: Group Technology
+Group technology-Definition-Advantages and limitations of GT-Part family formation-Classification and coding-Opitz coding system, Applications & benefits of GT, Cellular manufacturing, Computer aided process planning-Approaches to CAPP- retrieval type CAPP system and generative CAPP system, benefits of CAPP system
+<br><b>[08 Hrs] [25 Marks] </b>
+
+UNIT-IV: Automated Shop Floor Control
+Introduction to shop floor control, relationship between shop floor control and factory information control system, phases of shop floor control system-order release, order scheduling, order progress, factory data collection system,-online versus batch system, data input techniques, automated identification methods-barcodes, radio frequency system, magnetic strip, optical character recognition system
+<br><b>[08 Hrs] [25 Marks] </b>
+
+UNIT-V: Automated Material Handling
+Introduction to Automatic Guided Vehicles-driverless trains, AGV pallet trucks, AGV guidance and routing (frequency select method, path switch select method), traffic control and safety (on-board vehicle sensing, zone blocking), system management (on-board control panel, remote cell station, central computer control), Applications of AGV, Automated storage/retrieval system –Basic components of AS/RS.
+<br><b>[08 Hrs] [25 Marks] </b>
+
+UNIT-VI: Flexible Manufacturing System
+Introduction to FMS-Definition, Components of FMS, types of FMS-single machine cell, flexible manufacturing cell, flexible manufacturing systems, applications, advantages and disadvantages of FMS, types of machines used in FMS-machining centers, head changers, head indexers, milling modules, turning modules, assembly workstations, inspection stations, sheet metal processing machines, forging stations, FMS layout configurations-inline, loop, ladder, open-field, robot centered cell, FMS computer control system
+<br><b>[08 Hrs] [25 Marks] </b>
+
+<b>Reference Books:</b>
+<br><br>1. Automation, Production Systems, and Computer-Aided Manufacturing- Mikell P Grover, Prentice-Hall International publication
+<br>2. Mechatronics –HMT Limited, McGraw Hill Education
+<br>3. CAD/CAM Principles and Applications-P N Rao, McGraw Hill Education
+<br>4. CAD/CAM/CIM- P. Radhakrishnan, S. Subramanyan, V. Raju, New Age International Publishers
+<br>5. CNC Machines- Pabla B.S., Adithan M., New Age International, New Delhi,2014(reprint)
+<br>6. Computer Numerical Control-Turning and Machining centers- Quesada Robert, Prentice Hall 2014
+<br>7. CAD/CAM- Sareen Kuldeep, S Chand 2012
+
+<br><br><b>e - Links:</b>
+
+<br><br>1. https://www.britannica.com/technology/automation/Computer-integrated-manufacturing
+<br>2. http://www.slideshare.net/suraj_21/computer-integrated-manufacturing
+<br>3. http://www.slideshare.net/100675720/automation-7437801
+<br>4. http://mosafavi.iut.ac.ir/sites/mosafavi.iut.ac.ir/files/files_course/cnc_1_0.pdf
+<br>5. http://wings.buffalo.edu/academic/department/eng/mae/courses/460-564/Course-Notes/CNC%20notes.pdf
+<br>6. http://www.engr.uvic.ca/~mech410/CAM_references/CNC_Computer_Numerical_Control_Programmig_Basics.pdf
+<br>7. http://www.meliksah.edu.tr/esefkatlioglu/wp-content/uploads/2014/06/01-Introduction-to-CNC-Technology.pdf
+<br>8. http://www.slideshare.net/NoumanKhan2/9-oct-2013-lec-13-1415161718
+<br>9. http://www.slideshare.net/PratikGandhi4/computer-aided-process-planning-capp-57682060
+<br>10. http://www.slideshare.net/SyedAjeesh/computer-integrated-manufacturing-42768294?qid=f7c2ba99-d26c-445f-81d5-355774a78c00&v=&b=&from_search=1
+<br>11. http://www.wintriss.com/wcg/shopfloorconnect/docs/SFC_White_Paper.pdf
+<br>12. http://www.slideshare.net/subhashsv/barcode-technology
+<br>13. http://www.slideshare.net/IAMINURHEARTS1/ocr-ppt-35272335?qid=16588669-68fe-4a3b-ad29-2c69ba58f65f&v=&b=&from_search=1
+<br>14. http://tamcam.tamu.edu/courses/inen416/Handouts/AGV%20Presentation.pdf
+<br>15. http://wings.buffalo.edu/eng/mae/courses/460-564/AGV.pdf
+<br>16. http://www.invata.com/warehouse-automation/automated-storage-and-retrieval-systems-asrs/
+<br>17. http://www.slideshare.net/RanjeetKumar41/flexible-manufacturing-system
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>1. Develop CNC part programming for a turning component having step turning, taper turning, thread cutting, Knurling operations
+<br>2. Develop CNC part programming for a milling component having mirroring, pocketing, contour milling operations etc.
+<br>3. Present a report on materials used for CNC tooling’s( Hand written 2 0r 3 pages)
+<br>4. Present a report on inserts used in CNC cutting tools
+<br>5. Develop a CNC program for a simple component by using APT language.
+<br>6. Prepare a report on various CAM software
+
+<br><br><b>Note:</b> 
+
+<br>1. Group of max four students should do any one of the above activity or any other similar activity related to the course COs and get it approved from concerned Teacher and HOD. 
+<br>2. No group should have activity repeated or similar 
+<br>3. Teacher should ensure activities by different groups must cover all COs 
+<br>4. Teacher should asses every student by using suitable Rubrics approved by HOD

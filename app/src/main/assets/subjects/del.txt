@@ -1,0 +1,58 @@
+<b>Experiments:</b>
+ 
+<br><br>1. Compare analog and digital electronics systems (Tutorial)
+
+<br><br>2. Realization of basic and universal logic gates using ICS 7400, 7432, 7402, 7408, 7486, 7404. 
+
+<br><br>3. Realization of NOT, OR, AND, NOR, XOR, XNOR using NAND. 
+
+<br><br>4. Realization of NOT, OR, AND, NAND, XOR, XNOR using NOR. 
+
+<br><br>5. Verification of Demorgan’s theorem. 
+
+<br><br>6. Simplify the Boolean expression using Boolean algebra and verify. 
+
+<br><br>7. Realization of half adder and full adder. 
+
+<br><br>8. Verification of TT of 4:1 mux & 1:4 demux using IC’s. 
+
+<br><br>9. Interfacing 7-segment display system with IC 7447 to display 0-9
+
+<br><br>10. Verification of TT of flip flops 
+	<br>(i)Clocked RS FF using NAND gate
+	<br>(ii)JK FF using IC 7476
+	<br>(iii)D- FF
+	<br>(iv)T-FF using JK Flip-flop
+
+<br><br>11. Verification of TT of shift registors (7495) 
+	<br>(i)SISO
+	<br>(ii)SIPO
+	<br>(iii)PISO
+	<br>(iv)PIPO
+
+<br><br>12. Verification of 4-bit Asynchronous mod-10 (decade) counter (IC 7490)
+
+<br><br>13. Verification of 4-bit synchronous up/down counter (IC 74193)
+
+<br><br>14. 4-bit Ring counter (Tutorial followed by experiment)
+
+<b>Reference Books:</b>
+
+<br><br>1.	Digital Fundamentals, Thomas L. Floyd, Pearson Education, ISBN:9788131734483
+<br>2.	Digital Principles and Applications, Malvino and Leach, TMH
+
+<br><br><b>e-Resources</b>
+
+<br><br>1.	http://www.vlab.co.in/
+<br>2.	http://www.asic-world.com/
+<br>3.	http://electrical4u.com/ 
+<br>4.	http://www.electronics-tutorials.ws
+
+<b>Scheme of Valuation for SEE:</b>
+
+<br><br>1.Writing Circuit and Procedure of one Experiment : 20
+<br>2.Conduction : 15
+<br>3.Result : 05
+<br>4.Viva voce	: 10
+
+<br><br><b>TOTAL = 50 Marks</b>

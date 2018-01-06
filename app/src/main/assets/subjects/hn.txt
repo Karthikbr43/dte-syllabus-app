@@ -1,0 +1,86 @@
+UNIT I: INTRODUCTION TO HYDRAULICS
+Fluid- Concept  and classification of fluid-Newton’s law viscosity-Properties of fluid- Density, Specific gravity, Specific Weight, Specific Volume- Dynamic Viscosity, Kinematic Viscosity, Surface tension, Capillarity, Vapour Pressure, Compressibility-Fluid pressure, Pressure head, Pressure intensity-Concept of absolute vacuum, gauge pressure, atmospheric Pressure-pressure,- Simple and differential manometers, Bourdon pressure gauge.
+<br><b>[07 Hrs] [20 Marks] </b>
+
+UNIT II: DYNAMICS OF FLUIDS
+Fluid flow-Types of fluid flows-Continuity equation-Bernoulli’s theorem-Venturi meter– Construction, principle of working, Coefficient of discharge, Discharge through venture meter.- Orifice meter-Pitot tube – Construction, Principle of working,- hydraulic coefficients -Numerical on Bernoulli’s theorem, venturi meter, orifice meter.		
+<br><b>[09 Hrs] [25 Marks] </b>
+
+UNIT III: FLOW THROUGH PIPES
+Concepts of fluid friction- Loss of head due to friction- Minor losses in pipes -Darcy’s equation and Chezy’s equation for frictional losses.- -Hydraulic gradient and total gradient line.- Hydraulic power transmission through pipe- Numerical to estimate Loss of head due to friction and  major and minor losses- Power transmission. Concept of water hammer in pipes.
+<br><b>[06 Hrs] [15 Marks] </b>
+
+UNIT IV: HYDRAULIC MACHINES
+<b>Hydraulic turbines</b>- Classification  of turbine -Construction and working principle of Pelton wheel, Francis and Kaplan turbine.-Use of Penstock, Anchor Block, Surge tank and Draft tube. Concept of cavitations in turbines- Simple Numerical on Calculation of Discharge, Work done, Power, efficiency of turbine(Exclude Francis turbine)
+<br><b>Pumps</b>- classification of pumps – construction and working of Centrifugal pump- Need for priming of centrifugal pump–multistage centrifugal pump. Reciprocating pump-types- construction and working- Air Vessel-Slip-Simple Numerical on Calculation of discharge, Work done, Power, efficiency of pumps-construction and working Submersible pump
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT V: HYDRAULIC SYSTEM
+Hydraulic systems- layout of oil hydraulic systems-. Advantages of hydraulic systems-Components of Hydraulic systems- Pumps– Vane pump, gear pump, screw pump,-Valves –working and symbols of Pressure control valves – pressure relief valve, Direction control valves - 3/2, 5/2 valves,-Sequence valves.-Flow control valves–Actuators- Linear Actuators – Cylinders - single acting, double acting - Hydraulic motors-Accumulators-Types.
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT VI: PNEUMATICSYSTEM
+Pneumatic system- General layout of pneumatic system-Advantages of pneumatic systems-Components of pneumatic system- Compressor – Reciprocating.-construction and working of FRL unit- working and symbols of-Control Valves – Pressure regulating valves, Flow Control valves, Direction Control Valves.-Actuators - Cylinders- single acting and double acting - Air motors,- piston motor-unit- - Pneumatic Symbols- ports and positions
+<br><b>[10 Hrs] [25 Marks] </b>
+
+<b>Text books:</b>
+<br><br>1. Bansal. R.K.,“Fluid Mechanics and Hydraulics Machines”, 9th Edition, LaxmiPublicationsPrivate Limited, New Delhi. 2011.
+<br>2. R.S.Khurmi, “Fluid Mechanics and Machinery”,S.Chand and Company, 2nd Edition, 2007.
+<br>3. Hydraulics and Pneumatics – Andrew Parr, Jaico Publishing House New Delhi.
+<br>4. Hydraulic and Pneumatic Controls Understanding Made Easy- K.S.Sundaram,-S.chand Company Delhi
+
+<br><br><b>References:</b>
+<br><br>1.  Ramamritham. S, “Fluid Mechanics, Hydraulics and Fluid Machines”, DhanpatRaiandSons,Delhi, 2004.
+<br>2.  Kumar. K.L., “Engineering Fluid Mechanics”, 7th Edition, Eurasia Publishing House PrivateLimited, New Delhi, 1995.
+<br>3.  P. N Modi and S. M. Seth, “Hydraulics and Fluid Mechanics Including HydraulicsMachines”, 19th Edition, Standard Book House, 2013
+<br>4.  Bansal R. K, “Strength of Materials”,Laxmi Publications, New Delhi, 2012.
+<br>5.	Oil Hydraulic Systems- Majumdar, S.R. -Tata McGraw-Hill Publication, 3/e, 2013
+<br>6.	Hydraulic and Pneumatic Controls- Srinivasan, R.- Vijay Nicole Imprints Private Limited, 2/e, 2008
+<br>7.	Pneumatic And Pneumatics Controls -Understanding Made Easy - K.S.Sundaram,-S.chand Company Delhi
+<br>8.	Pneumatic Systems - Majumdar, S.R. -Tata McGraw-Hill Publication, 3/e, 2013
+
+<br><br><b>E –Learning</b>
+	
+<br><br>1.	www.youtube.com/watch?v=VyR8aeioQrU
+<br>2.	http://www.youtube.com/watch?v=R6_q5gxf4vs
+<br>3.	http://www.howstuffworks.com
+<br>4.	http://nptel.iitm.ac.in/courses/Webcourse-contents/IIT- KANPUR/machine/ui/TOC.htm
+<br>5.	https://www.youtube.com/watch?v=F_7OhKUYV5candlist=PLE17B519F3ACF9376
+<br>6.	https://www.youtube.com/watch?v=zOJ6gWDMTfEandlist=PLC242EBB626D5FFB5
+<br>7.	http://www.youtube.com/watch?v=0p03UTgpnDU
+<br>8.	http://www.youtube.com/watch?v=A3ormYVZMXE
+<br>9.	http://www.youtube.com/watch?v=TjzKpke0nSU
+<br>10.	http://www.youtube.com/watch?v=vl7GteLxgdQ
+<br>11.	http://www.youtube.com/watch?v=cIdMNOysMGI
+<br>12.	www.boschrexroth.co.in
+<br>13.	http://www.automationstudio.com/
+<br>14.	http://www.howstuffworks.com/search.php?terms=hydraulics
+<br>15.	http://hyperphysics.phy-astr.gsu.edu/hbase/fluid.html#flucon
+<br>16.	http://www.youtube.com/watch?v=FVR7AC8ExIM
+<br>17.	http://www.youtube.com/watch?v=iOXRoYHdCV0
+<br>18.	http://www.youtube.com/watch?v=qDinpuq4T0U
+<br>19.	http://www.youtube.com/watch?v=xxoAm3X4iw0
+<br>20.	http://www.festo.com
+<br>21.	http://www.boschrexroth.co.in
+<br>22.	http://www.nptel.iitm.ac.in
+<br>23.	http://www.howstuffworks.com/search.php?terms=pneumatics
+<br>24.	http://www.youtube.com/watch?v=MbKrIieogNc
+<br>25.	http://www.youtube.com/watch?v=7JuNbHb5NrQ
+<br>26.	http://www.youtube.com/watch?v=NakOoD-G0IY
+<br>27.	http://www.youtube.com/watch?v=bG2mCiQgbwE
+<br>28.	http://www.youtube.com/watch?v=cB3OCPqmUDQ
+<br>29.	http://www.youtube.com/watch?v=5q7YasmwXCs
+<br>30.	http://www.youtube.com/watch?v=a5Ebx__l5-g
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>1. Each student will give an activity to prepare a tabulated summary for types of fluid which is available around city (Summary includes properties of fluid indicated in chapter-1)
+<br>2. List out any five pressure measuring devices available in market with its specifications and current market price.
+<br>3. Each student will give an activity to prepare a tabulated summary for types of pipes available in market. (Summary includes type, specification, size range, material, rate and applications).
+<br>4. Identify any one hydraulic pump and one prime mover available in market in a group of five students with detail specifications and current price.
+<br>5. Visit a nearby related Earth moving equipments service centre and prepare a summary of hydro-pneumatic devices used along with their specifications
+<br>6. Motivate student to take case study on Low Cost Automation to inculcate self and continuous learning
+
+<br><br><b>Note:</b> The activities or similar activities for assessing CIE (IA) for 5 marks (Any one)
+<br>1. Each student should do any one of the following type activity or any other similar activity related to the course and before conduction, get it approved from concerned Teacher and HOD.
+<br>2. Each student should conduct different activity and no repeating should occur

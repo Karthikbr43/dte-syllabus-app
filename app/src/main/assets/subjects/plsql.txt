@@ -1,0 +1,51 @@
+<b>Experiments:</b>
+
+<br><br>1.	Write a PL/SQL code to create an employee database with the tables and fields specified as below. <br><b><i>[Refer Fig. 1.1] </i></b>
+<br>Note: Primary keys are underlined.
+<br><br>2.	Write a PL/SQL code to create a student database with the tables and fields specified as below. <br><b><i>[Refer Fig. 1.2] </i></b>
+<br><br>3.	PL/SQL code to retrieve the employee name, join_date, and designation from employee database of an employee whose number is input by the user.
+<br><br>4.	Write a PL/SQL  code to show TABLE type of data(Array)
+<br><br>5.	Write a PL/SQL  code to calculate tax for an employee of an organization –XYZ and to display his/her name & tax, by creating a table under employee database as below. <br><b><i>[Refer Fig. 1.3] </i></b>
+<br><br>6.	Write a PL/SQL code to calculate the total and the percentage of marks of the students in four subjects from the table- Student with the schema given below.
+<br>STUDENT ( RNO , S1 , S2, S3, S4, total, percentage)
+<br><br>7.	Write a PL/SQL code to display employee number, name and basic of 5 highest paid employees.
+<br><br>8.	Write a PL/SQL code to calculate the total salary of first n records of emp table. The value of n is passed to cursor as parameter.
+<br><br>9.	Write a PL/SQL code to update the salary of employees who earn less than the average salary using cursor.
+<br><br>10.	Write a row trigger to insert the existing values of the salary table in to a new table when the salary table is updated.
+<br><br>11.	Write a trigger on the employee table which shows the old values and new values of Ename after any updations on ename on Employee table.
+<br><br>12.	Write a PL/SQL procedure to find the number of students ranging from 100-70%, 69-60%, 59-50% & below 49% in each course from the student_course table given by the procedure as parameter. 
+<br><br>13.	Create a store function that accepts 2 numbers and returns the addition of passed values. Also write the code to call your function.
+<br><br>14.	Write a PL/SQL function that accepts department number and returns the total salary of the department. Also write a function to call the function.
+<br><br>15.	Write a PL/SQL code to create,
+<br>a)	Package specification 
+<br>b)	Package body.
+<br>For the insert, retrieve, update and delete operations on a student table.
+<br><br>16.	Write a PL/SQL code to create,
+<br>c)	Package specification 
+<br>d)	Package body.
+<br>For the insert, retrieve, update and delete operations on aemp table.
+<br><br>17.	Write a program to illustrate  user defined exceptions, built-in exception and raise application error exception.
+
+<b>Reference Books:</b>
+
+<br><br>1.	Database Management Systems, A Practical approach By- Err. Rajiv Chopra, Chand Publications, ISBN : 8121932459.
+<br>2.	Oracle PL/SQL Programming, In Simple Steps, By- Cogent Solutions INc., Dreamtech Press  ISBN: 8177228552
+<br>3.	SQL,PL/SQL  The Programming language of ORACLE, Ivan Bayross,  BPB Publications.
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>Student activity like mini-project, surveys, quizzes, etc. should be done in group of 1-2 students.  
+<br>1.	Each group should do any one of the following type activity or any other similar activity related to the course and before conduction, get it approved from concerned course co-ordinator and programme co-ordinator.
+<br>2.	Each group should conduct different activity and no repeating should occur.
+<br>(i)	Mini project  implementing cursors,triggers,packages,exceptions, functions and procedures for the following topics:
+<br>Customer billing System Project, , Calendar, Application Project, Employee Record System Project, Student Record System Project, Cyber Management System Project, College billing System Project, Customer billing system, Phone book application, etc.
+
+<br><br><b>Note:</b> The activities or similar activities for assessing CIE (IA) for 5 marks (Any one)
+
+<b>Scheme of Valuation for SEE:</b>
+
+<br><br>1.	Writing  two programs : 20
+<br>2.	Executing any one program with result : 20
+<br>3.	Viva Voice : 10
+
+<br><br><b>TOTAL = 50 Marks</b>

@@ -1,0 +1,54 @@
+UNIT I: INTRODUCTION TO CIM & AUTOMATION
+CIM – definition, scope and elements of CIM system-benefits, Production system facilities – low-medium-high-Manufacturing support systems-Automation in production systems-Automated manufacturing systems-Computerized Manufacturing Support Systems-Reasons for Automating, Automation principles and strategies-USA Principle-Ten Strategies for Automation and Production Systems, Automation –definition- Basic elements of an automated system - Levels of automation
+<br><b>[09 Hrs] [20 Marks] </b>
+
+UNIT II: NC AND CNC MACHINES
+Fundamentals of NC Technology- Basic Components of an NC System- NC Coordinate Systems- Motion Control Systems, Applications of NC- Machine Tool Applications- Other NC Applications- Advantages and Disadvantages of NC, Computer Numerical Control- Features of CNC- The Machine Control Unit for CNC- CNC Software, CNC Applications- Advantages and Disadvantages of CNC, DNC- Direct Numerical Control- Distributed Numerical Control
+<br><b>[08 Hrs] [15 Marks] </b>
+
+UNIT III: CONSTRUCTION OF CNC MACHINES
+Construction of CNC machines-Machine structure- Static load-Dynamic load-Thermal load, Guide ways-Friction guide ways-V guide ways-Flat &dovetail guide ways-Cylindrical guide ways-Anti frictional linear motion guide ways, Feed drives-Servomotors-Mechanical transmission system, Spindle and spindle bearings-Hydrodynamic bearings-Hydrostatic bearings-Antifriction bearings, Measuring systems- direct & indirect measuring systems, Gauging, Tool monitoring-direct & Indirect monitoring, Automatic tool changer (ATC)-Automatic pallet changer (APC) 
+<br><b>[10 Hrs] [35 Marks] </b>
+
+UNIT IV: CNC PART PROGRAMMING
+Introduction to Part Programming-Coordinate system-Dimensioning-Axes & motion nomenclature Definition and importance of various positions like machine zero, home position, and work piece zero, CNC part programming- Structure of part programme-Word addressed format-Preparatory function(G)-Miscellaneous function(M)- Tool compensation-Subroutines (Macros)(L)-Canned cycles-Mirror image, Simple programme on Milling and Turning operations
+<br><b>[12 Hrs] [40 Marks] </b>
+ 
+UNIT V: GROUP TECHNOLOGY AND CAPP
+Group technology-Definition-Advantages and limitations of GT-Part family formation-Classification and coding-Opitz coding system, Applications & benefits of GT, Cellular manufacturing-Machining cell designs-Machining cell planning, Computer aided process planning-Approaches to CAPP-Implementation techniques-Essential elements in a retrieval type CAPP system-Essential elements in a generative CAPP system, Flexible manufacturing system-Scope of FMS-FMS compared to other types of manufacturing approaches-Types of FMS-Benefits of FMS-Major elements of FMS
+<br><b>[07 Hrs] [20 Marks] </b>
+
+UNIT VI: ROBOTICS
+Introduction-definition of robot-Elements of a robotic system-Need for using robots-Types of robots-Classification of robots based on mechanical configuration-Gantry robot-SCARA robot-Freedom of motion, End effectors-grippers & tools, Drive systems, Control systems, Performance capabilities-specifications-key feature, Programming robots-Programming methods, Applications of industrial robot.
+<br><b>[06 Hrs] [15 Marks] </b>
+
+<b>Text books:</b>
+
+<br><br>1.  Automation, Production Systems, and Computer-Aided Manufacturing by Mikell P. Groover, Prentice-Hall International publication - <b>"Introduction to CIM & Automation NC and CNC machines"</b>
+<br><br>2.  Mechatronics, HMT limited, McGraw Hill Education - <b>"Construction of CNC machines  And CNC part programming"</b>
+<br><br>3.  CAD/CAM Principles and Applications, P N Rao, McGraw Hill Education - <b>"Construction of CNC machines  And CNC part programming"</b>
+<br><br>4.  CAD/CAM/CIM , P. Radhakrishnan, S. Subramanyan, V. Raju, New Age International Publishers - <b>"Group technology and CAPP"</b>
+<br><br>5.	CNC Machines. 	Pabla B.S., Adithan M. 	New Age International, New Delhi,2014(reprint) 	Construction of CNC machines  
+<br><br>6.  Computer Numerical Control-Turning and Machining centers, Quesada Robert, Prentice Hall 2014 - <b>"CNC part programming"</b>
+<br><br>7.	CAD/CAM., Sareen Kuldeep, S.Chand 2012. -  <b>"Group technology"</b>
+
+<br><br><b>Website:</b>
+
+<br><br>1. http://www.nptel.ac.in   
+<br>2. http://www.youtube.com/watch?v=M3eX2PKM1RI  
+<br>3. http://www.youtube.com/watch?v=EHQ4QIDqENI&list=PLBkqkLQO2nAt5MNLo  
+<br>4. http://www.youtube.com/watch?v=hJFLcvtiNQ I  
+<br>5. http://www.youtube.com/watch?v=BIM1AyxfYkw . 
+<br>6. http://www.mtabindia.com  
+<br>7. http://www.swansoftcncsimulator.com
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>1. Visit nearby industry having CNC machines. List and Recall important features of them. Submit handwritten report of 500 words
+<br>2. Construct specifications of various types of CNC machines with images and names of manufacturers.
+<br>3. Download images and videos of CNC machines and its parts. Construct one VCD/DVD in a batch and submit them
+<br>4. Download free simulation software’s available on website and practice for part programming.
+
+<br><br><b>Note:</b> The activities or similar activities for assessing CIE (IA) for 5 marks (Any one)
+<br>1. Each student should do any one of the following type activity or any other similar activity related to the course and before conduction, get it approved from concerned Teacher and HOD.
+<br>2. Each student should conduct different activity and no repeating should occur

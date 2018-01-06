@@ -1,0 +1,62 @@
+UNIT I: Fuels and Classification
+Introduction and definition of fuel, Classification of fuels with examples, General properties of fuel. Types - solid, liquid and gaseous fuels with their properties, uses, advantages and disadvantages and comparison. Formation of coal, classification of coal by rank. Formation petroleum, producer gas, biogas. Pulverisation of coal and its advantages. Understand Nuclear fuels and its uses.
+Define calorific value of fuel and its types, Thermal efficiency of fuel, flash point, fire point, flow point, cloud point, Pour point and viscosity of fuel. Explain with neat sketch Bomb calorimeter, Boy’s gas calorimeter, Junker’s gas calorimeter and Orsat apparatus.
+Alternative Energy Sources - solar thermal and microwave generation their uses, advantages and disadvantages. 		
+<br><b>[12 Hrs] [35 Marks] </b>
+
+UNIT II: Fuel Calculation
+Analysis of coal: Proximate analysis like moisture, ash, volatile matter, fixed carbon content and Ultimate analysis like Carbon, Hydrogen, Nitrogen, Sulphur, Oxygen and Gross Calorific value, Dulong’s formula. Derive and solve problems based on Bomb calorimeter and Junker’s calorimeter.
+<br><b>[07 Hrs] [20 Marks] </b>
+
+UNIT III: Industrial furnaces and kilns
+Classification of furnaces and kilns based on by Heat Source, Mode of operation, Method of Handling Material, types of Fuel used, types of firing, Uses and Type of Heat Recovery.
+Explain construction, working and types of fuels used for firing with neat sketch for following furnaces and kilns: Tunnel kiln, Rotary kiln, Blast furnace, Glass tank and pot furnaces, Muffle furnace, Frit furnace, Shuttle kiln, Microwave furnace, Roller hearth kiln, Hoffman’s kiln and Bull trench kiln.
+<br><b>[15 Hrs] [40 Marks] </b>
+
+UNIT IV: Kiln Accessories
+Brief explanation about fire box, chimney, crown, damper, stack, saggers, muffles and kiln furniture. Define draught; explain types and mechanism of Draught. Introduction to burners, types of Burners. Define and explain atomization of fuel.
+<br><b>[06 Hrs] [15 Marks] </b>
+
+UNIT V: Temperature Measuring Instruments
+Definition of pyroscopes, types and operation, Explain types, working, uses, advantages and disadvantages of thermocouples, thermopiles, pyrometer (resistance, radiation and optical) and Infrared thermometer.
+<br><b>[07 Hrs] [20 Marks] </b>
+
+UNIT VI: Firing Practice
+Describe furnace loading: principles of setting, loading density and pattern and lighting up. Discus Primary air, Secondary air, firing, importance of firing schedule and kiln atmospheres. Furnace operation: control parameters and instrumentation. 
+Firing defects: black coring, warpage, bloating, visual defects, dunting and sulphuring.
+<br><b>[05 Hrs] [15 Marks] </b>
+
+<b>Reference Books:</b>
+
+<br><br>1. Fuels Furnaces and Refractories, O P Gupta
+<br>2. Industrial Ceramics,	Singer and Singer
+<br>3. Glass technology, R Charan
+<br>4. Engineering Materials, Rangwala
+<br>5. Fuels Furnaces Refractories and Pyrometry, AVK Suryanarayana, BS Publications
+<br>6. Industrial Furnaces, W Trinks
+
+<br><br><b>E –Learning</b>
+
+<br><br>1. http://www.en.wikipedia.org
+<br>2. http://www.indfurnace.com
+<br>3. http://www.hightemp-furnaces.com
+<br>4. http://www.york.com/residential/products/furnaces
+<br>5. http://energy.gov/energysaver/articles/furnaces-and-boilers
+<br>6. http://www.kilns.co.uk
+<br>7. http://www.paragonweb.com
+<br>8. http://www.bigceramicstore.com/kilns.html
+<br>9. http://www.youtube.com/watch?v=hBqhGHfzQFQ
+<br>10. http://www.youtube.com/watch?v=LTH_RMPgp3k
+<br>11. http://www.youtube.com/watch?v=n0xL2BzdpYk
+<br>12. http://www.youtube.com/watch?v=GZLNhfjkWDY
+<br>13. http://www.youtube.com/watch?v=OAjgyIkHfLY
+<br>14. http://www.youtube.com/watch?v=AUr73BD2VBg
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>1. Student should prepare a dry pressed article of their own composition, fire the same and make report on it.
+<br>2. Visit a nearby ceramic industry and make a report on the product manufactured.
+<br>3. Arrange a guest lecture on fuels and furnaces, and student should make a report on the talk given.
+<br>4. Surf the internet /books and gather information regarding advanced temperature measuring equipment and make a report on it.
+
+<br><br><b>Note:</b> Student should prepare hand written report with minimum 2-3 pages and reports should not be copied from earlier batches. And other similar tasks can be assigned.

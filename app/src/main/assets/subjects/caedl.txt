@@ -1,0 +1,127 @@
+<b>Experiments:</b>
+
+<br><br><b>Note:</b> Staff-in-charge must teach one hour tutorial for each Lab. The Contents to be taught in the one hour tutorial are
+
+<br><br><b>Introduction to Computer Aided Drawing</b>
+
+<br><br><b>Tutorial 1</b>
+<br>Software packages available, CAD software screen, Standard menus / toolbars, Navigational tools, Zoom, Pan, Co-ordinate systems, Selection of drawing size and scale, Co-ordinate points,
+<br>Performing Experiment:
+<br>Familiarisation of CAD Software
+
+<br><br><b>Tutorial 2</b>
+<br>Draw commands - line, line type, circle, arc, rectangle, polygons, array, polyline, text, multitext, explode, hatch, polygons, array, polyline, text, multitext, explode, hatch
+<br>Performing Experiment:
+<br>Practice the commands using CAD software. Create simple drawing using above commands.
+
+<br><br><b>Tutorial 3</b>
+<br>Editing commands - erase, copy, move, offset, mirror, rotate, trim, extend, break, chamfer, fillet, layer.
+<br>Performing Experiment:
+<br>Practice the commands using CAD software. 
+
+<br><br><b>Tutorial 4</b>
+<br>Dimensioning commands - linear dimensioning – horizontal, vertical, aligned, baseline, continuous, diameters, radii, chords, arc, angle. Leader, Arrow.
+<br>Performing Experiment:
+<br>Practice the commands using CAD software. 
+
+<br><br><b>WINDING DIAGRAMS</b>
+
+<br><br><b>Tutorial 5</b>
+<br>DC armature winding – double layer progressive lap, winding table, sequence diagram.
+<br>Performing Experiment:
+<br>Draw the developed winding diagram of 24 conductor 4 poles Double Layer progressive lap winding.
+
+<br><br><b>Printing/plotting</b>
+
+<br><br><b>Tutorial 6</b>
+<br>Print/Plot – Printer selection, paper size selection, Selecting drawing portion to plot, scaling, setting horizontal and vertical alignment for plotting 
+<br>Performing Experiment:
+<br>Preparing paper layout and Plotting the drawings.
+
+<br><br><b>Tutorial 7</b>
+<br>DC armature winding – double layer progressive wave, winding table, sequence diagram.
+<br>Performing Experiment:
+<br>Draw the developed winding diagram of 26 conductor 4 poles Double Layer progressive wave winding.
+
+<br><br><b>Tutorial 8</b>
+<br>3 Phase AC stator winding - AC full pitched lap winding.
+<br>Performing Experiment:
+<br>Draw the developed winding diagram of 24 conductor 4poles 3ph AC full pitched lap winding.
+
+<br><br><b>Tutorial 9</b>
+<br>3PhaseAC stator winding - AC short pitched lap winding.
+<br>Performing Experiment:
+<br>Draw the developed winding diagram of 24 conductor 4 poles 3 ph AC short pitched lap winding.
+
+<br><br><b>ASSEMBLY DIAGRAMS</b>
+
+<br><br><b>Tutorial 10</b>
+<br>DC machine – Main pole and field coil assembly. 
+<br>Performing Experiment:
+<br>Draw the sectional end view and front view of main pole and field coil assembly of a dc machine.
+
+<br><br><b>Tutorial 11</b>
+<br>DC machine - Yoke and pole assembly. 
+<br>Performing Experiment:
+<br>Draw the sectional end view and front view of yoke and pole assembly of a dc machine.
+
+<br><br><b>Tutorial 12</b>
+<br>AC 3 phase alternator - Stator assembly. 
+<br>Performing Experiment:
+<br>Draw the sectional end view and front view of AC machine stator assembly.
+
+<br><br><b>Tutorial 13</b>
+<br>AC induction motor - Squirrel cage rotor assembly. 
+<br>Performing Experiment:
+<br>Draw the sectional end view and front view of squirrel cage rotor assembly.
+
+<br><br><b>Tutorial 14</b>
+<br>Transformer - Single phase core type transformer. 
+<br>Performing Experiment:
+<br>Draw the sectional and front view and plan of single phase core type transformer.
+
+<br><br><b>FREE HAND SKETCH </b>
+
+<br><br><b>Tutorial 15</b>
+<br>LT distribution panel board- construction, components, connections
+<br>Performing Experiment:
+<br>Prepare LT Main Panel board General Arrangement diagram as per requirements.
+
+<br><br><b>Tutorial 16</b>
+<br>Single line diagram – using standard symbols.
+<br>Performing Experiment:
+<br>Draw single line diagram of 66kV/11kV substation.
+
+<b>Reference Books:</b>
+<br><br>1.	Computer Aided Electrical Drawing - YOGESH, NAGARAJA,NANDAN	PHI Publication
+<br>2.	Electrical Drafting	- S.F. DEVALAPUR	 EEPB
+<br>3.	Electrical Drawing	- K.L. NARANG
+<br>4.	Electrical Engineering Drawing – S. K. BHATTACHARYA
+<br>5.	QCAD - An Introduction to Computer-Aided Design - By Andrew Mustun
+<br>6.	http://www.faveodesign.co.uk/CAD_Drawings.html
+<br>7.	http://cad.about.com/od/Learn_CAD/a/The-Fundamentals-Of-Drafting.htm
+<br>8.	http://transport.itu.edu.tr/PDF/iml332e/Fundamentals%20of%20CAD.pdf
+
+<br><br><b>Student Activity</b>
+
+<br><br><b>Note:</b> Student has to perform any ONE activity from the list given below and submit self handwritten single line diagram collected from the place student visited and draw the same using CAD. Submit printout along with.
+
+<br><br>1.	Visit nearby factory, get layout diagram of the shop floor. Draw the same using CAD.
+<br>2.	Visit the nearby substation, get different single line diagram of substation. Draw the same using CAD.
+<br>3.	Draw the single line diagram of polytechnic laboratory.
+<br>4.	Draw single line  diagram of panel board available in polytechnic/factory/substation
+<br>5.	Draw the layout of machines in any laboratory.
+<br>6.	Draw basic electrical and electronic components and circuits.
+
+<b>Scheme of Valuation for SEE:</b>
+
+<br><br>1. <b>Winding diagrams</b>
+<br>Calculation + developing winding diagram on monitor sequence diagram 
+<br><b>OR</b>
+<br><b>Free Hand Sketch</b>
+<br>Any one exercise in detail + Index (legend) :	5+15 = 20
+
+<br><br>2. <b>Assembly drawings</b>
+<br>Sectional end view and front elevation(Front elevation and plan in case of transformer)	:	15+10  = 25
+<br><br>3. <b>Two printouts</b> :	5
+<br><br><b>TOTAL = 50 Marks</b>

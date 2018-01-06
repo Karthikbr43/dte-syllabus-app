@@ -1,0 +1,65 @@
+UNIT I: Introduction to MEMS & Microsystems 						
+1.1	Introduction to MEMS & Microsystems
+<br>1.2	Definition of MEMS & Microsystems
+<br>1.3	Components of Microsystems
+<br>1.4 Typical MEMS & Microsystems products
+<br>1.5 Comparison of microelectronics & Microsystems
+<br>1.6 Engineering disciplines involved in Micro system design, manufacture & packaging
+<br>1.7	Multidisciplinary nature Micro system design & manufacturing 
+<br>1.8	Micro system & miniaturization, Benefits of having smaller components                           
+<br>1.9 Application of Microsystems in various industries  
+<br><br><b>[09 Hrs] [25 Marks] </b>
+
+UNIT II: Working principles of Microsystems and  Micro-actuation 
+2.1 Introduction
+<br>2.2 Micro sensors
+<br>2.3	Biomedical sensors & Biosensors
+<br>2.4 Chemical sensors Means commonly used for actuating motions
+<br>2.5	Actuation using thermal forces
+<br>2.6	Actuation using shape memory alloys
+<br>2.7	Actuation using piezoelectric crystal
+<br><br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT III: Materials for MEMS
+3.1	Introduction 
+<br>3.2 Common materials used in MEMS
+<br>3.3 Silicon as a ideal material for MEMS
+<br>3.4 Properties of silicon
+<br>3.5	Mechanical properties of silicon
+<br>3.6	Single crystal silicon & wafers
+<br><br><b>[08 Hrs] [20 Marks] </b>
+
+UNIT IV: Micro-Manufacturing 
+4.1	Introduction 
+<br>4.2 Overview of Etching
+<br>4.3 Anisotropic etching of silicon substrate
+<br>4.5 Electrochemical etch shop
+<br>4.6 Plasma ion etching
+<br>4.7 Surfacing micromachining
+<br><br><b>[08 Hrs] [20 Marks] </b>
+
+UNIT V: Introduction to smart materials
+5.1	Introduction
+<br>5.2	Requirements expected from smart materials
+<br>5.3	Building blocks of typical smart systems
+<br>5.4	Components of smart systems
+<br>5.5	Types of smart materials
+<br>5.6	Applications of smart materials in various areas
+<br><br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT VI: Nano Technology
+6.1	Introduction
+<br>6.2	Definition of Nano technology
+<br>6.3	Materials for Nano
+<br>6.4	Advantages, Disadvantages
+<br>6.5	Applications 
+<br>6.5	Futures of Nano technology
+<br>6.6	Techniques used in Nano technology
+<br>6.6.1. Bottom-up- techniques
+<br>6.6.2 Top-Down- fabrication techniques
+<br><br><b>[07 Hrs] [20 Marks] </b>
+
+<b>Reference Books:</b>
+<br><br>1. Micro and smart systems By G.K. Ananthasuresh  And V.K. Aatre Wiley India publications
+<br>2. MEMS & MICROSYSTEMS Design and manufacture by Tai- Ran Hsu Tata McGraw Hill Publications   
+<br>3. Nano Technology-Fundamentals and Applications-by Manasi Karkare  I K International publishing house pvt ltd.

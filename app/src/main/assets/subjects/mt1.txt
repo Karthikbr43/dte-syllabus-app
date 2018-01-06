@@ -1,0 +1,54 @@
+UNIT – I : PRINCIPLES OF MASS TRANSFER
+Principles of diffusion in fluids and solids – Molecular diffusion – Fick’s law of diffusion -Eddy   diffusion. Classification of mass transfer operations – Methods of conducting mass transfer operation – Unsteady state and steady state operations - Stage wise operations – Differential contact operations. 
+<br><b>[07 Hrs] [20 Marks] </b>
+
+UNIT – II: HUMIDIFICATION
+Humidification operations – Vapor liquid equilibrium and enthalpy of  a pure substance – Definition of humidification terms – Absolute and molal humidity – Dry and wet bulb temperature – Relative humidity – percentage humidity dew point – Humid volume – Humid heat – Enthalpy – Humidity chart – Construction and use – Adiabatic saturation temperature – Lewi’s  relation – Cooling towers – Humidification and dehumidification towers.
+<br><b>[07 Hrs] [25 Marks] </b>
+
+UNIT - III: VAPOR LIQUID EQUILIBRIUM IN DISTILLATION
+Binary and multi  component systems – Vapor liquid equilibrium at constant pressure and constant temperature – Raoult’s law – Maximum and minimum boiling azeotropes – Enthalpy – concentration diagram – Application of Raoult’s law to predict vapor liquid equilibrium and problem in application of Raoult’s law.
+<br><b>[08 Hrs] [20 Marks] </b>
+
+UNIT - IV :  METHODS OF DISTILLATION
+Methods of distillation – Batch distillation – Ray Leigh’s equation – problems in ray Leigh’s- equations – Flash distillation – Binary continuous rectification – Tray towers – Calculation of number of trays – MC Cabe Thiele method-assumptions in MC cabe Thiele method – Graphical procedure to determine the number of theoretical trays – Location of feed plate – q– line and operating lines – Total reflux – Minimum reflux – Optimum reflux – Tray efficiency.
+<br>Molecular distillation – Azeotropic distillation – Extractive distillation – Steam distillation – Principles and applications – Brief discussion about multi component distillation and use of packed towers for distillation – Tray towers construction – Operation and problems during operation.
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT – V : CRYSTALLIZATION
+Principles of crystallization – Solubility – Mechanism of crystallization – Nucleation and crystal growth –crystal forms- crystal habit- Miers supersaturation theory-Rate of crystal growth-caking of crystals- crystal humidity- prevention of caking- Classification of crystallizer- tank crystallizer- Agitated batch crystallizer – Swenson – Walker crystallizer – Vacuum crystallizer –simple vacuum crystallizer- circulating magma crystallizer- Krystal crystallizer-Evaporative crystallizer - Description and operation of the above equipments. 
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT - VI: DRYING
+Principles – Equilibrium – Definition of terms – Wet basis moisture content –Dry basis moisture content – Equilibrium moisture – Bound moisture - Unbound moisture and free moisture – Batch drying – Drying characteristics - Constant rate drying – Falling rate drying - Time of drying – Mechanism of moisture movement within the solid – Diffusion mechanism - Capillary mechanism - Drying equipments – Batch driers – Tray drier – Continuous drier -Rotary drier - – Drum drier – Spray drier – Tunnel drier - Equipments description and applications.
+<br><b>[10 Hrs] [25 Marks] </b>
+
+<b>Text books:</b>
+<br><br>1.	Unit operation of chemical Engg by W.L.Mc cabe J.C.Smith Mc Graw Hill book co.
+<br>2.	Introduction to chemical Engg by W.L.Badger & J.T.Banchero.
+<br>3.	Mass transfer operation by R.E.Treybal.
+<br>4.	Principle of unit operation by A.S.Foust et al.
+<br>5.	Mass transfer operations by Gavhane.
+<br>6.	Mass transfer operations by Kiran D. Patil
+
+<br><br><b>Website:</b>
+
+<br><br>1.	https://www.youtube.com/watch?v=xxNfJLMNS4E
+<br>2.	https://www.youtube.com/watch?v=e9Wfz8l2T4E
+<br>3.	https://www.youtube.com/watch?v=ex_hScKbYhM
+<br>4.	https://www.youtube.com/watch?v=jWiuGRnFVcM
+<br>5.	https://www.youtube.com/watch?v=ObEm84ZacIY
+<br>6.	https://www.youtube.com/watch?v=RSjNRwiR1iU
+<br>7.	https://www.youtube.com/watch?v=OWd4HeV9RUw
+<br>8.	https://www.youtube.com/watch?v=vscX_zawdQw
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>1. Prepare a report on diffusion mass transfer.
+<br>2. Write a report about humidifying and dehumidifying equipments.
+<br>3. Write a report on vapour liquid equilibrium at constant temperature &pressure.
+<br>4. Prepare a study report on construction and working of various distillation towers.
+
+<br><br><b>Note:</b> The activities or similar activities for assessing CIE (IA) for 5 marks (Any one)
+<br>1. Each student should do any one of the following type activity or any other similar activity related to the course and before conduction, get it approved from concerned Teacher and HOD.
+<br>2. Each student should conduct different activity and no repeating should occur

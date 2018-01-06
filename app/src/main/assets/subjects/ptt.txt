@@ -1,0 +1,40 @@
+UNIT I: FUNDAMENTALS OF PRESSES & ITS TYPES
+Introduction to presses, types of presses, Hand operated presses, power operated presses, knuckle press, Power operated double action presses, Power operated triple action presses, Hydraulic presses, double and triple action, Toggle press, coining press, Friction screw press, Punching press, multiple punching presses, Nibbling and notching press, Stretcher press, rubber press, Bending press and press break, Transfer press and automatic press, Forming press, special type press. 
+<br><b>[08 Hrs] [25 Marks] </b>
+
+UNIT II: TYPES OF DIE CONSTRUCTION
+Cut-off die, drop-thru die, return type die, compound die, combination die, continental die, sub-press die, follow die, progressive die, transfer die, shuttle die. 
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT III: DIE DETAILS: FUNCTION & NOMENCLATURE
+Die set, die steels, punch steels, stripper plate keeper, stripper bolt, die spring, bolster plate, backing plate, knockout plate, knockout pin, knockout pin guide, stop block, screw, dowel, key, heel, pressure pin, chute, pilot, gage, insert, cams, hinges, rockers, pad blank holders, die cushions. 
+<br><b>[08 Hrs] [20 Marks] </b>
+
+UNIT IV: TYPES OF PUNCH, DIE SUPPORT & CLEARANCE IN PRESS TOOL
+Type of punch and die support, Any six standard method of fastening punch, Four methods of die fasteners, Clearance in press tool, Importance of clearance in press tool, Effects of excessive and less clearance, Design of cutting dies i.e., Punch clearance and die clearance, Angular clearance, cutting force, Angle of shear, Centre of pressure. 
+<br><b>[10 Hrs] [25 Marks] </b>
+
+UNIT V: DRAWING OPERATION & PRESS TONNAGE COMPUTATION
+Introduction to drawing operation, computing tonnage, Tonnage for shearing operations, Tonnage for drawing operations, Tonnage for bending and forming operations, Determination of blank size, drawing force, percentage of reduction and determine draw ratio. 
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT VI: PRESS SAFETY & AUTOMATION OF PRESSES
+Precaution to be taken on presswork, Method of automating presses, reel, cradle, roll feeds, hitch feed, hopper feed, dial feeds, chutes, slides, magazine feed, step feed, special feeds, gravity ejection, air ejection, mechanical hand, ejection by next part, conveyors.
+<br><b>[06 Hrs] [15 Marks] </b>
+
+<b>Reference Books:</b>
+
+<br><br>1. Techniques of press working of sheet metal - D F Eary and E ARoed 
+<br>2. Metal Forming by Uday. S. Dixit & R. Ganeshnarayan, Mc. Graw Hill Education 
+<br>3. Forging and forming of metals - Rusinoff, - D.B Tarapooresvala sons and G. Pvt Ltd, Bombay. 
+<br>4. Press working of metals - C.V. HinmanMcGraw - Hill Books co inc, New york 
+<br>5. Press tool practice Pt - I to IV - D Hanghton Champion & Hall 
+<br>6. Manufacturing science – M.I. Khan SerajulHaque 
+<br>7. production technology- R.K. Jain
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br><b>Note:</b> The following activities or similar activities for assessing CIE (IA) for 5 marks (Any one)
+
+<br><br>1. Make Visit to nearest work shop ,observe the press equipment and make the report
+<br>2. Observe the sheet metal shop of your polytechnic and study its specifications and list the general safety

@@ -1,0 +1,32 @@
+<b>Experiments:</b>
+
+<br><br>1.	Measurement with VERNIER CALIPER
+<br>2.	Measurement with MICROMETER
+<br>3.	Measurement with HEIGHTGAUGE
+<br>4.	Measurement with DIAL INDICATOR
+<br>5.	Measurement with VERNIER DEPTH GAUGE
+<br>6.	Measurement with COMBINATION SET
+<br>7.	Study and use of SLIP GAUGES
+<br>8.	Measurement of THREAD CHARACTERISTICS
+<br>9.	Measurement of angles using BEVEL PROTRACTOR
+<br>10.	Measurement of angles using SINE BAR
+<br>11.	Study of INSPECTION GAUGES
+<br>12.	Study and use of COMPARATORS
+
+<b>Reference Books:</b>
+<br><br>1.	“Engineering Metrology” by R.K.Jain, Khanna Publishers, 1999
+
+<br><br><b>Student Activity</b>
+
+<br><br>1. 	Ask the students to bring two or three pieces of finished parts and inspect them by using above measuring instruments. 
+<br>2. 	Make the average of above readings and check for accuracy with other students.   
+<br>3. 	Take the students for industrial visit for a nearby industry, select any two finished parts to measure the dimensions  and Compare their accuracy.
+
+<b>Scheme of Valuation for SEE:</b>
+
+<br><br>1.	Writing procedure for One Individual experiment and one Group experiment : 05+05=10
+<br>2.	Conducting of Experiment of One Individual experiment and One Group experiment : 10+10=20
+<br>3.	Tabulation, Calculation & results (Both experiments) : 10+05=15
+<br>4.	Viva : 05
+
+<br><br><b>TOTAL = 50 Marks</b>

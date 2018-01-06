@@ -1,0 +1,94 @@
+UNIT I: DESIGN OF SHAFT
+1.	Introduction
+<br>2.	Materials used for the shaft
+<br>3.	Types of shafts
+<br>4.	Stress in the shaft
+<br>5.	Maximum permissible working stress for transmission power.
+<br>6.	Design of shaft.
+<br>7.	Shaft subjected twisting moment
+<br>8.	Shaft subjected bending moment
+<br>9.	Shaft subjected bending and twisting moment.
+<br>10.	Problems on shaft.
+<br><br><b>[09 Hrs] [30 Marks] </b>
+
+UNIT II: DESIGN OF KEYS AND COUPLING
+1.	Introduction
+<br>2.	Type of keys
+<br>3.	Force acting sunk key.
+<br>4.	Strength of sunk key.
+<br>5.	Problems on sunk key
+<br>6.  Introduction to Coupling
+<br>7.	Requirements of good shaft couplings.
+<br>8.	Types of shaft coupling 
+<br>9.	Problems on Sleeve or muff coupling
+<br>10.	Design of flange coupling(unprotected)
+<br>11.	Problems on unprotected flange coupling.
+<br><br><b>[09 Hrs] [25 Marks] </b>
+
+UNIT III: BASIC KINEMATICS
+1.	Definition-Kinematic 
+<br>2.	Link or element
+<br>3.	Types of links-Kinematic pair–Types
+<br>4.	Types of constrained Motions. 
+<br>5.	Definition of kinematic chain.
+<br>6.	Definition  of Machine, Structure and Mechanism
+<br>7.	Difference between Machine and Structure and Mechanism
+<br>8.	Inversions
+<br>9.	Types of Kinematic Chains
+<br>9.1 Four Bar Chain
+<br>9.1.1 Beam Engine
+<br>9.1.2 Coupling Rod of Locomotive 
+<br>10.	Single Slider Crank Chain-Pendulum Pump
+<br>11.	Double Slider Crank Chain-Elliptical trammel-Scotch yoke mechanism
+<br><br><b>[08 Hrs] [20 Marks] </b>
+
+UNIT IV: TRANSMISSION OF POWER
+1.	Belt Drives
+<br>1.1. Velocity Ratio
+<br>1.2. Slip and creep of belt
+<br>1.3. Length of belt open and close belt drive (without proof)
+<br>1.4. Power transmitted by belts
+<br>1.5. Ratio of driving Tensions flat belt drive. 
+<br>1.5. Determination angle of contact of open and close belt drive (without proof)
+<br>1.6. Centrifugal Tension 
+<br>1.7. Maximum tension in the belt
+<br>2.	Maximum power transmitted by belt (without proof)
+<br>3.	Problems on belt drives.
+<br><br><b>[08 Hrs] [25 Marks] </b>
+
+UNIT V:  BALANCING
+1.	Introduction
+<br>2.	Static and Dynamic balancing-
+<br>3.	Balancing of single rotating mass by a single mass rotating in the same plane
+<br>4.	Balancing of several masses rotating in the same plane-
+<br>5.	Problems on above (Analytical and Graphical methods).
+<br><br><b>[09 Hrs] [20 Marks] </b>
+
+UNIT VI:  CAM MECHANISAMS
+1.	Cams
+<br>2.	Introduction
+<br>3.	Classification of followers and cams
+<br>4.	Terms used in radial cam.
+<br>5.	Displacement diagram for the following Motion of follower
+<br>5.1. Uniform velocity 
+<br>5.2. Simple Harmonic Motion (SHM)
+<br>5.3. Uniform Acceleration and Retardation Motion (UARM)
+<br>6.	Cam profile construction for Knife edge follower and Roller follower(When the axis of the follower passer through axis of the cam and when axis of the follower is offset)
+<br><br><b>[09 Hrs] [25 Marks] </b>
+
+<b>Reference Books:</b>
+
+<br><br>1.  Rattan.S.S, Theory of Machines, Tata McGraw -Hill Publishers, New Delhi.
+<br>2.  Khurmi R S, Guptha J.K ,Theory of machines, S.Chand and  company ,Delhi 
+<br>3.  Thomas Bevan, Theory of Machines, CBS Publishers and Distributors.
+<br>4.  Ramamurti,V, Mechanism and Machine Theory, Narosa Publishing House.
+<br>5.  Machine Design ,R S Khurmi,J K Gupta,S Chand and company,Delhi
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>1. Prepare a chart to show different types of couplings or Assignments
+<br>2. Prepare a chart to show the inversion of mechanism or assignment
+<br>3. Prepare a chart to show nomenclature of CAM profile or Assignments
+<br><br><b>Note:</b> The activities or similar activities for assessing CIE (IA) for 5 marks (Any one)
+<br>1. Each student should do any one of the following type activity or any other similar activity related to the course and before conduction, get it approved from concerned Teacher and HOD.
+<br>2. Each student should conduct different activity and no repeating should occur

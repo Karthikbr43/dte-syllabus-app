@@ -1,0 +1,60 @@
+UNIT I: MECHATRONICS, SENSORS AND TRANSDUCERS     
+Introduction to Mechatronics Systems - Measurement Systems - Control Systems -Sensors and Transducers - Performance Terminology - Sensors for-Displacement, Velocity, Force, Fluid Pressure, Liquid Flow, Liquid Level, Temperature, Light Sensors, Selection of Sensors-Signal conditioning-Operational amplifiers-Types-summing-differential-integrating, -logarithmic, Protection, filtering.
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT II: DIGITAL LOGIC AND DATA PRESENTATION
+Digital signals-Introduction,-Analog and digital signals- Digital to analog conversion.-Logic Gates-,AND-OR-NOT-NAND-NOR-XOR,Applications-Coder-Encoder-Decoder with seven segment display -LCD-(Traffic Light)-Sequential logic-,Flip Flops,-SR,JK,DFlip flops,-Registers- Data presentation system,-Display-Data presentation elements-Types-Printers,Types.Magnetic recording , Magnetic disc, Data acquisition system, Selection criteria.
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT III: ACTUATION SYSTEMS
+Electrical Actuation Systems - Mechanical Switches - Solid State Switches-Types –Diode-Power MOSFETs - Solenoids - D.C Motors-Basic working principle-Types- A.C Motors- Basic working principle-Types - Stepper Motors- Basic working principle-Explain Types -Control of Bipolar Stepper Motor switching sequence for full stepping. -Stepper motor specifications
+<br>Mechanical Actuation Systems - Cams - Gear Trains - Ratchet and Pawl - Belt and Chain Drives - Bearings.
+<br>Pneumatic and Hydraulic Systems –Hydraulic and pneumatic power supply system’s- Directional Control Valves - Rotary Actuators. 
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT IV: SYSTEM MODELS AND CONTROLLERS
+Building blocks of Mechanical, Electrical, Fluid and Thermal Systems,-Rotational - Translational Systems,-Electromechanical Systems - Hydraulic - Mechanical Systems-Continuous and discrete process Controllers - Control Mode - Digital Controllers - Velocity Control - Adaptive Control.
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT V: PROGRAMMING LOGIC CONTROLLERS
+Programmable Logic Controllers - Basic Structure - Input / Output Processing - Programming - Mnemonics - Timers, Internal relays and counters - Shift Registers - Master and Jump Controls - Data Handling - Analogs Input / Output – Selection of PLC
+<br><b>[07 Hrs] [15 Marks] </b>
+
+UNIT VI: COMMUNICATION & DESIGN OF MECHATRONICS SYSTEM
+Digital Communication Systems-Centralized, Hierarchical and Distributed Control-Networks-Protocols-Open Systems Interconnection communication model-Communication Interfaces-Possible Design Solutions Case Studies of Mechatronics Systems,-Car Park barrier Systems - Engine Management Systems- Hard disc drive.
+<br><b>[05 Hrs] [10 Marks] </b>
+
+<b>Text books:</b>
+
+<br><br>1.	Mechatronics”	W.Bolton	Pearson education
+<br>2.	Mechatronics-Principles, Concepts and Applications	Nitaigour Premch and Mahalik	Tata McGraw-Hill Pub. Co. Ltd., New Delhi, 2006
+<br>3.	Mechatronics, HMT, Tata McGraw Hill Publishers, New Delhi 
+<br>4.	Programmable logic controllers	W.Bolton	Pearson education
+<br>5.	Digital electronics, Flyod
+<br>6.	Exploring PLC with applications, Pradeep Kumar Srivatsava
+
+<br><br><b>e-books:</b>
+
+<br><br>1. http://www.vlab.com  
+<br>2. http://www.mtabindia.com  
+<br>3. http://www.nptel.ac.in 
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>1. Each group of students Build and operate simple circuit using application of sensor and submit an hand written report
+<br><br>2. Conduct study on real time applications of different type of Sensors-each one from force & torque type, velocity and acceleration type, proximity type, position type and vision type. And submit a hand report on study
+<br><br>3. Each student will give an activity to Prepare simple circuit diagram for given conditions using logic gates.
+<br><br>4. Development of ladder diagram, programming using PLC for 
+<br>a) measurement of speed of a motor 
+<br>b) motor start and stop by using two different sensors 
+<br>c) simulation of a pedestrian traffic controller 
+<br>d) simulation of four road junction traffic controller 
+<br>e) lift / elevator control 
+<br>f) washing machine control 
+<br>g) tank level control 
+<br>h) soft drink vending machine control
+<br><br>5. Take case study on applications of mechatronics systems in nearby industry; submit report on same
+
+<br><br><b>Note:</b> The activities or similar activities for assessing CIE (IA) for 5 marks (Any one)
+<br>1. Each student should do any one of the following type activity or any other similar activity related to the course and before conduction, get it approved from concerned Teacher and HOD.
+<br>2. Each student should conduct different activity and no repeating should occur

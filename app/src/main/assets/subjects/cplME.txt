@@ -1,0 +1,34 @@
+<b>Experiments:</b>
+
+<br><br>1.	Introduction to C programming (Lecture and demo).And Write C programme to convert the temperature in degree Celsius to degree Fahrenheit.
+<br><br>2.	To find the sum and average of 3 real numbers.
+<br><br>3.	To find the sum of even and odd numbers from 1 to N.
+<br><br>4.	To find the sum of digits of a number.
+<br><br>5.	To reverse the given integer and check whether it is a palindrome or not
+<br><br>6.	To find the roots of a quadratic equation using switch statement.
+<br><br>7.	To arrange N numbers in ascending order  using Bubble sort technique
+<br><br>8.	To perform addition of two matrices.
+<br><br>9.	To perform a multiplication of two matrices after checking the compatibility for multiplication.
+<br><br>10.	To find the largest of 3 numbers using functions (functions with arguments and return value)
+<br><br>11.	To find the distance travelled by a vehicle, given it’s initial velocity ‘u’, acceleration ‘a’ and time ‘t’ [ S = ut + 1/2at<sup>2</sup>]
+<br><br>12.	To find out Clearance volume of an Engine, given its bore diameter, Length of stroke and Compression ratio
+<br><br>13.	To find the power transmitted by shaft by inputting the value speed and torque transmitted
+
+<b>Reference Books:</b>
+<br><br>Concepts in C- Balaguruswamy
+
+<br><br><b>Student Activity</b>
+
+<br><br><b>Note:</b> the following activities or similar activities for assessing CIE (IA) for 5 marks (Any one)
+
+<br><br>1. 	Ask the students to take the simple problems in  Hydraulics , develop a C Programme
+<br>2. 	Ask the students to take the simple problems in  Strength of Materials , develop a C Programme
+<br>3. 	Ask the students to take the simple problems in  Thermal engineering, develop a C Programme
+
+<b>Scheme of Valuation for SEE:</b>
+
+<br><br>1.	Writing Programme :	20
+<br>2.	Execution :	20
+<br>3.	Viva : 10
+
+<br><br><b>TOTAL = 50 Marks</b>

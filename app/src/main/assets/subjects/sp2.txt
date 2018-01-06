@@ -1,0 +1,82 @@
+<b>Experiments:</b>
+
+<br><br><b>I: Theodolite</b>
+<br>1.	Study of parts of a Transit Theodolite and its temporary adjustments
+<br>2.	Measurement of horizontal angle by Repetition method
+<br>3.	Measurement of horizontal angle by Reiteration method
+<br>4.	Measurement of vertical angle
+<br>5.	Open traversing using theodolite and plotting
+<br>6.	Conducting a Closed traverse of a given area and balancing it by Bowditch rule and Transit rule
+
+<br><br><b>II: Trigonometric Levelling</b>
+<br>7.	Determination of height of an object whose base is accessible
+<br>8.	Determination of height of an object whose base is inaccessible (single plane method instrument axes at different levels only-two cases)
+
+<br><br><b>III: Tachometric Surveying</b>
+<br>9.	Determination of Stadia constants
+<br>10.	Determine horizontal distance by Horizontal sight
+<br>11. Determine Horizontal distance and elevation for inclined sight with staff held vertical by Stadia hair method
+
+<br><br><b>IV: Curves</b>
+<br>12.	Setting out simple curve by Offsets from Long chord method
+<br>13.	Setting out simple curve by Rankines method using Theodolite and Total station
+<br>14.	Setting out Compound curves given two Radii by Deflection angle method
+
+<br><br><b>V: Total Station</b>
+<br>15.	Total station-general commands used- instrument preparation and setting-reading distances and angles
+<br>16.	Measurement of distances and coordinates of given points, using EDM and Total station
+<br>17.	Measurement of altitudes of given elevated points, using total station
+<br>18.	Run a closed traverse using Total station and plotting the traverse
+<br>19. Determination of areas of field (enclosed three or more points) by total station
+
+<br><br><b>VI: Global Positioning System</b>
+<br>20. Study of hand held GPS
+<br>21.	Measurement of latitude, longitude and altitude using hand held GPS
+<br>22. Selection and marking of routes using hand held GPS                                                 
+
+<b>Reference Books:</b>
+
+<br><br>1.	Surveying and Levelling  Vol- I and II  by  B C Punmia
+<br>2.	Fundamentals of Surveying by S K Roy
+<br>3.	Surveying and Levelling  by T P  Kanetkar and S V Kulkarni
+<br>4.	Surveying and Levelling   by S S Bhavikatti vol 1 and 2
+<br>5.	Surveying by Duggal
+<br>6.	Surveying by R Agor
+<br>7.	Surveying and Levelling  by N N Basak
+<br>8.	Advanced Surveying by R Agor
+<br>9.  http://nptel.ac.in/video.php?subjectId=105104101
+<br>10. http://media.sakshat.ac.in/NPTEL-IIT-Videos/
+<br>11. http://nptel.iitk.ac.in/courses/Civil_Eng/IIT%20Roorkee/Surveying.htm
+<br>12. http://nptel.iitk.ac.in/
+<br>13. http://www.slideshare.net/Ehabtariq/surveying-by-using-digital-theodolite
+<br>14. http://www.tcd.ie/civileng/Staff/Brian.Caulfield/3A1/3A1%20Lecture%206.pdf
+<br>15. http://madinpoly.com/pdf/labmanual/1/surveying%20practical-ii%28317%29.pdf
+
+<br><br><b>Student Activity</b>
+
+<br><br>1.	Road survey (at least for 100m) by total station.
+<br>2.	Conduct a traverse survey of a given plot and find out the area.
+<br>3.	Prepare the contour maps of the given area in your locality.
+<br>4.	Set out a center line of a given building using theodolite.
+<br>5.	Find out the parameters of a curve for an existing road in your locality.
+<br>6.	Locate a permanent structure using GPS in your locality and prepare a map.
+<br>7.	Prepare a topographical map by using total station.
+<br>8.	Detailed study report on telescope used in surveying instrument.
+<br>9.	To set out two parallel lines along both the sides of an obstacle by using total station.
+<br>10.	To find the distance between two inaccessible points by using total station.
+<br>11.	Make a presentation on refraction error, curvature error caused by telescope.
+<br>12.	Prepare a report on any one of the following.  Arial survey, photogrammetric survey, hydrographic survey, military survey and mine survey.
+
+<br><br><b>NOTE:</b>
+<br><br>1. Students should select any one of the above or other topics relevant to the subject approved by the concerned faculty, individually or in a group of 3 to 5. Students should mandatorily submit a written report and make a presentation on the topic.  The task should not be repeated among students. Report will be evaluated by the faculty as per rubrics. Weightage for 5 marks Internal Assessment shall be as follows: 
+<br>Unsatisfactory 1, Developing 2, Satisfactory 3,  Good   4,  Exemplary 5 
+<br><br>2. Reports should be made available along with bluebooks to IA verification officer
+
+<b>Scheme of Valuation for SEE:</b>
+
+<br><br>1.	Writing procedure : 05
+<br>2.	Conducting and Performance : 20
+<br>3.	Calculation and results	: 15
+<br>4.	Viva-voce : 10
+
+<br><br><b>TOTAL = 50 Marks</b>

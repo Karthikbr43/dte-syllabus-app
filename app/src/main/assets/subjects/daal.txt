@@ -1,0 +1,36 @@
+<b>Experiments:</b>
+
+<br><br>1.	Sort a given set of elements using quick sort methods and determine the time required to sort the elements. Repeat the experiment for different of values of n, the number of elements in the list to be sorted and plot a graph of the time taken versus n.
+<br>2.	Sort a given set of elements using merge sort methods and determine the time required to sort the elements. Repeat the experiment for different of values of n, the number of elements in the list to be sorted and plot a graph of the time taken versus n.
+<br>3.	Obtain the topological ordering of vertices in a given digraph.
+<br>4.	Implement the knapsack problem(0/1).
+<br>5.	From a given vertex in a weighted connected graph, find shortest paths to other vertices using dijkstra’s algorithm.
+<br>6.	Find minimum cost spanning tree of a given undirected path using kruskal’s algorithm.
+<br>7.	Find minimum cost spanning tree of a given undirected path using a prim’s algorithm.
+<br>8.	Check whether a given graph is connected or not using DFS method.
+<br>9.	Print all the nodes reachable from a given starting node in a digraph using BFS method.
+<br>10.	Implement N queen’s problem using backtracking.
+<br>11.	Implement travelling salesman problem.
+<br>12.	Find  a subset of a given set S={S1,S2,.....Sn} of ‘n’ positive integers.
+
+<br><br><b>Note:</b> Use any programming tools like C/Java/Python to execute the above exercises.
+
+<b>Reference Books:</b>
+
+<br><br>1.	Introduction to the Design and Analysis of Algorithms ,2nd edition,  Anany Levitin, Pearson Publication, ISBN: 9788131758953   
+
+<br><br><b>Suggested list of student activities:</b>
+
+<br>1.	Using Python Build and execute any one of the unsolved exercise given at the end of each chapter of the reference text.
+
+<br><br><b>Note:</b> The activities or similar activities for assessing CIE (IA) for 5 marks (Any one)
+<br>1.	Each student should conduct different activity and no repeating should occur.
+
+<b>Scheme of Valuation for SEE:</b>
+
+<br><br>1.	Record : 05
+<br>2.	Writing two programs : 20
+<br>3.	Execution of any one program : 15
+<br>4.	Viva Voice : 10
+
+<br><br><b>TOTAL = 50 Marks</b>

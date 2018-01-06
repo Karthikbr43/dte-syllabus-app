@@ -1,0 +1,65 @@
+UNIT - I:  BASICS OF PHYSICAL CHEMISTRY
+1.	Laws of chemical combinations- law of conservation of mass-law of definite proportion by mass-law of multiple proportions by mass-law of reciprocal proportion by mass and their illustrations.
+<br>2.	Gas laws: - Boyle`s law-Charles’s law-Gay Lussa’s law-Graham`s law of diffusion-Dalton`s law of partial pressure-Avogadro`s law. Ideal gases and real gases.
+<br>3.	Kinetic theory of gases, deviation of ideal behaviour from real gases and Vander Waal’s equation.
+<br>4.	Equivalent weight of elements and their determination by Hydrogen displacement method- Oxide method-Chloride method.
+<br>5.	Molecular weights of compounds and their determination by carbon dioxide collection method - aspirator method- Victor Meyer method.
+<br>6.	Percentage composition-Empirical formula-Molecular formula of compounds. Relationship between Vapour density and molecular weight of compounds.
+<br><br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT - II: THERMOCHEMISTRY AND CATALYSIS
+1.	Thermo chemistry-enthalpy-enthalpy change-standard enthalpy change-endothermic-exothermic reactions-thermo chemical equations-enthalpy of reaction-formation-solution-combustion-neutralisation-phasechange-laws of thermo chemistry- Laplace-Lavoisier law-Hess’s law of constant heat summation.
+<br>2.	Catalyst and catalysis-general characteristics-positive catalyst-inhibitors- promoters-catalytic poisons-types of catalysis-homogeneous-heterogeneous-induced-auto catalysis-theories of catalysis-intermediate compound-adsorption theories-active centres-enzyme catalysis-applications.
+<br><br><b>[08 Hrs] [25 Marks] </b>
+
+UNIT - III: COLLOIDAL CHEMISTRY 
+1.	Colloids-crystalloids-sols-size range- dispersion phase-dispersion medium-colloidal systems. 
+<br>2.	Types-lyophylic-lyophobic-hydrophylic-hydrophobic sols.
+<br>3.	Preparation-physical methods-dispersion-agglomeration-ball mill method- Bredig’s arc method-peptisation –chemical method-solvent exchange-hydrolysis-double decomposition method.
+<br>4.	Purification of colloids:-Dialysis and electro Dialysis.
+<br>5.	Properties-electrical properties-cataphoresis-optical properties-Tyndal effect- colligative properties-Brownian movement.
+<br>6.	Protective colloids- gold number.
+<br>7.	Applications of colloids in everyday life.
+<br><br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT - IV: CHEMICAL EQULIBRIUM 
+1.	Velocity of chemical reaction- factors influencing velocity-law of mass action- homogeneous-heterogeneous reactions-reversible-irreversible reactions-velocity constant.
+<br>2.	Chemical equilibrium-dynamic equilibrium-equilibrium constant-expression of equilibrium constant Kc and Kp- relationship between them.
+<br>3.	Application of law of mass action for the synthesis of-NH3-SO3-NO-Lechatellier’s principle.
+<br>4.	Gibb’s free energy-free energy change- standard free change-entropy-entropy change-spontaneity of reactions- conditions required for spontaneity.
+<br><br><b>[08 Hrs] [20 Marks] </b>
+
+UNIT - V: CHEMICAL KINETICS
+1.	Rate of reaction-factors influencing-molecularity- unimolecular-bimolecular-termolecular-pseudo molecular reactions.
+<br>2.	Order of reaction-zero order-first order-second order-fractional order reactions-first order rate equation.
+<br>3.	Half life period-temperature coefficient-Arrhenius theory-simple collision theory-energy of activation-threshold energy-energy profile diagram.
+<br><br><b>[08 Hrs] [20 Marks] </b>
+
+UNIT - VI: ELECTRO CHEMISTRY
+1.	Electronic conductors-ionic conductors-electrolytes-non electrolytes-strong electrolytes-weak electrolytes-electrolysis-Arrhenius theory of electrolytic dissociation-degree of ionisation.
+<br>2.	Hydrogen ion concentration- pH and pH scale- applications.
+<br>3.	Acids and bases-Arrhenius-Lowry  Brownsted - G.N.Lewis-theories-properties.
+<br>4.	Buffers-buffer action-hydrolysis of salts-electrode potential-electrochemical series.
+<br><br><b>[08 Hrs] [20 Marks] </b>
+
+<b>Text books:</b>
+
+<br><br>1.	Text Book Of Chemistry For PUC (Commissonarate Of PU Board)
+<br>2.	Basic Physical Chemistry - Wolfgang Scharti
+<br>3.	Introductory Physical Chemistry - David Roni
+<br>4.	Physical chemistry in brief – J.P.Novakand others
+
+<br><br><b>References:</b>
+
+<br><br>1.	Essentials of Physical Chemistry By ArunBahl, B.S.Bahl, G.D.Tuli (S.CHAND)
+<br>2.	Physical Chemistry By R.L. Madan and G.D. Tuli (S.CHAND)
+<br>3.	Physical Chemistry By G.K. Vemulapalli (PHI)
+
+<br><br><b>E –Learning</b>
+
+<br><br>1. https://www.rsc.org/Education/Teachers/resources/Inspirational/…/4.3.1.pdf
+<br>2. https://www.freebookcentre.net/chemistry/ introductory-chemistry-books.html
+<br>3. https://www.coursera.org/course/physicalchemistry
+<br>4. http://www.annualreviews.org/journal/physchem
+<br>5. http://chemed.chem.purdue.edu/genchem/topicreview/bp/ch22/rateframe.html
+<br>6. http://www.grc.nasa.gov/WWW/CEAWeb/

@@ -1,0 +1,61 @@
+Unit – I
+
+<b>Introduction to Computer Hardware and Software</b>
+
+<br><br>1.	Identify and understand the models of Computers, Identify and understand front panel switches and back panel connections of a Computer system, Identify and understand the physical components of a Computer.
+<br>2.	Conduct computer system connection and understand the booting process.
+<br>3.	Study and Practice of Basic DOS Commands.
+<br>4.	Familiarization of GUI based Operating System environment.
+<br>5.	Practice creating Icons and Folders,  Creating/Opening of file, Editing and saving the document, Copy, Cut and Paste operations, in-built utilities of OS like –  Text editors, paint, calculator, etc.
+<br>6.	Practice browsing of different sites using search engine.
+<br>7.	Practice Creating E-Mail accounts, Sending, Receiving of E-Mails.
+
+Unit – II
+
+<b>Word Processing</b>
+
+<br><br>1.	Create a Business Letter and Personal Letter.
+<br>2.	Create a Company Letterhead.
+<br>3.	Create a Simple Newsletter with minimum three columns. Insert a Clip art in the newsletter.
+<br>4.	Create a Resume for a Job Application.
+<br>5.	Create the cover page of a Project Report (use Word Art, insert Picture Image).
+<br>6.	Prepare the class time table for your class.
+
+<br><br><b>Spreadsheet</b>
+
+<br><br>1.	Create a worksheet with five columns. Enter ten records and find the sum of all columns using auto sum feature.  
+<br>2.	You have a monthly income of Rs.11000. Your monthly expenditures are Rent- Rs 3500, Food- Rs. 1500, Electricity- Rs.110, Phone- Rs. 160, and Cable TV-Rs. 300. Prepare  a worksheet with the Monthly Income, the Monthly Expenditures listed and summed, monthly savings amount (what’s left over each month) calculated, and the amount saved per day (assuming 30 days in a month).
+<br>3.	Create a worksheet containing the pay details(containing Basic pay, DA, HRA ,Other Allowance , Deductions- PF,PT, Insurance, Gross and Net salary) of the employees using formulas.
+<br>4.	Create a Simple Bar Chart to highlight the sales of a company for three different periods.
+<br>5.	Create a Pie Chart for a sample data and give legends.
+
+<br><br><b>Presentation</b>
+
+<br><br>1.	Using presentation tool, Create a simple Presentation consisting of 4-5 slides about Input and Output Devices.
+<br>2.	Create a presentation about a book containing Title, Author, Publisher and Contents.
+<br>3.	Create an automated (with timings & animation) Presentation with five slides about different Models of Computers. Use Presentation tool.
+
+<b>Reference Books:</b>
+
+<br><br>1.	Computer Fundamentals Concepts, Systems, Application, D.P.Nagapal, S.Chand Publication, RP-2014, ISBN: 81-219-2388-3
+<br>2.	http://www.tutorialsforopenoffice.org/
+<br>3.	http://www.libreoffice.org/get-help/documentation/
+<br>4.	http://www.kingsoftstore.com/
+
+<br><br><b>Mini-project [CIE- 05 Marks]</b>
+
+<br><br>Prepare a mini project using the above concepts of unit-I and/or unit-II.
+<br>•	Repair and Overhauling of PC of laboratory
+<br>•	Formatting of PC
+<br>•	Servicing of UPS
+<br>•	Prepare a report using the learned skills on unit 1 to unit II
+
+<b>Scheme of Valuation for SEE:</b>
+
+<br><br>1.	Testing  skills/ abilities from unit - I :	10
+<br>2.	Writing steps on any one from unit - II : 10
+<br>3.	Execution with result :	15
+<br>4.	Presentation of result : 05
+<br>5.	Viva voce :	10
+
+<br><br><b>TOTAL = 50 Marks</b>

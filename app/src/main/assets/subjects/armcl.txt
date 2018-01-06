@@ -1,0 +1,68 @@
+<b>Experiments:</b>
+
+<br><br><b>SECTION - A</b>
+<br><b>Note: </b>
+<br>a)This part to be done with a simulator by using an Integrated Development Environment (IDE).
+<br>b) These programs to be executed/simulated using assembly language.
+<br><br>1. (i)	Familiarization of IDEand ARM development board usage
+<br>(ii)	Familiarization of program execution.
+<br>2. Program to compute 6X2 -9X+2 for a given X.
+<br>3. Program to find the square of a number (1 to 10) using look up table.
+<br>4. Program to find the sum of an array of 16-bit numbers; store the 32-bit result in internal RAM.
+<br>5. Program to find the length of a null terminated string.
+<br>6. Program to sort an array of 32-bit numbers.
+<br>7. Program to search and store all the negative numbers in an array of 32-bit numbers.
+<br>8. Program to count the number of ones and zeros in a 32-bit integer.
+
+<br><br><b>SECTION - B </b>
+<br>This part should be executed with the use of ARM7 LPC2148 kit. These programs should be written and executed using embedded ‘C’ Programming language.
+
+<br><br>1.	Program to interface relay card
+<br>2.	Program to generate a 50% duty cycle, 1 KHz wave and to use it for exciting a buzzer.
+<br>3.	Program to blink a group of 8 LEDs with a delay.
+<br>4.	Switching interface
+<br>5.	Interface 4-digit seven-segment display to display any four letter word.
+<br>6.	Interface stepper motor and control its speed and direction.
+<br>7.	Interface DC motor and control its speed using PWM.
+<br>8.	Interface 2-line LCD module to output a moving message on it.
+<br>9.	PWM module program for LPC2148, to demonstrate single edge PWM generation.
+<br>10.	Write a program to generate triangular or sine wave using DAC.
+<br>11.	Read analog voltage and display its digital equivalent on array of LED.
+
+<b>Reference Books:</b>
+<br><br>1.	LPC 2148 User Manual 
+<br>2.	http://www.ocfreaks.com
+
+<br><br><b>Student Activities [CIE- 05 Marks]:</b>
+
+<br><br>1.	Room temperature measurement, illumination control, pressure measurement, or any other activity related to sensor.
+<br><br>2.	Any other related activity which develop skills of the students. 	
+<br><br>3.	Some of the programs are listed below which is just a guideline for selecting the programs. Students can also select any other program with the advice of his teacher. 
+<br>List of sample Programs: 
+<br>a.	Program for 8 bit key inputs interface
+<br>b.	Using external interrupt, Interface switch and for every depression, count value is incremented and displayed on LED
+<br>c.	Program for 4X4 matrix key board interface
+<br>d.	Program for transferring any massage/text from kit to PC Using serial port.	03
+
+<br><br><b>Execution Mode</b>
+<br>1.	Every student should perform Project activity independently as assigned by the teacher based on interest of the student. Student can also choose any other similar activity with a prior approval from the concerned teacher.
+<br>2.	Project activities shall be carried out throughout the semester and present the project report at the end of the semester. 
+<br>3.	Report-size shall be qualitative and not to exceed 6 pages; 
+<br>4.	Each of the activity can be carried out off-class; however, demonstration/presentation should be done during laboratory sessions. 
+<br>5.	Assessment shall be made based on quality of activity, presentation/demonstration and report.
+<br>6.	Assessment is made based on quality of work as prescribed by the following rubrics table.
+
+<br><br><b>Institutional Activity (No marks):</b>
+<br>The following are suggested institutional activities, to be carried out at least one during the semester. The course teacher/coordinator is expected to maintain the relevant record (Containing, Activity name, Resource persons and their details, duration, venue, student feedback, etc) pertaining to Institutional activities
+
+<br><br>1.	Organize hands-on practice on design and simulation of H/W interfacing
+<br>2.	Motivate the student to take case study on different applications on LPC2148.
+
+<b>Scheme of Valuation for SEE:</b>
+
+<br><br>1.	Writing and execution/simulation of any one open-ended ALP : 05
+<br>2.	Writing any one C program from graded exercises	: 15
+<br>3.	Flash programming and result : 25
+<br>4.	Viva-voce : 05
+
+<br><br><b>TOTAL = 50 Marks</b>

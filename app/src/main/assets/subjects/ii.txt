@@ -1,0 +1,78 @@
+UNIT I: FUNDAMENTALS OF INSTRUMENTATION AND THE GENERALISED MEASUREMENT SYSTEMS
+Introduction, Measurement, Significance of Measurement ,Mechanical Measurement, Methods of measurement, Primary, Secondary and Tertiary measurement, Instruments and measurement systems, Mechanical, Electrical and Electronics Instruments, Classification of instruments, Functions of instruments and measurement system, Applications of measurement system, Generalised measurement system. 
+<br><b>[06 Hrs] [15 Marks] </b>
+
+UNIT II: TEMPERATURE MEASUREMENT
+Introduction, classification of temperature Measuring Devices, Liquid in Glass thermometer, Pressure gauge thermometer, Liquid filled systems, Liquid vapour filled system, Bi-metallic Thermometers, Electrical method of measurement of temperature, Resistance Thermometer, Thermistors, Thermocouples, Radiation  pyrometers, Total Radiation pyrometer, Infra Red pyrometers, Optical pyrometers, Pyrometric cones, Crayons, Paints and pallets, Errors and precautions in temperature measurement.
+<br><b>[12 Hrs] [30 Marks] </b>
+
+UNIT III: PRESSURE MEASUREMENT
+Introduction, Types of pressure measurement devices, Manometers, Types of Manometers, Elastic pressure elements, Bourdon tube, Bellows, Diaphragms, Electro-Mechanical pressure Transducers, Measurement of high pressure, Low pressure(Vaccum)measurement,McLeod gauge, Thermal conductivity gauge, Pirani gauge, Ionization gauge, Calibration of pressure measuring equipments-Dead Weight Tester,Ranges and application of pressure measuring devices.  
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT IV: FLOW MEASUREMENT AND LIQUID LEVEL MEASUREMENT
+Introduction, Flow characteristics, Flow measuring technique, Flow measurement methods, Variable head flow meters, Rotameters, Hot wire Anemometers, Nutating disc meter, Turbine flow meter. Rotary Vane meter, Lobed Impeller flow meter. Classification of liquid level measurements, Sight glasses, Float gauge, Measurement of liquid level with gamma rays, Gas purge system, Capacitive liquid level sensor.
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT V: HUMIDITY,MOISTURE AND CHEMICAL COMPOSITION MEASUREMENT
+Introduction, Measurement of Humidity, Methods of measurement of Relative Humidity, Absorption hygrometer, Recording type psychrometer, Sling psychrometer. Measuring moisture contents, Moisture probe, Measurement of pH value-methods.   
+<br><b>[08 Hrs] [25 Marks] </b>
+
+UNIT VI: DENSITY AND SPECIFIC GRAVITY MEASUREMENT
+Introduction, Different methods of measurement of Density and Specific Gravity, Hydrometer, Density measurement using LVDT, Density measurement using Gamma Rays, Force balance method, Differential pressure method, Specific Gravity measuring by Pycnometer Method, Specific Gravity measuring by Hydrometer Method, Specific Gravity measuring by Balance Method.
+<br><b>[06 Hrs] [15 Marks] </b>
+
+<b>Text books:</b>
+<br><br>1.	Mechanical Measurements And Instrumentation - A. K. Sawhney and Puneeth Sawhney  - DhanpatRaiand Sons, New Delhi. 
+<br>2.	“Mechanical Measurement and Control” by Dr.D.S.Kumar –Metropolitan Book Company Pvt. Ltd., New Delhi.
+
+<br><br><b>Reference Books:</b>
+<br><br>1.	Mechanical Engineering Measurement - Thomas Beckwith, N.Lewis Buck, Roy Marangoni - Narosa Publishing House, Bombay
+<br>2.	Mechanical and industrial measurement – R.K.Jain -khanna publisher
+<br>3.	Principle of Industrial  instrumentation -  D.Patranabis.Tata Mc graw hill
+
+<br><br><b>E –Learning</b>
+
+<br><br>1. https://en.wikipedia.org/wiki/Accuracy_and_precision
+<br>2. www.instrumentationtoday.com/transducers/2011/0
+<br>	https://www.americanpiezo.com/piezo-theory/whats-a-transducer.html
+<br>3. www.slideshare.net/manash234/classification-of-transducers
+<br>4. https://en.wikipedia.org/wiki/Capacitive_displacement_sensor
+<br>5. http://www.instrumentationtoday.com/piezoelectric-transducer/2011/07/
+<br>6. http://www.technologystudent.com/elec1/ldr1.htm
+<br>7. http://www.aptechnologies.co.uk/support/photodiodes/photodiode-theory-of-operation
+<br>8. http://sine.ni.com/np/app/main/p/ap/daq/lang/en/pg/1/sn/n17:daq,n21:11/fmid/2998/
+<br>9. https://www.amplicon.com/info/faq-answer.cfm?id=584
+<br>11. http://nptel.iitk.ac.in/courses/Webcourse-contents/IIT-MADRAS/Mech_Meas_Metr/Module5.pdf
+<br>12.	http://www.ni.com/white-paper/5362/en/
+<br>13.	http://pioneer.netserv.chula.ac.th/~tarporn/487/HandOut/EtransducerI.pdf
+<br>14.	http://newton.ex.ac.uk/teaching/CDHW/Sensors/
+<br>15.	http://www.engineersgarage.com/articles/load-cell#
+<br>	http://instrumentationandcontrollers.blogspot.in/2010/11/load-cell-and-load-cell-types.html
+<br>16.	https://www.youtube.com/watch?v=e__e8ImRsAk
+<br>17.	http://www.sensorland.com/HowPage002.html
+<br>18.	http://www.instrumentationtoday.com/magnetostrictive-transducer/2011/08/
+<br>19.	http://www.instrumentationtoday.com/diaphragm-pressure-transducer/2011/09/
+<br>20.	http://www.instrumentationtoday.com/electrical-pressure-transducers/2011/09/
+<br>21.	http://www.instrumentationtoday.com/bellows/2011/09/
+<br>22.	http://www.processparameters.co.uk/platinum-resistance-thermometer/  
+<br>	http://www.electrical4u.com/resistance-temperature-detector-or-rtd-construction-and-working-principle/
+<br>23.	http://www.brighthubengineering.com/manufacturing-technology/53682-what-is-a-thermocouple-how-thermocouple-works/
+<br>24.	http://www.teamwavelength.com/info/thermistors.php
+<br>25.	http://2gainknowledge.blogspot.in/2011/12/optical-pyrometer.html
+<br>26.	http://instrumentationandcontrollers.blogspot.in/2010/06/total-radiation-pyrometer.html
+<br>27.	https://www.youtube.com/watch?v=nW421UQa7as
+<br>28.	http://www.nptel.ac.in/courses/112104118/lecture-15/15-1_mesure_flow.htm
+<br>29.	http://www.sensorsmag.com/sensors/flow/the-basics-rotameters-1068 
+<br>30.	http://www.processautomatic.com/functinal_principle_of_the_magnetic_flow_meter/ 
+<br>31.	http://www.toshiba.co.jp/sis/en/seigyo/find/products/emf_principle_and_feature.htm 
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>1. Each student will select and bring at least one mechanical component. Sketch each component. Sketch and label main parts of instruments to be used. Calculate least count of the instrument/s to be used. Measure and record applicable dimensions of each component using suitable instrument
+<br>2. Sketch the part and setup, list the instruments used, list the steps followed and record the observations for checking straightness
+<br>3. Select appropriate limit gauge for given dimension/part and check the dimension with gauge.
+
+<br><br><b>Note:</b> The activities or similar activities for assessing CIE (IA) for 5 marks (Any one)
+<br>1. Each student should do any one of the following type activity or any other similar activity related to the course and before conduction, get it approved from concerned Teacher and HOD.
+<br>2. Each student should conduct different activity and no repeating should occur

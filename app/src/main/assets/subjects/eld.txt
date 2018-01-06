@@ -1,0 +1,52 @@
+UNIT I: ATOMIC STRUCTURE
+Atomic structure, effect of heat on Atomic structure  atomic  number, electrical  property  of  an  element- conductor, insulator, ,semiconductor, intrinsic  and  extrinsic  semiconductors, Energy  level  diagrams  in semiconductors, conduction  by  diffusion, 																						6Hrs
+<br><b>[06 Hrs] [15 Marks] </b>
+
+UNIT II: SEMICONDUCTOR DIODES
+Preparation  of  PN  Junction, Grown, fused  and  diffused  Junctions, forward  and  Reverse  biased  junctions, V-I  characteristics. Zener and avalanche breakdown, Reverse breakdown voltage (PIV), Effects of Temperature, Junction capacitance. Application  of  diodes, classification of  diodes  and signal  and  power  diodes-constructional  details, Encapsulating  and  packaging.
+<br><b>[06 Hrs] [18 Marks] </b>
+
+UNIT III: ZENER DIODES
+Zener  diode, Zener diode specification ,The voltage regulator circuit Effect  of  supply voltage variation and temperature, Areas  of  Application.
+<br><b>[04 Hrs] [15 Marks] </b>
+	
+UNIT IV: TUNNEL,VARACTOR AND GUNN DIODE
+Constructional details, characteristics, curves and use of Tunnel diode, Varactor diode, GUNN  Diode.
+<br><b>[06 Hrs] [12 Marks] </b>
+
+UNIT V: TRANSISTORS
+Constructional  details of PNP and NPN  transistors, Principle of operation, Testing of transistors  and  identification of leads, Input  and output  characteristics in CB and CE Mode,  Classification of Transistors based on voltage power and frequency, constructional  details  of  drift, power high frequency, High voltage transistors, Types of encapsulating and packaging, Areas  of application, selection of heat sinks  for power transistor,                                                                                             
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT VI: FET AND MOSFET
+Introduction to Field effect transistor. advantages and  disadvantages of FET, Basic construction and operation of JFET, Characteristics of FETS, Characteristic Parameters-Drain resistance, trans conductance, amplification factor, Zero- gate voltage, drain current-dissipation gate cut-off current, areas of application-advantages and disadvantages of FETs .Introduction to MOSFETS and Types,  Transfer curves of depletion type MOSFET, Transfer curves of enhancement type MOSFET.
+<br><b>[10 Hrs] [25 Marks] </b>
+
+UNIT VII: THYRISTOR AND UJT
+Introduction to SCR. Constructional details, characteristics of SCR, Areas of application of SCR, Constructional details of Diac and Triac, Application of Diac and Triac. Constructional details of UJT, - characteristics of UJT, Areas of application of UJT. 
+<br><b>[10 Hrs] [30 Marks] </b>
+
+<b>Text books:</b>
+<br><br>1.	Electronic devices and circuits by Allan MotterShead.
+<br>2.	Electronic devices, Applications and Integrated circuits – by MathurandChadha.
+<br>3.	Electronic devices and circuits – by MillmanandHalkias.
+
+<br><br><b>Reference Books:</b>
+
+<br><br>1.	Electronic Devices and Circuits,  S Salivahanan , N Sereshkumar , McGreaw Hill Education (India) Private Limited,  ISBN -9781259051357
+<br>2.	Op-amps and linear integrated circuits - RamakanthA.Gayakwad- 9780132808682
+<br>3.	Principles of Electronics, RohitMehtaandV K Mehta, S. Chand Publishing ISBN: 9788121924504
+<br>4.	Electronic Devices and Circuits, David A. Bell, Oxford University Press, ISBN: 9780195693409
+<br>5.	Fundamentals of Electrical and Electronics Engineering, B. L. Theraja, S. Chand and Company. REPRINT 2013, ISBN 8121926602.
+<br>6.  http://www.allaboutcircuits.com/
+<br>7.  http://www.allaboutcircuits.com/videos
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>1. Analysis effect of heat sink for different ICs.
+<br>2. Quiz on thyristors and its family.
+<br>3. Make a report on different types of diodes.
+
+<br><br><b>Note:</b> The activities or similar activities for assessing CIE (IA) for 5 marks (Any one)
+<br>1. Each student should do any one of the following type activity or any other similar activity related to the course and before conduction, get it approved from concerned Teacher and HOD.
+<br>2. Each student should conduct different activity and no repeating should occur

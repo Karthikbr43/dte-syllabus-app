@@ -1,0 +1,38 @@
+UNIT I: SURVEYING	
+Introduction, Definition, objectives, classification, principles of surveying; Conventional signs; Surveying instruments, their care and adjustments
+<br><b>[03 Hrs] [10 Marks] </b>
+
+UNIT II: CHAINSURVEYING	
+Principles, operations in chain surveying Types of chains and tapes1) ranging – direct and indirect method,2) chaining – on flat and sloping method ,3) offsets- perpendicular and oblique
+<br><b>[09 Hrs] [25 Marks] </b>
+
+UNIT III: COMPASS SURVEYING	
+Definitions, concepts, bearings-systems of bearings and their conversion, fore bearing, back bearing; prismatic compass-temporary adjustments, measurement of included angle Local attraction and its elimination; Closing error, meridian and its types
+<br><b>[15 Hrs] [40 Marks] </b>
+
+UNIT IV: LEVELLING and CONTOURING	
+Definitions; Levelling instruments, different levels and staves; 1) dumpy level fig and 2) staff metric fig; temporary adjustments of dumpy level; calculation of RL-using HI methodand Rise andfall method of levelling; Contouring Definitions; Contour interval and horizontal equivalent; Characteristics of contour lines; Direct and indirect methods of contouring; Use of contour maps
+<br><b>[15 Hrs] [40 Marks] </b>
+
+UNIT V: THE ODOLITE SURVEYING	
+Definitions terms used measurement of Measurement of horizontal angles. Vertical angles, bearings
+<br><b>[05 Hrs] [15 Marks] </b>
+
+UNIT VI: MODERN SURVEYING
+GPS, Total station, uses of minor instruments
+<br><b>[05 Hrs] [15 Marks] </b>
+
+<b>Text books:</b>
+<br><br>1.	“Surveying and levelling (Vol-I and II)” by T.P. Kanetkar and S.V. Kulkarni, Pune Vidarthi Griha Prakashan, Pune.
+<br>2.	“Surveying Vol. I and Vol .II” by Dr B. C. Punmia, Laxmi Publication (P) New Delhi.
+<br>3.	“Plane Surveying” by Dr.Alak De
+<br>4.	“Surveying and Levelling” by S. S. Bhavikatti.
+<br>5.	“Surveying” by Duggal
+<br>6.	“Fundamentals of Surveying” by S K Roy
+<br>7.	“Surveying and Levelling” by N.N. Basak.
+<br>8.	“Surveying”- by H. VISHWANATH, sapna book house.
+
+<br><b>E-BOOKS:</b>
+<br><br>i. www.Autodesk.com
+<br>ii. www.drawingnow.com
+<br>iii. www.learn-to-draw.com

@@ -1,0 +1,107 @@
+Unit-I: Tutorials and Practice Exercises
+
+<b>Tutorials:</b>
+<br><br><b>1. Introduction to PCB</b>
+<br>• Definition  and Need/Relevance of PCB
+<br>• Background and History of PCB
+<br>• Types of PCB
+<br>• Classes of PCB Design
+<br>• Terminology in PCB Design
+<br>• Different Electronic design automation (EDA) tools and comparison.
+<br><br><b>2. PCB Design Process</b>
+<br>• PCB Design Flow.
+<br>• Steps involved in layout design
+<br>• Artwork generation Methods - manual and CAD
+<br>• General design factor for digital and analog circuits
+<br>• Layout and Artwork making for Single-side, double-side and Multi-layer Boards.
+<br>• Design for manufacturability
+<br>• Design-specification standards				
+<br><br><b>3. Introduction to PCB Fabrication & Assembly</b>
+<br>• Steps involved in fabrication of PCB.
+<br>• PCB Fabrication techniques-single, double sided and multilayer
+<br>• Etching: chemical principles and mechanisms
+<br>• Post operations- stripping, black oxide coating and solder masking
+<br>• PCB component assembly processes					
+<br><br><b>4. Transmission lines and crosstalk</b>
+<br>• <b>Transmission Line:</b> Transmission lines and its effects, Significance of Transmission line in Board design, Types of Transmission lines.
+<br>• <b>Crosstalk:</b> The crosstalk in transmission lines, Crosstalk control in PCB design parts, planes, tracks, connectors, terminations and Minimization of crosstalk.		
+<br>• <b>Thermal issues:</b> Thermal mapping of design
+
+<br><br><b>Practice Exercises:</b>
+<br>Using any Electronic design automation (EDA) software, Practice following PCB Design steps (Open source EDA Tool KiCad Preferable)
+<br>Ex: Basic RC Circuit 
+<br>• Schematic Design: Familiarization of the Schematic Editor, Schematic creation, Annotation, Netlist generation
+<br>• Layout Design: Familiarization of Footprint Editor, Mapping of components, Creation of PCB layout Schematic 
+<br>• Create new schematic components
+<br>• Create new component footprints
+
+Unit–II: Graded Exercises 
+
+<b>Part-A: Design PCB (schematic and Layout) for following exercises</b>
+
+<br><br>1.	Regulator circuit using 7805.
+<br>2.	Inverting Amplifier or Summing Amplifier using op-amp
+<br>3.	Full-wave Rectifier
+<br>4.	Astable or Monostable multivibrator using IC555
+<br>5.	RC Phase-shift or Wein-bridge Oscillator using transistor.
+<br>6.	Full-Adder using half-adders.
+<br>7.	4 bit binary /MOD N counter using D-Flipflops.
+<br>8.	Two open-ended (one from analog circuit and one from digital circuit) experiments of similar nature and magnitude of the above are to be assigned by the teacher (Student is expected to solve and execute/simulate independently).
+<br>9.	Design a 8051 Development board having
+<br>• <b>Power section</b> consisting of IC7805, capacitor, resistor, headers, LED
+<br>• <b>Serial communication section</b> consisting ofMAX 232, Capacitors, DB9 connector, Jumper, LEDs
+<br>• <b>Reset & Input/ output sections</b> consisting of89C51 Microcontroller, Electrolytic Capacitor, Resistor, Jumper, Crystal Oscillator, Capacitors
+<br><br><b>Note:</b> For SEE any one section among three shall be considered as one exercise.
+
+<br><br><b>Part-B: Fabricate single-side PCB for simple network</b>
+
+<br><br>1. Fabricate single-sided PCB, mount the components and assemble in a cabinet for any one circuit. (example: Astable multivibrator using IC555)
+
+<br><br><b>Tools and materials required for PCB fabrication:</b>
+<br>1. Open source EDA Tool KiCad.
+<br>2. Single-sided copper clad sheet.
+<br>3. Diluted Acidic solution for copper etching purpose with plastic tray.
+<br>4. Tapes and pads for layout design of different dimensions.
+<br>5. Hand drilling/Power drilling machine.
+<br>6. Tool kit (tong, hand gloves etc.)
+
+Unit–III: Project/Student Activities [CIE- 05 Marks] 
+
+Design and fabricate PCB for any one project, mount the components and  assemble in a cabinet:
+<br>Some of the projects are listed below which is just a guideline for selecting the project. Students can also select any other project with the advice of his teacher. 
+<br><br>List of sample circuit: 
+<br>1.	Touch plate switches – transistorized or 555 based 
+<br>2.	Doorbell/cordless bell 
+<br>3.	Clapping switch and IR switch 
+<br>4.	Blinkers
+<br>5.	Cell charger, battery charger, mobile charger 
+<br>6.	Fire/smoke/intruder alarm 
+<br>7.	Liquid level controller 
+<br>8.	Counters 
+<br>9.	Audio amplifiers
+
+<br><br><b>Execution Mode:</b>
+<br><br>1.	Every student should perform Project activity independently as assigned by the teacher based on interest of the student. Student can also choose any other similar activity with a prior approval from the concerned teacher.
+<br>2.	Project activities shall be carried out throughout the semester and present the project report at the end of the semester. 
+<br>3.	Report-size shall be qualitative and not to exceed 6 pages; 
+<br>4.	Each of the activity can be carried out off-class; however, demonstration/presentation should be done during laboratory sessions. 
+<br>5.	Assessment shall be made based on quality of activity, presentation/demonstration and report.
+<br>6.	Assessment is made based on quality of work as prescribed by the following rubrics table.
+
+<b>Reference Books:</b>
+<br><br>1.	Printed Circuit Board by RS Khandpur, Tata McGraw Hill Education Pvt Ltd., New Delhi
+<br>2.	Electronic Product Design Volume-I by S D Mehta, S Chand  Publications
+<br>3.	Open source EDA Tool KiCad Tutorial: http://kicad-pcb.org/help/tutorials/
+<br>4.	PCB Fabrication user guide page: http://www.wikihow.com/Create-Printed-Circuit-Boards , http://www.siongboon.com/projects/2005-09-07_home_pcb_fabrication/ , http://reprap.org/wiki/MakePCBInstructions#Making_PCBs_yourself
+<br>5.	PCB Fabrication at home(video): https://www.youtube.com/watch?v=mv7Y0A9YeUc , https://www.youtube.com/watch?v=imQTCW1yWkg
+
+<b>Scheme of Valuation for SEE:</b>
+
+<br><br>1.	Short questions on unit-1 (only write-up) : 05
+<br><br>2.	Design PCB (schematic, Layout and Fabricate) for any given circuit (similar complexity as graded exercises)
+<br>Schematic Design - 15 Marks
+<br>Layout Design - 15 Marks
+<br>Fabrication - 10Marks
+<br><br>3.	Viva-voce : 05
+
+<br><br><b>TOTAL = 50 Marks</b>

@@ -1,0 +1,54 @@
+UNIT – I: DIMENSIONS, MEASUREMENTS AND BASIC CHEMICAL CALCULATIONS
+Dimension measurements – Use of different units of fundamental quantities – and derived quantities, FPS-MKS and SI system of units, conversion of units factor-dimensionless groups and constants.
+<br><b>[06 Hrs] [15 Marks] </b>
+
+UNIT – II: BASIC CHEMICAL CALCULATIONS
+Basic concepts of chemical calculations-gram atom, gram mole, mole concepts, mole, atomic mass and molar mass, equivalent mass, methods of expressing chemical composition of solids, liquids and solutions, weight percent, volume percent- mole fraction and mole percent, equivalent weight – normality- molarity- molality-density and different specific gravity scales and solve simple  problems.
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT – III: BEHAVIOURS OF IDEAL GASES AND GASEOUS  MIXTURES
+Behaviours of ideal gases, ideal gas law absolute pressure, gauge pressure, absolute temperature- gaseous mixtures- Raoult’s law, Dalton’s law of partial pressure, Amagat’s law of partial volume, Value of universal gas constant, average molecular weight and densities of gaseous mixtures and solve simple problems.
+<br><b>[08 Hrs] [20 Marks] </b>
+
+UNIT – IV:   MATERIAL BALANCE EQUATIONS
+Material balance definition of steady state and unsteady state - material balance equations – material balance with and without chemical reactions, outlines of procedure for material balance Calculations, limiting reactant-excess reactant-conversion-yield-simple problems on material balance with and without chemical reaction – Process flow sheet, material balance calculations involving recycle and bypass – solve simple Problems.
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT – V:  COMBUSITION  PROCESS
+Nature of combustion process—Types of combustion processes, mechanism of combustion reactions-Spontaneous ignition temperature – Adiabatic flame temperature-Limits of  inflammability – incomplete combustion of fuels – Gross  calorific values , combustion stoichiometry , Theoretical  air requirement- Percentage of excess air – Orsat analysis – Air fuel ratio – Flash  and fire points – Combustion appliances – various gas burner – Oil burner and coal burning equipments.
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT – VI:  FURNACES
+Furnace Definitions- Classification – Blast furnace – Open, hearth furnace- Rotary kilns – electric arc furnace – Construction and operation details of above furnaces – functions of Recuperators and regenerators, their applications- definition of Refractories , types of refractories and their applications.
+<br><b>[08 Hrs] [20 Marks] </b>
+
+<b>Reference Books:</b>
+
+<br><br>1.Stoichiometry by B.I. Bhatt and S. M. Vora
+<br>2.Stoichiometry and process calculations by K.V.Narayanan and B.Lakshmikutty
+<br>3.Introduction to Stoichiometry by K.A.Gavhane (Nirali Prakashan)
+<br>4.Fuels and combustion by Sameer Sarkar. 
+<br>5.Elements of Fuels,Furnaces and Rafractories by O.P.Gupta
+<br>6.Fuels furnaces and refractories by Gilchrist Allied publisher.
+<br>7.Fuels combustion and furnaces by Grish wold.
+
+<br><br><b>E –Learning</b>
+<br><br>https://www.youtube.com/watch?v=gMhql2z0_0Y
+<br>https://www.youtube.com/watch?v=ftOGG0KVapE
+<br>https://www.youtube.com/watch?v=IpuVOYRb2pU
+<br>https://www.youtube.com/watch?v=IpuVOYRb2pU
+<br>https://www.youtube.com/watch?v=_kSp5K70cYc
+<br>https://www.youtube.com/watch?v=BMXmJNDVxrg
+<br>https://www.youtube.com/watch?v=yVZJP3u9Kek
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>1. Solve problems related to basic concept of chemical calculations
+<br>2. Solve problems related to Material balance
+<br>3. Study and report the Combustion appliances other than mentioned in the syllabus
+<br>4. Write a report about latest developments in construction and operation of Furnaces
+<br>5. Browse the Internet and collect the information about various Refractories used for specific Purposes
+
+<br><br><b>Note:</b> The activities or similar activities for assessing CIE (IA) for 5 marks (Any one)
+<br>1. Each student should do any one of the following type activity or any other similar activity related to the course and before conduction, get it approved from concerned Teacher and HOD.
+<br>2. Each student should conduct different activity and no repeating should occur

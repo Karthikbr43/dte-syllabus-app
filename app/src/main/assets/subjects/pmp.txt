@@ -1,0 +1,104 @@
+UNIT - I: LATHE
+1.1	Types of lathe
+<br>1.2	Specify the size of lathe
+<br>1.3	Lathe parts	
+<br>1.4	Lathe accessories and attachments-lathe centers, steady and follower, Rest, three jaw chuck, plain and expansion mandrel
+<br>1.5	Operations performed in lathe.
+<br>1.6	Taper turning by various methods- tailstock setting over method, compound rest 
+<br>1.7	Thread cutting procedure.
+<br>1.8	Nomenclature of single point cutting tool	
+<br>1.9	Cutting speed, feed, depth of cut
+<br>1.10 Types of chips
+<br>1.11 Orthogonal and oblique cutting
+<br><br><b>[09 Hrs] [30 Marks] </b>
+
+UNIT - II: DRILLING AND SHAPING MACHINES
+2.1	List the types
+<br>2.2	Upright drilling machine
+<br>2.3	Radial drilling machine
+<br>2.4	Operations performed in drilling machines
+<br>2.5	Twist drill nomenclature
+<br>2.6	Types of reamers and functions 
+<br>2.7	Nomenclature of reamer
+<br>2.8	Distinguish between twist drill and reamer.
+<br>2.9	Cutting speed, feed, depth of cut
+<br>2.10 List work holding and tool holding devices
+<br>2.11 Introduction to shaper
+<br>2.12 Types of shapers
+<br>2.13 Parts of shaper (with sketch)
+<br>2.14 Shaper Mechanisms
+<br>2.14.1   Crank and slotted link mechanism
+<br>2.14.2   Hydraulic shaper mechanism 
+<br><br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT - III: MILLING MACHINES
+3.1	Types of milling machines
+<br>3.2	Block diagram of column and knee type milling machine 
+<br>3.3	Cutter holding devices of milling machine-arbors, collets, adapter, spring collets.
+<br>3.4	Milling machine attachments.
+<br>3.5	List the classification and use of milling cutters.
+<br>3.6	Milling process (up milling and down milling)
+<br>3.7	Milling machine operations.
+<br>3.8	Speed, feed and depth of cut applicable to milling cutter
+<br>3.9	Direct indexing, simple indexing
+<br><br><b>[09 Hrs] [25 Marks] </b>
+
+UNIT - IV: GRINDING MACHINES
+4.1	Introduction
+<br>4.2	Classification
+<br>4.3	Internal, External, Cylindrical Grinding and Form Grinding 
+<br>4.4	Centre less Grinding
+<br>4.5	Advantages and Disadvantages of Centre less Grinding
+<br>4.6	Tool and Cutter Grinder.
+<br>4.7	Abrasives (Natural and Artificial)
+<br>4.8	Grit, Grade and Structure of Wheels
+<br>4.9	Wheel shapes and sizes
+<br>4.10 Selection of grinding wheel
+<br>4.11 Mounting the grinding wheels
+<br>4.12 Glazing and Loading in wheels
+<br>4.13 Dressing and Truing of grinding wheels
+<br>4.14 Balancing of grinding wheels
+<br>4.15 Feed and Depth of cut-
+<br>4.16 Super finishing processes-Lapping and Honing.
+<br><br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT - V: GEAR MANUFACTURING
+5.1 Introduction
+<br>5.2 Gear materials.
+<br>5.3 Gear Generating methods.
+<br>5.3.1   Gear shaping.
+<br>5.3.2  	Gear hobbing.
+<br>5.4 Gear finishing processes
+<br>5.4.1 	Gear shaving.
+<br>5.4.2 	Gear grinding.
+<br><br><b>[09 Hrs] [15 Marks] </b>
+
+UNIT - VI: UNCONVENTIONAL MACHINING PROCESS
+6.0	Introduction to unconventional machining process
+<br>6.1	Electro discharge machining
+<br>6.2	Electro chemical machining
+<br>6.3	Ultrasonic machining
+<br>6.4	Laser beam machining
+<br>6.5	Abrasive jet machining
+<br>6.6	Water jet machining
+<br><br><b>[09 Hrs] [15 Marks] </b>
+
+<b>Reference Books:</b>
+
+<br><br>1.	Production Technology by R.K. Jain
+<br>2.	Work shop Technology Vol II by Hazra Chowdhry.
+<br>3.	Production Engg Design by Dr Surendra Kumar Sathya prakash pub
+<br>4.	A Text Book of production Engineering  P.C. Sharma Chand publishers
+<br>5.  A Text Book of Manufacturing Technology II P.C. Sharma
+<br>6.	Machine Tool and Manufacturing Technology by Steve F. Krar Cengage learning Publisher.
+<br>7.	Work shop practice by – K.C. JOHN – PHI Publications
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>1. Prepare a chart to show nomenclature of milling cutter or Assignments
+<br>2. Prepare a chart to show the designation of grinding wheels or assignment
+<br>3. Prepare a chart to show the unconventional machining processes or Assignments
+
+<br><br><b>Note:</b> The activities or similar activities for assessing CIE (IA) for 5 marks (Any one)
+<br>1. Each student should do any one of the following type activity or any other similar activity related to the course and before conduction, get it approved from concerned Teacher and HOD.
+<br>2. Each student should conduct different activity and no repeating should occur

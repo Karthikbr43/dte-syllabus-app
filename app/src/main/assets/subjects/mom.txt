@@ -1,0 +1,60 @@
+UNIT I: BASIC KINEMATICS
+Definition-Kinematic link or element-Types of links-Kinematic pair–Types-Types of constrained Motions- Kinematic chain- Definition  of Machine, Structure and Mechanism-Difference between Machine and Structure ,Mechanism-Inversions-Types of Kinematic Chains-Four Bar Chain- Beam Engine-Coupling Rod of Locomotive-Single Slider Crank Chain- Pendulum Pump-Crank and Slotted Lever Quick Return Motion Mechanism-Double Slider Crank Chain-Elliptical trammel-Scotch yoke mechanism-Oldham’s coupling.
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT II: TRANSMISSION OF POWER
+Belt Drives-types of flat belt drives-open, cross, idler pulley, compound, cone pulley and fast and loose pulley. Velocity Ratio, Slip and creep of belt, length of belt, Ratio of driving Tensions, Centrifugal Tension and Initial Tension-Power Transmitted by belts (Flat and V-Belt) and ropes- Maximum power transmitted by belt (without proof)-Problems on belt drives-Introduction to Gears - Classification of Gears-Spur Gear Terminology-Problems on gears –(centre distance only) Introduction to Gear Trains-Types of Gear trains –Simple, Compound, Reverted and Epicyclic gear trains- Problems on Gear Trains
+<br><b>[11 Hrs] [30 Marks] </b>
+
+UNIT III: FRICTION
+Friction-Introduction-Types of Friction, Laws of solid friction, coefficient of friction, limiting angle of friction, angle of Repose -Friction in Journal Bearing-Power Transmission in the Journal bearing-Friction in Thrust Bearing-Pivot Bearing– Flat and Conical bearing-Collar Bearing –Problems on bearings (Assuming uniform pressure theory)- Friction in Clutches-Single Disc Clutch- Multiple Disc Clutch- Problems on clutches (Assuming uniform wear theory)-Introduction to Brakes-Internal Expanding Brake (Mechanical and Hydraulic).		
+<br><b>[10 Hrs] [25 Marks] </b>
+
+UNIT IV: BALANCING
+Introduction-Static and Dynamic balancing-Balancing of single rotating massby a single mass rotating in the same plane -Balancing of several masses rotating in the same plane-Problems on above (Analytical and Graphical methods).
+<br><b>[07 Hrs] [20 Marks] </b>
+
+UNIT V: CAM MECHANISAMS
+Cams-Introduction-Classification of followers and cams-Terminology of cam- Displacement diagram for the following Motion of follower-Uniform velocity -Simple Harmonic Motion (SHM)-Uniform Acceleration and Retardation Motion (UARM),Cam profile construction for Knife edge follower and Roller follower.
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT VI: MECHANICAL VIBRATIONS
+Introduction- Terms used in Vibrations-Types of Vibrations-Free Vibrations- Forced Vibrations-Damped Vibrations-Types of Free Vibrations- Longitudinal, Transverse and Torsional- Critical or Whirling speed of a shaft.
+<br><b>[04 Hrs] [10 Marks] </b>
+
+<b>Text books:</b>
+<br><br>1. Rattan.S.S, “Theory of Machines”, Tata McGraw -Hill Publishers, New Delhi, 2009.
+<br>2. Khurmi R S, Guptha J.K “Theory of machines ”, 5 Edition, S.Chand and  company ,Delhi  ISBN 81-219-2524-X
+
+<br><br><b>References:</b>
+<br><br>1. Thomas Bevan, “Theory of Machines”, CBS Publishers and Distributors, 3rd Edition, 2005.
+<br>2. Ramamurti,V., “Mechanism and Machine Theory”, 2nd Edition, Narosa Publishing House,2005.
+<br>3. Ghosh.A and A.K.Mallick, “Theory of Mechanisms and Machines”, Affiliated East- WestPrivate Limited, New Delhi, 1998.
+<br>4. Rao.J.S and Dukkipati R.V, “Mechanism and Machine Theory”, Wiley-Eastern Limited,New Delhi, 1992.
+
+<br><br><b>LIST OF SOFTWARES/ LEARNING WEBSITES:</b>
+<br><br>1.	http://nptel.iitm.ac.in/video.php?subjectId=112104121
+<br>2.	http://www.technologystudent.com/gears1/gears7.htm
+<br>3.	http://kmoddl.library.cornell.edu/model.php?m=20http://www3.ul.ie/~kirwanp/whatisacamandfollowersyste.htm
+<br>4.	http://nptel.iitm.ac.in/courses/Webcourse-contents/IIT-Delhi/Kinematics%20of%20Machine/index.htm
+<br>5.	http://elearning.vtu.ac.in/12/enotes/Des_Mac-Ele2/Unit6-RK.pdf
+<br>6.	www.tecquipment.com/Theory_of_Machines.aspx
+<br>7.	www.researchgate.net/.../0094-114X_Mechanism_and_Machine_Theory
+<br>8.	www.journals.elsevier.com/mechanism-and-machine-theory/
+<br>9.	www.iftomm.org/
+<br>10.	www.wiziq.com/online-tests/44047-mechanical-theory-of-machine
+<br>11.	www.cs.ubc.ca/~murphyk/Teaching/CS340-Fall07/infoTheory.pdf
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>1. List the mechanisms which you are using in your day to day life. Sketch any three from these. Study and submit handwritten report of 500 words
+<br>2. Take a photo of a actual kinematic mechanism used in an automobile, study and submit handwritten report of 500 words
+<br>3. Analyse the effect of friction in real situation and submit handwritten report of 500 words
+<br>4. List the mechanism used in a typical car. study and submit handwritten report of 500 words
+<br>5. Identify and measure the dimensions of Flywheel used in automobile. study and submit handwritten report of 500 words
+<br>6. Identify the type of clutches and cams used in different automobiles and also the type of brakes in automobile and bicycle. study and submit handwritten report of 500 words
+<br>7. Visit the market and collect the data of items which are used in any mechanisms. Data includes specifications, cost, applications, etc. Also name the mechanism/s in which such item/s is/are use .Study and submit handwritten report of 500 words
+
+<br><br><b>Note:</b> The activities or similar activities for assessing CIE (IA) for 5 marks (Any one)
+<br>1. Each student should do any one of the following type activity or any other similar activity related to the course and before conduction, get it approved from concerned Teacher and HOD.
+<br>2. Each student should conduct different activity and no repeating should occur

@@ -1,0 +1,40 @@
+<b>Experiments:</b>
+
+<br><br>1.	Learn to install Wine/Virtual Box/ or any other equivalent s/w on the host OS
+<br><br>2.	Perform an experiment to grab a banner with telnet and perform the task using Netcat
+<br><br>3.	Perform an experiment for Port Scanning with nmap, superscan or any other equivalent software
+<br><br>4.	Using nmap 1)Find Open ports on a system 2) Find machines which are active 3)Find the version of remote OS on other systems 4)Find the version of s/w installed on other system  (using nmap or any othe software)
+<br><br>5.	Perform an experiment on Active and Passive finger printing using XProbe2 and nmap
+<br><br>6.	Perform an experiment to demonstrate how to sniff for router traffic by using the tool Cain and Abel / wireshark / tcpdump
+<br><br>7.	Perform an experiment  how to use DumpSec.
+<br><br>8.	Perform an wireless audit of an access point / router and decrypt WEP and WPA (softwares netstumbler or airsniff)
+<br><br>9.	Perform an experiment to sniff traffic using ARP poisoning
+<br><br>10.	Install IPCop on a linux system and learn all the function available on the software.
+<br><br>11.	Install JCrypt tool (or any other equivalent) and demonstrate Asymmetric, Symmetric crypto algorithm, Hash and Digital/PKI signatures studied in theory Network Security and Management
+<br><br>12.	Demonstrate Intrusion Detection System (IDS) using any tool eg. Snort or any other s/w
+<br><br>13.	Install RootKits and study variety of opt
+<br><br>14.	Generate minimum 10 passwords of length 12 characters using open ssl command
+<br><br>15.	Setup a honey pot and monitor the honey pot on network
+
+<b>Reference Books:</b>
+
+<br><br>Build Your Own Security Lab: A field guide for network Testing, Michael Gregg, Wiley India edition, ISBN: 9788126516919
+
+<br><br><b>Suggested list of student activities:</b>
+
+<br><br>1.	Demonstration of various softwares used for port scanning.
+<br>2.	Report on result of various cryptoalgorithms by using equivalent software. 
+<br>3.	Prepare a report on firewall along with its uses and functions.
+
+<br><br><b>Note:</b> The activities or similar activities for assessing CIE (IA) for 5 marks (Any one)
+<br>1.	Each individual student should do any one of the following type activity or any other similar activity related to the course and before conduction, get it approved from concerned course co-ordinator and programme co-ordinator.
+<br>2.	Each student should conduct different activity and no repeating should occur.
+
+<b>Scheme of Valuation for SEE:</b>
+
+<br><br>1.	Record : 05
+<br>2.	Installation of tool(Any two) : 15
+<br>3.	Demonstration : 20
+<br>4.	Viva Voce : 10
+
+<br><br><b>TOTAL = 50 Marks</b>

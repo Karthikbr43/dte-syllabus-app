@@ -1,0 +1,59 @@
+Unit – I
+<b>Tutorials</b>
+<br>1.	Introduction to HTML: Web site, Web Page, Types of Web Pages, Browsers and their types, Client –Server   Model,   Web –Server, Working of different types of Web Pages,  General structure of a Web Page, Scripting languages, URL,  Popular Search Engines, WWW
+
+Unit - II	
+<b>Note:</b> All attributes pertaining to respective tags to be practiced.
+
+<br><br>2.	Structure of  HTML web page: Head, title, body, comments, div, h1……h6, hr, br
+<br>3.	Basic HTML physical character  tags: b, i, u, big, small, sup, sub, strike
+<br>4.	Logical character tags: em, strong, del, insert, cite, code, dfn, ins, kbd, samp, strong
+<br>5.	Other HTML tags: p, font, abbr, acronym, address, blockquote, quote, q
+<br>6.	List tags: all tags pertaining to Lists 
+<br>7.	Table tags.
+<br>8.	Hyper link tag (both Internal and External).
+<br>9.	Working with Frame and Form tags.
+<br>10.	 Image tags and embedding a multimedia on to a web page(video, audio, zip)
+<br>11.	 Working with CSS (Cascading Style Sheet).
+<br>12.	 Develop a web page using the above tags. 
+
+<br><br><b>Experiments:</b>
+
+<br><br>1.	Design a page having suitable background colour and text colour with title “My First Web Page” using all the attributes of the Font tag.
+<br><br>2.	Create a HTML document giving details of your [Name, Age], [Address, Phone] and     [Register Number, Class] aligned in proper order using alignment attributes of Paragraph tag. 
+<br><br>3.	Write HTML code to design a page containing some text in a paragraph by giving suitable heading style.
+<br><br>4.	Create a page to show different character formatting (B, I, U, SUB, SUP) tags.
+<br>viz : log <sub>b</sub> m <sup>p</sup> = p log<sub>b</sub> m
+<br><br>5.	Write HTML code to create a Web Page that contains an Image at its centre.
+<br><br>6.	Create a web page with an appropriate image towards the left hand side of the page, when user clicks on the image another web page should open.
+<br><br>7.	Create web Pages using Anchor tag with its attributes for external links. 
+<br><br>8.	Create a web page for internal links; when the user clicks on different links on the web page it should go to the appropriate locations/sections in the same page. 
+<br><br>9.	Write a HTML code to create a web page with pink colour background and display moving message in red colour.
+<br><br>10.	Create a web page, showing an ordered list of all second semester courses (Subjects).
+<br><br>11.	Create a web page, showing an unordered list of names of all the Diploma Programmes (Branches) in your institution.
+<br><br>12.	Create a HTML document containing a nested list showing a content page of any book.
+<br><br>13.	Create the following table in HTML with Dummy Data:<br><b><i>[Refer Fig. 1.1] </i></b>
+<br><br>14.	Create a web page which divides the page in two equal frames and place the audio and video clips in frame-1 and frame-2 respectively.<br><b><i>[Refer Fig. 1.2] </i></b>
+<br><br>15.	Create a web page which should generate following output:<br><b><i>[Refer Fig. 1.3] </i></b>
+<br><br>16.	Create a web page using Embedded CSS and multimedia.
+
+<b>Reference Books:</b>
+
+<br><br>1.	http://www.w3schools.com/html/default.asp 
+<br>2.	http://sourceforge.net/projects/bluefish/
+<br>3.	http://bluefish.openoffice.nl/index.html
+<br>4.	http://bluefish.openoffice.nl/features.html
+<br>5.	HTML Black Book, Kogent Learning Solutions Inc.ISBN-13 9789350040959
+<br>6.	“World Wide Web design with HTML” by Xavier. ISBN 0-07-463971-4, Tata McGraw-Hill Publishing company Limited.
+
+<br><br><b>Mini Project: (CIE -05 Marks)</b>
+<br><br>Develop a static website consisting of minimum five web pages using any open source Editor like Bluefish, etc.
+
+<b>Scheme of Valuation for SEE:</b>
+
+<br><br>1.	Writing Steps / Procedure for one Question from Graded Exercises : 15
+<br>2.	Execution :	15
+<br>3.	Presentation Skills : 10
+<br>4.	Viva voce :	10
+
+<br><br><b>TOTAL = 50 Marks</b>

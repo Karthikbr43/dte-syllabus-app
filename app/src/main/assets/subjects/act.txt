@@ -1,0 +1,65 @@
+UNIT I: Network Theorems
+<b>Network Theorems:</b> Superposition theorem, Thevenin's theorem, Maximum Power Transfer theorem and Norton’s theorem, Statements and simple problems.
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT II: Resonance, filters and attenuators
+<b>Resonance:</b> Definition, types, applications of resonance. <b>Series resonance and Parallel resonance:</b> circuit diagram, phasor diagram, resonance plot and characteristics. Condition for resonance. Derivation for frequency of resonance. Expressions for impedance, current, voltage, Q factor, power factor and bandwidth in terms of Q. Simple problems. <b>Passive Filters:</b> Definition of Filter, cut-off frequency, pass band and stop band. Classification of filters. Ideal characteristics curve of passive LPF, HPF, BPF and BRF. Circuit diagram of T and PI configurations of LPF and HPF (Only expressions, No Derivation), Simple problems. Block diagrams to realize BPF and BRF using LPF and HPF. 
+<br><b>Attenuators:</b> Definition, classification and applications of attenuators. Definition of Bel, Decibel and Neper. Relationship between Bel, Decibel and Neper. Express attenuation in dB. Circuit diagram of symmetrical T and Π type attenuators (Only expressions, No Derivation).
+<br><b>[11 Hrs] [30 Marks] </b>
+
+UNIT III:  Transmission lines
+<b>Transmission Lines:</b> Definition of transmission line, different types of transmission lines (power lines, Parallel wire, coaxial, Wave guide). Mention their applications. Electrical model of a transmission line, Definition of primary constants:  R, L, G and C.	 Definition of secondary constants: Characteristic impedance and Propagation Constant, expressions for secondary constants in terms of primary constants. Concept of reflection and standing waves, expressions for  standing wave ratio,  reflection coefficient, standing wave ratio in terms of reflection coefficient and reflection coefficient in terms of standing wave ratio. Wave patterns for Voltage and Current on Short circuited line and Open circuited line. Impedance matching techniques: Single stub matching and double stub matching
+<br><b>[07 Hrs] [20 Marks] </b>
+
+UNIT IV: Antennas and wave propagation 
+<b>Antennas:</b> Definition of antenna and dipole. Concept of electric and magnetic fields in a dipole.   Definition of Polarization, 	Isotropic radiator, Radiation pattern, 	Directive gain, Directivity, Power gain, Antenna resistance, Antenna efficiency, Beam width. <b>Array antenna:</b> Definition and types of array antenna, working of broadside, end-fire array,              mention their applications. Features of  yagi-uda antenna.	Working of Parabolic reflector (Dish Antenna) – Feed mechanisms – Cassegrain and Horn feed. <b>Wave Propagation:</b> Fundamentals of Electromagnetic Waves, electromagnetic spectrum, modes of wave propagation:	 ground wave propagation, sky wave propagation and space wave propagation. Comparison of modes of wave propagation.
+<br><b>[07 Hrs] [20 Marks] </b>
+
+UNIT V: Amplitude modulation and demodulation
+<b>Modulation:</b>	Block diagram of electronic communication system,	 distinguish between analog and digital communication, define modulation, 	need for modulation and types of analog modulation techniques. <b>Amplitude modulation and demodulation:</b> definition, block diagram and waveform, expressions of modulating signal, Carrier 	signal,	 modulated signal, modulation index in terms of modulating voltage (Vm) and carrier voltage (Vc), modulation index in terms of maximum voltage (Vmax) and minimum voltage (Vmin), modulation index in case of simultaneous modulations,  LSB and USB, Bandwidth, Power in AM wave. Solve simple problems. Amplitude Modulator circuit using diode. Demodulation of AM wave, working of AM Linear diode detector circuit. Definition with working principal of SSBSC, DSBSC, VSB and comparison between them. 
+<br><b>[09 Hrs] [25 Marks] </b>
+
+UNIT VI: Frequency modulation and demodulation
+<b>Frequency Modulation and demodulation:</b> definition, block diagram and waveform, expressions of frequency deviation, modulation index. Relationship between frequency deviation and modulation index. Carson's rule for bandwidth. Varactor diode method of generating FM. <b>FM detectors:</b> Foster Seeley discriminator	 and Ratio detector. Need for pre-emphasis and de-emphasis circuits. Merits and demerits of FM over AM, Definition of Phase modulation. Definition of Selectivity, Sensitivity, Gain, Fidelity, Image Frequency and its Rejection, Double Spotting, Noise Figure.
+<br><b>[08 Hrs] [20 Marks] </b>
+
+<b>Reference Books:</b>
+
+<br><br>1.	Electrical Engineering Fundamentals, by Vincent Del Toro, Prentice-hall of India Pvt. Ltd. ISBN: 0132471310, 9780132471312 
+<br>2.	Communication Engineering, by Vijayachitra, McGraw Hill Education (India) Private Limited; First edition (1 May 2013),  ISBN: 1259006867, 9781259006869 
+<br>3.	Basic Electrical Engineering, by D.P. Kothari and I.J. Nagrath, Tata McGraw-Hill Publishing Pvt. Ltd.   ISBN: 0070435898, 9780070435896		
+<br>4.	Electronic Communication systems by William Schweber, Fourth Edition  PHI Publications ISBN: 0130916218, 9780130916211 
+<br>5.	Electronic Communication by Dennis Roddy and John Coolen PHI Publications ISBN: 8177585584, 9788177585582
+<br>6.	Analog and Digital Communications – T L Singal, McGraw Hill Education 
+<br>7.	ISBN: 1259084523, 9781259084522
+<br>8.	http://nptel.ac.in/courses/117102059/  
+<br>9.	https://www.youtube.com/watch?v=Xw2_AWWjAn0 
+<br>10.	https://www.youtube.com/watch?v=UW_X2sfwA5w 
+<br>11.	https://www.youtube.com/watch?v=dGu2mxpTRPs 
+<br>12.	https://www.youtube.com/watch?v=hqhV50852jA 
+<br>13.	https://www.youtube.com/watch?v=ZYgFuUl9_Vs
+<br>14.	https://www.youtube.com/watch?v=m9ikRi_-Iqo 
+<br>15.	https://www.youtube.com/watch?v=eNmh_G_v_-o 
+<br>16.	https://www.youtube.com/watch?v=wegmG4qHvkk 
+<br>17.	https://www.youtube.com/watch?v=_5JyiFWLn-w 
+<br>18.	https://www.youtube.com/watch?v=SmW4z76KgNQandspfreload=10 
+<br>19.	https://www.youtube.com/watch?v=R04yEKqgGPc 
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>1. Visit any local small-scale industry and prepare work flow of any specific electronic module preparation- from discrete components to module fabrication.
+<br>2. Design, construct and demonstrate any resonant circuit
+<br>3. Prepare a document on different antennas and tabulate the specific details of each / datasheets/ application
+<br>4. Demonstrate Amplitude modulation and demodulation
+<br>5. Demonstrate / presentation / simulation how Radio works
+<br>6. Demonstrate / presentation / simulation how LED TV works
+<br>7. Prepare/collect animation video of wave propagation and fundamentals of Electromagnetic Waves and give presentation on it.
+<br>8. List different wave propagations and give presentation on it.
+
+<br><br><b>Note:</b> The activities or similar activities for assessing CIE (IA) for 5 marks (Any one)
+<br>1. Maximum of 2 students in each batch for student activity
+<br>2. Any two activities (either from the list given or any similar activities) shall be assigned among different batches; may be assigned by the teacher based on interest of the students.
+<br>3. Project activities shall be carried out throughout the semester and present the project report at the end of the semester; concerned teacher is expected to observe and record the progress of students’ activities
+<br>4. Submit qualitative hand-written report not exceeding 6 pages; one report per batch
+<br>5. Each of the activity can be carried out off-class well in advance; however, demonstration/presentation should be done during laboratory sessions
+<br>6. Assessment shall be based on quality of work as prescribed by the following rubrics table

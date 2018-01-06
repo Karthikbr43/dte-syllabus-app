@@ -1,0 +1,32 @@
+UNIT-I:	PROJECTION OF SOLIDS
+Introduction-Positioning of solids –Solid lying with base on HP- Solids lying with base or axis inclined to HP- Solids lying with one of the lateral faces on HP- Solids lying with one of their lateral edges on HP-Cylinder lying with its axis or base inclined to HP- Cone lying with its axis or base inclined to HP -Solid lying with their axis inclined to both HP and VP.
+<br><b>[21 Hrs] [40 Marks]</b>
+
+UNIT-II: SECTION OF SOLIDS
+Introduction to Sectioning –Representation of section planes-Section lines and hatching-Types of Section planes-True shape of a section-Sectioning of solid like cube, prism, pyramid, cylinder and cone -Obtaining true shape of section.
+<br><b>[18 Hrs] [30 Marks]</b>
+
+UNIT-III: DEVELOPMENT OF SURFACES
+Introduction to Development of surfaces-Development of lateral surfaces of cube, prism, cylinder, pyramid, and cone-Development of lateral surfaces of truncated prism, cylinder, pyramid, and cone-Development of lateral surfaces of Tray, Funnel.
+<br><b>[15 Hrs] [30 Marks]</b>
+
+UNIT-IV: CONVERSION OF PICTORIAL VIEWS INTO ORTHOGRAPHIC VIEWS
+Introduction –Guidelines for conversion of pictorial views into orthographic views-Illustrative problems.
+<br><b>[12 Hrs] [15 Marks]</b>
+
+UNIT-V:	ISOMETRIC PROJECTIONS
+Principles of isometric projection – isometric scale – isometric views of simple solids – cube – prisms, pyramids, cylinder and cone - Conversion of orthographic views into isometric View -Drawing of Isometric views of machine parts.
+<br><b>[12 Hrs] [30 Marks]</b>
+
+<b>Text books:</b>
+
+<br>1.K.R.Gopalakrishna,“Fundamentals of  Drawing” Subhas Publications, 2010.
+<br>2.K.R.Gopalakrishna,“Engineering Drawing” (Vol. I and II),Subhas Publications, 2014.
+
+<br><br><b>Reference Books:</b>
+
+<br><br>1. R.K. Dhawan, “A text book of Engineering Drawing”,S.ChandPublishers, Delhi,2010.
+<br>2. G.S. Phull and H.S.Sandhu, “Engineering Graphics”, Wiley  Publications, 2014.
+<br>3. K.Venugopal and V.Prabhu Raja, “Engineering Graphics”, New Age International Private Limited, 2008.
+<br>4. M.B.Shah and B.C.Rana, “Engineering Drawing”, Pearson Education, 2005.
+<br>5. BasantAgarwal and Agarwal.C.M.,“Engineering Drawing”, Tata McGraw Hill Publishing Company Limited, New Delhi, 2008.

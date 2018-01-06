@@ -1,0 +1,47 @@
+<b>Experiments:</b>
+
+<br><br>1.	Teach to Familiarise the  Digital trainer Kit, IC tester, Logic pulsar, logic probe
+<br><br>2.	Teach  IC Manual and familiarise  ICs and IC families. 
+<br><br>3.	Examine all logic gates using ICs 7402,	7404 ,	7408 ,	7432 ,	7486.,  7400
+<br><br>4.	Analysis of NOT, OR, AND, NOR, EX-OR and EX-NOR gates using NAND gate
+<br><br>5.	Analysisof NOT, OR, AND, NOR, EX-OR, and EX-NOR gates using NOR gate.
+<br><br>6.	 Experiment to  verify Boolean Expression using K-map.
+<br><br>7.	Experiment to  Verify De Morgan’s theorem and realization of given expression using logic  gates
+<br><br>8.	Construct Half subtractor and Full subtractor using logic gates
+<br><br>9.	Construct Half Adder and Full Adder using logic gates.
+<br><br>10.	Test and  Verify  truth table of fallowing  Flip-Flop.
+<br>10.1 Clocked RS FF using NAND Gates.
+<br>10.2 Master Slave JK FF using IC 7476.
+<br><br>11.	Deduce Binary to Gray converter using IC 7486.
+<br><br>12.	Deduce Gray to Binary code converter using IC 7486.
+<br><br>13.	Realize 2-bit comparator using logic gate and familiarization of IC 7485.
+<br><br>14.	Construct to Interface 7bsegment display with IC 7447/7448 decoder.
+<br><br>15.	Test the truth table of 1:8 Demultiplexer and 8:1 multiplexer using IC 74138 and IC 74151 respectively.
+<br><br>16.	Test the truth table of Shift Registers using 7495  - SISO, SIPO, PISO, PIPO.
+<br><br>17.	Test the truth table of Decade counter using IC -7490.
+
+<b>Reference Books:</b>
+
+<br><br>1.	Digital Fundamentals by T. L. Floyd, Pearson International Publications, Ninth Edition, 2000.
+<br>2.	Electronics Principles by Malvino and Leach, Mc. Graw Hill, Third edition. 2000.
+<br>3.	Modern Digital Electronics by R P Jain, Tata McGraw-Hill Education, 2003.
+<br>4.	Digital Electronics: Principles and Applications by R. L. Tokheim, Tata McGraw-Hill Education, 2013.
+<br>5.	Electronics Analog and Digital by I. J. Nagrath, PHI Learning Pvt. Ltd., 2013 Edition.
+<br>6.	Principles of Digital Electronics by K. Meena, PHI Learning Pvt. Ltd., Fourth Printing, 2013.
+
+<br><br><b>Student Activity</b>
+
+<br><br><b>Note:</b> The following activities or similar activities for assessing CIE (IA) for 5 marks (Any one)
+
+<br><br>1. 	Go to any  nearest small scale industry which manufacture digital products and learn what ever they are manufacturing , explain and submit a report of 2 to 3 pages in handwritten form
+<br>2. 	Design any simple digital circuit which includes interfacing of seven segment led 
+<br>3. 	Try to learn in depth about  synchronous counter, explain and submit a report of 2 to 3 pages in handwritten form
+
+<b>Scheme of Valuation for SEE:</b>
+
+<br><br>1.	Writing circuit with values Tabular column, Truth table & Ideal graph : 15
+<br>2.	Construction and conduction : 20
+<br>3.	Result : 05
+<br>4.	Viva-Voce : 10
+
+<br><br><b>TOTAL = 50 Marks</b>

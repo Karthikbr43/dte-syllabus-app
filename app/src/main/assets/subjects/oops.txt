@@ -1,0 +1,50 @@
+UNIT – I: Introduction to OOP and C++
+Features of C language, POP and OOP. List of OOP languages. Basic format of C++ program. Processor Directives. I/O statements. Language syntax: Keywords, identifiers, constants, variables, classification of variables based on scope and life, operators. Data types: Basic, derived and user-defined data types. Data-type casting. Data abstraction and encapsulation. Simple example programs.
+<br><b>[09 Hrs] [25 Marks] </b>
+
+UNIT – II: Control Structure and Data Types
+Concepts of control structure. Branching- if, if-else, switch, break, continue. Looping-for, while anddo-while. Derived data type: Arrays, strings, pointers, enumerated data types and functions. Functions-Call by value, address and reference. User-defined data type: structure, union and classes. Example programs.
+<br><b>[10 Hrs] [20 Marks] </b>
+
+UNIT – III: Classes and Objects
+Introduction to class and objects. Limitation of Structure and benefits of class. Class and object creation. Private and public, protected members of class-Variables, arrays and functions. Accessing Class Members. Memory allocation for Objects. Array of objects. Friend Function. Data abstraction and data encapsulation. Simple example programs.
+<br><b>[09 Hrs] [25 Marks] </b>
+
+UNIT - IV: Overloading
+Introduction to overloading. Constructors: parameterized constructors, default arguments, overloading and copy constructor. Destructors, Unary and binary operator overloading. Function overloading, functions with default arguments. Inline functions. Simple example programs.
+<br><b>[08 Hrs] [25 Marks] </b>
+
+UNIT - V: Inheritance and Polymorphism
+Introduction to inheritance. Defining derived classes, Levels of inheritance, Single inheritance, public and private member inheritance, multiple inheritance, Hierarchical inheritance, Hybrid inheritance, polymorphism. Example programs.
+<br><b>[07 Hrs] [25 Marks] </b>
+
+UNIT - VI: Pointers, Virtual Functions, Console I/O Statements
+Pointers-Declaration and initialization. Manipulation of pointers, pointers to objects, pointers to derived classes, pointers with arrays and strings. Introduction to Virtual functions, rules for virtual functions, pure virtual functions. Formatted and Unformatted I/O functions. Simple example programs. Features of other OOPS languages-JAVA and PYTHON.
+<br><b>[09 Hrs] [25 Marks] </b>
+
+<b>Reference Books:</b>
+
+<br><br>1.	Object oriented programming with C++ - Rabertlafer
+<br>2.	Object oriented programming with C++ -  4E, E Balaguruswamy, Tata McGraw hill
+<br>3.	OOPS with C++    By Niranjan A.,Sapna Publications
+<br>4.	Object oriented programming in C++, By P B Kottur.,Sapna Publications
+<br>5.	Object oriented programming in C++, Dr.G.T. Thampi, Dr. S.s.Matha,Dreamtech, 2009 edition,
+<br>6.	Object oriented programming in C++, Rajesh K Shukla ,Wiely Precise text Book.2008.
+<br>7.	Object Oriented Programming with C++ , SouravSahay, Oxford Higher Education 
+<br>8.	Analysis & Designing Of Algorithms with C/C++ -By Nandagopalan.
+<br>9.	C++ Complete Reference, Herbert Schilt. TMH.
+<br>10.	Programming in C++  , M T  Somashekar , PHI 
+<br>11.	Professional C++ , Wiley India (Wrox)
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>1. Execute and submit at least two simple programs from each of unit1, unit2 and unit3
+<br>2. Execute and submit at least two programs from each of unit4, unit5 and unit6.
+
+<br><br><b>Note:</b> The activities or similar activities for assessing CIE (IA) for 5 marks (Any one)
+<br>1. Activity 1 and 2 are mandatory for every batch; every batch can have maximum of 4 students.
+<br>2. Activities shall be carried out batch-wise throughout the semester and submit one report per batch before the end of the semester.
+<br>3. Report shall be qualitative and not to exceed 6 pages.
+<br>4. Each of the activity can be carried out off-class; however, demonstration/presentation should be done in the Lab/class room.
+<br>5. Teacher is expected to observe and record the progress of students’ activities
+<br>6. Assessment shall be in accordance with the following rubrics table.

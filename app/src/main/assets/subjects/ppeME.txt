@@ -1,0 +1,63 @@
+UNIT I: INTRODUCTION & ECONOMICS OF POWER PLANT
+Power plant-Introduction, Classification - Location of power plant- Choice of Power plant- Terminology used in power plant: Peak load, Base load, Load factor, Load curve, demand factor- Various factor affecting the operation of power plant- Load sharing- cost of power-tariff methods-factors involved in fixing of a tariff. 
+<br><b>[05 Hrs] [10 Marks] </b>
+
+UNIT II: HYDRO POWER PLANT
+Hydro electric power plant- Introduction, storage and poundage, Selection of sites for hydro electric power plant-General layout and essential elements of Hydro electric power plant and its working-Classification of the plant- base load plant, peak load plant, Run off river plant, storage river plant, pumped storage plant, mini and micro hydel plants, governing of hydraulic turbines-impulse turbine- reaction turbine, selection of turbines, Advantages and disadvantages-limitations of hydro electric power plant. 
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT III: THERMAL POWER PLANT
+Thermal power plant -General layout – working-Site Selection–materials required for thermal power plants, coal handling and its methods, stages in coal storage, Fuel burning-Stoker firing-overfeed stoker –under feed stokers-chain grate stoker, Pulverized fuel handling system-unit and central system, Pulverization of coal-Ball mill, Ash handling system- Gravity system- electrostatic precipitation (ESP) system-Feed water treatment- Mechanical method, Advantages and disadvantages-limitations of Thermal power plant. 
+<br><b>[10 Hrs] [25 Marks] </b>
+
+UNIT IV: NUCLEAR POWER PLANT & GAS TURBINE POWER PLANTS
+Nuclear power plant-introduction-nuclear fuels, nuclear fission and fusion, working of a nuclear power plant, types of reactors- pressurized water reactor- boiling water reactor, effects of nuclear radiation, different methods for nuclear waste disposal-low, medium and high level waste disposal, Advantages -disadvantages- limitations. Gas turbine power plant- Schematic diagram & working of open and closed cycle gas turbine power plant, Components of Gas turbine–compressor, combustion chamber, gas turbine, vortex blading, gas turbine fuels, Gas turbine power plants in India - Namrup & Uran gas turbine power plants. Advantages -disadvantages- limitations of Gas turbine power plant 
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT V: SOLAR, WIND AND DIESEL POWER PLANTS
+Solar power plant-introduction-layout, Solar cell fundamentals & classification – maximum power point tracker (MPPT) and solar panel. Wind power plant: introduction, -Factors affecting distribution of Wind energy, Variation of wind speed with height and time-Horizontal axis wind turbine (HAWT)-types of rotors- Vertical axis wind turbine- types of rotors- Wind energy conversion system (WECS) advantages and disadvantages-limitations of Wind power plant. Diesel power plant- layout -Components and the working- Advantages -disadvantages- limitations. 
+<br><b>[09 Hrs] [30 Marks] </b>
+
+UNIT VI: PLANT SAFETY AND ENVIRONMENTAL IMPACT OF POWER PLANT
+Social and Economical issues of power plant- Oxides of sulphur- oxides of carbon-oxides of nitrogen, Acid precipitation-Acid rain- acid snow- Dry deposition-acid fog, green house effect, air and water pollution from thermal power plants and its control, Thermal pollution from thermal power plants, noise pollution and its control, natural and artificial radio activity- nuclear power and environment- radiations from nuclear power plant effluents- high level wastes- methods to reduce pollution, global warming- its effects and control, standardization for environmental pollution.
+<br><b>[08 Hrs] [20 Marks] </b>
+
+<b>Text books:</b>
+
+<br><br>1. Power plant engineering, Arora and Domkundwar, Dhanpat rai & CO (P) LTD
+<br>2. Power plant engineering, P. K. Nag, McGraw Hill
+<br>3. Power plant engineering, G. R. Nagpal, Khanna publishers
+<br>4. Power Plant Engineering, Dr. P. C. Sharma, S. K. Kataria
+<br>5. A Text Book of Power Plant Engineering, R K Rajput, Laxmi Publications
+<br>6. Power plant technology, M.M. EL-Wakil, McGraw Hill
+<br>7. Power Plant Engineering, C. Elanchezhian, L. Saravanakumar, B. Vijaya Ramnath, I.K. International Publishing House
+<br>8. Power Station Engineering and Economy, Bernhardt G A Sarotzki, William A Vopat, Tata Mc Graw Hill
+<br>9. Nuclear Power Plant Engineering, James H. Rust, Haralson Publishing Company
+<br>10. Steam power plant engineering, Louis Allen Harding, J. Wiley & Sons, inc
+<br>11. Power Plant Engineering, A K Raja, Amit Prakash Srivastava and Manish Dwivedi, New age international Publishers
+
+<br><br><b>e - Links:</b>
+
+<br><br>1. http://nptel.ac.in/courses/112105051/
+<br>2. https://www.youtube.com/watch?v=Ota2_LUuar0
+<br>3. https://www.youtube.com/watch?v=Ota2_LUuar0
+<br>4. https://www.youtube.com/watch?v=3dJAtHaSQ98
+<br>5. https://www.youtube.com/watch?v=xokHLFE96h8
+<br>6. http://www.tatapower.com/businesses/renewable-energy.aspx
+<br>7. http://www.cleanlineenergy.com/technology/wind-and-solar
+<br>8. https://www.youtube.com/watch?v=kbuLfXgw4Gs
+<br>9. https://www.youtube.com/watch?v=r9q80sSHxKM
+<br>10. https://www.youtube.com/watch?v=GZKKWz_tX1c
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>1. Prepare list of various major power plants installed in Karnataka along with their total capacity.
+<br>2. Prepare charts of different high pressure boilers, gas turbine cycles, steam turbine power plant, wind turbine power plant, solar power plant, etc. on half imperial drawing sheet. Attach the same with term work.
+<br>3. Visit websites of NTPC, BHEL,, NHPC, NPCIL, GEDA, SUZLON, GE, SIEMENS, ENERCON and KPC etc and find out the technical information about their machineries or Plants.
+<br>4. Download technical specifications/ catalogues, videos or any other suitable presentations on gas turbine power plant
+<br>5. Download technical specifications/ catalogues, videos or any other suitable presentations on Hydro power plant.
+<br>6. Visit diesel power plant available in your institute/ nearer to your institute and understand different elements, working, circuits, and specifications.
+
+<br><br><b>Note:</b> The activities or similar activities for assessing CIE (IA) for 5 marks (Any one)
+<br>1. Each student should do any one of the following type activity or any other similar activity related to the course and before conduction, get it approved from concerned Teacher and HOD.
+<br>2. Each student should conduct different activity and no repeating should occur

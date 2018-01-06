@@ -1,0 +1,50 @@
+UNIT - I : Basic Structures of Computers						     
+Functional Units, Input Unit, Memory Unit, Arithmetic and Logic Unit, Output Unit, Control Unit, Basic Operational Concepts, Bus Structures.
+<br><b>[02 Hrs] [5 Marks] </b>
+
+UNIT - II: Machine Instructions and Programmes
+Memory Locations and  Addresses , Byte Addressability, Big Endian and Little Endian Assignments, Word Alignment, Accessing numbers, characters and character strings, Memory Operations, Instruction and Instruction sequencing, Register Transfer notation, Assembly Language notation, Basic instruction types, Instruction execution and straight line sequencing, Branching, Condition codes, Addressing modes, Implementation of variables and constants, Indirection and pointers, Indexing and arrays, Relative addressing, Additional modes, Assembly Language, Assembler directives, Assembly and execution of programs, Basic  Input- Output Operations.
+<br><b>[10 Hrs] [28 Marks] </b>
+
+UNIT - III: Basic Processing Unit							     
+Some Fundamental Concepts, Register transfers, Performing an Arithmetic or Logic  operation, Fetching a word from memory, Storing a word in memory, Execution of a complete Instruction, Branch instructions, Multiple Bus Organization, Hardwired Control(basic block diagram only), A complete processor, Basic organization of Micro programmed Control Unit.
+<br><b>[08 Hrs] [22 Marks] </b>
+
+UNIT - IV: Input Output Organization						     
+Accessing I/O Devices, Interrupts, Interrupt Hardware, Enabling and Disabling Interrupts, Handling Multiple Devices, Controlling Device requests, Exceptions, Direct Memory Access, Bus arbitration, Buses, Synchronous bus, Asynchronous bus, Interface Circuits, Parallel port and Serial port (Basic concept only), Standard I/O Interfaces (Basic concepts only), Peripheral Component Interconnect (PCI) Bus , SCSI Bus( Basic concepts only), Universal Serial Bus (USB) ( Basic concepts only)
+<br><b>[10 Hrs] [28 Marks] </b>
+
+UNIT - V: The Memory System							     
+Some Basic Concepts, Semiconductor RAM Memories, Internal Organization of memory chips, Static Memories, Asynchronous DRAMs, Synchronous DRAMs, Structure of larger memories, Memory system consideration, Rambus memory, Read-Only Memories- ROM, PROM, EPROM, EEPROM, Flash Memory, Speed, Size and Cost, Cache Memories...
+<br><b>[14 Hrs] [38 Marks] </b>
+
+UNIT - VI: Processors and Pipelining  						     
+Processor- Introduction, Advanced processor technology, instruction set architectures, CISC scalar processor, RISC scalar processor, comparison   CISC and RISC, super scalar processor (basic concept only), VLIW architecture, comparison of super scalar and VLIW, Multi core architecture
+<br>Pipelining- Introduction, pipeline principles-linear pipeline processor-Asynchronous model, synchronous model, Non linear pipeline processor, classification of pipeline processor
+<br><b>[08 Hrs] [24 Marks] </b>
+
+<b>Text books:</b>
+
+<br><br>1.	Computer Organization, Carl Hamacher, zvonko Vranesic and Safwat Zaky, McGraw Hill, 5th edition (  Chapters 1, 2, 4, 5, 7, for Unit I to Unit V )
+<br>2.	Advanced Computer Architecture (A practical approach ), Rajiv Chopra, S. Chand, Revised edition, reprint 2014, ISBN8121930774 - for Unit VI  page no 133 to 138 , 143 to 145 ,  192 to 194 , 218 to 219 , 221 to 223
+
+<br><br><b>References</b>
+
+<br><br>1.	http://elearning.vtu.ac.in/06CS46.html
+<br>2.	http://nptel.ac.in/courses/Webcourse-contents/IIT-%20Guwahati/comp_org_arc/web/
+<br>3.	William Stallings, “Computer Organization and Architecture: Designing for   Performance”, Eighth Edition, Pearson. 
+<br>4.	Computer architecture and organization , 4th edition , P Chakraborty , JAICO publishers
+<br>5.	http://www.srmuniv.ac.in/downloads/computer_architecture.pdf
+<br>6.	http://www.dauniv.ac.in/downloads/CArch_PPTs/CompArchCh06L01PipeLine.pdf
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>1. Conduct a survey on various types of processors available with their features and submit a report.
+<br>2. List out the features of 8086 microprocessor and 8051 micro controller with respect to architecture and working.
+<br>3. Submit a report on hardware and software interrupts.
+<br>4. A Case study on Moore’s Law about the processors and submit a report.
+<br>5. Conduct a survey on types of memories and also about the cost and speed of various memories with comparison.
+
+<br><br><b>Note:</b> The activities or similar activities for assessing CIE (IA) for 5 marks (Any one)
+<br>1. Each student should do any one of the following type activity or any other similar activity related to the course and before conduction, get it approved from concerned Teacher and HOD.
+<br>2. Each student should conduct different activity and no repeating should occur

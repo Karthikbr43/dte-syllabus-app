@@ -1,0 +1,51 @@
+UNIT-I: Introduction to Micro System and Smart System
+Microsystem, MEMS, System-on-a-chip, Application of MEMS, Smart Material System, Components of a Smart System, Engineering disciplines involved in Micro system Design, Manufacture & Packaging.								        06 Hours
+<br><b>[06 Hrs] [15 Marks] </b>
+
+UNIT-II: Micro Sensors & Actuators
+Introduction to sensors and actuators, principle of operation, advantages and applications of Silicon Capacitive Accelerometer, Piezoresistive Pressure Sensors, Conductometric Gas Sensor, Electrostatic Comb-Drive, Magnetic Micro relay, Portable Blood Analyzer, Piezoelectric Inkjet Print head.
+<br><b>[09 Hrs] [25 Marks] </b>
+
+UNIT-III: Materials for Microsystems and Smart System
+Properties of Materials used in MEMS Design, Substrates & Wafers, Group of materials classified as Conductors, Semiconductors & Insulators, reasons for the popular application of Silicon as Substrate Material, three Silicon Compounds often used in Microsystems, Silicon Piezoresistors, Piezoelectric Crystals and its application, Quartz, Polymers with its advantages and applications, Smart Materials & Shape Memory Alloys (SMA) with examples of their application in smart system
+<br><b>[08 Hrs] [20 Marks] </b>
+
+UNIT-IV: Scaling in Microsystems
+Introduction to Scaling and its importance, simple scaling law, Scaling in Geometry, Comparision of Macro & Micro worlds with pictorial depiction,  Dynamic Forces, scaling in Heat Transfer, Scaling in, Electrostatic Forces, Scaling in Electricity, scaling in electromagnetic forces, scaling in fluid mechanics,
+<br><b>[08 Hrs] [20 Marks] </b>
+
+UNIT-V: Micro manufacturing and Microsystems Fabrication
+Introduction to Micromachining or Micro manufacturing, Bulk Micro manufacturing by dry and wet etching with their comparison, Surface Micromachining, LIGA Process, Introduction to Microsystems fabrication- Silicon Wafer Preparation, Thin Film Deposition by thermal evaporation, sputtering and CVD processes, key processes involved in Photolithography, surface micro machining.       
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT-VI: Microsystem Design & Packaging
+Overview of Mechanical Design of Microsystems, Factors to be considered for the design, Design constraints, principal substrate materials-advantages and disadvantages, three principal manufacturing process-advantages and disadvantages, options for signal transduction in Microsystems, suitability of a particular process design,  Mechanical Design Parameters with respect to Thermo Mechanical Loading, Thermo mechanical Stress Analysis, Dynamic Analysis, Introduction to Mechanical Packaging of  Microsystems, Principal design requirements in packaging design, three levels of micro system packaging				                                                                    
+<br><b>[11 Hrs] [35 Marks] </b>
+
+<b>Reference Books:</b>
+<br><br>1. MEMS & MICROSYSTEMS - Design and Manufacture by Tai-Ran Hsu , McGraw Hill Education Private Ltd.,
+<br>2. Micro and Smart Systems by G.K.Ananthasuresh, V.K.Aatre, K.J.Vinoy,   S.Gopalakrshnan, K.N.Bhat, Wiley-India
+<br>3. MEMS by Mahalik, McGraw Hill Education Private Ltd.,
+
+<br><br><b>Website:</b>
+<br><br>1.	http://www.slideshare.net/navinec1/micro-electromechanical-system-mems
+<br>2.	https://www.mems-exchange.org/MEMS/what-is.html
+<br>3.	http://mspde.usc.edu/inspiring/resource/sensor/Microsensors.pdf
+<br>4.	http://www.engr.sjsu.edu/trhsu/ME189_Chapter%207.pdf
+<br>5.	http://www.technologystudent.com/equip1/sma1.htm
+<br>6.	http://www.slideshare.net/deepika46/smart-materials-39205546
+<br>7.	http://www.engr.sjsu.edu/trhsu/ME189_Chapter%206.pdf
+<br>8.	http://www.engr.sjsu.edu/trhsu/ME189_Chapter%209.pdf
+<br>9.	http://www.gbv.de/dms/ilmenau/toc/330321218.PDF
+<br>10.	http://www.pitt.edu/~qiw4/Academic/ME2080/lecture23.pdf
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>1. Write a report on micro systems or micro sensors not mention in the curriculum.(Hand written 2 or 3 pages)
+
+<br><br><b>Note:</b> 
+
+<br>1. Group of max four students should do any one of the above activity or any other similar activity related to the course COs and get it approved from concerned Teacher and HOD. 
+<br>2. No group should have activity repeated or similar 
+<br>3. Teacher should ensure activities by different groups must cover all COs 
+<br>4. Teacher should asses every student by using suitable Rubrics approved by HOD

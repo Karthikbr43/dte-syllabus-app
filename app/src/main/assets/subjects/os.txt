@@ -1,0 +1,59 @@
+UNIT I : Introduction to Operating System	
+What operating systems do? Computer System architecture, Operating System structure, Operating System operations, Process management, Memory management, Storage management, Protection and security, Distributed system, Special-purpose systems, Computing environments, Open-source Operating Systems..
+<br><b>[08 Hrs] [22 Marks] </b>
+
+UNIT II: Process Management		
+Process concept, Process scheduling, Operations on processes, Inter-process communication, Process Scheduling: Basic concepts, Scheduling criteria, Scheduling algorithms.
+<br><b>[12 Hrs] [32 Marks] </b>
+
+UNIT III: Synchronization and Deadlocks		
+<b>Synchronization</b> – Background, The critical section management and semaphores  (Concepts only)  
+<br><b>Deadlocks</b>- System model, Deadlock characterization, Methods for handling deadlocks, Deadlock prevention, Deadlock avoidance, Deadlock detection, Recovery from deadlock
+<br><b>[08 Hrs] [22 Marks] </b>
+
+UNIT IV: Memory Management Strategies	
+Background, Swapping, Contiguous memory allocation, Paging, Structure of page table, Segmentation
+<br><b>[08 Hrs] [24 Marks] </b>
+
+UNIT V: Virtual Memory Management	
+Background, Demand paging, Copy-on-write, Page replacement, Allocation of frames .
+<br><b>[08 Hrs] [23 Marks] </b>
+
+UNIT VI: File System		
+File concept, Access methods, Directory and disk structure, File system mounting, File Sharing , Protection.
+<br><b>[08 Hrs] [22 Marks] </b>
+
+<b>Text books:</b>
+<br><br>1.	Operating System Principles – Abraham Silberschatz, Peter Baer Galvin, Greg Gagne, 8th edition, Wiley-India. (Chapters-1, 3, 5, 6, 7, 8, 9, 10 and 11) ISBN- 9788126520510  
+
+<br><br><b>References:</b>
+<br>1.	Operating Systems, I. Chandra Mohan, PHI, 2013, ISBN – 9788120347267
+<br>2.	http://www.tutorialspoint.com/operating_system/
+<br>3.	http://courses.cs.vt.edu/~csonline/OS/Lessons/index.html
+<br>4.	http://www.nptel.ac.in
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>1. How to install and Uninstall an Operating System on a New Computer
+<br><br>2. How to Remove a Second Operating System from a PC
+<br><br>3. A Survey of recent Operating System
+<br><br>4. Case study on real time deadlock situation
+<br><br>5. A case study on real time process synchronization
+<br><br>6. Comparison of OS working in single core and multi core environment
+<br><br>7. Comparison of 32 bits and 64 bits OS
+<br><br>8. Operating system is responsible for following activities in connection with management of memory:
+<br>a) Allocation and de allocation of memory as and when needed
+<br>b) Keeping track of used and unused memory space.
+<br>c) Deciding what process to be loaded into memory in case space becomes available.
+<br><br>9. For secondary space management:
+<br>a) Swap space and free space management
+<br>b) Disk scheduling
+<br>c) Allocating space to the data and programs onto the secondary storage device.
+<br><br>10. For process management:
+<br>a) Creation, deletion of both user and system process.
+<br>b) Handling process synchronization.
+<br>c) Deadlock handling.
+
+<br><br><b>Note:</b> The activities or similar activities for assessing CIE (IA) for 5 marks (Any one)
+<br>1. Each student should do any one of the following type activity or any other similar activity related to the course and before conduction, get it approved from concerned Teacher and HOD.
+<br>2. Each student should conduct different activity and no repeating should occur

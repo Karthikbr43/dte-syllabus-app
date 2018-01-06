@@ -1,0 +1,42 @@
+<b>Experiments:</b>
+
+<br><br><b>Part - A</b>
+<br><br>1.Introduction to metrology and measuring equipments
+<br><br>2.a) Determine the dimensions of given component by using Vernier caliper.
+<br>b) Determine the dimensions of given component by using Micrometer.
+<br><br>3.Determine the dimensions of given component by using Vernier height gauge
+<br><br>4.a) Determine the depth  of given component by using Vernier depth gauge
+<br>b) Determine the depth  of given component by using Depth micrometer	
+<br><br>5.a)Use of slip gauges, their accuracy and wringing of slip gauges to given dimensions 
+<br>b) Calibration of  Vernier caliper and micrometer 
+<br><br>6.Determine the internal dimensions of given components by using
+ <br>a) Inside micrometer
+ <br>b) Telescopic gauge
+ <br>c) Bore gauge	
+<br><br>7.Determine roundness of the given component by using dial gauge, magnetic stand and V block
+<br><br>8.a) Determine the angle of the given component by using sine bar. 
+<br>b) Determine the angle of the given component by sine center
+<br><br>9.a) Determine center, squareness and angle of the component by using combination set
+<br>b) Determine the angle of component by using universal bevel protractor.
+<br><br><b>Part - B</b>
+<br><br>10.a) Determine the effective diameter of screw thread by using Two wire method
+<br>b) Determine the effective diameter of screw thread by using Three wire method
+<br><br>11.Determine the gear terminologies of the given spur gear by using venier gear tooth calliper.
+<br><br>12.a) Determine the profile of external threads, tools, templates and gauges by means of Profile projector.	
+<br>b) Determine the profile of external threads, tools, templates and gauges by means of  Tool makers microscope						
+<br><br>13.a) Determine the alignment test on lathe using magnetic stand, dial indicator and sprit level  
+<br>b) Check the true running of head stock spindle on lathe
+<br><br>14.Demonstration and checking the component for tolerance limits by using Plain plug gauge, Progressive gauge, Ring gauge, Snap gauge and Thread gauge	
+<br><br>15.Determine dimensions of component by  using coordinate measuring machine
+
+<b>Reference Books:</b>
+<br><br>Mechanical Engineering Measurement - Thomas Beckwith, N.Lewis Buck, Roy Marangoni - Narosa Publishing House, Bombay
+
+<b>Scheme of Valuation for SEE:</b>
+
+1.	Writing procedure(Two experiments) : 05+05=10
+2.	Conducting of Experiment, One experiment( Group of five)+ One experiment(Individual) : 10+05=15
+3.	Calculation, results, Interference (Both experiments) :	10+10=20
+4.	Viva : 05
+
+<br><br><b>TOTAL = 50 Marks</b>

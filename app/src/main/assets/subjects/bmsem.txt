@@ -1,0 +1,47 @@
+UNIT – I: BASIC MANAGEMENT SKILLS	
+Describe different skills, Importance of Knowing yourself, process of knowing yourself SWOT Analysis, Benefits of swot analysis, usage of swot analysis, perception, and how to improve perception, communication-Channels of communication. Formal and informal communication network,   Barriers to communication, barriers to communication, effective communication, Team building- , aspects of team building, skill needed for team building, Model of team building, characteristics of effective team, role of team members, maintenance, types of maintenance, breakdown maintenance quality, objectives cost balance and relation between cost and quality ,concept of TQM ,    TQM elements                                                                                                        tools and techniques of TQM, features of TQM,    TQM tools -flow charts , pereto charts
+<br><b>[12 Hrs] [30 Marks] </b>
+
+UNIT – II: INDIAN ELECTRICITY RULES
+IE RULES applicable to electric power transmission lines,    electric power distribution lines service mains,     interior wiring, testing of installation, earthing power installations
+<br><b>[06 Hrs] [20 Marks] </b>	
+
+UNIT – III: ENERGY MANAGEMENT
+Energy management and its importance, energy conservation and its need, Methodology of energy management, energy management techniques, energy crisis, causes of energy crisis, Energy management software(EMS) various stages of EMS, Describe Energy and facility management system(EFMS), purpose of EFMS, Methodology of EFMS Processes in EFMS, block diagram of EFMS components &applications of EFMS         
+<br><b>[05 Hrs] [15 Marks] </b>
+
+UNIT – IV: ELECTRICAL ENERGY CONSERVATION
+Need of energy conservation in India, ENERGY CONSERVATION ACT 2001,the national role of IRDEA (Indian renewable energy development agency)in energy conservation, Energy conservation in T&D lines., measures to optimize T&D losses, r Energy conservation in industries, role of power factor improvement in energy conservation   , energy conservation in domestic sector, industrial sector, agriculture sector, Energy efficiency- its significance energy efficient devices, energy efficient motors, application s energy efficient motor ,  selection of electric drives, energy conservation in electric drive , energy efficient lighting sources,  power quality, and its parameters, power quality measurable quantities, power quality problems and its remedies ,  pricing of electricity
+<br><b>[16 Hrs] [40 Marks] </b>
+
+UNIT – V: ENERGY AUDIT
+Need for energy audit, scope and types of energy audit,   Methodology, demand side management (DSM),need for DSM and benefits of DSM,   DSM implementation strategy, DSM implementation of program
+<br><b>[06 Hrs] [20 Marks] </b>
+
+UNIT – VI: SAFETY AND ENVIRONMENTAL ISSUES
+Safety measures, accident and loss of accident causes of accident & prevention of accident role of safety in an industry general functions of safety committee, role of a safety committee, safety measures in industries , Ozone layer and process of depletion & Effects of ozone layer depletion, Global warming ,effects of global warming,  need for environmental assessment, Methods of carrying out EIA
+<br><b>[07 Hrs] [20 Marks] </b>
+
+<b>Reference Books:</b>
+
+<br><br>1.	Basic management skills and Indian constitution by B A Srinivas
+<br>2.	Basic management skills and Indian constitution by	Mundas and Muller
+<br>3.	Energy management by Umeshrathore
+<br>4.	Energy conservation and Management by Suresh kumarsoni and Manoj nair
+<br>5.	Electrical estimation and specification by M.Raghunathrao
+<br>6.	Electrical estimation and specification by Raghavendrarao
+<br>7.	Soft Skills by Dr. K. Alex, S Chand & Company Ltd.
+<br>8.	Total Quality Management by Prof. Dr. H D Ramachandra
+<br>9.	Total Quality Management by S Raja Ram, M Shivashankar
+<br>10.	Industrial Engg. & Mgmt Science by T R Banga & SC Sharma.
+
+<br><br><b>Website:</b>
+
+<br><br>1.	www.globalgoodfund.org
+<br>2.	www.isdm.org.in/leadership-developmen
+<br>3.	www.isixsigma.com
+<br>4.	www.inc.com/encyclopedia/total-quality-management-tqm
+<br>5.	indian-electricity-rules-2010-free-download
+<br>6.	www.mahaurja.com/PDF/needec.pdf
+<br>7.	https://beeindia.gov.in/sites/default/files/1Ch3.pdf
+<br>8.	https://kalyan07.wordpress.com/.../introduction-to-demand-side-management-benefits

@@ -1,0 +1,52 @@
+Unit – I: Introduction to computer
+1.	Identify and understand the models of Computers, Identify and understand front panel and back panel connections of a Computer system, Identify and understand the physical components of a Computer.
+<br>2.	Conduct computer system connection and understand the booting process.
+<br>3.	Practice creating Icons and Folders,  Creating/Opening of file, Editing and saving the document, Copy, Cut and Paste operations, in-built utilities of OS like –  Text editors, paint, calculator, etc.
+<br>4.	Practice browsing of different sites using search engine.
+<br>5.	Practice Creating E-Mail accounts-Mail Group, Sending, and Receiving of E-Mails.
+
+Unit – II: Word Processing
+1.	Create a Business Letter and Personal Letter.
+<br>2.	Create a Company Letterhead.
+<br>3.	Create a Simple Newsletter with minimum three columns. Insert a Clip art in the newsletter.
+<br>4.	Create a Resume for a Job Application.
+<br>5.	Create the cover page of a Project Report(use Word Art, insert Picture Image).
+<br>6.	Prepare the class time table for your class.
+<br>7.	Create mail merge 
+
+Unit – III: Spreadsheet
+1.	Create a worksheet with five columns. Enter ten records and find the sum of all columns using auto sum feature.  
+<br>2.	You have a monthly income of Rs.11000. Your monthly expenditures are Rent- Rs 3500, Food- Rs. 1500, Electricity- Rs.110, Phone- Rs. 160, and Cable TV-Rs. 300. Prepare  a worksheet with the Monthly Income, the Monthly Expenditures listed and summed, monthly savings amount (what’s left over each month) calculated, and the amount saved per day (assuming 30 days in a month).
+<br>3.	Create a worksheet containing the pay details(containing Basic pay, DA, HRA ,Other Allowances , Deductions- PF,PT, Insurance, Gross and Net salary) of the employees using formulas.
+<br>4.	Create a Simple Bar Chart to highlight the sale of a company for three different periods.
+<br>5.	Create a Pie Chart for a sample data and give legends.
+
+Unit – IV: Database
+1. Create a simple table for result processing
+<br>2. Design a query table for the same table
+<br>3. Design a form to update/modify the table contents
+<br>4. Design a report to print the result sheet and marks card for the above table.
+
+Unit – V: Presentation
+1.	Using presentation tool, Create a simple Presentation consisting of 4-5 slides about Input and Output Devices.
+<br>2.	Create a presentation about a book containing Title, Author, Publisher and Contents.
+<br>3.	Create an automated (with timings & animation) Presentation with five slides about different Models of Computers. Use Presentation tool.
+
+Unit – VI: Basics of Internet
+1. Practice browsing of different sites using search engine
+<br>2. Practice Understanding different e-mail services-Outlook, Yahoo mail, rediff mail , Gmail. etc.
+<br>3. Practice creating e-mail account, Sending Receiving & Storing of mails
+
+<b>Reference Books:</b>
+<br><br>1.	Computer Fundamentals Concepts, Systems, Application, D.P.Nagapal, S.Chand Publication, RP-2014, ISBN: 81-219-2388-3
+<br>2.	http://www.tutorialsforopenoffice.org/
+<br>3.	http://www.libreoffice.org/get-help/documentation/
+<br>4.	http:// www.kingsoftstore.com/
+
+<b>Scheme of Valuation for SEE:</b>
+
+<br><br>1.	Viva : 10
+<br>2.	One question to be set from any 2 of the 4 combination (Two Questions) : 15 x2 =30
+<br>3.	Five Questions to be asked on Internet Basics :	10
+
+<br><br><b>TOTAL = 50 Marks</b>

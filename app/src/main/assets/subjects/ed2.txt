@@ -1,0 +1,41 @@
+UNIT I: PROJECTION OF SOLIDS
+Introduction-Positioning of solids –Solid lying with base on HP- Solids lying with base or axis inclined to HP- Solids lying with one of the lateral faces on HP- Solids lying with one of their lateral edges on HP-Cylinder lying with its axis or base inclined to HP- Cone lying with its axis or base inclined to HP -Solid lying with their axis inclined to both HP and VP.
+<br><b>[15 Hrs] [26 Marks] </b>
+
+UNIT II: CONVERSION OF  ISOMETRIC VIEWS INTO ORTHOGRAPHIC VIEWS
+Introduction –Guidelines for conversion of pictorial views into orthographic views-Illustrative problems.
+<br><b>[06 Hrs] [12 Marks] </b>
+
+UNIT III: ISOMETRIC VIEWS
+Principles of isometric Views
+<br>Isometric views of simple solids – cube – prisms, pyramids, cylinder and cone . Conversion of orthographic views into isometric View 
+<br>Drawing of Isometric views of combination of solids , Civil Engineering components i.e. column footing, carpentry joints
+<br><b>[15 Hrs] [27 Marks] </b>
+
+UNIT IV: PERSPECTIVE PROJECTIONS
+Technical terms used in perspective projection- one point Perspective projection and two point perspective projection for simple objects like Cube, Prism, Pyramids, combination of solids and simple civil engineering objects.
+<br><b>[09 Hrs] [19 Marks] </b>
+
+UNIT V: CROSS SECTION OF BUILDING COMPONENTS
+Conventional Representation of Civil Engineering materials.
+<br>Cross section of Wall showing components of a Building from parapet to foundation through door, window, wardrobe, wall, steps and columns.
+<br><b>[09 Hrs] [16 Marks] </b>
+
+UNIT VI: BUILDING DRAWING	
+Draw Plan, Elevation and Section for Single ,Double Room Building and Three Room Building  form the given line Diagram and Building details.
+<br><b>[24 Hrs] [40 Marks] </b>
+
+<b>Text books:</b>
+
+<br><br>1.	K.R.Gopalakrishna “Fundamentals of Drawing”  Subhas Publications, 2010.
+<br>2.	K.R.Gopalakrishna “Engineering Drawing” (Vol. I and II), Subhas Publications, 2014.
+
+<br><br><b>References:</b>
+
+<br><br>1.	R.K. Dhawan, “A text book of Engineering Drawing”, S.ChandPublishers, Delhi, 2010.
+<br>2.	G.S. Phull and H.S.Sandhu, “Engineering Graphics”, Wiley Publications, 2014.
+<br>3.	K.Venugopal and V.Prabhu Raja, “Engineering Graphics”, New Age International Private Limited,2008.
+<br>4.	M.B.Shah and B.C.Rana, “Engineering Drawing”, Pearson Education, 2005.
+<br>5.	DhananjayA.Jolhe, “Engineering Drawing with an Introduction to AutoCAD”, Tata McGraw Hill Publishing Company Limited, 2008.
+<br>6.	Basant Agarwal and Agarwal.C.M., “Engineering Drawing”, Tata McGraw Hill Publishing Company Limited, New Delhi, 2008.
+<br>7.	IS 962 (1989) Code of practice for Architectural and  Building Drawings

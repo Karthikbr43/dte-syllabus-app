@@ -1,0 +1,56 @@
+<b>Experiments:</b>
+
+<br><br>1.	Study and measure voltages of SMPS
+
+<br><br>2.	Drawing the motherboard layout (any latest processor) and studying the chipset  through data books or Internet
+
+<br><br>3.	CMOS setup of any latest PC
+
+<br><br>4.	Fault findings:	(a) Problems related to CPU  (b) Problems related to RAM
+
+<br><br>5.	Disassembly and Assembling of PC and Installation of Operating System: a)	Windows  b) Linux. Perform dual booting also.
+
+<br><br>6.	Learn parallel port, serial port and USB port testing and Installation of Scanner, Printers and ADSL/DSL Modems
+
+<br><br>7.	Crimping of RJ45: Straight and Cross. 
+<br>a)	Punching Cat 6 cable to I/O Box. Use punching tool.
+<br>b)	Check connectivity using LAN tester.
+
+<br><br>8.	Install a Switch and Wireless router
+
+<br><br>9.	Study different IP class (A, B, C) addressing. (Manual and Dynamic). Check connectivity for peer-to-peer and client-server 
+
+<br><br>10.	Windows Server and also install the following services : a)	Active directory b) DNS c) DHCP 
+
+<br><br>11.	Visit any industry / institutes (Engineering colleges, university campuses, etc) and study the following 
+<br>i)	Type and Configuration of client PC’s and OS (Eg: Linux, Windows, MAC etc.)
+<br>ii)	Type and Configuration of Servers and Domains used
+<br>iii)	Type of networking (Topology and media used)
+<br>iv)	Different network devices used (switch, routers, access points etc)
+<br>v)	Different types of peripheral devices used (Eg: printers, scanner, web cam etc.)
+<br>vi)	Applications used by the users. 
+<br><br>Prepare a report of about 3 to 4 (A4 size) pages and include in the lab record.  
+
+<b>Reference Books:</b>
+
+<br><br>1.http://www.howtogeek.com/			
+<br>2.http://www.infotechguyz.com/
+<br>3.http://www.rebeladmin.com/2011/03/step-by-step-guide-to-setup-active-directory-windows-server-2008/	
+
+<br><br><b>Student Activity</b>
+
+<br><br><b>Note: The following activities or similar activities for assessing CIE (IA) for 5 marks (Any one). Student activity like mini-project, surveys, quizzes, etc. should be done in group of 3-5 students.</b>
+
+<br><br>1.	Study and prepare a comparative report about the make, model, configuration, etc.,  of different types of Printers. 
+<br>2.	Study and prepare a comparative report about the make, model, configuration, etc., of different types of Scanners. 
+<br>3.	Study and prepare a comparative report about the make, model, configuration, etc., of different types of computer systems / laptops etc.
+<br>4.	Study and prepare a comparative report about the make, model, configuration, etc., of different network components and devices such as router, switches, etc.
+<br>5.	Video conferencing using skpye etc.
+
+<b>Scheme of Valuation for SEE:</b>
+
+<br><br>1.Writing Procedure for two experiments (One each from Part A and Part B) : 10+10=20
+<br>2.Conduction any ONE : 20
+<br>3.Viva Voice : 10
+
+<br><br><b>TOTAL = 50 Marks</b>

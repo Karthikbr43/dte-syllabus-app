@@ -1,0 +1,40 @@
+<b>Experiments:</b>
+
+<br><br>1.	Study of sheet metal shearing machine.
+<br>2.	Exercise on shearing machine.
+<br>3.	Study of the tools used in PRESS TOOL shop.
+<br>4.	Exercise on the operation of hand screw press.
+<br>5.	Exercise on Die setting of power press.
+<br>6.	Exercise on power press
+<br>7.	Exercise on blanking different profiles.
+<br>8.	Exercise on piercing operation.
+<br>9.	Exercise on punching operation.
+<br>10.	Exercise on bending Operation.
+<br>11.	Exercise on forming operation.
+<br>12.	Exercise on notching operation.
+<br>13.	Exercise on perforating.
+<br>14.	Exercise on slitting operation. 
+<br>15.	Die-setting on double action drawing presses.
+<br>16.	Exercise on re-drawing operation.
+<br>17.	Preparation of different types of articles.
+<br>18.	Exercise on special types of presses.
+
+<b>Reference Books:</b>
+<br><br>1. Techniques of press working of sheet metal - D F Eary and E A Roed
+<br>2. Metal Forming by Uday. S. Dixit & R. Ganeshnarayan, Mc. Graw Hill Education
+<br>3. Forging and forming of metals - Rusinoff, - D.B Tarapooresvala sons and G. Pvt Ltd, Bombay.
+<br>4. Press working of metals - C.V. Hinman Mc Graw - Hill Books co inc, New york 
+<br>5. Press tool practice Pt - I to IV - D Hanghton Champion & Hall
+<br>6. Manufacturing science – M.I. Khan Serajul Haque
+<br>7. production technology- R.K. Jain
+
+<b>Scheme of Valuation for SEE:</b>
+
+<br><br>1.	Listing of tools & operations required for performing job : 05
+<br>2.	Marking of job : 05
+<br>3.	Operation performed	: 10
+<br>4.	Dimensional accuracy of job : 10
+<br>5.	Finishing of job : 10
+<br>6.	Viva : 10
+
+<br><br><b>TOTAL = 50 Marks</b>

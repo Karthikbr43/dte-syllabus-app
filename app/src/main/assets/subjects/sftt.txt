@@ -1,0 +1,40 @@
+UNIT - I: INTRODUCTION ELECTRO PLATING
+Definition of electroplating, Different application of electrode deposition, protective coating purpose, built up purpose, refining purpose refining extraction purpose, Illustrate the process of electrolysis, Different electrolytes and non-electrolytes, Describe electrodes conductors, insulators, anode, cathode, ions electrons, Definition of corrosion and its effects on metals, Methods to prevent corrosion,
+<br>Definition of painting galvanizing, tinning, enamelling, Statement of faraday’s laws of electrolysis, Determination of ECE, Problems based on faradays law. 
+<br><b>[08 Hrs] [20 Marks] </b>
+
+UNIT - II: SURFACE CLEANING OF METALS AND ELECTROPLATING EQUIPMENT
+Principle of metals cleaning, Different mechanical cleaning process- sand and shot blasting, illustrate with a neat sketch of grinding, polishing mops, buffing barrel cleaning, Chemical cleaning and its method- Preliminary cleaning or degreasing picking and dripping, Special method of cleaning-ultrasonic cleaning, electrolytic cleaning, electro polishing and barrel cleaning. Define and classified acid based salts and alkalinize, General properties of acids, Properties and use of acids. General principle of electroplating shop layout, Safety precaution in electroplating shop, Electroplating vat and uses, Electro power required for plating, Sketch and explain plating generator. 
+<br><b>[08 Hrs] [25 Marks] </b>
+
+UNIT - III: ELECTROPLATING PROCESSES 
+Properties of plating solutions, Ageing, Ingredients and its function in plating solution, Density of solution, PH value of plating solution, agitation of plating solution, filtration of plating solution, Sulphuric acid and chromic acids, Anodizing process. Chemical composition& Uses of Nickel plating process, Copper plating process, Chromium plating process, Zinc Plating process, Silver plating process-chemical composition operation condition, Coctorting of sliver plating, Gold plating process, Barrel plating process. 
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT - IV: INTRODUCTION TO NON DESTRUCTIVE TESTS (NDT) 
+Define NDT, Classify NDT methods, Visual inspection, Liquid Penetrant Testing – Basic steps in LPT, types of LPT, Advantages and Application. Acoustic Emission Testing – set up, Advantages, Limitation and Application. 
+<br><b>[08 Hrs] [15 Marks] </b>
+
+UNIT - V: MAGNETIC PARTICLE TESTING & EDDY CURRENT TESTING 
+Introduction to MPT, Method of Operation, Sequence of Operation, Demagnetisation, Application, Eddy Current Testing – Introduction , Eddy currents, Skin Effect, Test Coils and Probes, Advantages ,Limitations and Application. 
+<br><b>[08 Hrs] [25 Marks] </b>
+
+UNIT - VI: RADIOGRAPHIC TESTING & ULTRASONIC TESTING 
+Introduction to Radiographic Testing, X-rays and Gamma-rays properties, X-ray Radiography, Advantages, Limitation and Applications of X-rays, Ultrasonic Testing, Types of waves, Wave Generation, Test Frequency, Couplants, Testing Procedure, Operating system – Pulse Echo System, Advantages, Limitations and Applications of Ultrasonic Testing.
+<br><b>[10 Hrs] [30 Marks] </b>
+
+<b>Reference Books:</b>
+
+<br><br>1. Principle of electroplating by WILLIAM BLUM
+<br>2. Canning electroplating handbook by CANNING
+<br>3. Welding Engineering and Technology by R.S. PARMAR, IIT, Delhi, Kanna Publishers, 1999.
+<br>4. Non Destructive Testing by Mc Gonnagle JJ – Garden and Reach, New York.
+<br>5. Electrochemistry by R.K. Jain.
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br><b>Note:</b> The following activities or similar activities for assessing CIE (IA) for 5 marks (Any one)
+
+<br><br>1. Make Visit to nearest work shop ,observe the metal finishing equipment and make the report
+<br>2. Observe the NON destructive Testing process in NDT Lab..
+<br>3. Prepare the given plating and NDT.

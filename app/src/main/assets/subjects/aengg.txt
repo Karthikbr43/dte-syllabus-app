@@ -1,0 +1,49 @@
+UNIT I: AUTOMOBILE ENGINE SYSTEM
+Automobile-definition, types of auto mobiles-Major components of automobile-functions of automobile components-manufacturer of motor vehicles in India- automotive vehicles and their historical development. Engine -Main parts of engine-Cylinder block- Cylinder head- Piston- Connecting rod- Crank shaft- Crankcase- Cam shaft- Flywheel-Engine maintenance-dis-mounting of engine-Engine disassembly-Inspection of engine components-engine reassembly
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT II: TRANSMISSION SYSTEM
+Clutch- Main parts-types of clutch- construction & working of Single plate clutch - diaphragm spring type clutch-Gear Box- Types of Gear box-construction & working of Sliding mesh Gear box-synchromesh Gear box-Constant mesh Gear box, Transmission devices- Torque converter, Overdrive, Final drive- Propeller shaft, Universal Joint - Differential-necessity-construction & working- Axle- Types of rear axle, front axle & their applications- Automatic Transmission System.
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT III: FUEL SYSTEMS & COOLING SYSTEM
+Fuel supply system for petrol engine- Carburettor-Simple carburettor- fuel pump- AC Mechanical pump-SU Electrical pump- DTSI (Digital Twin Spark Ignition System)
+<br>Fuel injection for diesel engine-Fuel injection pump- - microprocessor based fuel injection system- CRDI (Common Rail Direct Injection) System.
+<br>Engine lubrication systems- High pressure Lubrication system- Petroil System 
+<br>Engine cooling system -The necessity of cooling system - Types of cooling system-air cooling and water cooling. Types of water cooling system –Thermosyphon system and pump circulation system. Advantages and disadvantages of air cooling and water cooling systems. The components of water cooling system 
+<br><b>[06 Hrs] [15 Marks] </b>
+
+UNIT IV: CONTROL SYSTEM
+Steering system- Functions & Requirement of steering system. Construction and working of steering linkage. Steering gear box –Rack & Pinion Steering mechanism-Power steering - steering geometry- camber, caster, toe-in, toe-out, Kingpin inclination & their effects. Brake system- Types of brakes- Internal expanding brake - Disc brake- Hydraulic Brake.- Anti-lock braking system(ABS)
+<br><b>[08 Hrs] [20 Marks] </b>
+
+UNIT V: SUSPENSION SYSTEMS, WHEELS & TYRES
+Suspension system-Need for good suspension system-elements of suspension system-Leaf Springs-Helical Springs - Construction & working of McPherson & wishbone type –Air Suspension System- Construction & working of Telescopic shock absorbers-Types of Automobile wheels, their construction & working- essential requirements of wheels -Construction, working & comparison of radial, cross-ply and tubed, tubeless tyre -Tyre specifications-Factors affecting tyre life-Wheel Alignment and Balancing
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT VI: AUTOMOBILE  ELECTRICAL  SYSTEMS
+Auto electric system-main components of auto electric system-Ignition system- construction & working of electronic ignition system-Battery ignition system- Magneto ignition system, Starting system- Charging system. 
+<br>Lighting system - Power door locks features- Smart Wiper Control System - Air bags features used in automobiles.
+<br><b>[08 Hrs] [20 Marks] </b>
+
+<b>Text books:</b>
+<br><br>1. Automobile Engineering, Kirpal Singh, Standard Publication
+<br>2. Automobile Engineering(Developed at NITTTR,Bhopal) K.K.jain R.B.Asthana	Mcgraw Hill
+<br>3. Automobile Engineering	R.B.Guptha
+<br>4. Automobile Mechanics	William Crouse	Tata Mcgraw hill
+<br>5. Automotive Mechanics	Joseph Hitner	
+<br>6. Automobile Engineering	G.S.Narang	Khanna publishers
+<br>7. http://nptel.ac.in/courses/112105051/
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>1. Prepare list of various major automobile manufacturers of Two wheeler sand fourwheelers in India, along with their specification
+<br>2. Prepare report on Top 10 Car/MUV/2W/Heavy vehicle Manufacturers in India & their sale in last 2 Years.
+<br>3. Collect the detail specification on Top 5 models of Car Manufactured in India
+<br>4. Download technical specifications/ catalogues, videos or any other suitable presentations on Automobile engines used in four wheelers
+<br>5. Download technical specifications/ catalogues, videos or any other suitable presentations on Automobile tyres/Power steering/Suspension system
+<br>6. Visit to four- wheeler service station & any automobile manufacturing unit. Prepare hand written report on aspects they observed in service station
+
+<br><br><b>Note:</b> The activities or similar activities for assessing CIE (IA) for 5 marks (Any one)
+<br>1. Each student should do any one of the following type activity or any other similar activity related to the course and before conduction, get it approved from concerned Teacher and HOD.
+<br>2. Each student should conduct different activity and no repeating should occur

@@ -1,0 +1,89 @@
+<b>Experiments:</b>
+
+<br><br><b>PART A: ELECTRIC MOTOR CONTROLS USING RELAY LOGIC CIRCUITS</b>
+<br><br>01.	Draw the standard symbols of control components.
+<br><br>02.	Identify different types of push button switches- single element and two element ON/OFF switches, mushroom head emergency stop switch, illuminated type, key lock type, selector switches and limit switches. Note down the technical specifications.
+<br><br>03.	Identify Bi-metallic Over Load Relay, Time Delay Relays - Electronic timer and Electro-mechanical Pneumatic timerandSingle Phase preventer. Note down the technical specifications and terminal identification numbers.
+<br><br>04.	Identify the parts of a contactor, number of NOs, NCs, nature of coil supply AC/DC, voltage ratings and current ratings. Note down the technical specifications and terminal identification numbers.
+<br><br>05.	Rig up and test the followingapplications of logic gates using push button switches, contactor and indicators.
+<br>a)	Starting from two different locations (OR Function)
+<br>b)	Stopping from one position (NOT Function)                                            
+<br>c)	Two hand operation (AND Function)
+<br>d)	Stopping from two different locations (NOT+OR or NOR Functions)
+<br>e)	Stopping if both signals are given(NOT+AND or NAND functions)
+<br>f)	Memory function (Signal is maintained or holding)
+<br><br>06.	DOL Starter:                                                                                                            
+<br>(a) Rig up and test Direct On Line Starter.
+<br>(b) Rig up and test Direct On Line Starter with local and remote start stop.(c) Rig up and test Direct On Line Starter with inching operation.
+<br><br>07.	Rig up and test the control circuit for forward and reverse operation of a motor with interlocking function using auxiliary contact.
+<br><br>08.	Rig up and test the control circuit for forward and reverse operation of a motor with interlocking function using combined auxiliary contact and push buttons.
+<br><br>09.	Rig up and test the control circuit for semi-automatic star delta starter.
+<br><br>10.	Rig up and test the control circuit for fully automatic star delta starter.
+<br><br>11.	Rig up and test the control circuit for sequence operation of two motors. (The second motor cannot be started unless the first motor starts)
+<br><br>12.	Rig up and test the control circuit for automatic change over of supply from EB to DG set when the EB supply fails.
+
+<br><br><b>PART B: PROGRAMABLE LOGIC CONTROLLERS</b>
+<br><br>13.	Identify the following devices:
+<br>INPUT DEVICES and THEIR APPLICATIONS.
+<br>Push button switches, Thermal /Temperature sensors/ switches, Pressure switches,  Float switches, Magnetic or reed switches, Limit switches, Proximity sensors- capacitive and inductive types, Optical sensors, Encoders, Relay, Contactor, Solenoid valve.
+<br>OUTPUT DEVICES and THEIR APPLICATIONS.
+<br>Contactors, Motors,Indicators and Hooters/Alarms.
+<br><br>14.	Identify the type of PLC – Digital and Analog types.   Identify the wiring mode of PLC- sourcing and sinking modes.                                    Identify and Install Programming Software and communication driver.
+<br><br>15.	Identify the PLC Programming Method used in thelaboratory–Ladder program/ Functional Block Diagram /Instruction List/structured text. Connecting PLC, communication cable and programming device. configure and establish communication between them.Identify protocols used for communication.
+<br><br>16.	Understand - The Operation modes of PLC - program, run and test modes. Data files and program files, Configuration of I/Os and Addressing I/Os.
+<br><br>17.	Identify the most commonly used PLC programming instructions and their applications: XIC, XIO, OTE, Latch,Unlatch,Timer and Counter Instructions.
+<br><br>18.	Develop and test the ladder programs for the following motor controls:
+<br>a)	Starting from two different locations (OR Function)
+<br>b)	Stopping from one position (NOT Function)                                            
+<br>c)	Two hand operation (AND Function)
+<br>d)	Stopping from two different locations (NOT+OR or NOR Functions)
+<br>e)	Stopping if both signals are given(NOT+AND or NAND functions)
+<br>f)	Memory function (Signal is maintained or holding)
+<br><br>19.	Develop and test the ladder programof Alarm system for the following conditions: If one input is ON- nothing happens, If any two inputs are ON- a red light turns ON, If any three inputs are ON- a Hooter/Alarm turns ON.
+<br><br>20.	Develop and test the ladder program for DOL starter.Develop and test the ladder program for DOL starter with local and remote controls.	
+<br><br>21. Develop and test the ladder program for interlocking two motors. 
+<br><br>22.	Develop a ladder programs to study ON delay. Application: Develop and test ladder program for switching ON motor1, motor 2 and motor 3 in sequence with some time delay.
+<br><br>23.	Develop and test ladder Program for Automatic fully Star-Delta starter. 
+<br><br>24.	Develop and test ladder program for water level controller using latchand unlatch instructions. 
+<br><br>25.	Interface and test PLC based DOL starter and run the motor. 
+<br><br>26.	Interface and test PLC based Star-Delta starter and run the motor.
+
+<b>Reference Books:</b>
+<br><br>1.	Control of electrical machines by S.K.Bhattacharya Birjinder singh, New Age International. 
+<br>2.	Electrical Design Estimation and costing by K.B.Raina & K.Battacharya. Khanna Publications.
+<br>3.	Electrical Estimating and costing by Surjit Singh , Dhanpat Rai Company.
+<br>4.	Robotics and Industrial Automation by R.K. Rajput , S. CHAND PUBLISHING.
+<br>5.	Introduction to PLC by Gary Dunning , Cengage Learning.
+<br>6.	PLC, Principles and Applications by John W. Webb and Ronald A. Reis
+<br>7.	NITTTR PLC STTP Course Materials.
+<br>8.	www.controlmanuals.com  - Search for PLC and related topics.
+<br>9.	https://books.google.co.in/books/about/Control_Of_Electrical_Machines.html?id=1SHK6AJemEIC
+<br>10.	http://booksite.elsevier.com/9781856176217/appendices/01~Ch11.pdf
+<br>11.	electrical-engineering-portal.com › Resources
+
+<br><br><b>Suggested Student Activity (any one to be submitted with 3 pages report):</b>
+
+<br><br>01.	Prepare a report on applications of PLC in the Industries.
+<br>02.	Prepare a report on different types/models of PLC used in the industries.
+<br>03.	Prepare a report on various input and output devices used with PLCs.
+<br>04.	Prepare a report on Protocols used for communication with PLCs in industries.
+<br>05.	Prepare a report on different makes and models of contactors used in industries and their applications.
+
+<br><br><b>OR</b>
+
+<br><br>Develop ladder programs for any one of the following PLC based applications:
+<br>01.	Automatic Traffic signal control.
+<br>02.	Two signal lights flashing alternately at some time interval.
+<br>03.	Automatic conveyor system- Example: when the ON button is pressed, the conveyor system starts running provided the object is sensed (when an object /load is placed on it) and reverses it direction after few counts of objects and continues to run in forward and reverse directions until OFF button is pressed or when objects are not loaded / sensed for, say10 secs.
+<br>04.	Go Down lighting:- when one switch is pressed, the light in that section will be ON. When a switch is pressed in the next section , the light will be ON in that section and the light in the previous section will be OFF.
+<br>05.	Stair case lighting for two or more floors:- Ground floor and top floor have one way switches and in between floors has two way switches. 
+
+<b>Scheme of Valuation for SEE:</b>
+
+<br><br>1.	Identification of different components : 05
+<br>2.	Power circuit and control circuit diagrams / Ladder Programs.(For any One experiment from part A or part B) : 10
+<br>3.	Conduction /Execution : 20
+<br>4.	Results	: 05
+<br>5.	Viva-voce : 10
+
+<br><br><b>TOTAL = 50 Marks</b>

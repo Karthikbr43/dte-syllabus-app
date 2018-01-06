@@ -1,0 +1,51 @@
+UNIT - I: Introduction and Basic concepts
+Scope and limitations of thermodynamics, System, surroundings, processes, heterogeneous and homogeneous systems, closed and open systems, , intensive and extensive properties, state and path functions, force, pressure and energy, equilibrium state and phase rule, reversible and irreversible process, zeroth law of thermodynamics, heat reservoirs and heat engines
+<br><b>[08 Hrs] [20 Marks] </b>
+
+UNIT - II: First law of Thermodynamics
+General statement of first law of thermodynamics, first law of cyclic process and non flow process, internal energy, heat capacity, Enthalpy. Derivation for closed system and steady state flow process-flow calorimeter and heat calorimeter, simple problems.
+<br><b>[08 Hrs] [20 Marks] </b>
+
+UNIT - III: PVT  behaviour
+P-V-T Behaviour of pure fluids, equations of state and ideal gas law, processes involving ideal gas law :constant pressure,  constant temperature, Constant Volume, adiabatic and polytrophic processes , equation of state for real gases :Vander Waals equation,  Redlich-Kwong state, generalized compressibility chart 
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT - IV: Heat effects
+Heat effects accompanying chemical reactions, the standard heat of reactions, the standard heat  of  combustion, the standard heat of formation, Hess’s law of constant heat summation, effect of temperature on standard heat of reaction, temperature of reaction, simple problems.
+<br><b>[06 Hrs] [15 Marks] </b>
+
+UNIT - V: Second law of thermodynamics
+Limitations of first law of thermodynamics, qualitative differences between heat and work, Second law of Thermodynamics: general statement of the second law of thermodynamics, concept of entropy, Carnot’s principles, the equivalence of the Kelvin and Clausius statement, thermodynamic temperature scale, Ideal gas as the Carnot engine working substance, process involving ideal gases, adiabatic mixing process,  entropy and irreversibility, mathematical statement of the second law of thermodynamics. 
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT - VI: Thermodynamic properties of pure fluids
+Third law of thermodynamics, work functions, Classification of thermodynamic properties, Gibbs free energy, Gibbs Helmholtz equation fundamental property relation, fugacity, fugacity coefficient.
+<br><b>[10 Hrs] [30 Marks] </b>
+
+<b>Reference Books:</b>
+
+<br><br>1.	Chemical Engineering Thermodynamics by K. V. Narayanan
+<br>2.	Chemical Reaction Engineering-I by K. A. Gavhane.
+<br>3.	Chemical Engineer’s Handbook By Robert H Perry. 
+<br>4.	Chemical Reaction Engineering second edition by Octave Levenspiel.
+
+<br><br><b>E –Learning</b>
+
+<br><br>https://www.youtube.com/watch?v=-gSL6cc9HLg
+<br>https://www.youtube.com/watch?v=kJlmRT4E6R0
+<br>https://www.youtube.com/watch?v=lbPEaaKiCww
+<br>https://www.youtube.com/watch?v=jNPUCmkKiE4
+<br>https://www.youtube.com/watch?v=G3vISXYom1o
+<br>https://www.youtube.com/watch?v=y6pGjfi8FZw
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>1. Solve simple problems on force, pressure, internal energy, work done on system and surroundings.
+2. Search through proper sources the applications of First and Second law of thermodynamics and submit a report.
+3. Solve simple problems on heat effects.
+4. Summarize with relevant examples the application of Carnot’s principle.
+5. Collect information from any source on various types of reactors used for particular processes and submit a summary.
+
+<br><br><b>Note:</b> The activities or similar activities for assessing CIE (IA) for 5 marks (Any one)
+<br>1. Each student should do any one of the following type activity or any other similar activity related to the course and before conduction, get it approved from concerned Teacher and HOD.
+<br>2. Each student should conduct different activity and no repeating should occur

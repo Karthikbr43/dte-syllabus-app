@@ -1,0 +1,75 @@
+UNIT - I: ENERGY CONSERVATION AND STORAGE
+Energy- Energy Sources & their Availability - Importance of  Renewable Energy Resources -Principles of energy conservation- Energy storage- Necessity of energy storage-Energy storage methods- Mechanical Energy storage -Pumped storage-Compressed air storage- Electrical Storage -Lead Acid Battery -Chemical Storage -Energy storage via hydrogen - Electromagnetic energy storage.
+<br><b>[08 Hrs] [20 Marks] </b>
+
+UNIT - II: SOLAR ENERGY
+Solar energy - Introduction-Solar constant- Solar Radiation at the Earth’s surface-measurements of solar radiation-pyronometer- pyrheliometer- sunshine recorder –Solar collectors-Classification-liquid flat plate collector-construction-effect of various parameter on its performance-Concentrating collector-Focusing and non-focusing type-Applications of Solar Energy  - solar water heater- Solar Cooker-Box type- Solar dryer-solar greenhouse—Summer and winter greenhouse-solar electric power generation-Solar photovoltaic.	
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT - III: WIND ENERGY
+Introduction - Basic Principles of  Wind energy conversion-The nature of wind- The power in the wind  ( No derivations )- Forces on the Blades  ( No derivations  )-Site Selection considerations-Basic components of a wind energy conversion system (WECS)-Advantages & Limitations of WECS-Wind turbines (Wind mill )-Horizontal Axis wind mill-Vertical Axis wind mill-performance of wind mills-Environmental aspects
+<br><b>[08 Hrs] [20 Marks] </b>
+
+UNIT - IV : ALTERNATIVE FUELS - AN OVERVIEW
+Introduction-need -classification, Business driving factors for alternative fuels, implementation barriers for alternative fuels, Government promotion of alternative fuels, stakeholders of alternative fuels.
+<br><b>[07 Hrs] [15 Marks] </b>
+
+UNIT - V: BIO - FUELS
+Methanol–Introduction-properties-Manufacture-types, from lignite or coal-layout-working principle, from municipal solid wastes-layout-working principle, properties, storage, advantages &disadvantages of methanol, methanol emissions. 
+<br>Ethanol–Introduction-properties-manufacture of ethanol from food grains-layout-working principle, ethanol from sugarcane-layout-working principle, properties, storage of ethanol, advantages & disadvantages of ethanol, ethanol diesel blends(E-diesel)-concept-need, ethanol gasoline blends (Gasohol)-concept-need-merits-demerits, emissions from ethanol,
+<br>Biodiesel-introduction-sources, biodiesel production-Process layout-working principle, properties of biodiesel, biodiesel storage, material compatibility, advantages and disadvantages of biodiesel, biodiesel emission. 
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT - VI: GASEOUS FUELS
+Gaseous fuel-types, Bio gas-Introduction-composition-properties-production, biogas plants-types, Dome type-construction-working, floating drum type-construction-working, biogas storage-types, advantages-disadvantages, emissions.
+<br>Hydrogen-introduction- properties-advantages-disadvantages-hazards, list production process  types , electrolysis of water-working principle, storage methods-types, emissions of hydrogen, CNG- Introduction-production-properties-storage-advantages-disadvantages,CNG kit-layout, emissions from CNG, LPG-introduction-production, properties-storage-dispensing & transportation-advantages and disadvantages, LPG Fuel kit layout, emission from LPG.
+<br><b>[09 Hrs] [30 Marks] </b>
+
+<b>Reference Books:</b>
+
+<br><br>1. Non-Conventional energy sources,	G.D.Rai, Khanna Publishers
+<br>2. Non-Conventional energy sources-2E, B.H.Khan, Tata McGraw Hill
+<br>3. Renewable Energy Sources & Emerging Technologies, D P Kothari, KC Singal & RakeshRanjan, Prentice Hall India
+<br>4. Solar energy, H.P.Garg, McGraw Hill-Education
+<br>5. Alternative fuels, Thipse, Jaico publications
+<br>6. Alternative Fuels and the Environment, Frances S. Sterrett, Hardback
+<br>7. Internal combustion  Engine, M.L. Mathur and R.P. Sharma, DhanpatRai Publications
+<br>8. Alternative fuels, V.Ganeshan, McGraw Hill Education(India)Private Limited, New Delhi
+<br>9. Automobile Engg (V-I, engines), Anil Chikara	
+<br>10.Alternative fuel Technology, Erjavec and Arias, CENAGE Learning	
+
+<br><br><b>Website:</b>
+
+<br><br>1. http://nptel.ac.in/courses/112105051/ 
+<br>2. https://www.youtube.com/watch?v=Ota2_LUuar0 
+<br>3. https://www.youtube.com/watch?v=Ota2_LUuar0 
+<br>4.https://www.youtube.com/watch?v=3dJAtHaSQ98 
+<br>5. https://www.youtube.com/watch?v=xokHLFE96h8 
+<br>6. http://www.tatapower.com/businesses/renewable-energy.aspx 
+<br>7. http://www.cleanlineenergy.com/technology/wind-and-solar 
+<br>8. https://www.youtube.com/watch?v=kbuLfXgw4Gs 
+<br>9. https://www.youtube.com/watch?v=r9q80sSHxKM 
+<br>10.https://www.youtube.com/watch?v=GZKKWz_tX1c 
+<br>11.http://cleantechnica.com/2012/03/08/top-eight-alternative-fuels/
+<br>12.http://www.intechopen.com/books/authors/alternative-fuels-technical-and-environmental-conditions/combustion-of-gaseous-alternative-fuels
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>1. Identify the solar intensity and wind speed in your institute locality and calculate the intensity of Solar/Wind Power can be generated.
+<br>2. Visit to web site of ministry of renewable energy ,Government of India:
+<br>http://mnre.gov.in/
+<br>make a Study on ‘Developmental Impact and Sustainable Governance aspects of Renewable Energy Projects’
+<br>3. Visit solar power plant /wind power plant available in your locality/ nearer to your institute and understand different elements, working, and note the power generation by these plants
+<br>4. Prepare a chart on comparative study of properties of alternative fuels.
+<br>5. Prepare a report on different feedstock selection to produce alternative fuels.
+<br>6. Analyze combustion of different alternative fuels and submit a report of the comparative analysis.
+<br>7. Run the engine with different alternative fuels and prepare performance report.
+<br>8. Prepare a report on engine modifications for different alternative fuels.
+<br>9. Prepare a chart on comparative study of emissions of alternative fuels.
+<br>10. Visit nearby biogas/bio fuel plants and prepare a report.
+<br>11. Draw the Layout of different vehicles runs on alternative fuels analyse and submit report.
+
+<br><br><b>Note:</b> 
+<br>1. Student should prepare a hand written report on any one of the above/similar activity, which helps in achieving above course outcomes.
+<br>2. The report prepared should be approved by the concerned staff and HOD.
+<br>3. The activity group should consist of maximum of three students.

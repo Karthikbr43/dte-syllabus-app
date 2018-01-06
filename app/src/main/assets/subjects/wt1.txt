@@ -1,0 +1,38 @@
+UNIT I: Introduction to Welding Technology
+Introduction, Four fabrication processes and their fields of application –casting, forming, machining and welding, History of welding. Classification based on the method of heat generation and its application, Classification of allied process, commonly welded base metals, Advantages of welding, Disadvantages of welding, Practical application of welding
+<br><b>[06 Hrs] [15 Marks] </b>
+
+UNIT II: Gas Welding
+Introduction, gases, setup and equipment, oxy-acetylene flame and types, flame ignition and adjustment, gas welding techniques, weld ability, weld joint design, applications. Variants of gas welding.  
+<br><b>[08 Hrs] [25 Marks] </b>
+
+UNIT III: GTAW and GMAW
+Introduction , Equipment and Materials , GTAW Circuit and Set up,  GTAW operation,  Joint Design,  Application,  Variants of GTAW, GMAW. Introduction, GMAW Equipment and material, Welding variant and setup, GMAW variables, GMAW operation and technique, Joint Design, flux,  Applications, Variants of GMAW
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT IV: Welding Allied Processes (Soldering, brazing, Adhesive)
+Soldering mechanism,  Solders , Fluxes ,  Joint design , Soldering procedure, Soldering methods and equipment,  Brazing,  Joint design,  Cleaning the joint face,  Selecting the flux,  Selection of a Brazing process,  Post cleaning and inspections,  Variants of the process, uses.  adhesive bonding ,  Nature of adhesive joint ,  Adhesive and their classification, Joint design ,  Joint strength ,  Bonding methods ,  Testing and quality control,  Application.  
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT V: Welding Allied Processes (Surfacing, Spraying, Cutting)
+Surfacing ,  types of wear,  types of surfacing,  surfacing methods ,  selection of a surfacing process,  mention of substrate,  classification and characteristics of surfacing materials,  selection of a surfacing material, surfacing procedure ,  introduction Metal spraying,  surface preparation, marking, metalizing materials and their selection, metalizing processes, coating characteristics and evaluation, applications,  thermal cutting process,  oxygen cutting process,  arc cutting process,  high energy beam cutting
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT VI: Welding Safety and Process selection in welding
+Safety Recommendation for installation and operation of Gas and ARC welding  and Gas and Arc cutting equipment,  Explosive, fire and other hazards,  Protection of welding.  Process selection introduction, Criteria for process selection, type of product, flow chart for process selection, conclusions.
+<br><b>[08 Hrs] [15 Marks] </b>
+
+<b>Reference Books:</b>
+
+<br><br>1.	Welding principles and practices by Edward R. Bohnart, Mc. Graw Hill Education, 2014.
+<br>2.	Welding and Welding technology, Richard L little, Mc. Graw Hill Education
+<br>3.	Welding processes and technology – Dr. Parmar.R.S
+<br>4.	Welding processes and technology – O.P Khanna
+<br>5.	Manufacturing Technology : Foundry Forming and Welding, P.N.Rao 2nd Edition TMH
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br><b>Note:</b> The following activities or similar activities for assessing CIE (IA) for 5 marks (Any one)
+
+<br><br>1. Make Visit to nearest work shop ,observe the Arc and Gas welding and make a hand written report
+<br>2. Observe the welding shop of your polytechnic and study its specifications and list the general safety.

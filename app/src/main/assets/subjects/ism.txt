@@ -1,0 +1,40 @@
+UNIT I: Introduction to Information Storage and Data centre Environment.
+Introduction to Information Storage- Information Storage, Data, Types of Data, Big Data, Information, Storage, Evolution of Storage Architecture, Data Centre Infrastructure, Core Elements, Key characteristics for Data Centre Elements, Managing Data centre, Virtualization and Cloud Computing.
+<br>Data Centre Environment	-Application, DBMS, Host, OS, Memory Virtualization, Device Driver, Volume Manager, File System, Compute Virtualization,  Connectivity- Physical Components of Connectivity, Interface protocols- IDE/ATA and Serial ATA, SCSI and Serial SCSI, Fibre Channel, Internet Protocol, Storage, Disk Drive Components- Platter, Spindle, R/W Head, Actuator Arm Assembly, Drive Controller Board, Physical Disk Structure, Zoned Bit Recording, Logical Block Addressing, Disk Drive Performance- Disk Service Time, Seek Time, Rotational Latency, Data Transfer Rate;  Host Access to Data, Direct-Attached Storage- Benefits and Limitations, Storage Design Based on Application, Requirements and Disk Performance, Disk Native Command Queuing, Introduction to Flash Drives- Components and Architecture of Flash Drives, Features Of Enterprise Flash drives.  	                
+<br><b>[12 Hrs] [33 Marks] </b>
+
+UNIT II: Data protection: RAID
+Data Protection: RAID - Implementation of RAID, Software RAID, Hardware RAID, RAID Array Components, RAID Techniques- Striping, Mirroring, Parity; RAID Levels- RAID 0, RAID 1, Nested RAID, RAID 3, RAID 4, RAID 5, RAID 6, RAID Impact on Disk Performance, Application IOPS and RAID Configurations, RAID Comparison, Hot Spares.
+<br><b>[08 Hrs] [22 Marks] </b>
+
+UNIT III: Intelligent Storage System
+Intelligent Storage System - Components of an Intelligent Storage System, Front End, Cache- Structure of Cache, Read Operation with Cache, Write Operation with Cache, Cache Implementation, Cache management, Cache Data Protection, Back End, Physical Disk, Storage Provisioning- Traditional Storage Provisioning, LUN Expansion: Meta LUN, Virtual Storage Provisioning, Comparison between Virtual and Traditional Storage Provisioning, LUN Masking, Types of Intelligent Storage Systems- High end Storage Systems, Mid Range Storage Systems.
+<br><b>[08 Hrs] [22 Marks] </b>
+
+UNIT IV: Fibre Channel Storage Area Networks
+Fibre Channel Storage Area Networks - Fibre Channel: Overview, The SAN and Its Evolution, Components of FC-SAN, Node Ports, Cables and Connectors, Interconnect Devices, SAN Management Software, FC Connectivity, Point-to-Point, Fibre Channel Arbitrated Loop, Fibre Channel Switched Fabric, FC-SW Transmission, Switched Fabric Ports, Fibre Channel Architecture, Fibre Channel Protocol Stack- FC-4 Layer, FC-2 Layer, FC-1 Layer, FC-0 Layer, Fibre Channel Addressing, World Wide Names, FC Frame, Structure and Organization of FC Data, Flow Control- BB_Credit, EE_Credit,, Classes of Service, Fabric Services, Switched Fabric Login Types, Zoning, FC SAN Topologies- Mesh Topology, Core-Edge Fabric, Benefits and Limitations of Core Edge Fabric.
+<br><b>[10 Hrs] [28 Marks] </b>
+
+UNIT V: Network Attached Storage
+Network-Attached Storage - General-Purpose Servers vs. NAS Devices, Benefits of NAS, File Systems and Network File Sharing- Accessing a File System, Network File Sharing; Components of NAS, NAS I/O Operations ,NAS Implementations- Unified NAS, Unified NAS Connectivity, Gateway NAS, Gateway NAS Connectivity, Scale Out NAS, Scale Out NAS Connectivity,  NAS File-Sharing Protocols- NFS, CIFS; Factors Affecting NAS Performance, File Level Virtualization.
+<br><b>[06 Hrs] [18 Marks] </b>
+
+UNIT VI: Backup and Archive
+Backup Purpose- Disaster Recovery, Operational Backup, Archival, Backup Considerations, Backup Granularity, Recovery Considerations, Backup Methods, Backup Architecture, Backup and Restore Operations, Backup Topologies, Backup in NAS Environments- Server Based and Server less Backup, NDMP- Based Backup; Backup Targets- Backup to Tape, Physical Tape Library, Limitations of Tape; Backup to Disk, Backup to Virtual Tape, Data Deduplication for Backup- Data Deduplication Methods, Data Deduplication Implementation, Backup in Virtualized Environments, Data Archive, Archiving Solution Architecture- Use Case- Email and File Archiving.
+<br><b>[08 Hrs] [22 Marks] </b>
+
+<b>Text books:</b>
+<br><br>1.	Information Storage and Management, Second Edition,   EMC Education Services, Wiley India Edition, ISBN: 9788126537501.
+
+<br><br><b>References:</b>
+<br><br>1.	Storage Networks Explained, Ulf Tropan, Rainer Erkens, Wofgang Muller, Wiley, ISBN: 9788126518326
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>1. Prepare a presentation on different types of topologies
+<br>2. Survey on Network-Attached Storage
+<br>3. Survey on RAID Calculator
+
+<br><br><b>Note:</b> The activities or similar activities for assessing CIE (IA) for 5 marks (Any one)
+<br>1. Each student should do any one of the following type activity or any other similar activity related to the course and before conduction, get it approved from concerned Teacher and HOD.
+<br>2. Each student should conduct different activity and no repeating should occur

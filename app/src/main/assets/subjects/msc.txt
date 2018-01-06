@@ -1,0 +1,57 @@
+UNIT - I: Casting Technology
+Introduction to pattern, core, mould, moulding, types of patterns-solid piece, split, match plate, gated and sweep, pattern allowances, types of moulding-cope and drag type, pit type, shell moulding, investment moulding. Advantages and disadvantages of casting process
+<br><b>[09 Hrs] [30 Marks] </b>
+
+UNIT - II: Metal forming process
+Hot working –rolling- two ball mill, three high , drawing, deep drawing, direct extrusion and indirect extrusion, cold working-rolling, wire drawing, tube drawing, differentiate hot working and cold working, forging-upsetting, drawing down, punching and fullering, 
+<br><b>[09 Hrs] [20 Marks] </b>
+
+UNIT - III: Welding technology
+Arc welding-metal arc welding, TIG, MIG, spot welding, seam welding, Gas welding, Brazing. 
+<br><b>[08 Hrs] [15 Marks] </b>
+
+UNIT - IV: Conventional machining
+Function of Engine Lathe parts, Lathe operations-turning, knurling, facing, drilling, thread cutting, function of radial drilling machine parts, drilling operations-drilling, reaming, boring, counter boring, counter sinking, tapping, function of column and knee type milling machine parts, milling process-up milling and down milling, milling operations-plain milling, angular milling, form milling, end milling, milling of slots and grooves
+<br><b>[12 Hrs] [40 Marks] </b>
+
+UNIT - V: Non Traditional machining
+Constructional details working principle and application of Ultra Sonic Machining, Abrasive Jet Machining, Electro Chemical Machining, Electron Beam Machining, Laser Beam Machining and  Electric Discharge Machining                               		                                             
+<br><b>[08 Hrs] [25 Marks] </b>
+
+UNIT - VI: Powder metallurgy and Additive manufacturing
+Stages involved in the manufacturing of powder metallurgy components-manufacturing of powder, blending, compacting, presintering and sintering, introduction to additive manufacturing, types of additive manufacturing processes-selective laser sintering and fused deposition method 					                                                                    
+<br><b>[06 Hrs] [15 Marks] </b>
+
+<b>Reference Books:</b>
+
+<br><br>1. Elements of Workshop technology by Hajra and chowdary Vol-1
+<br>2. Elements of Workshop technology by Hajra and chowdary Vol-2, 
+<br>2. Production Technology by R.K.Jain
+<br>3. Production Technology by O P Khanna
+<br>4. A text book on Workshop Technology by R S Khurmi and J K Gupta
+
+<br><br><b>E –Learning</b>
+
+<br><br>1.	http://thelibraryofmanufacturing.com/metalcasting_basics.html
+<br>2.	http://www.iitg.ernet.in/engfac/ganu/public_html/Metal%20casting%20processes_full.pdf
+<br>3.	http://www.scribd.com/doc/23201282/forging-ppt#scribd
+<br>4.	http://yunus.hacettepe.edu.tr/~selis/teaching/WEBkmu479/Ppt/kmu479Presentations2010/ConMach_SawingReamingShapingTappingPlaning.pdf
+<br>5.	http://universe.bits-pilani.ac.in/uploads/5-Lathe.pdf
+<br>6.	http://www.ignou.ac.in/upload/bme059unit-1.pdf
+<br>7.	http://fmcet.in/MECH/ME2026_uw.pdf
+<br>8.	http://www.niceindia.com/qbank/ucmt.pdf
+<br>9.	https://en.wikipedia.org/wiki/Selective_laser_sintering
+<br>10.	http://www.slideshare.net/rajanpagotra/3-d-printingppt
+<br>11.	https://en.wikipedia.org/wiki/Fused_deposition_modeling
+<br>12.	https://www.solidconcepts.com/technologies/fused-deposition-modeling-fdm/
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>1. Visit nearest fabrication shop and study the fabrication process of a particular component, prepare a drawing, list the sequence of operation, tools and machineries used. A hand written report of 2 to 3 pages has to be submitted
+
+<br><br><b>Note:</b> 
+
+<br>1. Group of max four students should do any one of the above activity or any other similar activity related to the course COs and get it approved from concerned Teacher and HOD. 
+<br>2. No group should have activity repeated or similar 
+<br>3. Teacher should ensure activities by different groups must cover all COs 
+<br>4. Teacher should asses every student by using suitable Rubrics approved by HOD

@@ -1,0 +1,40 @@
+<b>Experiments:</b>
+
+<br><br>1.	Blinking of an LED
+<br>2.	Controlling the brightness of an LED Using a potentiometer 
+<br>3.	Create unique color combinations Using RGB LED
+<br>4.	Create various lighting sequences by Connecting 8 LED 
+<br>5.	Giving an input using push buttons
+<br>6.	Controlling  the ON/OFF of an LED by Connecting photo resistor 
+<br>7.	Connecting temperature sensor and reading the output
+<br>8.	Using PWM to control and rotate a servo
+<br>9.	Using flex/force sensor to control and rotate a servo
+<br>10.	Using soft potentiometer to control RGB LED
+<br>11.	Switching ON/OFF a piezoelectric buzzer
+<br>12.	Control spinning of motor
+<br>13.	Control ON/OFF of a relay
+<br>14.	Using a shift register to control eight LEDs
+<br>15.	Using ultrasonic sensor module to activate buzzer
+<br>16.	Using pressure sensor module to activate relay
+<br>17.	Detecting vibration and knocks using sound and piezomodule
+<br>18.	Build an Intelligent system Using accelerometer/gyroscope/gsm/Bluetooth/IR module/light sensor/LCD/keypad/camera/wifi……any other modules ( Any Two)
+
+<b>Reference Books:</b>
+<br>1. Arduino Microcontroller Guide
+
+<br><br><b>Student Activity:</b>
+<br>1.	Perform a Task beyond the curriculum using Arduino or suitable Interfacing boards
+
+<br><br><b>Note:</b>
+<br>1. Group of max four students should do any one of the above activity or any other similar activity related to the course COs and get it approved from concerned Teacher and HOD.
+<br>2. No group should have activity repeated or similar
+<br>3. Teacher should ensure activities by different groups must cover all Cos.
+<br>4. Teacher should asses every student by using suitable Rubrics approved by HOD
+
+<b>Scheme of Valuation for SEE:</b>
+
+<br><br>1.	Writing a Program for a given Task : 15
+<br>2.	Interfacing : 20
+<br>3.	Execution : 15
+
+<br><br><b>TOTAL = 50 Marks</b>

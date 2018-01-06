@@ -1,0 +1,47 @@
+UNIT - I: Introduction to 'C' Language
+Character set, Variables and Identifiers, Built-in Data Types, Variable Definition, Declaration, C Key Words-Rules and Guidelines for Naming Variables.  Arithmetic   operators and  Expressions, Constants and Literals, Precedence and Order of Evaluation. Simple assignment statement, Basic input/output statement, Simple 'C' programs.
+Algorithms – Definition and Characteristics. Simple algorithms. Flow chart – Type of flow chart. Simple flow charts
+<br><b>[10 Hrs] [27 Marks] </b>
+
+UNIT - II: Decision making- Branching and Looping
+Conditions, Relational Operators, Logical Operator. if statement, if-else statement, nested if-else, if-else ladder, Switch, Break, Continue, Goto and Labels. Looping statements – while, do-while, for and nested for loop.
+<br><b>[14 Hrs] [38 Marks] </b>
+
+UNIT - III: Functions
+Definition of Function, Standard Library of C functions, function prototype, Formal parameter list, Return Type, Function call, Block structure, Passing arguments to a Function: call by value.
+<br><b>[06 Hrs] [20 Marks] </b>
+
+UNIT - IV: Arrays
+What is an Array? Declaring an Array, Initializing an Array. One dimensional arrays: Array manipulation; Finding the largest/smallest element in array;  Searching and Sorting of element from an array; Declaring and Initialization of Two dimensional arrays, Addition/Multiplication of two matrices, Transpose of a square matrix; Null terminated strings as array of characters, arrays as function arguments
+<br><b>[08 Hrs] [22 Marks] </b>
+
+UNIT - V: Strings and  Pre-processors
+Strings - Introduction, Declaring and Initializing string variables, Reading and writing strings from variables, Arithmetic operations and characters, Putting strings together, Comparison of two strings, String handling functions 
+<br>Pre-processors - Introduction, Macro substitution, File inclusion.
+<br><b>[06 Hrs] [16 Marks] </b>
+
+UNIT - VI: Structures and Unions
+Basic of Structures, Structures variables, initialization, structure assignment, nested structure, structures and arrays: arrays of structures, Unions, Size of structures, Structure as function arguments
+<br><b>[08 Hrs] [22 Marks] </b>
+
+<b>Text books:</b>
+<br><br>Programming with ANSI-C, E. Balaguruswamy, Sixth  Edition, Tata Mcgraw Hill.
+
+<br><br><b>References:</b>
+
+<br><br>1.Programming with ANSI and Turbo C, Ashok Kamthane, Second Edition, Pearson Education.
+<br>2.Let us C, Yashavant P Kanetkar, 14th Edition, BPB publication, ISBN 9788183331630
+<br>3.Programming in C and Data Structure, P.B.Kotur, Sapna Book house
+<br>4.http://spoken-tutorial.org/tutorial-search/?search_foss=C+and+Cppandsearch_language=English
+<br>5.http://www.tutorialspoint.com/cprogramming/ 
+<br>6.http://www.indiabix.com/online-test/c-programming-test/ 
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>1. Explore and analyze topics to improve the level of creativity and analytical skill by taking Quiz tests / assignments. Documents have to be maintained as a record.
+<br>2. Create a power point presentation on the topic relevant to course or advanced topic as an extension to the course to improve the communication skills. Documents have to be maintained as a record
+<br>3. Visit different sites relevant to topics. Listen to the lectures and submit a handwritten report
+
+<br><br><b>Note:</b> The activities or similar activities for assessing CIE (IA) for 5 marks (Any one)
+<br>1. Each student should do any one of the following type activity or any other similar activity related to the course and before conduction, get it approved from concerned Teacher and HOD.
+<br>2. Each student should conduct different activity and no repeating should occur

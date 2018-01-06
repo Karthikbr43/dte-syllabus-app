@@ -1,0 +1,55 @@
+UNIT I: Electricity and DC Circuits
+Introduction to sources of electrical energy, advantages, effects of electric current and its applications. Electrical current, voltage, emf, potential difference, electric work, power, energy and their units and measuring instruments. Conductors, insulators and semiconductors. Resistance,  Ohm’s law and limitations, Problems on ohms law. .Problems on power and energy. Resistances connected in series, parallel, series and parallel combinations. Simple problems on resistance combinations..Horse Power and BHP
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT II: Electromagnetism
+Magnetic field, Magnetic flux, Magneto motive force, flux density, Reluctance and their units. permeability. Faraday’s laws, statically and dynamically induced EMF, self and mutual induced emf. Inductance, mutual inductance and their units.
+<br><b>DC Generator:</b> Construction and working.
+<br><b>[06 Hrs] [15 Marks] </b>
+
+UNIT III: AC Fundamentals, Transformers and AC Generators
+<b>Fundamentals of AC Circuits:</b> Sinusoidal voltage, current, amplitude, time-period, cycle, frequency, phase, phase difference, RMS value, Average value, form factor, and their units. Simple Problems. Capacitance, capacitive reactance, inductive reactance, impedance and their units. Power, power factor and units. Problems on reactance, impedance , power and power factor in series R-L,RC,RLC circuits. Difference between single phase and three phase power. Advantages of three phase power   over singe phase power.
+<br><b>Transformers:</b> construction working, application, ratings.
+<br><b>AC Generators:</b> construction working, applications, ratings.
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT IV: Electric Motor Drives
+DC motors, types, applications and selection criteria. AC motors, single and three phase motors, selection criteria, FHP motors applications and selection criteria, applications of single phase and three-phase motors. Name plate details of single phase and 3 phase motors. Necessity of starters for AC motors, types and applications. Advantages of 3 phase motors over single phase motors. List out the motors used for following purposes; Mining, Printing, Textiles, Cement, Mechanical, Aeronautical and Chemical industries by giving selection criteria. Importance of Motor enclosures, types, and their applications.
+<br><b>[09 Hrs] [25 Marks] </b>
+
+UNIT V: Protective Devices, UPS and Estimation
+Necessity of protective devices, ratings, rewireable, cartridge, and HRC fuses. Types of switches, MCB and ELCB. Necessity of electrical earthing and types. General safety precautions to prevent electrical accident, first aid in electric shock. Cell, battery, types of batteries, conditions of fully charged and discharged battery of lead acid battery, sealed maintenance free (SMF) battery. Selection of batteries.UPS, types, applications and selection criteria of UPS.
+<br>i)Plan and estimate the cost of electrical wiring for one 3mX3m room having consisting of 2 tube lights, 1 ceiling fan, 2 three pin socket.
+<br>ii) Plan and estimate the cost of electrical wiring for one lathe for three phase wiring with   MCBs, starters, Iron clad switches, and HRC fuses.
+<br><b>[08 Hrs] [20 Marks] </b>
+
+UNIT VI: Electronic Components and Applications
+Intrinsic and extrinsic semiconductors, P and N type materials. Diode, types and their applications. Forward and Reverse bias characteristics of a Diode. Half wave ,full wave and bridge rectifiers without filter. Zener diode as a voltage regulator. Transistor (BJT)working, applications, and transistor as a switch.SCR working and industrial applications. Timers, applications. Relays, applications. Logic gates –OR,AND,NOT, EX-OR, NAND, and NOR, meaning and advantages of IC.
+<br><b>[09 Hrs] [25 Marks] </b>
+
+<b>Reference Books:</b>
+
+<br><br>1.	ABC of Electrical Engineering by B. L. Theraja and A. K. Theraja, S Chand Publishers, New Delhi, 2014 Edition.
+<br>2.	Basic Electrical and Electronics Engineering by S. K. Bhattacharya, Pearson Education India, 2012 Edition.
+<br>3.	Electronic Devices and Circuits by I. J. Nagrath, PHI Learning Pvt. Ltd., 2007 Edition.
+<br>4.	Basic Electrical Engineering byV. Mittle and ArvindMittle, McGrawHill Companies, 2005 Edition.
+
+<br><br><b>e-Resources:</b>
+
+<br><br>5.	http://jenko.eu/marjan/fpp_izredni/knjiga_df/df_1_digital_concepts.pdf
+<br>6.	http://www.facstaff.bucknell.edu/mastascu/elessonshtml/eeindex.html - Welcome to Exploring Electrical Engineering.
+<br>7.	Fundamentals Handbook of Electrical Science, Module 1, Basic Electrical Theory, Department of Energy, U. S. Department of Energy, June 1992. 
+<br>8.	http://www.freeengineeringbooks.com/Electrical/Basic-Electrical-Engineering.php
+<br>9.	http://www.electrical-engineering-portal.com
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br><b>Note:</b> Each Student has to prepare a self-hand written report of 3 pages or solved in a blue book considering any one of the following topics.
+<br><br>1. Using suitable meters/ instruments give the practical working circuits to measure Resistance, Current, Voltage, Power and Energy in DC and AC (Single phase) Circuits.
+<br>2. Report on different materials used for electromagnets with their properties.
+<br>3. Applications of Electro Magnetic Induction, statically induced and dynamically induced emf, self and mutual induced emfs.
+<br>4. Practical applications of Single Phase AC supply and Three phase AC supply with their operating voltages and other electrical parameters.
+<br>5. Report on types of starters and enclosures used for various industrial applications of AC motors.
+<br>6. Visit nearby Battery charging and inverter (UPS) shop or show room and prepare a report of the visit.
+<br>7. Visit nearby electronics shop/ market and identify the different diodes and rectifier with their ratings.
+<br>8. Prepare a wiring plan for a building/ lab/ room, etc.

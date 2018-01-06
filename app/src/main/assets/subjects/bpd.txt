@@ -1,0 +1,62 @@
+UNIT I: Introduction
+1.1Building Planning- Factors
+<br>Shape size and topography of site, Climatic conditions of the site, Functional requirements of the building, Local Bye laws-requirements of size of different components, setbacks, neighbourhood, Owner :– Status-Choices-Preferences, Economy
+<br><br>1.2 Building Planning- Principles
+<br>Aspects, Prospects, roominess, furniture requirements, groupings, circulation, privacy, elegance, lighting & ventilation, sanitation, flexibility, economy, practical considerations. 
+<br><br>1.3 Building Bye Laws
+<br>Means of access, internal and external open spaces, floor area ratio, height of building, safety precautions. Building Sanction procedures- key plan (layout plan), site plan, building plan, working plan, validity of sanction, completion certificate.	
+<br><b>[09 Hrs] [16 Marks] </b>
+
+UNIT II: Site Plan & Planning of Buildings
+2.1 Drawing of site plan showing setbacks, Floor Area Ratio, Height of Building, and Minimum Distance from Power line, as per National Building Code (NBC).
+<br><br>2.2 Given the floor area or carpet areas of rooms, plan the building and draw a Single line diagram of building.
+		<br>a) Residential building
+		<br>b) School Buildings
+		<br>c) Hostel Buildings
+		<br>d) Primary Health Centre
+<br><br>2.3 Draw the Plan, Elevation and Sectional views for the following types of buildings.
+		<br>a) Residential buildings.
+		<br>b) School Buildings
+		<br>c) Hostel Buildings
+		<br>d) Primary Health Centre
+		<br>e) Canteen Building
+		<br>f)Two storied residential building
+        <br>g)Small work shop Building
+<br><b>[42 Hrs] [70 Marks] </b>
+
+UNIT III: Building Basic Services
+3.1 Preparation of water supply Layout for residential building.
+<br>3.2 Preparation of Electrical Layout for residential building.
+<br>3.3 Preparation of Sanitary Layout for residential building.
+<br>3.4 Preparation of Shallow Well Rain Water Harvesting Method for Building.
+<br>3.5 Preparation of Fire Fighting layout for buildings.
+<br><b>[27 Hrs] [40 Marks] </b>
+
+<b>Text books:</b>
+<br><br>1.	Building Planning and Drawing- S.S. Bhavikatti, M.V.Chitawadagi, I.K International Publishing House Pvt.Ltd
+<br>2.	Civil Engineering Drawing and design – D.N.Ghose (CBS Publishers)
+<br>3.	A text Book of Draughtsman Civil(Theory and Practical) – R.S. Mallik and G.S.Meo (Asian publishers, New Delhi)
+<br>4.	Building Drawing – Shah,Kale and Patki(Tata McGraw Hill Publishers)
+<br>5.	Civil Engineering Drawing – Gurucharan Singh
+<br>6.	Building planning and drawing - Dr. N. Kumara Swamy and A. Kameswara Rao-Charotar Publishing House Pvt.Ltd 
+<br>7.	Civil Engineering Drawing and House Planning - B.P.Verma, Khanna Publishers
+
+<br><br><b>Suggested Student Activity:</b>
+<br>The topic should be related to the course in order to enhance his knowledge, practical skill & and lifelong learning, communication, modern tool usage. For every plan prepared calculate the Floor Area Ratio.
+<br><br>1. Prepare a case study of nearby small public buildings verify and draw the various views and judge the prevailing bye-laws.
+<br>2. Prepare a plan, elevation and section of a residential building with split floors and roofs (Split floors and roofs have different floor and roof levels).
+<br>3. Develop a plan of rain water harvesting, ground water recharge and solar harvesting for your institution/any other building.
+<br>4. Develop a plan of solar harvesting for your institution/any other building.
+<br>5. Prepare a plan of temporary construction shed and draw various views.
+<br>6. Prepare a plan of bus stand and draw various views.
+<br>7. Prepare a plan of cycle stand and draw various views.
+<br>8. Study the difference between framed structure and a load bearing structure and present it.
+<br>9. Incorporate the concepts of Green building technology in your institute building.
+<br>10. Draw the plan elevation and sectional views of a pitched roof residential building.
+<br>11. Draw the plan and sectional views of a soak pit and septic tank.
+<br>12. Study of economising the cost of openings in bulding
+<br>13. Roof rainwater harvesting - a case study
+
+<br><br><b>Note:</b> 
+<br>1. Students should select any one of the above or other topics relevant to the subject approved by the concerned faculty, individually or in a group of 3 to 5. Students should mandatorily submit a written report and make a presentation on the topic. The task should not be repeated among students. Report will be evaluated by the faculty as per rubrics. Weightage for 5 marks Internal Assessment shall be as follows: (Unsatisfactory 1, Developing 2, Satisfactory 3, Good 4, Exemplary 5)
+<br>2. Reports should be made available along with bluebooks to IA verification officer

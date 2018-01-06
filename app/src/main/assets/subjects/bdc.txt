@@ -1,0 +1,48 @@
+UNIT - I: Introduction to BioCeramics
+Definition of bio ceramics and biological requirements. Classification of bioceramic based on composition and application with definition, properties, material used with field of application. Discuss the scope of bioceramics. 
+<br>Illustrate ceramic Implementations in human body with specific parts and shapes with sketches, and raw material, with general manufacturing method.
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT - II: Dental Ceramics
+Definition of dentures, types (direct and indirect restorative dental materials) with examples. Illustrate all ceramic and metal ceramics restorations. 
+<br>Definition, classification (based on various factors), applications, different compositions. Define various physical properties (stress, strain, modulus of elasticity, permanent deformation, strength, brittleness, toughness, hardness, ductility, malleability, resilience, flexibility, impact, fatigue, creep) of dental materials.
+<br>Describe tooth structure with sketch, label & explain parts (Enamel, Dentine, Cementum & Pulp). Primary and secondary teeth explain about. Chronology of teeth.
+<br><b>[09 Hrs] [25 Marks] </b>
+
+UNIT - III: Dental Materials
+1. Impression materials – definition, types (rigid & elastic), working parameters, advantages and disadvantages. 
+<br>2. Gypsum products - dental plaster, dental stone, improved stone each manufacturing process, chemical reactions, properties, applications, water-powder ratios. Difference between dental plaster and dental stone. Measurement of setting time, factors affecting setting time. Definition of modifier - accelerators ,retarders.
+<br>3. Investments (Dental Wax) - Definition, classification and types of dental wax, applications. Ideal requirement of inlay wax, difference between direct and indirect pattern wax. 
+<br>4. Metals and Alloys: Noble metals: gold, platinum, palladium, Base Metals: silver, coper, zinc, tin, indium,
+<br>5. Dental porcelain raw materials, composition, castable, glass-ceramic
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT - IV: Fabrication
+Illustrate with flow diagram fabrication of dental porcelain restoration, ceramic-metal restoration and ceramic jacket crowns. Understand technical aspects of metal-ceramic restorations, benefit and draw back metal-ceramics.
+<br><b>[09 Hrs] [25 Marks] </b>
+
+UNIT - V: Dental Cements
+Definition and classifications of dental cement, Silicate cement, Zinc phosphate cement, Zinc oxide eugenol cement, Glass ionomer cement, zinc silico phosphate cement, Zinc polycarboxylate cement, Calciumhydroxide cement all with definition, applications, composition, properties, manipulations.
+<br>Definition and applications of Cavity liner, cavity varnish and cavity bases.
+<br><b>[08 Hrs] [20 Marks] </b>
+
+UNIT - VI: Surface Finishing
+Definition of abrasive, types of abrasives with examples and uses. Definition of polishing, stages of polishing, types of polishing tools, difference between abrasion and polishing.
+<br><b>[06 Hrs] [15 Marks] </b>
+
+<b>Reference Books:</b>
+
+<br><br>1.	Dental Materials 5th Ed. - V.K. Subbarao
+<br>2.	Basic Dental Materials 2nd Ed. - Jhon J Manappallil
+<br>3.	Dental Technicial 2nd Ed. - Dr. Syed Sadatullah.
+<br>4.	Advances in Bio ceramic and porous ceramics	- Roger Narayan, Paolo Colombo 
+<br>5.	Advanced ceramic – vol-1 Bioceramic	- James F Shackelford
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>1.	Surf the internet and find recent advancements in bio ceramics, and make report on the same.
+<br>2.	Collect information on ceramic implants used in artificial bone replacements.
+<br>3.	Collect information on ceramic materials used in heart valves and their characteristics.
+<br>4.	List the ceramic materials used in bio medical applications with their specific characteristics.
+
+<br><br><b>Note:</b> Student should prepare hand written report with minimum 2-3 pages and reports should not be copies from earlier batches. And other similar tasks can be assigned.

@@ -1,0 +1,44 @@
+UNIT - I : ELECTRIC CIRCUIT FUNDAMENTALS
+Current, Voltage- EMF and Resistance, Ohm’s Law, Problems on Ohm’s law equivalent resistance of resistors connected in series and parallel. Problems on resistance combinations .Circuit conditions – open, close and short circuit, Kirchhoff’s voltage and current laws, Problems on KVL, KCL, Electrical Power and Energy, Problems on Electrical Power and energy. Meters used to measure Current, Voltage, Resistance, inductance and capacitance ,Power and Energy.
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT - II : ELECTROMAGNETISM
+Magnetic field, Magnetic Flux, Flux density, MMF, Reluctance, permeability, Faraday’s Laws of Electro Magnetic induction, Inductance, Statically induced EMF, Dynamically Induced EMF, Self-inductance, Mutual inductance, Self-induced EMF, Mutually induced EMF.
+<br><b>[04 Hrs] [10 Marks] </b>
+
+UNIT - III : AC FUNDAMENTALS
+Alternating current, amplitude, frequency and time period, Average value, Maximum value, RMS value and Form factor for sine wave, Simple problems, phase difference, Differentiate between single phase  and three phase AC supply, Vector diagram, Impedance Diagram, Voltage triangle, and Wave forms , Resistance, Reactance  and Impedance , Power and power factor in pure R, pure L, pure C , series R-L, series R-C, series R-L-C circuits. Problems to find XL, Xc, and Z, Power, Power Factor in R-L, R-C, R-L-C series circuit.  Comparison of DC and AC current.
+<br><b>[14 Hrs] [40 Marks] </b>
+
+UNIT - IV : TRANSFORMERS and STEPPER MOTORS
+Construction and working of Transformer, Turns ratio, current and voltage ratios, ratings of transformers; Types of transformers and their applications, Applications of Stepper motor, Spindle motor, and Brushless DC motors.
+<br><b>[04 Hrs] [10 Marks] </b>
+
+UNIT - V : PROTECTIVE DEVICES
+Switch- different types of switches with their symbols, Fuse- necessity of fuse, ratings and types, Relay- symbol, working principle of relay. Necessity of grounding/earthing of any electrical/electronic equipment. Need of spike busters for  protection of computers. Need of antistatic device and types of antistatic devices for protection of computer components.
+<br><b>[06 Hrs] [15 Marks] </b>
+
+UNIT - VI : BASICS OF ELECTRONICS
+Conductors, insulators and semiconductors with examples Intrinsic and Extrinsic Semi-conductors, Operation and V-I characteristics of PN junction diode, Working of Half wave, full wave and bridge rectifier circuits, Filters- Types of filters, C filter, Transistor – symbol, types, applications, Transistor as a switch, Op-Amp - Block diagram, Ideal characteristics and Op-Amp as Inverting Amplifier and Non-Inverting amplifier. SMPS – Meaning, working, block diagram, advantages, ratings 
+
+<br><br><b>UPS:</b>Need of UPS, UPS block diagram ,UPS ratings and back-up time  with example, Criteria for Selection of UPS ; Battery- Types , Ah rating,  Maintenance of battery. 
+<br><b>[14 Hrs] [40 Marks] </b>
+
+<b>Reference Books:</b>
+<br><br>1.	Principles of Electronics ,V.K. Mehta andRohit Mehta, S. Chand Technical Publication
+<br>2.	A Textbook of Electrical Technology, B.L.Theraja andA.K.Theraja, S. Chand Volume I
+<br>3.	Electronic Components - Dr. K Padmanabhan and P. Swaminathan, Laxmi Publications, ISBN :978-81-318-0714-9
+<br>4.	Electronic Principles, Albert Malvino and David Bates, Tata Mcgraw Hill Publication, ISBN 9780070634244.
+
+<br><br><b>Suggested Student Activity:</b>
+<br>Each Student has to prepare a self-hand written report of 3 pages or solved in a blue book considering any one of the following topics.
+<br><br>1. Using suitable meters/ instruments give the practical working circuits to measure Resistance, Current, Voltage, Inductance, Capacitance, Power and Energy in DC and AC (Single phase) Circuits.
+<br>2. Report on different materials used for electromagnets with their properties.
+<br>3. Applications of Electro Magnetic Induction, statically induced and dynamically induced emf, self and mutual induced emfs.
+<br>4. Practical applications of Single Phase AC supply and Three phase AC supply with their operating voltages and other electrical parameters.
+<br>5. Report on Construction and working of Stepper motor, Spindle motor, and Brushless DC motors.
+<br>6. Report on modern methods to protect Computer/ Server system/ Super Computers from Power and Transient surges.
+<br>7. Report on safety measures and rules to be followed while servicing Computers and also in Computer laboratory.
+<br>8. Visit nearby Battery charging and inverter (UPS) shop or show room and prepare a report of the visit.
+<br>9. Report on working conditions of Batteries in laboratories of your Polytechnic.
+<br>10. Visit nearby electronics shop/ market and identify the different diodes and rectifier with their ratings.

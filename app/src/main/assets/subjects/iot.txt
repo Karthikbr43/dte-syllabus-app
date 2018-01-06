@@ -1,0 +1,50 @@
+UNIT I: Introduction to Internet of Things
+Definition and characteristics of IoT, Physical design of IoT, Things in IoT, IoT Protocols, Logical Design of IoT, IoT functional blocks, IoT communication Models, IoT communication API’s, IoT enabling Technologies Wireless sensor networks, Cloud Computing, Big Data Analytics, Communication protocols, embedded systems. IoT Levels and Deployment templates – IoT Level-1, IoT Level-2, IoT Level-3, IoT Level-4, IoT Level-5, IoT Level-6
+<br><b>[12 Hrs] [35 Marks] </b>
+
+UNIT II: Domain specific IoT
+Introduction, Home automation- Smart lighting, smart appliances, intrusion detection, smoke for gas detectors; Cities- Smart Parking, Smart lighting, Smart Roads, Structural Health Monitoring, surveillance, Emergency Response; Environment- Weather monitoring, air pollution monitoring, noise pollution monitoring, forest fire detection, river flood’s detection;
+<br>Energy- Smart grids, renewable energy systems, prognostics; Retail- Inventory management, smart payments, smart vending machines; Logistics- Route generation and scheduling, Fleet tracking, Shipment monitoring, Remote vehicle diagnostics; Agriculture- Smart Irrigation, Green house control; Industry- Machine diagnosis and prognosis, indoor air Quality monitoring; Health and Life Style- Health and fitness monitoring, Wearable electronics.
+<br><b>[12 Hrs] [30 Marks] </b>
+
+UNIT III: IoT and M2M
+Introduction, M2M, Difference between IoT and M2M, SDN and NFV for IoT- Software defined networking, network function virtualization; 
+<br><b>[06 Hrs] [15 Marks] </b>
+
+UNIT IV: IoT Platforms Design Methodology
+Introduction, IoT Design and Methodology- Purpose and requirements specification, Process specification, Domain model specification, Information model specification, service specification, IoT level specification, functional view specification, Operational view specification, Device and component integration, application development. 
+<br><b>[08 Hrs] [25 Marks] </b>
+
+UNIT V:  IoT Physical Devices and Endpoints
+What is an IoT device? , Basic Building blocks of an IoT Device, Exemplary Device: Raspberry Pi, About the Board, Linux on Raspberry Pi, Raspberry Pi Interfaces, Other IoT devices.
+<br><b>[08 Hrs] [25 Marks] </b>
+
+UNIT VI:  Ethics in IoT
+Characterizing the IoT, Privacy, Control – Disrupting Control, Crowd sourcing; Environment – Physical thing, Electronics, Internet service; Solutions – The IoT as a part of the solution, cautious optimism,the open IoT definition.
+<br><b>[06 Hrs] [15 Marks] </b>
+
+<b>Text books:</b>
+<br><br>1.	Internet of Things – A Hands on Approach, By Arshdeep Bahga and Vijay Madisetti Universities Press, ISBN: 9788173719547 (Unit I to V)
+<br>2.	Designing the Internet of Things – Adrian McEwen & Hakim Cassimality Wiley India, ISBN: 9788126556861 (Unit VI)
+
+<br><br><b>References:</b>
+<br><br>1.	The Internet of Things – Key Applications and Protocols, Wiley Publication,  Olivier Hersent, David Boswarthick, Omar Elloumi. ISBN: 9788126557653
+<br>2.	The Internet of Things , Pearson, By Michael Miller ISBN: 9789332552456
+<br>3.	http://www.cisco.com/c/dam/en_us/solutions/trends/iot/introduction_to_IoT_november.pdf
+<br>4.	https://www.bbvaopenmind.com/en/iot-implementation-and-challenges/
+<br>5.	https://www.ftc.gov/system/files/documents/reports/federal-trade-commission-staff-report-november-2013-workshop-entitled-internet-things-privacy/150127iotrpt.pdf
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>1. Understand the different protocols and their purposes used to communicate in IoT.
+<br>2. Learn and Understand different Cloud Platform Services Offered by Vendors.
+<br>3. Learn the Deployment steps of any Domain specific IoT Services.
+<br>4. Learn/Compare Different Hardware Boards for Creating IoT Services
+<br>5. Understand the different functionalities of sensors in IoT Devices.
+<br>6. Understand integrating IoT Services to other third party Clouds.
+<br>7. Discuss Privacy Issues in IOT
+<br>8. Quiz
+
+<br><br><b>Note:</b> The activities or similar activities for assessing CIE (IA) for 5 marks (Any one)
+<br>1. Each student should do any one of the following type activity or any other similar activity related to the course and before conduction, get it approved from concerned Teacher and HOD.
+<br>2. Each student should conduct different activity and no repeating should occur

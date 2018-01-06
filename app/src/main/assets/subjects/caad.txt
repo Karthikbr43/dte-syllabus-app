@@ -1,0 +1,50 @@
+UNIT I: Introduction to Machine Drawing
+Requirements of machine drawing, drawing views – front – top - side, section plane, sectional views – full – half – local -  partial – revolved – removed – offset, conventions of section lines, conventional representation of machine parts, production drawing – tolerance – hole basis system – shaft basis system,  limits – upper – lower, fits – clearance fit – interference fit - transition fit, surface roughness – representation of surface roughness on drawings, assembly drawing – types – sequence of preparing assembly drawing.
+
+UNIT II: Computer Aided Drafting
+Information about CAD – comparison between manual drawing and CAD – advantages of using CAD –areas of applications, System requirements for CAD. Setting drawing area - coordinates – units - limits – grid – snap – Osnap – Ortho mode.
+
+UNIT III: Drawing Entities
+Draw/sketch tools- point – line – construction line – circle – arc – polygon – poly line – hatch – text – ellipse – rectangle – spline – donut – modifying/changing entities properties.
+
+UNIT IV: Modifying Entities
+Modify / Edit tools – erase – copy – array – move – mirror – offset – rotate – scale – stretch – trim – extend – break – explode – join – chamfer – fillet. 
+
+UNIT V: Assembly Drawing
+Drawing detailed parts drawings – assembling the parts – drawing sectional front view –drawing top/side view.
+
+UNIT VI: Dimensioning and Printout
+Dimension the assembly in different views– setting the drawing for printing – printout. 
+
+<b>Reference Books:</b>
+
+<br><br>1.	Automobile Engineering Drawing,	R B Gupta, Satya prakashan
+<br>2.	Machine Drawing, N D Bhatt and V M Panchal,	Charotar Publishing
+<br>3.	Machine Drawing, K R Gopalakrishna,	Subhas Stores
+
+<br><br><b>Lab Exercises:</b>
+<br>Assembly drawings of following automotive components:
+
+<br><br><b>Note:</b>
+<br>1. each drawing should be drawn with proper border, title block and bill of materials.
+<br>2. Detailed drawing sheets should be provided to students, students have to draw detailed drawings first then assembly drawing has to be drawn.
+
+<br><br>1.	Piston with  piston pin
+<br>2.	Connecting rod assembly.
+<br>3.	Single plate clutch 
+<br>4.	Synchromesh unit 
+<br>5.	Master cylinder 
+<br>6.	Wheel cylinder 
+<br>7.	Diesel Injector
+<br>8.	SU carburetor
+<br>9.	Balanced crank shaft
+<br>10.	Universal coupling
+
+<br><br><b>Scheme of Valuation for SEE:</b>
+
+<br><br>1.	Drawing of detailed parts :	15
+<br>2.	Sectional front view : 15
+<br>3.	Top/side view : 10
+<br>4.	Dimensioning and Print out : 05
+
+<br><br><b>TOTAL = 50 Marks</b>

@@ -1,0 +1,50 @@
+<b>Experiments:</b>
+
+<br><br><b>Part - A: PC Servicing Experiments</b>
+<br><br>1.	Identification of the different internal and external components like spike busters, UPS, modem, printer, headphone, microphone, web camera, joystick, flash drives, HDD etc of a computer, discussion of their functions and configurations
+<br><br>2.	Identification of the different parts of motherboard  like CPU, SocketCMOS RAM, BIOS ROM, Memory Slots, Power Connectors, IDE Connectors, SATA Connectors, CMOS Battery, AGP, PCI, PCI, Chipset, cache, Heat sink,discussion of their functions, types
+<br><br>3.	Study the SMPS and measure the voltages at different output points of SMPS of desktop/laptop computer system. Identify and rectify the faults in SMPS.
+<br><br>4.	Study of  different types of power connectors like molex, mini molex,ATX power connectors, CPU 4+4,power connectors for PCI, SATA, number of lines, colour codes and their corresponding voltages. Selection of wattage
+<br><br>5.	Study of how a virus affects the PC, the features of a good antivirus program, the method of installing antivirus programs, updating their data bases.
+<br><br>6.	Installation of windows 7 operating system by partitioning the hard disk.
+<br><br>7.	Installation of Linux OS on the computer as a standalone OS and also as a dual boot system, concept of live CD.
+<br><br>8.	Discussion of the importance of motherboard disk (CD)-Installation of device drivers, updating of device drivers in both windows and Linux.
+
+<br><br><b>Part - B: Electronic Equipment servicing</b>
+<br><br>9.	Understand the safety precautions to be taken while servicing. List various electronic equipment’s available in the department. List the basic tools (electronic repair tools) required for servicing electronic equipment’s and their purpose (uses)
+<br><br>10.	Develop skill in assembly of components, wiring, soldering and de-soldering methods. Solder the given electronic circuit on breadboard and test for the output and then de-solder it. Ex. Single Stage Transistor Amplifier, RC coupled amplifier, op-amp summing amplifier, inverting amplifier etc.
+<br><br>11.	Explain the basic steps of electronic equipment service and maintenance.
+<br>a) Study of basic procedure of service and maintenance
+<br>b) Circuit tracing techniques
+<br>c) Concepts of shielding, grounding and power supply considerations in instruments
+<br>d) Circuit tracing on PCBs
+<br><br>12.	Study of Public Address System, Microphone, Amplifier and loud speakers and interconnections.
+<br><br>13.	Study of Regulated DC power supply and measurement of standard voltages at various stages of RPS. Identify and rectify the various faults in the Regulated DC power supply.
+<br><br>14.	Study the working principle of basic multimeter. Measure A.C voltage, D.C voltage, Diode voltage, Resistance values and Continuity test for the given circuit using standard digital multimeter.
+<br><br>15.	Study the signal/function generators. Comparison of estimated and measured values of DC voltages and AC waveforms in signal/function generators and hence the adjustments to obtain the nominal output.
+<br><br>16.	Minor repair practices on Decade Boxes (Rotary switches, connectors, components connectivity etc.,). Identify the faults in Digital ICs and Troubleshoot using digital IC tester/ Logic Probe (test any five ICs)- ICs soldering practice. Troubleshoot Digital IC Trainer kits – practice minor repairs
+<br><br>17.	Study and rectify the faults in the TV remote control transmitter, receiver.
+
+<b>Reference Books:</b>
+<br><br>1.	Communication engineering lab-I manual, Sri. M. Shanmukha Chary, sindoor graphics, Hyderabad-60
+<br>2.	http://www.consumerelectronics.com
+
+<br><br><b>Student Activities [CIE- 05 Marks]:</b>
+
+<br><br>1.	Explore datasheet of minimum any five electronics components and analog/Digital ICs.
+<br>2.	List the steps for CD/DVD burning using any open source software. Burn the CD/DVD with any application software’s and verify.	
+<br>3.	Explore circuit diagram of LED and LCD TV/Demonstrate Installation of DTH system etc.	
+
+<br><br><b>Execution Mode:</b>
+<br>1.	Students should do activity as per the list of suggested activities/ similar activities with prior approval of the teacher
+<br>2.	Each student activities shall be carried out (select any one activities) throughout the semester and present the hand-written report of maximum 5 to 6 pages per batch at the end of the semester. 
+<br>3.	Assessment shall be made based on quality of activity, presentation/demonstration and report.
+
+<b>Scheme of Valuation for SEE:</b>
+
+<br><br>1.	Short question on both part-A and part-B : 10
+<br>2.	Write the procedure and conduction of one part-A experiment	: 15
+<br>3.	Write the steps and conduction of one part-B experiment	: 20
+<br>4.	Viva-voce : 05
+
+<br><br><b>TOTAL = 50 Marks</b>

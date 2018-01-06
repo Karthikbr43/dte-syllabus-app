@@ -1,0 +1,82 @@
+UNIT - I: INTRODUCTION TO STATISTICAL QUALITY CONTROL
+1.1	Introduction to Inspection, Quality, Quality control, Quality assurance and SQC
+<br>1.2	Difference between Inspection and Quality control
+<br>1.3	Application of SQC
+<br>1.4	Benefits of SQC
+<br>1.5	Tools of SQC
+<br>1.6	Place of inspection in an orgonization
+<br><br><b>[06 Hrs] [15 Marks] </b>
+
+UNIT - II: BASIC STATISTICAL CONCEPTS
+2.1 The Concept of Variation 	
+<br>2.1.1 Types of Variation
+<br>2.1.2 Reason for Variation 
+<br>2.2 Introduction to variables and attributes 
+<br>2.2.1 Distinguish between variables and attributes with examples 
+<br>2.3 Frequency Distribution 
+<br>2.4 Graphical Representation of Frequency Distribution like line diagram, histogram,Frequency polygon, frequency curve                                        
+<br>2.5	Quantitative Description of distribution 
+<br>2.5.1Central Tendency like arithmetic mean or average, median or middle value, mode
+<br>2.5.2 Measures of dispersion like range, standard deviation and Variance  
+<br>2.6 Normal Curve 
+<br>2.6.1 Area Under Normal distribution curve 
+<br>2.7 Simple Problems 
+<br><br><b>[12 Hrs] [30 Marks] </b>
+
+UNIT - III: CONTROL CHARTS FOR VARIABLES
+3.1 Variability 
+<br>3.1.1 Variation due to assignable causes 
+<br>3.1.2 Variation due to chance causes (Random variations)
+<br>3.1.3 Defect and a defective
+<br>3.2 Definition of control charts
+<br>3.2.1 Control charts for variables
+<br>3.3 Objectives of the control chart 
+<br>3.4 Calculation on control chart 
+<br>3.4.1 Calculation procedure 
+<br>3.4.2 X-bar and R for sub group
+<br>3.5 Process Capability 
+<br>3.6	Simple Problems 
+<br><br><b>[09 Hrs] [25 Marks] </b>
+
+UNIT - IV: CONTROL CHARTS FOR ATTRIBUTES
+4.1	Practical limitations of the control chart for variables
+<br>4.2	Comparison of X-bar and R chart with P Chart  
+<br>4.2 Control Limits (3Sigma limits) on P chart 
+<br>4.3	Purpose of the P chart.
+<br>4.4 Control limits for NP Chart 
+<br>4.5	Essential steps in control chart 
+<br>4.5	Calculations of control limits on C chart
+<br>4.6	Comparison between attributes charts and variable chart 
+<br>4.6	Simple Problems 
+<br><br><b>[08 Hrs] [20 Marks] </b>
+
+UNIT - V: TOLERANCES
+5.1	Purpose of specification
+<br>5.2	Specifying tolerances
+<br>5.3	Effect of careless setting of specification limits
+<br>5.4	Statistical tolerance
+<br>5.5	Theorems on statistical tolerances
+<br>5.6	Simple problems
+<br><br><b>[09 Hrs] [30 Marks] </b>
+
+UNIT - VI: ACCEPTANCE SAMPLLING
+6.1 Introduction 
+<br>6.1	Uses, advantages, methods
+<br>6.2	Operating characteristic curve (OC curve)
+<br>6.3	Producers and customers Risk list
+<br>6.4	Acceptable quality level (AQL)
+<br>6.5	Average outgoing quality and level (AOQ & AOQL)
+<br>6.6	Sampling Plans 
+<br>6.6.1. Single Sampling 
+<br>6.6.2. Double Sampling 
+<br>6.6.3. Multiple Sampling 
+<br>6.7	Characteristics of good sampling plan
+<br>6.8	Comparison between single, double and multiple sampling plan 
+<br><br><b>[08 Hrs] [25 Marks] </b>
+
+<b>Reference Books:</b>
+
+<br><br>1.	Statistical Quality control by Douglas C Montgomery Wiley India Publications2011
+<br>2.	Statistical Quality control by M.Mahajan, DhanpatRai& Company, New 	Delhi.
+<br>3.	Total Quality control by Fiegunbum A.V., Mcgrawhill - Inc -1991
+<br>4.	Introduction to statistical quality control. Second edition By Douglas C. Montgomery Publishers: Wiley India 2010

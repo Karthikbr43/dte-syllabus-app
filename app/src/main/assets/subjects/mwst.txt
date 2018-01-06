@@ -1,0 +1,52 @@
+UNIT I: MATERIALS FOR AUTOMOBILES
+Introduction of Engineering Materials-Classification, mechanical Properties of metals and uses of Ferrous Metals-Pig Iron, Cast Iron, Wrought Iron, steel, Classification of Steels according to Carbon content, Introduction to High speed Steels-18-4-1 HSS and uses. Introduction, Purposes and methods of  Heat treatment -Annealing-Normalizing-Hardening-Tempering and Case Hardening- Properties and uses of Nonferrous metals- Aluminium, Copper, Properties and uses of Plastics- Thermo plastics andThermosetting-Properties and Uses of Ceramics  Composite Materials and uses. 
+<br><b>[10 Hrs] [25 Marks] </b>
+
+UNIT II: BASIC FABRICATION PROCESS
+Introduction to Welding-Classification of welding- Principle of Arc welding, Gas welding. Types of Arc welding-MIG Welding, TIG Welding, Submerged arc welding. Principle of resistance welding – Spot, butt, seam Welding. -Welding Defects and remedies. Comparison of welding, soldering and Brazing.
+<br><b>[10 Hrs] [25 Marks] </b>
+
+UNIT III: SHEET METAL PROCESSES
+Introduction to Sheet Metal Work and Applications, metals used for Sheet Metal work, Standard Gauge numbers. Sheet metal operations-shearing, cutting off, Parting, blanking, Punching, notching, slitting, Lancing, Bending, Drawing and squeezing. Introduction to Press working - Power press.
+<br><b>[06 Hrs] [20 Marks] </b>
+
+UNIT IV: BASIC MACHINE TOOLS
+Centre Lathe-Constructional Features, Single point Cutting Tool Geometry, Various Operations, Taper Turning Methods, Thread Cutting Methods-Shaper-Principle and working of shaper-Hole making operations-Drilling- -Reaming-Boring Milling- Column and knee type milling machine - Milling cutters and classification- Fundamentals of milling processes
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT V:	METAL CASTING PROCESSES
+Introduction to metal castings, Use of patterns, Pattern materials, types of Patterns-single, Split, loose Piece, Sweep, Skeleton, gated Patterns - allowances – Types of Moulding sand and Properties. Concept of Cope, Drag, Runner, Riser and core. Permanent mould casting – Die casting, Slush Casting, Centrifugal casting,Investment casting, Name and brief explanation of Defects in Castings   Introduction to Forging, Smith forging operations. .	
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT VI: POWDER METALURGY
+Introduction to Powder Metallurgy –Manufacture of Metal Powders by Different Methods-Atomization, reduction, Electrolysis and Spotting. Powder Metallurgy Process, Secondary Operations. Products of Powder Metallurgy. Advantages and Limitations of powder metallurgy.	
+<br><b>[06 Hrs] [15 Marks] </b>
+
+<b>Text books:</b>
+<br><br>1.	Elements of Workshop Technology Vol-I Manufacturing Process edition-By HajraChoudry
+<br>2.	Elements of Workshop Technology Vol-II Manufacturing Process edition-By HajraChoudry
+<br>3.	Seropekalpakjian, Steven R Schmid Manufacturing Engineering and Technology- Pearson Education-Delhi
+
+<br><br><b>References:</b>
+<br><br>1.  Manufacturing Technology-1By P.C Sharma of S.CHAND Publications.
+<br>2. Engineering Materials by Er.R.K.RAJPUT of S.CHAND Publications
+<br>3. Work shop technology By R.S KHURMI and J.K GUPTA of S.CHAND andCo.Ltd
+	
+<br><br><b>LIST OF SOFTWARE/LEARNING WEBSITES </b>
+<br><br>1.	www.nptel.ac.in/courses/112105126/36
+<br>2.	www.youtube.com/watch?v=T5gjkYvMg8A
+<br>3.	www.youtube.com/watch?v=ESKoaZtoB1E
+<br>4.	http://www.weldingtechnology.org
+<br>5.	http://www.youtube.com/watch?v=TeBX6cKKHWY
+<br>6.	http://www.piehtoolco.com
+<br>7.	http://sourcing.indiamart.com/engineering/articles/materials-used-hand-tools/
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>1 Make market survey; list the important materials being used for manufacturing automobile components.
+<br>2. Visit nearer fabricator. Collect the information on welding electrodes, transformers and accessories being used by them.
+<br>3. Visit nearer bodybuilding works. Collect the information on sheet metal material, sheet metal gauges, tools used, operation carried out being used by them.
+<br>4. Make Visit to nearest work shop ,observe the lathe and make list of real time machine components which are machined and how servicing of lathe being carried
+<br>5. Observe the milling machine of your polytechnic and study its specifications. List the possible milling operation can done on that machine
+
+<br><br><b>Note:</b> The activities or similar activities for assessing CIE (IA) for 5 marks (Any one)

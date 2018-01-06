@@ -1,0 +1,51 @@
+UNIT I: The software problem & Software process
+Software Problem - Cost, Schedule and quality, Scale and Change.
+<br>Software Process - Process and Project, Component Software Processes, Software development Process Models, Waterfall, Prototyping, Iterative development, Rational Unified Process, Time boxing  Model, Extreme programming and Agile processes, Using process model in a project, Project Management Process.
+<br><b>[10 Hrs] [27 Marks] </b>
+
+UNIT II: Software requirements analysis and specifications
+Value of good SRS, Requirement process, Requirement Specification, Desirable Characteristics of an SRS, Components of an SRS, Structure of a Requirements Documents, Functional Specification with use cases, Basics, Examples, Extensions, Developing use cases,
+<br>Other Approaches for Analysis, Data Flow Diagram, Validation.
+<br><b>[08 Hrs] [23 Marks] </b>
+
+UNIT III: Software architecture & Planning a software project
+Software Architecture - Role of Software Architecture, Architecture Views, Component and Connector view, Components, Connectors, Example, Architecture styles for C&C View, Pipe and Filter, Shared data Style, Client Server style, Some other styles, Documenting Architecture Design, Evaluating Architectures.
+<br>Planning a software project - Effort Estimation, Top-Down Estimation Approach, Bottom-Up Estimation Approach, Project Schedule and Staffing, Quality Planning, Risk Management Planning, Risk Management Concepts, Risk Assessment, Risk Control, A Practical Risk Management Approach, Project Monitoring Plan, Measurements, Project Monitoring and tracking, Detailed Scheduling.
+<br><b>[12 Hrs] [35 Marks] </b>
+
+UNIT IV: Design
+Design Concepts, Coupling, Cohesion, the Open-Closed Principle, Function Oriented Design, Structure Charts, Structured Design Methodology, Example, Object Oriented Design,
+<br>OO Concepts Unified Modelling Language (UML), A Design Methodology, Examples, Detailed Design, Logic/Algorithm Design, State Modelling of Classes, Verification.
+<br><b>[08 Hrs] [22 Marks] </b>
+   
+UNIT V: Coding & Testing
+Coding - Programming Principles and Guidelines, Structured Programming, Information Hiding, Some Programming Practices, Coding Standards, Incrementally Developing Code, An incremental coding process, Test Driven development, Pair Programming, Managing Evolving Code, Source Code Control and Build, Refactoring, Unit  Testing, Testing procedural units, Unit testing of Classes, Code Inspection, Planning, Self review, Group review meeting. 
+<br>Testing - Testing Concept, Error, Fault and Failure, Test Case, Test Suite and Test Harness, Psychology of Testing, Levels of Testing, Testing Process, Test Plan, Test Case Design, Test Case Execution.
+<br><b>[10 Hrs] [27 Marks] </b>
+
+UNIT VI: Devops
+Devops, Introduction-Definition, Devops Tool chain, Why Devops?, Goals, Benefits, Relationship to Agile and Devops (continuous delivery), Devop Tools.
+<br><b>[04 Hrs] [11 Marks] </b>
+
+<b>Text books:</b>
+<br><br>1.	Software Engineering –A Precise Approach, Pankaj Jalote, edition 2010, Wiley India, ISBN: 9788126523115. 
+<br>2.	https://en.wikipedia.org/wiki/DevOps
+<br>3.	http://www.informationweek.com/devops/agile-vs-devops-10-ways-theyre-different/d/d-id/1326121
+
+<br><br><b>References:</b>
+
+<br><br>1.	Software Engineering A Practitioners Approach, Roger S Pressman, 2010, Tata McGraw Hill Publishing Co Ltd, ISBN 9780070701137 
+<br>2.	Software Engineering, Sajan Mathew, 2009 Reprint, S Chand publications.
+<br>3.	Software Engineering Principles and Practices, Rajesh Narang.Mc Graw Hill Education.
+<br>4.	Software Engineering, Subramanian Dutt ,2015 Pearson Publications
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>1. A survey on Software Development Life Cycle(SDLC).
+<br>2. Presentation on Software Architecture.
+<br>3. A report on testing the software products.
+<br>4. Quiz.
+
+<br><br><b>Note:</b> The activities or similar activities for assessing CIE (IA) for 5 marks (Any one)
+<br>1. Each student should do any one of the following type activity or any other similar activity related to the course and before conduction, get it approved from concerned Teacher and HOD.
+<br>2. Each student should conduct different activity and no repeating should occur

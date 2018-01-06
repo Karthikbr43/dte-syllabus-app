@@ -1,0 +1,48 @@
+<b>Experiments:</b>
+
+<br><br>1.  Familiarisation of  logic gates using IC’s
+<br>a)7404  b)7432  c)7408  d)7400 e)7402  f)7486 
+<br><br>2.  Realization of NOT, OR, AND, NOR, EX-OR and EX-NOR gates using NAND gates only.
+<br><br>3.  Realization of NOT, OR, AND, NOR, EX-OR and EX-NOR gates using NOR gates only.
+<br><br>4.  Implement and verify Boolean expression using K-MAP.
+<br><br>5.  Verification of De- Morgan’s theorems.
+<br><br>6.  Implement Half –Adder and Full-Adder circuits using logic gates.
+<br><br>7.  Implement Half –Subtractor and Full-Subtractor circuits using logic gates.
+<br><br>8.  Realize the following Flip-Flops.
+<br>a)Clocked RS FF using NAND gates
+<br>b)JK FF using IC- 7476
+<br>c)T and D FF using IC- 7476
+<br><br>9.  Realize Binary to Gray code and Gray to Binary code converter using 7486.
+<br><br>10. Realize 4 – bit even and Odd parity generator using EX- OR gates.
+<br><br>11. Perform 4 – Bit Parallel addition using IC- 7483.
+<br><br>12. Realize 2 – Bit comparator using IC- 7485.
+<br><br>13. Realize 1 to 8 De-Multiplexer using IC- 74138.
+<br><br>14. Realize 8 to 1 Multiplexer using 74151.
+<br><br>15. Realize the following types of Shift Registers using IC-7495.
+<br>a)SISO  b)SIPO  c)PISO  d)PIPO
+<br><br>16. Realize UP-DOWN Counter using IC- 74193.
+<br><br>17. Realize Decade counter using IC- 7490.
+
+<b>Reference Books:</b>
+
+<br><br>1. Fundamentals of Digital Circuits – A. Anandkumar , 3 rdedition,PHI publication.
+<br>2. Digital Electronics and Logic Design – JaydeepChakravorty, UP publication.
+<br>3. www.sriengg.com
+<br>4. www.ssit.edu.in
+<br>5. http://www.wiziq.com/tutorial/567997-digitalelectronicslecture/introduction
+<br>6. www.authorstream.com/presentation/psureshvenugopal-1137243-digitalelectronicsbasics
+<br>7. http://cg.nic.in/bilaspur/ggpbsp3/LAB%20Manuals%20Viva%20pdf/Electronics%20and%20Telecommunication%20Deptt%20pdf/Digital%20Lab2/Digital%20Electronics%20%20Lab%20Manual.pdf
+
+<br><br><b>Student Activity</b>
+
+<br><br>1.	Simulate a realistic digital circuit containing logic gates
+<br>2.	Collect the information about any three digital systems and highlight the difference between analog and digital systems.
+
+<b>Scheme of Valuation for SEE:</b>
+
+<br><br>1. Writing logic diagram, truth table and procedure for one experiment : 15
+<br>2. Conduction of experiment : 20
+<br>3. Result : 05
+<br>4. Viva Voce : 10
+
+<br><br><b>TOTAL = 50 Marks</b>

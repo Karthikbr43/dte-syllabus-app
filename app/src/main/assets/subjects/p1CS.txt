@@ -1,0 +1,75 @@
+<b>GUIDELINES FOR THE PREPARATION OF SYNOPSIS</b>
+<br><br>Project reports should be typed neatly in Times New Roman letters with font size 14 for titles and 12 for text on both sides of the paper with 1.5 line spacing on a A4 size paper (210 x 297 mm). The margins should be: Left - 1.5", Right -1", Top and Bottom - 0.75".
+
+<br><br><b>Format of Synopsis</b>
+<br><br>1. Title
+<br>2. Objective
+<br>3. Problem definition
+<br>4. Methodology (DFD, Algorithms etc.)
+<br>5. Software/Tools
+<br>6. References
+
+<br><br><b>ROADMAP FOR PROJECT GUIDES</b>
+<br><br>1. The project work is proposed to be carried out during the V and VI semesters so that learners prepare during the V semester, do some field work based on the preparation during the mid semester vacation and report the analysis and inferences during the VI semester.
+<br><br>2. The learners would reach a level of maturity by the time they reach V semester and so a meaningful project lasting for a year can be executed by them.
+<br><br>3. To execute the project with involvement needs constant guidance and monitoring of the progress of the learners by the guide.
+<br><br>4. This does not mean teacher has to advice learners.
+<br><br>5. Be confident about the ability of the learner and “intellectually provoke” them with challenging questions. These questions should prompt the learners to search information and update themselves (to be carried out during the first two weeks).
+<br><br>6. Do not feed information to learners. Instead crate a ‘cognitive dissonance’ (a challenging question or situation that the learner is not able to find an immediate answer but feels the need to search for information to find a solution).
+<br><br>7. Defer judgement on learners and give them identified sources if required like a journal article, book or a web site.
+<br><br>8. Even if the learners report their inability to solve do NOT give or prescribe a solution.
+<br><br>9. Be patient and give time for the learner to construct his knowledge.
+<br><br>10. Give corrective feedback to the learner by challenging his solutions so that his logic is questioned and it develops further.
+<br><br>11. This leads to the first activity viz., literature survey and conceiving a project.
+<br><br>12. During this phase meet the project team in a group and create a healthy competition among the learners to search different sources and synthesise their findings in the group.
+<br><br>13. Aim for bringing out a workable innovative project conceived within the first eight weeks as given in the schedule attached.
+<br><br>14. During these two phases and the third phase the teacher should assess the strengths and weakness of the members of the group and allocate differential work to team members on the remaining tasks to be carried out during the next thirty weeks.
+<br><br>15. This is to ensure active participation of all the members of the team.
+<br><br>16. By the end of the twelfth week finalise the project and a schedule of further activities for each member indicating the time frame in which his activities are to be executed may be made ready. A soft copy of this schedule may be collected from each learner by the guide to follow up.
+<br><br>17. This schedule prepared by each learner need to be documented for checking further progress of the project.
+<br><br>18. The next few phases of the project may require active guidance of the guide especially regarding the sources of collecting data, if a sample data is to be collected the number of units has to be decided, collating the data/fabricating, tryout/analysis and finally coming out with meaningful conclusions or models or application. 
+<br><br>19. Data like models, designs, technical specifications, source code, protocols and original records need be collected from one authentic source as there will not be any variation. The teacher may guide the learners to authentic source.
+<br><br>20. Data having limited variability like product/service quality, processes and standards, procedures need to be collected from a sample as there is a variation. The number of units from whom (source) the data is to be collected is called sample. The sample needs to be representative of the expected variation. The decision on the size of the sample and the number of units need guidance from the teacher. For example, data regarding the quality of a product/service need be collected from 3 to 5 personnel at different levels of a service provider or dealers of a product. The numbers given are suggestive but a guide based on his experience has to make valid suggestions.
+<br><br>21. Data having a wide range of variation like customer satisfaction where the customers are members of the public need a larger number of units to accommodate the diversity. A tool like questionnaire with predetermined questions need to be prepared, tried out on a small sample and finalise the questions. Data may be collected from at least 30 units. This number is suggested to apply statistical analysis for meaningful conclusions. Guides may decide on the sample size depending on the accessibility of data.
+<br><br>22. The intention of the above three points viz., 19, 20 and 21 is to ensure objectivity in data collection i.e., to reduce the subjectivity of the human mind.
+<br><br>23. All the above activities need to be completed before three to four weeks before the end of V semester (refer the spread sheet related to scheduling).
+<br><br>24. The learners may be instructed to collect data objectively with identified sample during the next 4 to six weeks which includes the mid semester holidays. This would enable the learners to visit the field and collect data without the constraint of reporting to institution and attending classes on a regular basis.
+<br><br>25. The collected data need to be organised and entered to spread sheets or similar formats for analysis. Qualitative data may be converted to quantitative using a rating scale or similar data organisation procedures.
+<br><br>26. The result of most analysis on spreadsheet could be obtained in tables or graphs as per the requirement.
+<br><br>27. Activities mentioned in points 24, 25 and 26 may be carried out by learners during 4 to 8 weeks after commencement of VI semester.
+<br><br>28. Interpretation of the analysed tables and graphs to arrive at meaningful inference. The guide at this stage may defer his ideas on interpretation allowing the learners to do this. In case the learners err in the process they may be given corrective feedback.
+<br><br>29. A report of the whole process of doing the project may be written, word processed and submitted in triplicate.
+<br><br>30. Guides may contact industries and try to solve their problems so that the learners get a field experience and they get ready for the industry.
+<br><br>31. Innovations and innovative practices may be encouraged among the learners to be pursued as a project. Developing prototypes, (in simulation or real) trying out feasibility of new ideas, changing existing systems by adding modules, combining, assembling new modules and developing new systems may be given higher priority over routine bookish projects.
+<br><br>32. The schedule of events proposed is for an investigative project as a model. Guides may alter the prescribed schedule to suit the kind of innovative projects sited in point No.31 above.
+<br><br>33. Concerned guide may be involved in conceiving, executing and evaluating projects. This gives credibility to the institute.
+
+<br><br><b>GUIDELINES TO LEARNERS TO CARRY OUT A TWO SEMESTER PROJECT</b>
+<br><br>1. Carry out the project work through the V and VI semesters. Preparation must be done during the V semester and based on this, field work should be done during the mid semester vacation and reporting of analysis and inferences should be done in the VI semester.
+<br><br>2. You have the ability and the level of maturity needed to conceive an innovative and meaningful project accomplishing which gives you recognition by the industry and empowers you with the power of knowledge.
+<br><br>3. Understand your strength and weakness and make an effort to find the strength and weakness of other peers in the team.
+<br><br>4. Complement each other’s strength rather than compete with peers within the team. This will enable you to complete a comprehensive and innovative project relevant to the industrial needs rather than doing a routine copy of what others have done.
+<br><br>5. Seek guidance from the course coordinator and update him/her about the progress.
+<br><br>6. Be confident about your ability and that of other members of your group. Take extra efforts to collect information, share with your peers and synthesise your knowledge.
+<br><br>7. Question everything including the ideas of your course coordinator. Accept the ideas and instructions which are internally consistent (logical).
+<br><br>8. Involve actively in group activities and contribute towards the tasks.
+<br><br>9. Do not depend too much on the course coordinator as a source of information, search on your own and build your knowledge structure. Search for authentic sources like journal articles, books and authentic sites rather than blogs and tweets.
+<br><br>10. Though brief, record your thoughts and activities including searches immediately.
+<br><br>11. Prepare a schedule for your work on a spread sheet and encourage your peers to do the same.
+<br><br>12. Show your schedule and that of others to the course coordinator and get his feedback.
+<br><br>13. Keep reviewing the schedule every fortnight and take corrective steps if needed. For doing this keep the general guideline schedule given in the curriculum as a backdrop.
+<br><br>14. Tools used for data collection like instruments, testing machines, questions to be asked and software may be tried out and standardised by the twelfth week of the project. Seek the course coordinator’s help who is experienced in doing this.
+<br><br>15. Collect data dispassionately or objectively (without applying your personal prejudice). Complete this task before the VI semester begins.
+<br><br>16. While entering data into the spread sheet ask your peer member to verify. This will ensure accuracy of data entry.
+<br><br>17. Use appropriate mathematics/statistics for calculations. Seek help from external sources (other than your course coordinator) if required.
+<br><br>18. The results of your analysis need to be graphically represented and documented. You may also add photographs and video clips to increase the validity.
+<br><br>19. This task needs to be completed within 8 weeks after commencement of VI semester.
+<br><br>20. Interpret the data (after analysis) and arrive at meaningful inferences on your own indiscussion with your peers. Get it ratified by your course coordinator. Suggestions from the course coordinator may be discussed among your peers and incorporated if they are internally consistent.
+<br><br>21. The project report may be word processed (videos, photographs attached in soft copy) and submitted in triplicate two weeks before the end of VI semester.
+<br><br>22. Involve passionately in the team work, make constructive contributions and come out with an industry friendly project which will equip you in your professional development.
+
+<br><br><b>CIE ASSESSMENT FOR FINAL REVIEW:</b>
+<br><br>1. Log Activity : 05
+<br>2. Synopsis : 10
+<br>3. Presentation : 10
+<br><br><b>TOTAL = 25 Marks</b>

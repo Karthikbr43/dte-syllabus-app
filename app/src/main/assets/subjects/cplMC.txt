@@ -1,0 +1,42 @@
+Unit I: Introduction
+Introduction to C programming, Need for a computer language, types of computer languages, algorithm, flow charts, features of C, structure of a C program, programming syntax, executing the program , Keywords, statements, standard library functions, pre-processor, main function, comments, variables, data types, operators, assignments, strings, control structures-sequential, conditional, repetitive/looping, arrays-one and two dimensions
+
+Unit II: Programming Exercises
+1.	Program to calculate mechanical efficiency from given BP and IP
+<br>2.	Program to calculate Area and volume of cylinder
+<br>3.	Program to determine the length of the belt in case of open and cross belt drive
+<br>4.	Program to determine the velocity ratio of the belt drive
+<br>5.	Program to find limiting angle of friction
+<br>6.	Program to calculate stress and strain using functions
+<br>7.	Program to find equivalent resistance in the case of series and parallel circuits
+<br>8.	Program to find equivalent capacitance in the case of series and parallel circuits
+<br>9.	Program to convert mechanical power into electrical power and vice versa
+<br>10.	Program to find the area and also the type of a triangle when 3 sides are given
+<br>11.	Program to find the sum of odd and even number between 1 and 200
+<br>12.	Program to calculate current when voltage is varied from 1 to 10 volts for given value of  resistance
+<br>13.	Program to add two 3X3 matrices
+<br>14.	Program to accept 10 numbers, store them in an array and display the array elements.
+<br>15.	Program to draw a borderline
+<br>16.	Program to draw basic entities like circle, ellipse, rectangle. Arc
+<br>17.	Program to draw filled areas like pie-chart
+
+<b>Reference Books:</b>
+<br><br>1.	Programming with ANSI and Turbo C -- Ashok M Kamthane
+<br>2.	Programming with  C -- Byron S  Gottfried
+<br>3.	Programming in ANSI C -- Balaguruswamy
+<br>4.	Let us C -- Yaswanth Kanetkar
+<br>5.	Basics of Computer and Application -- Rajesh Hongal
+<br>6.  http://gnindia.dronacharya.info/APSDept/downloads/labmanuals/COMPUTER_PROGRAMMING_APS_17012013.pdf
+
+<br><br><b>Student Activity</b>
+<br><br>1.	Write and execute C program for a given application  not mentioned in the curriculum
+
+<b>Scheme of Valuation for SEE:</b>
+
+<br><br>1.	Write a different syntax/key words/data types/variables etc : 10
+<br>2.	Writing two programs : 20
+<br>3.	Entering of any one program : 05
+<br>4.	Execution of any one program : 10
+<br>5.	Viva Voce :	05
+
+<br><br><b>TOTAL = 50 Marks</b>

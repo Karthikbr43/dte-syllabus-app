@@ -1,0 +1,33 @@
+UNIT - I : DIMENSIONING
+Introduction to Engineering Drawing-Drawing Instruments – Standard Sizes of Drawing sheets-Layout of drawing sheets-Types of lines and their applications-Conventions for various materials-Introduction to Dimensioning‐Elements of Dimensioning–Systems of Dimensioning‐Methods of arrangements of Dimensioning- Dimensioning of common features like diameters, radii, arcs and chords- Dimensioning of counter sunk and counter bore- Introduction to Scale- Definition of R.F- Concept of reducing, enlarging and full size scale.
+<br><b>[12 Hrs] [15 Marks] </b>
+
+UNIT - II : CONIC SECTIONS AND SPECIAL CURVES	
+Introduction to conic sections -Division of a line into equal number of parts- Types of conic section-  Eccentricity- Construction of conic sections(Parabola, Ellipse and Hyperbola) when eccentricity and distance of the focus from the directrix is given-Construction of ellipse by Intersecting lines method(Rectangular and parallelogram methods)and Concentric circles method -Construction of parabola by rectangle method, parallelogram method and a tangent method-Construction of Rectangular/Equilateral Hyperbola-Construction of Involutes of a circle and to draw tangent and normal at any point on the curve- Construction of Cycloid and to draw a tangent and normal at any point on the curve.
+<br><b>[18 Hrs] [40 Marks] </b>
+
+UNIT - III : ORTHOGRAPHIC PROJECTION AND PROJECTION OF POINTS	
+Introduction to orthographic projection- Principal planes of projection- Four Quadrants- Concept of First angle andThird angle projection methods- Projection of points in all the four quadrants.
+<br><b>[12 Hrs] [15 Marks] </b>
+
+UNIT - IV : PROJECTION OF LINES	
+Projection of lines – Line Parallel to both HP and VP –Line parallel to one plane and Perpendicular to other- Line parallel to one plane and Inclined to the other- Line inclined to both HP and VP. (First angle projection should be followed).
+<br><b>[18 Hrs] [30 Marks] </b>
+
+UNIT - V : PROJECTION OF PLANE SURFACES
+Construction of polygons-Projection of plane Surfaces–Plane surface parallel to one plane and Perpendicular toother two–Plane surface Perpendicular to one plane and inclined to the other-Plane surface  inclined to both HP and VP.
+<br><b>[18 Hrs] [45 Marks] </b>
+
+<b>Text books:</b>
+
+<br><br>1.K.R.Gopalakrishna“Fundamentalsof  Drawing”  Subhas Publications, 2010.
+<br>2.K.R.Gopalakrishna“Engineering Drawing” (Vol. I and II), Subhas Publications, 2014.
+
+<br><br><b>References:</b>
+
+<br><br>1. R.K. Dhawan, “A text book of Engineering Drawing”, S. Chand Publishers, Delhi,2010.
+<br>2.G.S. Phull and H.S.Sandhu, “Engineering Graphics”, Wiley  Publications, 2014.
+<br>3. K.Venugopal and V.Prabhu Raja, “Engineering Graphics”, New Age International Private Limited, 2008.
+<br>4. M.B.Shah and B.C.Rana, “Engineering Drawing”, Pearson Education, 2005..
+<br>5. DhananjayA.Jolhe, “Engineering Drawing with an Introduction to AutoCAD”, Tata McGraw Hill Publishing Company Limited, 2008.
+<br>6. BasantAgarwal and Agarwal.C.M., “Engineering Drawing”, Tata McGraw Hill Publishing Company Limited, New Delhi, 2008.

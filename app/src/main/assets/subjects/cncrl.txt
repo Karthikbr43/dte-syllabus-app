@@ -1,0 +1,54 @@
+Unit-I:
+<b>CNC Lathe Turning Exercises:</b>
+<br><br>1.	Develop a part program for step turning and simulate
+<br>2.	Develop a part program for taper turning and simulate
+<br>3.	Develop a part program for circular interpolation and simulate
+<br>4.	Develop a part program for multiple turning operation and simulate
+<br>5.	Develop a part program for thread cutting, grooving and simulate
+<br>6.	Develop a part program for internal drills, boring and simulate
+
+<br><br><b>CNC Milling Exercises:</b>
+<br><br>1.	Develop a part program for grooving and simulate
+<br>2.	Develop a part program for drilling (canned cycle) and simulate
+<br>3.	Develop a part program for mirroring with subroutines and simulate
+<br>4.	Develop a part program for rectangular and circular pocketing and simulate
+
+Unit-II:
+<b>Robot Programming Exercises:</b>
+<br><br>1.	Develop and execute a program for the movement of ARM
+<br>2.	Develop and execute a program for the rotation of BASE
+<br>3.	Develop and execute a program for the movement of WRIST
+<br>4.	Develop and execute a program for the movement of ELBOW
+<br>5.	Develop and execute a program for the movement of SHOULDER
+<br>6.	Develop and execute a program for PICK & PLACE movement
+<br>7.	Develop and execute a program for the continuous movement of all the above
+<br>8.	Develop and execute a program for the movement of END GRIPPER
+<br>9.	Develop and execute a program for the identification of colour
+<br>10.	Develop and execute a program for the segregation of metal and non-metal parts
+
+<b>Reference Books:</b>
+<br><br>1.	Industrial Robotics – Mikell P. Groover et al.
+<br>2.	Robotic Engineering – Richard D. Klafter et al.
+<br>3.  Robotics technology and flexible automation – S.R. DEB and S.DEB 
+
+<br><br><b>Student Activity:</b>
+
+<br><br>1.	Develop CNC part programming for a turning component having step turning, taper turning, thread cutting, Knurling operations 
+<br>2.	Develop CNC part programming for a milling component having mirroring, pocketing, contour milling operations etc.
+<br>3.	Present a report on materials used for CNC tooling’s( Hand written 2 0r 3 pages)
+<br>4.	Present a report on inserts used in CNC cutting tools
+<br>5.	Develop a CNC program for a simple component by using APT language.
+<br>6.	Prepare a report on various CAM software
+
+<br><br><b>Note:</b>
+<br>1. Group of max four students should above activity or any other similar activity related to the course COs and get it approved from concerned Teacher and HOD.
+<br>2. No group should have activity repeated or similar
+<br>3. Teacher should asses every student by using suitable Rubrics approved by HOD
+
+<b>Scheme of Valuation for SEE:</b>
+
+<br><br>1.	Writing any one CNC program (Turning/Milling), execution and simulation : 10+10+5
+<br>2.	Developing and executing any one robot movement : 10+05
+<br>3.	Viva Voce : 10
+
+<br><br><b>TOTAL = 50 Marks</b>

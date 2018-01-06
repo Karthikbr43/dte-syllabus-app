@@ -1,0 +1,43 @@
+UNIT - I: MATRICES AND DETERMINANTS
+<b>(a)	Matrices: Basic concepts of matrices:</b> Definition, types of matrices and mathematical operations on matrices (addition, subtraction and multiplication of matrices). 
+<br><b>(b)	Determinant:</b> Definition, problems on finding the determinant value of 2nd and 3rd order. Problems on finding unknown quantity in a 2nd and 3rd order determinants using expansion. Solving simultaneous linear equations using determinant method (Cramer’s rule up to 3rd order).
+<br><b>(c)	Inverse and applications of matrices:</b> Minors and Cofactors of elements of matrix. Adjoint and Inverse of matrices of order 2nd and 3rd order. Elementary row and column operations on matrices. Characteristic equation and characteristic roots (eigen values) of 2x2 matrix. Statement of Cayley-Hamilton theorem and its verification for 2x2 matrix.  Solution of system of linear equations using Gauss Elimination method (for 3 unknowns only).
+<br><br><b>[10 Hrs] [31 Marks] </b>
+
+UNIT - II: VECTORS
+Definition of vector. Representation of vector as a directed line segment. Magnitude of a vector. Types of vectors. Position vector. Expression of vector by means of position vectors. Addition and subtraction of vectors in terms of line segment. Vector in plane and vector in a  space in terms of unit vector i, j and k respectively. Product of vectors. Scalar product and vector product of two vectors. Geometrical meaning of scalar and vector product. Applications of dot (scalar) and cross (vector) products. Projection of a vector on another vector. Area of parallelogram and area of triangle. Work done by force and moment of force.
+<br><br><b>[08 Hrs] [27 Marks] </b>
+
+UNIT - III: PROBABILITY AND LOGARITHMS
+<b>(a)	Probability:</b>  Introduction. Random experiments: outcomes and sample space. Event: Definition, occurrence of an event, types of events. Algebra of events- complementary event, the events A or B, A and B, A but not B, mutually exclusive events, exhaustive events, defining probability of an event. Addition rule of probability. Conditional probability: definition, properties of conditional probability, simple problems.
+<br><b>(b)	Logarithms:</b>Definition of common and natural logarithms. Laws of logarithms (no proof). Simple problems on laws of logarithms.
+<br><br><b>[08 Hrs] [14 Marks] </b>
+
+UNIT - IV: ALLIED ANGLES AND COMPOUND ANGLES
+Recapitulation of angle measurement, trigonometric ratios and standard angles.
+<br><b>(a) Allied angles:</b> Meaning of allied angle.  Signs of trigonometric ratios. Trigonometric ratios of allied angles in terms of θ. Problems on allied angles.
+<br><b>(b) Compound angles:</b> Geometrical proof of sin(A+B) and cos(A+B) and hence deduce tan(A+B). Write the formulae for sin(A-B), cos(A-B) and tan(A-B), problems. Multiple and sub multiple angle formulae for 2A and 3A. Simple problems. Transformation formulae. Expression for sum or difference of sine and cosine of angles into product form. Expression for product of sine and cosine of angles into sum or differences form.
+<br><br><b>[16 Hrs] [47 Marks] </b>
+
+UNIT - V:COMPLEX NUMBERS
+Meaning of imaginary number i and its value. Definition of complex number in the form of  a+ib. Argand diagram of complex numbera+ib (Cartesian system). Equality of complex numbers. Conjugate of complex number. Algebra of complex numbers, modulus of complex number, principal value of argument of complex number, polar form: Z=r(cosθ+i sinθ) and exponential form Z=re<sup>iθ</sup> of complex number, where r is modulus and θ is principal value of argument of complex number.
+<br><br><b>[04 Hrs] [09 Marks] </b>
+
+UNIT - VI: INTRODUCTION TO CALCULUS
+<b>Limits:</b> Constants and variables. Definition of function. Types of functions: Explicit and implicit function, odd and even functions(definition with example). Concept of x→a. Definition of limit of a function. Indeterminate forms. Evaluation of limit of functions by factorization, rationalization. Algebraic limits. Statement of <b><i>[Refer Fig. 1.1] </i></b>  <br>where n is any rational number. <br>Proof of <b><i>[Refer Fig. 1.2] </i></b> <br>where θ is in radian. Related problems.
+<br>Standard limit (statement only)<br><b><i>[Refer Fig. 1.3] </i></b><br>Simple problems on standard limits.
+<br><br><b>[06 Hrs] [17 Marks] </b>
+
+<b>Reference Books:</b>
+
+<br><br>1.	NCERT Mathematics text books of class XI and XII.
+<br>2.	Karnataka State PUC mathematics text Books of I and II PUC by H.K. Dass and Dr.Ramaverma published by S.Chand and Co.Pvt.Ltd.
+<br>3.	CBSE Class Xi and XII by KhattarandKhattar published PHI Learning Pvt. ltd.,
+<br>4.	First and Second PUC mathematics text Books of different authors.
+<br>5.	www.freebookcentre.net/mathematics/introductory-mathematics -books.html
+
+<br><br><b>Note:
+
+<br><br>PART-I: LINEAR ALGEBRA [Unit 1]
+<br>PART - II: ALGEBRA [Unit 2 and 3]
+<br>PART - III: TRIGONOMETRY [Unit 4, 5 and 6]</b>

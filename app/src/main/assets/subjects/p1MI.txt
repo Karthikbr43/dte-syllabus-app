@@ -1,0 +1,29 @@
+<b>INDUSTRIAL VISIT </b>
+<br>During the program of study all the students are required to visit the industries anywhere in India after completion of the fifth semester. Students can visit any industry as per the requirement to achieve the program outcomes. After visiting the industry, they are required to submit the report on visit to the head of the department of the program. The permission letter from the industries is not mandatory (due to the industries busy schedule and time concern). Students will visit the available industries at the time of their visit to that place.
+
+<br><br><b>PROJECT PROPOSAL SUBMISSION AND APPROVAL </b>
+<br>After finalizing the topic and the selection of the guide, students shall submit the Project Proposal to the HOD along with the synopsis and details of the guide. Incomplete project proposals will not be considered for CIE.
+
+<br><br><b>Proposal Format and Submission</b>
+<br>Proposal Format Each proposal should contain the following elements:
+<br>1. Project title, Batch / Group Number.
+<br>2. Team profile:
+<br>a. Individual qualifications and strengths (such as: design, presentation, documentation, management and organization) Note: It is expected that every team member shall be involved in all project activities; this only indicates individual strengths, not their sole responsibilities
+<br>3. Name of the elected team leader, if any (having a team leader is optional) the team leader should act as facilitator, to organize group meetings and generally keep track of project activities.
+<br>4. Proposed project description: The Project description must provide detailed explanation of your proposed project. At the end of this section, summarize in a bulleted list what the user will be able to do with your system (“functional features”).
+<br>5. Plan of work and product ownership:
+
+<br><br>The Plan of work should list and describe the items that you are planning to accomplish in the short term (next few weeks). Split your team into pairs of students (a team of 6 students will have 3 pairs), and each pair should list what specifically they will contribute to the end product:
+<br>a. Functionality: which functional features each sub-team will contribute. Example functional features are customer registration, data capture and storage, data processing to extract statistical parameters, etc. User interface, graphic design, database interaction, unit testing, etc. are not functional features.
+<br>b. Qualitative property, if any, that you will contribute, such as tune up the system performance to achieve response time under x seconds, or develop and evaluate an easy-to-use user interface for this-and-this specific functional feature, or ensure confidentiality of a specific set of data, etc.
+
+<br>Product ownership is critical to demonstrate that each team member will play a clearly defined role in the proposed project. Proposals that are missing any of the above sections will be returned without review. Proposal Submission Because the project is a team work, each team submits a single document for the entire team. Submit the one hard copy document each of your proposal to the Head of the Department and Guide.
+
+<br><br><b>Proposal Submission </b>
+<br>Because the project is a team work, each team submits a single document for the entire team. Submit the one hard copy document each of your proposal to the Head of the Department and Guide.
+
+<br><br><b>CIE ASSESSMENT FOR FINAL REVIEW:</b>
+<br><br>1. Log Activity : 05
+<br>2. Synopsis : 10
+<br>3. Industrial visit, presentation / Report : 10
+<br><br><b>TOTAL = 25 Marks</b>

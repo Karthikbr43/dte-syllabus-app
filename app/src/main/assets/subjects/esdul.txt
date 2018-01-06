@@ -1,0 +1,78 @@
+<b>Experiments:</b>
+
+<br><br><b>Lay out plan</b>
+<br>1.  Water supply indicating necessary fixtures given in the site  Plan & building plan	
+<br>2.  The sewage disposal with necessary fixtures for the given plan of the building
+<br>3.  Rainwater harvesting and recharge indicating necessary fixtures for the given building plan
+
+<br><br><b>Environmental Drawings </b>
+<br>4.  Draw the sectional elevation of Various types of joints
+<br>5.  Draw the sectional elevation of River Intake work for given design data
+<br>6.  Draw the sectional elevation of Reservoir Intake work for given design data
+<br>7.  Draw the plan and sectional elevation of Ground level service reservoir  for given design data
+<br>8.  Draw the plan and sectional elevation of Sedimentation tanks for given design data						
+<br>9.  Draw the sectional elevation of Slow sand filters for given design data						
+<br>10. Draw the sectional elevation of Rapid gravity filters for given design data						
+<br>11. Draw the sectional elevation of Trickling filter for given design data					
+<br>12. Draw the plan and sectional elevation of Septic tank with soak pit for given design data						
+<br>13. Draw the plan and sectional elevation of Man hole for given design data	
+
+<br><br><b>Structural elements of Buildings</b>
+<br>14. Draw the longitudinal section, cross section @mid span and @ support for a Singly reinforced beam and doubly reinforced beams, For the given design data			
+<br>15. Draw the longitudinal section, cross section @mid span and @ support for a T beams, For the given design data			
+<br>16. Draw the Longitudinal section and cross section of Lintel with Chejja.					
+<br>17. Draw the longitudinal section, cross section @Support and @ Free end for a Cantilever beam, For the given design data.	
+<br>18. Draw the plan showing Reinforcement details of One way slab.
+<br>19. Draw the plan showing Reinforcement details of Two way slab with ends are restrained.
+
+<b>Reference Books:</b>
+
+<br><br>1.	CAD in Civil Engineering a Laboratory Referrel- Dr M.A.Jayaram, D.S.Rajendra Prasad, Sapna Book House
+<br>2.	Plumbing by A. Johnson
+<br>3.	Plumbing Instrument and Design by Ripka
+<br>4.	Plumbing by John H. Innes
+<br>5.	Plumbing and Sanitation by Gupta-Kaushish	
+<br>6.	Hand book on Concrete Reinforcement and Detailing by MG. SHAHA  Detailing  of RCC structures by SAWHNY
+<br>7.	Design of RCC Structures by RAMAMRUTH
+<br>8.	SP-34 Detailing of RC Structures
+<br>9.	www.sketchup.com
+<br>10.	www.autodesk.in/products/3ds-max/overview
+
+<br><br><b>SUGGESTED ACTIVITIES:</b>
+<br>The topic should be related to the course in order to enhance his knowledge, practical skill, lifelong learning, communication and modern tool usage.
+
+<br><br>1.	Visit any nearby water treatment plant and Draw a Layout Plan (Key plan) with filtration units.
+<br>2.	Prepare a water supply and sanitary lay out plan for a small colony/village.
+<br>3.	Search for ongoing construction collect the information of area distribution,& Service drawings (water supply, sanitary, and landscaping). 
+<br>4.	Search for ongoing Multistoried Buildings and collect the Detailed information about structural elements 
+<br>5.	Create drawings on rain water harvesting for different conditions.
+<br>6.	Create a 3D of Environmental structure model by using any two software mentioned below and compare the utilities and limitations.
+<br>a.	Revit 
+<br>b.	Google sketch up
+<br>c.	ArchiCAD
+<br>d.	3DSMAX
+<br>e.	Blender
+<br>f.	QCAD
+<br>g.	Pythoncad
+<br>h.	CADEMIA
+<br>i.	ZWCAD
+<br>j.	SKETCHBOARD
+<br>k.	Sweethome 3D
+<br>l.	Proge CAD Smart!
+<br>m.	Sculptris
+
+<br><br><b>NOTE: </b>
+<br>1. Students should select any one of the above or other topics relevant to the subject approved by the concerned faculty, individually or in a group of 3 to 5. Students should mandatorily submit a written report and make a presentation on the topic.  The task should not be repeated among students. Report will be evaluated by the faculty as per rubrics. Weightage for 5 marks Internal Assessment shall be as follows: (Unsatisfactory 1, Developing 2, Satisfactory 3, Good 4, Exemplary 5)
+<br>2. Reports should be made available along with bluebooks to IA verification officer
+
+<b>Scheme of Valuation for SEE:</b>
+
+<br><br>1.	Student has to prepare the Drawing using drawing aids manually for the given design details(Two) : 10
+<br>2.	Student has to prepare the Drawing using CAD any one of the given Two design details                                    
+<br>i)  Planning & Data entry : 15
+<br>ii) Application of relevant commands : 05
+<br>3.	Record  & report on suggested activities : 05
+<br>4.	output/Result : 05
+<br>5.	Viva-voce : 10
+
+<br><br><b>TOTAL = 50 Marks</b>

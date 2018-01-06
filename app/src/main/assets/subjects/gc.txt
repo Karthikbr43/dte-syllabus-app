@@ -1,0 +1,36 @@
+UNIT I : Green IT - An Overview
+Introduction, Environmental Concerns and Sustainable Development, Environmental Impacts of IT, Green IT, Holistic Approach to Greening IT, Greening IT, Applying IT for enhancing Environmental sustainability, Green IT Standards and Eco-Labelling of IT, Enterprise Green IT strategy, Green IT: Burden or Opportunity?
+<br><b>[08 Hrs] [15 Marks] </b>
+
+UNIT II: Green Devices and Hardware with Green Software
+<b>Green Devices and Hardware:</b> Introduction, Life Cycle of a device or hardware, Reuse, Recycle and Dispose.
+<br><b>Green Software:</b> Introduction, Energy-saving software techniques, Evaluating and Measuring software Impact to platform power.
+<br><b>[12 Hrs] [30 Marks] </b>
+	
+UNIT III: Green Enterprises and the Role of IT
+Introduction, Organization and Enterprise Greening, Information systems in Greening Enterprises, Greening Enterprise: IT Usage and Hardware, Inter-Organizational Enterprise activities and Green Issues, Enablers and making the case for IT and Green Enterprise.
+<br><b>[08 Hrs] [25 Marks] </b>
+
+UNIT IV: Managing Green IT
+Introduction, Strategizing Green Initiatives, Implementation of Green IT, Information Assurance, Communication and Social media.
+<br><b>[08 Hrs] [25 Marks] </b>
+
+UNIT V: Regulating the Green IT: Laws, Standards and Protocols
+Introduction, The regulatory environment and IT manufacturers, Non regulatory government initiatives, Industry associations and standards bodies, Green building standards, Green data centers, Social movements and Greenpeace.
+<br><b>[08 Hrs] [25 Marks] </b>
+	
+UNIT VI: Green IT: An Outlook
+Introduction, Awareness to implementations, Greening by IT, Green IT: A megatrend?, A seven-step approach to creating green IT strategy, Research and Development directions.
+<br><b>[08 Hrs] [25 Marks] </b>
+
+<b>Text books:</b>
+<br><br>1.	Harnessing Green IT Principles and Practices , San Murugesan, G.R. Gangadharan Wiley Publication, ISBN:9788126539680   
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>1. 	Any two discussion question to be solved given at the end of each chapter of the text book.
+<br>2. 	Quiz
+
+<br><br><b>Note:</b> The activities or similar activities for assessing CIE (IA) for 5 marks (Any one).
+<br>1. Each individual student should do any one of the following type activity or any other similar activity related to the course and before conduction, get it approved from concerned course coordinator and programme coordinator.
+<br>2. Each group should conduct different activity and no repeating should occur

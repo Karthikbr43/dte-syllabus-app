@@ -1,0 +1,46 @@
+UNIT I: Basics of measurements
+<b>Necessity of measurements</b>-direct and indirect methods, basic terminology, dynamic characteristics of an instrument, generalized electronic measurement system, <b>Errors</b>–gross, systematic and random errors, sources of errors. <b>Statistical analysis</b>–problems involving arithmetic mean, deviation, average deviation, standard deviation. Limiting errors and probable errors. <b>Standards</b>-primary, secondary, working and IEEE standards. Comparison of AC and DC bridges. Principle of Wheatstone bridge and mention its applications.
+<br><b>[07 Hrs] [20 Marks] </b>
+
+UNIT II: Transducers
+Necessity of electrical transducers, selection of a transducer, active, passive, analog and digital transducers. <b>Strain gauge</b>-principle, gauge factor, features of bonded, unbonded, wire and foil type strain gauges, load cell.  Principle of working and features of capacitive transducer, Hall effect type, LVDT, thermistor, thermocouple, piezoelectric, proximity sensors, digital optical encoders and PIR sensors.
+<br><b>[08 Hrs] [20 Marks] </b>
+
+UNIT III:  Analog meters
+Principle of PMMC meters, DC ammeters and voltmeters using PMMC. Shunt and series resistors, multi range voltmeters/ammeters, loading effect and voltmeter sensitivity, problems on extending range. Working of electrodynamometer type voltmeter, ammeter and wattmeter.
+<br><b>Electronic voltmeters</b>: Pros and cons, working of FET input, chopper type DC amplifier voltmeter, solid-state voltmeter using op-amp, AC voltmeter using full-wave rectifier, Peak responding and true RMS voltmeters. Ohmmeters series and shunt type. Concept of Calibration of meters.
+<br><b>[11 Hrs] [30 Marks] </b>
+
+UNIT IV: Testing instruments
+<b>Cathode Ray Oscilloscope</b>-block diagram, working of CRT, concept of dual tracing.CRO probes: direct, high impedance, active and current probes. Applications of CRO-simple problems on voltage and frequency measurements. <b>DSO:</b> block diagram, advantages and applications. <b>Sampling oscilloscope:</b> advantages and applications. <b>Function generator:</b> block diagram, features and applications. Features of standard RF signal generator and sweep frequency generator. Features of distortion analyzer, wave analyzers, and spectrum analyzers. 
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT V: Digital meters
+<b>Digital instruments</b> - pros and cons, working of ramp and successive approximation type digital voltmeters. Automatization in digital meters-mechanism of automatic zeroing, polarity indication and auto ranging. <b>Electronic counters</b>-decade counters as an electronic counter, totalizing, frequency mode, ratio mode, period mode and time interval mode. <b>Digital meters</b>: digital frequency meter, time interval measurement, digital LCR meter, digital multimeter, microprocessor-based instruments, IEEE 488 GPIB instruments.
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT VI: Instrument maintenance
+Concepts and need of electrical grounding and shielding, shielding of cabinets, precautions in instrument usage, precautions for instrument safety. <b>Interference</b>–nature, causes, effects and prevention. Generalized trouble shooting.
+<br><b>[06 Hrs] [15 Marks] </b>
+
+<b>Reference Books:</b>
+
+<br><br>1.	Electronic Measurements and Instrumentation -2nd Revised Edition , R. K. Rajput, ISBN: 81-219-2917-2
+<br>2.	Electronic Measurements and Instrumentation-3rd Edition, Sanjay Talbar and Akhilesh Upadhayaya, ISBN :81-874-3335-3
+<br>3.	Electronic Instrumentation -3rdEdition, Kalsi H. S., ISBN: 00-707-0206-3
+<br>4.	Modern Electronic Instrumentation and Measurement Techniques-2nd Edition, Albert Helfrick and William Cooper, ISBN:81-203-0752-6
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>1. (a)Collect the standard specifications of at least ten instruments. OR
+<br>(b) Suggest cost-quality effective instruments of at least five different instruments by preparing comparative statements containing function, specification, make, market-price, and warranty.
+<br><br>2. (a)Collect service manuals of at least five instruments. OR
+<br>(b)Prepare a document on calibration types and procedures of at least two instruments.
+
+<br><br><b>Note:</b> The activities or similar activities for assessing CIE (IA) for 5 marks (Any one)
+<br>1. Above two activities or two similar activities can be assigned by the teacher per batch; each batch can have at most 2 students.
+<br>2. Activities shall be carried out batch-wise throughout the semester and submit the report before the end of the semester.
+<br>3. Report shall be qualitative and as concise as possible.
+<br>4. Each of the activity can be carried out off-class; however, demonstration/presentation if necessary, shall be done in the class room.
+<br>5. Teacher is expected to observe and record the progress of students’ activities
+<br>6. Assessment shall be made based on quality of activity, presentation/demonstration and report in accordance with the following rubrics table

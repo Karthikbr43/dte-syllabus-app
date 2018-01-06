@@ -1,0 +1,51 @@
+UNIT – I: INTRODUCTION TO ELECTRICAL DRIVES
+Concept of electric drive, Power modulators,Motors used in drives , types of loads choice of drives , classification of drives Multi quadrant  operation of Drives.
+<br><b>[06 Hrs] [20 Marks] </b>
+
+UNIT – II: INDUSTRIAL PROCESS & DRIVES FOR SPECIFIC APPLICATIONS
+Process flow diagram of paper mill, cment mill, sugar mill, steel mill, Hoists and cranes, centrifugal pumps and compressors, selection of drives for the above processes
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT – III: CONTROL SYSTEM
+Open and closed loop systems with examples, Temperature control and water  level   control, automatic control, speed control of Induction motor, Pilot devices
+<br><b>[07 Hrs] [20 Marks] </b>
+
+UNIT – IV: DEVELOPMENT OF CONTROL CIRCUIT
+Develop ladder diagram for control from one place, remote control , interlocking, DOLstarter  , Forward and reverse motoring  , Automatic  star delta starter , 3 speed motor control, Automatic Plugging, Jogging  and sequence speed control  ,Motor control  centre, Thyristorcontolled DC Motor Drive and   Induction motor drive
+<br><b>[09 Hrs] [25 Marks] </b>
+
+UNIT – V: COMPUTER BASED INDUSTRIAL CONTROL
+Concept of Digital control,CIM ,Hierarchial  levels   Of CIM, Microcontroller based DC Motor speed control , Fuzzy logic, Process control in thermal  plant and cement plant
+<br><b>[08 Hrs] [20 Marks] </b>
+	
+UNIT – VI: ELECTRIC TRACTION
+Introduction to electric traction, systems of Traction, speed time curve, derivation of maximum speed ,Tractive effort , nature of traction load , requirements of traction drives , Drives  in traction , electric braking, current collection, Train lighting system
+<br><b>[12 Hrs] [30 Marks] </b>
+
+<b>Reference Books:</b>
+<br><br>1.	Fundamentals of electrical drives by G K DUBEY
+<br>2.	Computer based Industrial control by Krishnakant
+<br>3.	Electrical drives by Vedamsubrahmanyam
+<br>4.	Mechatronics  by W B Bolton
+<br>5.	Electrical estimating and costing by K B Raina and  S K Bhattacharya
+<br>6.	Fundamentals of control by Mclntyre and  loose
+<br>7.	Digital control by M Gopal
+<br>8.	8051  micro controller and applications - Mazdi&Mazdi
+<br>9.	Utilization of  Electrical Energy - R K Rajput
+
+<br><br><b>Website:</b>
+
+<br><br>1. www.siemens.com/paperwww.siemens.com/cemet
+<br>2. www.siemens.com/metal
+<br>3. www.siemens.comn/sugar
+<br>4. www.abb.com/industries
+<br>5. www.flsmidth.com
+<br>6. www.krupp polysius.com
+<br>7. www.metso.com
+<br>8. www.voith.paper.com
+<br>9. www.sms -demag.com
+<br>10.www.siemens.com/drives
+<br>11.www.abb.com/drives
+<br>12.www.siemens.com/mobilit
+<br>13.www.bombardier.com
+<br>14.www.getransportation.com

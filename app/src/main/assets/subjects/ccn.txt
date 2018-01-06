@@ -1,0 +1,65 @@
+UNIT I: Radio Communication
+<b>Communication Basics:</b>  Communication, Elements of communication system - block diagram, explanation, Forms -audio, video and data, Types-simplex, half duplex, full duplex, analog signals, digital signals, baseband transmission, modulation, carrier. Modulation methods -AM, FM, PM.
+<br><b>Electromagnetic spectrum:</b> Relationship between frequency (f) and wavelength (λ), Need for modulation, Electromagnetic spectrum-major segments, Bandwidth – definition as applied to radio communication, illustration .
+<br><b>Modulation and demodulation circuits:</b> -Diode amplitude modulator-circuit, explanation, Demodulation-definition, AM Diode detector-circuit, explanation.
+<br><b>Radio transmitter and Receiver:</b>Transmitter-definition, functions, Atypical FM transmitter using indirect FM with phase modulator - circuit, explanation, Receiver - Super heterodyne receiver- block diagram, working.
+<br><b>Multiplexing:</b> Definition, Concept, FDM- definition, FDM - block diagram(transmitting end), explanation, FDM- block diagram (receiving end), explanation, TDM-definition, basic concept.
+<br><b>Transmission lines:</b> types, Co-axial cable-construction, characteristic impedance, characteristic impedance of co-axial cable, Standing Waves, Standing wave ratio, importance of SWR.
+<br><b>Radio wave propagation:</b> ground wave, sky wave, space wave.
+<br><br><b>[14 Hrs] [40 Marks] </b>
+
+UNIT II: Fiber Optic Communication
+Basic elements of fiber-optic communication system- diagram, explanation, Applications of fiber optic cables, Benefits of fiber optic cables over conventional electric cables, Light rays in a fiber optic cable, Basic construction of fiber optic cable – diagram, explanation, Mode-definition, classification based on mode, Single mode-definition, Multimode-definition, ILD optical transmitter - circuit, working, Photodiode optical receiver- circuit, working.			
+<br><br><b>[05 Hrs] [15 Marks] </b>
+
+UNIT III: Microwave Techniques
+Concept of microwave communication, Advantages of Microwave, Problems faced in microwave communication, Wave guides - construction, working, cutoff frequency, wave paths in a waveguide at different frequencies, Cavity resonators – types, construction, working, applications, Microwave semiconductors –problems faced by conventional semiconductor components and their remedies, Microwave tubes –types, their  applications, Two cavity klystron amplifier - construction, working, Microwave antennas - Horn antenna - diagram, working, Parabolic antenna -diagram, working. 
+<br><br><b>[06 Hrs] [15 Marks] </b>
+
+UNIT IV: Satellite Communication
+Concept of Satellite Communication system, Satellite orbits- geo synchronous orbit, Transponder- block diagram, working, Satellite sub system- block diagram, explanation of each block, Satellite Earth Station- block diagram, explanation of each block, Applications of satellite communication.
+<br>GPS - GPS architecture, GPS receiver, Differential GPS –diagram, explanation, Applications of GPS,GIS –concept, applications.
+<br>(GPS- Reference 2 Page 483-488)
+<br><br><b>[08 Hrs] [25 Marks] </b>
+
+UNIT V: Mobile and Data Communication
+<b>Mobile communication</b> - Multicell system, frequency reuse, Salient features of GSM, GSM services, GSM system architecture - block diagram, working  of  each part, GSM network area –definitions- cell, location area, MSC/VLR service area, PLMN,  GSM operation-call from mobile station, call to a mobile station, Concept of GPRS, Compare 2G with 3G.
+<br>(GSM – Reference 2 Page 459 -476)(GPRS –Reference 2 Page 510-516)
+<br><b>Data Communication</b> - Concept, Applications, Modes of Transmission - serial, parallel, synchronous, asynchronous transmission, Definitions - channel capacity, bandwidth, baud rate, bit rate, Modem - definition, need for modem, FSK-concept, FSK Modem- diagram, working, PSK - concept, BPSK–concept. BPSK modulator – circuit diagram, working, BPSK demodulator – circuit diagram, working.
+<br><br><b>[12 Hrs] [30 Marks] </b>
+
+UNIT VI: Basics of Computer Networks
+<b>Computer Network</b>- Definition, Types -LAN, WAN, MAN.
+<br><b>Network topology</b>-Bus, Star, Ring, Mesh–advantages, disadvantages. 
+<br><b>Transmission Media</b> - Twisted Pair cable - Cat 5e, Cat 6. 
+<br><b>Protocol</b>-OSI model- Layer diagram, TCP/IP- Layer diagram.
+<br><b>Ethernet</b>- Definition, types, Gigabit Ethernet.
+<br><b>Wireless AN</b>-Wireless access point, wireless LAN card.
+<br><b>Network connectivity</b>-Switch, Repeater, Router, Gateway.
+<br><br><b>[07 Hrs] [20 Marks] </b>
+
+<b>Reference Books:</b>
+<br><br>1. 	Communication Electronics - Louis E Frenzel	- Tata Mc-Graw Hill
+<br>2.	Principles of digital communication systems and computer networks - Dr. K. V. K. K. Prasad - Dreamtech press
+<br>2.	Data Communication - WilliamL.Schweber - Mc-Graw Hill	
+<br>3.	Local Area Networks-II Edition - Gerd Keiser - Tata-McGraw Hill
+<br>4.	Local Area Networks- I Edition - BehrouzA.Forouzan - Tata-McGraw Hill  
+
+<br><br><b>E –Learning</b>
+<br><br>1.	http://www.tutorialspoint.com/wi-fi/wifi_working_concepts.htm
+<br>2.	http://www.gps.gov/systems/gps
+<br>3.	http://www.tutorialspoint.com/wi-fi/wifi_working_concepts.htm
+<br>4.	http://www.wirelessnetworkproducts.com/wifitechfundamentals.aspx
+<br>5.	http://www.networkworld.com/article/2272293/lan-wan/chapter-1--introduction-to-wireless-networking-concepts.html
+<br>6.	http://www.slideshare.net/Videoguy/video-conferencing-fundamentals-and-application
+<br>7.	http://www.slideshare.net/aGISGuy/what-is-gis-1655272?qid=74d03662-e3a6-460d-85af-faf585a71853andv=defaultandb=andfrom_search=1
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br>Student has to submit minimum 3 pages self handwritten report on any one of the activities listed below:
+<br>1. Collect different communication tools and equipment.
+<br>2. Report on advanced/ present day communication using Wifi, Hotspot, Bluetooth etc.
+<br>3. Implement a LAN of two computers using switch, Cat 5e or cat 6 straight cable and test.
+<br>4. Pairing of two computers using Cat 5e or Cat 6 A to B (cross connection) cable.
+<br>5. Visit nearby radio station/microwave repeater station, understand theequipment and working.
+<br>6. Visit nearby telephone exchange, understand the equipment, features and operation

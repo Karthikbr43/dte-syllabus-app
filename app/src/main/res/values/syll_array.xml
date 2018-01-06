@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="branches">
+        <item>Automobile Engg</item>
+        <item>Ceramics Engg</item>
+        <item>Chemical Engg</item>
+        <item>Civil Engg </item>
+        <item>Civil Engg (Environmental)</item>
+        <item>Computer Science and Engg</item>
+        <item>Electrical and Electronics Engg</item>
+        <item>Electronics and Communication Engg</item>
+        <item>Information Science and Engg</item>
+        <item>Mechanical Engg </item>
+        <item>Mechanical Engg (HPT)</item>
+        <item>Mechanical Engg (Instrumentation) </item>
+        <item>Mechanical Engg(MTT)</item>
+        <item>Mechanical Engg (WSM)</item>
+        <item>Mechatronics Engg</item>
+    </array>
+
+    <array name="sems">
+        <item>1ST SEM</item>
+        <item>2ND SEM</item>
+        <item>3RD SEM</item>
+        <item>4TH SEM</item>
+        <item>5TH SEM</item>
+        <item>6TH SEM</item>
+    </array>
+</resources>

@@ -1,0 +1,57 @@
+UNITI: POWER DEVICES & APPLICATIONS
+Principle – working – characteristics & specifications – Power Diodes, Power Transistor, SCR, Triac, Diac, GTO – two Transistor Analogy- Operation of SCR – TURN ON methods of SCR,- TURN OFF methods of SCR – Light Dimmer circuit using DIAC & TRIAC – Burglar Alarm circuit – Emergency Lamp circuit. Single Phase half wave controlled rectifier – full wave midpoint – full bridge – half bridge controlled rectifier.
+<br><b>[12 Hrs] [35 Marks] </b>
+
+UNIT II: POWER ELECTRONICS CIRCUITS
+<b>CHOPPER</b>: Principle – Control Scheme, Step-up and step up choppers, Chopper - circuit classifications, Applications of Chopper
+<br><b>INVERTER</b> :Definitions, Principles of working of basic Inverter circuit - classifications, Applications of Inverter
+<br><b>CYCLOCONVERTERS</b>: Basic Principle of Operation – single phase to single phase Cycloconverters, Applications.
+<br><b>[12 Hrs] [30 Marks] </b>
+
+UNIT III: SOLID STATE CONTROL OF AC MOTORS
+<b>CONTROL OF DC MOTORS</b>:  Introduction – Advantages of Electronics Control - DC Motors speed control – block diagram representation of Armature Voltage control method for speed control of DC shunt Motors – field control methods for speed control of DC shunt Motors- speed control of DC Motors using Dual converters – Over voltage/ Over load protection of DC Motors.
+<br><b>[08 Hrs] [20 Marks] </b>
+
+UNIT IV: SOLID STATE CONTROL OF AC MOTORS
+<b>CONTROL OF AC MOTORS</b>: principle of control in induction motors speed control of AC Motors using DIAC & TRIAC 
+<br><b>[04 Hrs] [15 Marks] </b>
+
+UNIT V: PROGRAMMABLE LOGIC CONTROL
+<b>PLC</b>:  Definition of PLC, Difference between relay logic panel and  PLC based control panel, block diagram of PLC – Hardware components – CPU – Memory – Input – Output , Communication Module – Sensors, Actuators, PLC programming –programming relation to digital logic gates, programming relation to Boolean algebra, conversion of word description to gate and ladder diagram, PLC registers basics, PLC timers, PLC  counters, basic number comparison ,SKIP ,JUMP,&MOVE  functions, ladder logic design of Boolean algebra, latching circuit (stop-start circuit ),traffic light control, water level control, conveyor control ,lift control.
+<br><b>[16 Hrs] [45 Marks] </b>
+
+<b>Text books:</b>
+<br><br>1. Industrial  automation by Dr. J. S. Chitode.
+<br>2. Introduction to Power Electronics by V.Jagannathan – PHI
+<br>3. Industrial Electronics & Control by S.K.Bhattacharya, S Chatterjee – TTTI Chandigarh
+<br>4. Power Electronics for Technology – Ashfaq Ahmed
+<br>5. PLC programming by Dunning Harry.
+<br>6. PLC Manuals.
+
+<br><br><b>References:</b>
+<br><br>1. Power Electronics by Mohammed Rasheed – PHI
+<br>2. Power Electronics by S. sivanagaraju – PHI
+<br>3. Industrial Electronics & Control by Biswanth Paul
+<br>4. Modern Power Electronics by P.C. Sen.
+<br>5. Electronics in Industry by Chute & Chute
+<br>6. Power Electronics by Vedam Subramanian & G.K Dubey
+
+<br><br><b>Website:</b>
+<br><br>1. www.nptel.ac.in
+<br>2. http://freevideolectures.com/Course/3164/Digital-Electronics
+<br>3. http://www.freebyte.com/electronics/
+<br>4. https://www.circuitlogix.com
+<br>5. http://www.vlab.co.in
+<br>6. www.electronics-tutorials.ws
+<br>7. http://www.allaboutcircuits.com
+<br>8. http://ocw.mit.edu/
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>1. Presentation on application of power devices in industry
+<br>2. Design of emergency light
+<br>3. Design of burglar alarm.
+
+<br><br><b>Note:</b> The activities or similar activities for assessing CIE (IA) for 5 marks (Any one)
+<br>1. Each student should do any one of the following type activity or any other similar activity related to the course and before conduction, get it approved from concerned Teacher and HOD.
+<br>2. Each student should conduct different activity and no repeating should occur

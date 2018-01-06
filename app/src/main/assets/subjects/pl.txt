@@ -1,0 +1,115 @@
+Unit I: Introduction to Parametric modeling
+Computer aided Design & Drafting-concept-merits-types, Parametric modeling-concept-merits, Hardware requirements-software requirements, installation process, terms used in parametric modeling software-geometry relationships-assembly relationships, constraints-concept-need-types, parametric modeling software work benches-concept-types-functions of each type.
+
+Unit II: Creating profiles/sketches
+Sketcher workbench-concept-different parts of user interface, sketch/profile tools- line-circle-ellipse-arcs-rectangles- polygons- curves- fillets- chamfer, Display tools-Zoom-pan-rotate, geometric relationships-Dimensions, measuring sketched entities-Distance-Area-Area properties, Editing-trim-extend-corner trim-split- offset- move- rotate- mirror- scale- stretch.	
+
+Unit III: Part modeling tools
+Conversions of 2D profiles into 3D models-using extrude/protrude and revolve commands. Cutouts/shell creation, placing holes, rounds/fillets, champers, creating rectangular and circular array/patterns, array/patterns along a path/curve, mirroring features,  editing of a model, creating internal and external threads. Adding draft, ribs, thin wall features, lip to models. Creating vents, boss. Creating swept and lofted models.
+
+Unit IV: Assembly modeling and drafting tools
+Know the assembly environment, setting the assembly environment, types of assembly design approach-bottom-up and top-down assembly, Creating assembly and sub-assemblies, Applying assembly relationships, Editing and modifying assembly relationships, interference detection in assemblies.
+<br>Drafting environment-drawing views-types-options-generating each type of view-adding annotations-Creating exploded view of the assembly-creating balloons and parts list.
+
+Unit V: Creating mechanical/Automobile components in part modeling work bench
+Create following mechanical/Automobile parts using part modeling work bench tools.
+<br>1.	Square nut and bolt
+<br>2.	Hexagonal nut and bolt.
+<br>3.	Spur gear.
+<br>4.	Helical gear.
+<br>5.	Piston.
+<br>6.	Crankshaft.
+<br>7.	Open ended experiment-I
+<br><br>All individual parts of following assemblies:
+<br>1.	Muff coupling.
+<br>2.	Unprotected flanged coupling.
+<br>3.	Knuckle joint.
+<br>4.	Connecting rod.
+<br>5.	Universal joint
+<br>6.	Plumber block
+<br>7.	Screw jack
+
+Unit VI: Assembly modeling and drafting
+Create following Assemblies and their drawings using assembly modeling work bench and drafting workbenches respectively.
+<br>1.	Muff coupling
+<br>2.	Unprotected flanged coupling.
+<br>3.	Knuckle joint.
+<br>4.	Connecting rod.
+<br>5.	Universal joint
+<br>6.	Plumber block
+<br>7.	Screw jack
+<br>8.	Open ended experiment no-II
+
+<b>Reference Books:</b>
+
+<br><br>1.	Automobile Engineering Drawing	R B Gupta	Satya prakashan
+<br>2.	Machine Drawing	N D Bhatt and V M Panchal	Charotar Publishing
+<br>3.	Machine Drawing	K R Gopalakrishna	Subhas Stores
+<br>4.	CADD software for Engineers and Designers.	Prof. Sham Tickoo	Dream tech press
+<br>5.	https://www.youtube.com/watch?v=37xoOJX2nJ0&list=PLT0PdTF-m3M9Gi1DZAQz2zwGIo3vBQOfj
+<br>6.	https://www.youtube.com/watch?v=LbIDqXa085Q
+<br>7.	https://www.youtube.com/watch?v=G27An7YpriM
+<br>8.	https://www.youtube.com/watch?v=xcDQbD-tjoE
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>1.	Students can visit Computer coaching centers/CAD Centers/ websites and collect information on different paid and FOSS (Free and Open Source Software) CAD/CAM/CAE software with their features and applications.
+<br>2.	Students can visit computer coaching centers /CAD Centers/ Websites and collect information on new type of part modeling /assembly modeling tools or other work benches like surface modeling, sheet metal, plumbing, electrical etc.
+<br>3.	Students can visit websites of different CAD/CAM/CAE software and collect information on the process  to download trial or student version software.
+<br>4.	Students can create simple mechanical/Automobile mechanisms using Animation/mechanism  workbench.
+<br>5.	Students can find stress/strain induced in many Simple strength of Materials problems using FEM workbench.
+
+<br><br><b>Note:</b> The activities or similar activities for assessing CIE (IA) for 5 marks (Any one)
+<br>1.	Student should prepare a report on any one of the above/similar activity, which helps in achieving above course outcomes.
+<br>2.	The report prepared should be approved by the concerned staff and HOD.
+<br>3.	The activity group should consist of maximum of three students. 
+
+<br><br><b>LAB EXERCISES </b>
+
+<br><br><b>Note:</b>
+<br>1.	Each drawing should be created with proper border, title block and bill of materials.
+<br>2.	Detailed drawing sheets should be provided to students.
+<br>3.	The following drawings should be created after creating respective part models and assemblies.
+<br>4.  Software: Any Genuine CAD software or free and open source CAD software.	
+
+<br><br>Create following mechanical/Automobile parts using part modeling work bench tools.
+<br>1.	Square nut and bolt
+<br>2.	Hexagonal nut and bolt.
+<br>3.	Spur gear.
+<br>4.	Helical gear.
+<br>5.	Piston.
+<br>6.	Crankshaft.
+
+<br><br>All individual parts of following assemblies :( Drawings not needed)
+<br>1.	Muff coupling.
+<br>2.	Unprotected flanged coupling.
+<br>3.	Knuckle joint.
+<br>4.	Connecting rod.
+<br>5.	Universal joint
+<br>6.	Plumber block
+<br>7.	Screw jack.
+
+<br><br>Create following Assemblies and their drawings using assembly modeling work bench and drafting workbenches respectively.
+<br>1.	Muff coupling
+<br>2.	Unprotected flanged coupling.
+<br>3.	Knuckle joint.
+<br>4.	Connecting rod.
+<br>5.	Universal joint
+<br>6.	Plumber block
+<br>7.	Screw jack
+	
+<br><br><b>Note:</b>
+<br>1.	Open ended experiments have to be performed using the skills learnt in the Laboratory.
+<br>2.	These experiments could be extended versions of the standard experiments.
+<br>3.	Lecturer should know the end results of open ended experiments and only acts as a guide and students has to establish the procedure and conduct experiments.
+<br>4.	Example for Open ended experiment-I are Part model of bevel gear, hypoid gear, pinion, rack and cylinder head etc.
+<br>5.	Example for Open ended experiment-II is Assembly models of Clutch plate, wheel cylinder and injector.
+
+<b>Scheme of Valuation for SEE:</b>
+
+<br><br>1.	Parts modeling/open ended exercise-I : 15
+<br>2.	Assembly modeling/open ended exercise-II : 20
+<br>3.	Drafting/ drawing : 10
+<br>4.	Dimensioning & Print out : 05
+
+<br><br><b>TOTAL = 50 Marks</b>

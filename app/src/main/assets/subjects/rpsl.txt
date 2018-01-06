@@ -1,0 +1,101 @@
+<b>PART - A: PROTECTIVE DEVICES AND RELAYS</b>
+
+<br><br><b>STUDY EXPERIMENTS:</b>
+<br><br>1.	SI symbols for Electrical protective devices and their ANSI Codes. Study any one control circuit drawing related to protective scheme and understand the significance of ANSI Codes. Identify different types of LV Fuses- Rewirable, Catridge, HRC fuse, Switch Fuse unit (SFU) and their applications. Note down the specifications. Identify different types of LV circuit breakers and their applications- MCB, MCCB, ELCB, RCCB and MPCB. Note down the specifications. Identify the class of MCB - B ,C, D and Z classes and their applications. 
+<br><br>2.	Identify and study power contactors and auxiliary contactors. Note down the specifications. Identify and Study- Spike busters and Domestic range Electronic Voltage Stabilizer. Note down the specifications.
+<br><br>3.	Identify Time Multiplier Setting (TMS) and Plug Multiplier Setting (PMS) devices in Electro-mechanical relays. Note down the specifications of the Electro-mechanical Relay. Identify DIP switch settings and jumper settings in static relays (Microprocessor/microcontroller based relays) for setting Fault Voltage Level / Fault Current Level and Time Multiplier Settings as per supplier’s user manual. Note down the specifications of the Static Relay. Understand time setting and current setting procedure in Numerical relays / Digital relays. Note down the specifications of the Relay. Identify CBCT and its applications. Identify lockout relay. Understand the meaning of 1.3 Sec and 3 Sec relays
+
+<br><br><b>CONDUCTING EXPERIMENTS:</b>
+<br><br>4.	Plot the operating characteristics of Fuse and single pole MCB.
+<br><br>5.	Test the operation of a digital or static type Earth leakage relay with CBCT (Adjust mA sensitivity and trip time using DIP switches).
+<br><br>6.	Plot the operating characteristics of any one of the following electro-mechanical IDMT relays.
+<br>a) Over voltage relay <br>b) Under voltage relay. <br>c) Over current and <br>d) Earth Fault Relay.
+<br><br>7.	Plot the operating characteristics of any one of the following: Microprocessor / microcontroller based Over or Under voltage relay  for  Normal inverse time setting and Definite time setting.
+<br><br>8.	Program , Test and Plot the operating characteristics of any one of the following numerical relays:
+<br>a)	Over Voltage and Under Voltage Relay.
+<br>b)	Over Current Relay. 
+<br><br>9.	Conduct Break Down Voltage Test on transformer oil ( dielectric strength test)
+	
+<br><br><b>PART - B: TROUBLE SHOOTING AND SERVICING</b>
+
+<br><br><b>LIST OF GRADED EXERCISES:</b>
+
+<br><br>10.	Trouble shoot and suggest suitable remedies for : 
+<br>Fluorescent lamp fitting, High pressure mercury vapour lamp and High pressure sodium vapour lamp sets. 
+<br><br>11.	Dismantle, Identify the parts and assemble :-   Electric iron box(non automatic and automatic). 
+<br>Trouble shoot and suggest suitable remedies for the above. Note down name plate details.
+<br><br>12.	Dismantle, Identify the parts and assemble :-   Table fan and Ceiling fan
+<br>Trouble shoot and suggest suitable remedies for the above.
+<br>Note down name plate details.
+<br><br>13.	Dismantle, Identify the parts and assemble :-   food mixer
+<br>Trouble shoot and suggest suitable remedies for the above.
+<br>Note down name plate details.
+<br><br>14.	Dismantle, Identify the parts and assemble :- Electric Geyser andElectric Stove
+<br>Trouble shoot and suggest suitable remedies for the above.
+<br>Note down name plate details.
+<br><br>15.	Dismantle, Identify the parts and assemble :-  Induction heater.
+<br>Note down name plate details.
+<br><br>16.	Dismantle, Identify the parts and assemble :-   semi automatic washing machine
+<br>Trouble shoot and suggest suitable remedies for the above. 
+<br>Note down name plate details.
+<br><br>17.	Install and test the UPS with Batteries. 
+<br>Trouble shoot and suggest suitable remedies.
+<br>Note down name plate details.
+<br><br>18.	Panel wiring practice: - Wire up any one of the following as per standard practice.
+<br>a)	DOL or starter/star delta starter.
+<br>b)	Small control panel consisting of Isolator, MCB, voltmeter, Ammeter with CT, Indicators etc..
+<br>c)	Small Distribution panel wiring and cable crimping.
+<br><br>19.	Automatic water level controller (commercial type): - Identify the external connections ,wire-up the level sensors and test the operation of  electronic water level controller.
+<br>Trouble shoot and suggest suitable remedies for the water level controller.
+
+<b>Reference Books:</b>
+
+<br><br>1.	Electrical trade theory and trade practice (all volumes)  – NIMMI 
+<br>2.	Principles of Power Systems by V K Mehtha –S. Chand and Company Ltd.
+<br>3.	Electrical shop practice by   Anwani -Danapatrai and sons
+<br>4.	Electrical appliances –  by Anwani - Danapatrai and sons
+<br>5.  http://www.electrical4u.com/low-voltage-switchgear
+<br>6.  http://electrical-engineering-portal.com
+<br>7.  http://myelectrical.com
+<br>8.  http://www.nvistech.com/tutorials  - Lookfor Electrical Portions.
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br><b>Note:</b> ANY ONE to be submitted with 3 pages report.
+<br><br>THE FOLLOWING EXERCISES OR SIMILAR EXERCISES MAY BE DISTRIBUTED AMONG THE STUDENT GROUPS (3 STUDENTS/GROUP).
+
+<br><br><b>CONDUCTABLE EXPERIMENTS</b>
+<br>1. Test the operation of an single phase ELCB.
+<br>2. Test the given Thermal OLR (used in DOL starter).
+<br>3. Test the given Phase failure relay/single phase preventer.
+<br>4. Test the given domestic range electronic voltage stabilizer.
+<br>5. Test the given MPCB (motor protection circuit breaker).
+<br>6. Conduct Ratio test and Polarity tests on CT and PT.
+<br>7. Conduct accuracy test on CT and PT
+<br>8. Conduct Burden test on CT and PT
+<br>9. Conduct Continuity test, Insulation resistance test and Secondary resistance test on CT and PT.
+<br>10. Connect and test any one type of mini Motor Protection Relay.
+<br>11. Design, construct and test an open coil stove of 1 KW to operate on 230V 50 Hz AC supply.
+<br>12. Design and construct a small transformer ( 15 VA, 230 V/ 12 V).
+<br><br><b>OR</b>
+<br><br><b>STUDY EXPERIMENTS</b>
+<br>13. Study any one control circuit drawing related to protective scheme and understand the significance of ANSI Codes.
+<br>14. Study the construction and working principle of MCCB and MPCB (Motor Protection Circuit Breaker.)
+<br>15. Study the construction, working principle and applications of Core Balance Current Transformer (CBCT).
+<br>16. Construction , operation and applications of lockout relay
+<br>17. Study the construction and working principle of ACB and VCB used in industries.
+<br>18. Study the Switch gear and protections in distribution transformer centre, HT and LT line/ feeders.
+<br>19. Study the LV control panels of a Apartment/Hotel / Hospital/ factory / commercial buildings. Draw SLD of Power distribution and protections.
+<br>20. Identify switch gear and protection schemes in substations.
+<br>21. Method of conducting Ratio test and polarity test on CT and PT at project sites.
+<br>22. Study the construction, working, installation and testing of a submersible pump
+
+<b>Scheme of Valuation for SEE:</b>
+
+<br><br>1.	Identification of  devices / components : 05
+<br>2.	Circuit diagram and procedure. (For any One experiment from part A or part B) : 10
+<br>3.	Conduction /Execution. : 20
+<br>4.	Results	: 05
+<br>5.	Viva-voce : 10
+
+<br><br><b>TOTAL = 50 Marks</b>

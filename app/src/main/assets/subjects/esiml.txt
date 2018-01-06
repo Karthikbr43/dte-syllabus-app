@@ -1,0 +1,81 @@
+<b>Experiments:</b>
+
+<br><br>1.	Design an Electrical Installation for the Residential building.
+<br>•	Total Connected lighting load is 800 Watts. (Refer the Layout plan for load segregation).
+<br>•	Electrical pole is 10 Mtrs away from the building.
+<br>Generate a Single Line diagram for the above electrical Installation mentioning the cable sizes (1ph+N+PE), protection devices used at the Mains.	
+<br>Calculate the size of the Over head Aluminum cable required and generate the complete bill of Materials	
+
+<br><br>2.	Design an Electrical Installation for the Residential building with AEH Connection for the given load matrix.
+<br><b><i>[Refer Fig. 1.1] </i></b>
+<br>Generate the electrical network and show distinctly the various sub circuits on the installation plan; calculate the size of the wire required for each sub circuits. 
+<br>Calculate the size of the cable required in Under Ground system and Generate the complete bill of Materials		
+
+<br><br>3.	Design an Electrical network for the Workshop with the following loads.
+<br>i)	1 No. drilling machine: 3 Ph, 440V, 1 Hp
+<br>ii)	2 Nos. Lathes: 3 Ph, 440V, 2 Hp each
+<br>iii)	1 No. Grinding machine: 3 Ph, 440V, 1 Hp
+<br>iv)	1 No. Milling machine: 3 Ph, 440V, 10 Hp	
+<br>( Refer the Layout plan for the position of machines)
+<br>Assume the power factor as 0.8 and the efficiency of the machines are 85% with DOL starters.
+<br>Calculate the size of the cables used in each motor feeder section along with its protection devices.		
+<br>Generate the complete bill of materials and segregate feeder wise.
+
+<br><br>4.	Hostel building in a Polytechnic has 3 Stories. The First and Second Floors are similar to Ground Floor and there are 20 Rooms and 14 bathrooms /Toilets in each floor. 
+<br>o	Each room is having 2 Light points, One Fan point and One 5 Amps socket point.
+<br>o	Each bathroom/Toilet has One Light point.
+<br>•	Common room in each floor has 4 Light points, 2 Fan points and 2 Nos of 5 Amps Socket outlet.
+<br>•	Corridor and Stair case has 11 Light points for each floor.
+<br>•	Ground floor has 8 Outdoor lighting points.
+<br>Design an Electrical Network for the hostel  building, indicating the ratings of each protection devices used at the Mains and at the Switchboard level.		
+
+<br><br>5.	Size the Service Mains cable for the Exercise  4.		
+
+<br><br>6.	A small factory having 3 phase four wire 415 volts supply comprises of the following:
+<br>•	Sixty lightings points in the factory of 100 watts each
+<br>•	One 8 kW motor with 0.8 p.f and four 8 kW motors with 0.7 p.f.
+<br>•	15 lighting points in the office of 150 watts each
+<br>•	5 heating points in the office with 2 kW load on each outlet
+<br>•	Six socket outlets in the office for 0.5 kW motor.
+<br>Prepare a schematic diagram along with the sub-circuit arrangement and control equipments.
+
+<br><br>7.	Consider an industrial site having 3 phase four wire 415 volts supply, comprises of the following load groups
+<br>•	 Load group 1: 3 phase four wire; total 450 kW power with 0.8 p.f
+<br>•	Load group 2: 3 phase four wire; total 100 kW power with 0.7 p.f
+<br>The engineer is asked to maintain a unity power factor at the Main Low voltage switch board. 
+<br>Calculate the rating of the compensation capacitor (kVAr) required.
+<br>Realize the schematic and find the order & type of capacitor required.
+
+<br><br>8.	Pump house is having 2 Nos of 5 H.P. Irrigation pump sets with Individual Star Delta starters is located adjacent to well Distance between the Electrical Pole and Pump house is 5 Metres and The pump is 10 Metres away from the Motor starter located in Pump house.
+<br>Calculate the size of the Mains cable connecting the Mains and Motor starters.
+<br>Also design the ratings of the Starters (OLRs) and the contactors (Y-∆).
+<br>Specify also the cable sizes required to connect Pump and Starters.
+<br>Draw the Electrical schematics network .
+
+<br><br>9.	Calculate the rating of the compensation capacitor (kVAr) required to improve the Power factor to unity for the exercise 8.
+<br>Realize the schematic and find the order & type of capacitor required
+
+<br><br>10.	New polytetechnic campus is given 60KW load. New  100KVATransformer is to be installed 100mts away from the campus.
+<br>Prepare materials required for installing new 100KVA transformer.
+<br>Generate the electrical network and show distinctly the various sub circuits on the installation plan.
+<br>Calculate the size of the under ground cable required in Under Ground system from 100KVA transformer to college campus and Generate the complete bill of Materials		
+
+<b>Reference Books:</b>
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br><b>Note:</b> The following problems may be solved Analytically on Paper or using Spreadsheet (e.g. MS-Excel) or MATLAB or any available software, and submit complete solution;
+
+<br><br>1.	New 5MVA ,66KV/11KV substation is to be established. Existing 66KV  Double circuit transmission line is 10KM away from New substation.
+<br>Generate the electrical network and show distinctly the various sub circuits on the installation plan.
+<br>Calculate the size of the  cable required in overhead system and number of transmission structure  from 66KV Double circuit transmission to new substation and Generate the complete bill of Materials		
+
+<br><br>2.	Design 5MVA ,66KV/11KV substation. Generate the complete bill of Materials	
+
+<b>Scheme of Valuation for SEE:</b>
+
+<br><br>1.	Design and Generate given Exercise : 30
+<br>2.	Results	: 10
+<br>3.	Viva-voce : 10
+
+<br><br><b>TOTAL = 50 Marks</b>

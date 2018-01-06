@@ -1,0 +1,104 @@
+UNIT-I: Production Management
+Management- Functions of Management, Henry-Fayol’s principles of management, Functions of Manager,
+<br>Organization- types of organization 
+<br>Production planning and Control (PPC) - Functions of PPC: planning, routing, scheduling,  
+<br>dispatching and Inspection ,
+<br>Productivity: factors to improve productivity
+<br>Project Management - Market survey, Project planning, Project capacity, selection of site for project, Aids of project management-CPM (Critical path Method)- PERT (Program evaluation and review Technique).
+<br>Cost analysis - Objectives of costing, Elements of costing, Material cost, Labor cost & Overheads,
+<br><br><b>[08 Hrs] [15 Marks] </b>
+
+UNIT-II: Material Management And Maintenance
+Material management- different methods of purchasing, Purchase procedure, Comparative statement, purchase order, Tender-Types of tender
+<br>Inventory and Inventory control - Definition, Functions of inventory control, Steps involved in inventory control, ABC Analysis, Advantages of Inventory Control,
+<br>Management Information System (MIS) - Objectives of MIS, 
+<br>Material Requirement Planning (MRP)-concept, applications. 
+<br>Enterprise resource planning (ERP) - concept, features and applications.
+<br>Plant maintenance -Types of maintenance, Preventive maintenance, Break down Maintenance, Advantages and disadvantages, Total Productive Maintenance, benefits of TPM, Tools of TPM, planned maintenance and predictive maintenance.
+<br><br><b>[08 Hrs] [15 Marks] </b>
+
+UNIT-III: Total Quality Management
+Quality Control - Factors affecting quality, Advantages of quality Control, Inspection, types of inspection,
+<br>Total Quality Management -Principles of Total Quality Management, PDSA cycles, PDCA cycles, Quality Circles, 
+<br>Statistical Quality Control (SQC), - Acceptance sampling, Sampling inspection, 
+<br>TQM Tools- Control Charts, Histograms, Pareto Charts, Cause and effect diagram 
+<br>SIX SIGMA–Concepts, Benefits of Six Sigma, 
+<br>Quality Certification Systems- ISO 9000 series, (ISO 9000, ISO 9001, ISO9002, ISO9003 & ISO 9004,) ISO9000 quality certification procedure, Benefits of ISO Certification
+<br>ISO-14000, Benefits of ISO-14000 Certification.
+<br><br><b>[10 Hrs] [45 Marks] </b>
+
+UNIT-IV: Modern Production Management Techniques
+Lean Manufacturing- Objectives, types of wastes, Steps for lean   Production, Benefits
+<br>Just in Time-concepts and benefits, 
+<br>KANBAN production- concepts and benefits, 
+<br>Kaizen- concepts and benefits
+<br>SAP (Systems Applications and Products) - concepts and benefits
+<br>World class Manufacturing (WCM) - Basic concept-Principles of world class manufacturing
+<br>Concurrent Engineering-Elements of Concurrent Engineering
+<br><br><b>[08 Hrs] [15 Marks] </b>
+
+UNIT-V: Industrial Relation And Labour Laws
+Introduction to industrial relation -Objectives of industrial relation, International labour    
+<br>Organization (ILO), Objectives of ILO,
+<br>The Indian Factories Act-1948-Important definitions, Health provisions, Safety provisions,    
+<br>Welfare provisions, working hour’s provisions.
+<br>The Payment of Wages Act 1936-Payment of wages, Deductions from salary, Imposition of Fine.
+<br>The Minimum Wages Act 1948- Objectives, Provisions.
+<br>The Apprentices Act 1961-Provisions under apprentice act
+<br>The Workmen’s Compensation Act 1923¬- Important definitions, Provisions, Employers liability for compensation.
+<br>The Employees State Insurance Act 1948- Objectives, Benefits to employees 
+<br>The Employees’ Provident Funds & Miscellaneous Provisions Act 1952- Salient features of the   Act. 
+<br>The Payment of Gratuity Act 1972- Salient features of the act.
+<br><br><b>[08 Hrs] [15 Marks] </b>
+
+UNIT-VI: Occupational  Health and Safety
+Introduction to Occupational Safety, National safety council of India, Indian standard on OH& S management system, occupational health & safety management system (OHSAS), OHSAS 18001, How to use OHSAS 18001.
+<br>Accident-causes for accident, Direct and indirect losses due to an accident, Steps to prevent accidents, Personal protective devices for Mechanical hazards, Role of safety officer in industry
+<br>Fire safety-Fire prevention and Protection, Sources of Fire, Principles of fire extinguishing,  A, B, C-Types of fire extinguishers.
+<br>Electrical safety - Hazardous of Electricity, Safety precautions to prevent electrical shocks.
+<br>Industrial Pollution- Air pollution, Water pollution, Noise pollution, Soil pollution, Sources, Effects and Prevention of above pollutions, Industrial wastes and their control.
+<br>Environment - Climate change, Global warming, acid rain, Green house effect, ozone layer, depletion- Causes, effects and Preventive measures, National environmental Legislations
+<br><br><b>[10 Hrs] [40 Marks] </b>
+
+<b>Reference Books:</b>
+
+<br><br>1.	Industrial Organization and Engineering Economics, T.R.Banga & S C Sharma	Khanna.Publishers
+<br>2.	Production and operation management-5th Edition	S N CHARY	Mc Graw Hill publication, 
+<br>3.	Industrial management and organizational behavior, K.K.Ahuja 
+<br>4.	Industrial management and engineering economics, O.P.khanna Khannapublishers 
+<br>5.	Industrial Engineering and Production management, M. MAHAJAN Dhanpat rai and co.
+<br>6.	Production and operations management - Dr .K.Aswathappa and Dr.Sreedhar Bhatt	Himalaya publishers 
+<br>7.	Safety Management in Industry, Krishnan.N V	Jaico Publishing House, Bombay, 1997 
+<br>8.	Total Quality Management, S Raja Ram, Shivashankar	- 
+<br>9.	A hand book of Occupational Safety and Industrial Psychology, S.P.RANA, P.K.GOSWAMI, Dr.INDU RATHEE	S. CHAND Publication
+
+<br><br><b>Website:</b>
+
+<br><br>1.	https://www.youtube.com/watch?v=10S03_VkFmk
+<br>2.	https://www.youtube.com/watch?v=yYIVumq6sVM
+<br>3.	https://www.youtube.com/watch?v=XDrpfL1TkP0
+<br>4.	https://www.youtube.com/watch?v=H58TPQNr2kM
+<br>5.	https://www.youtube.com/watch?v=set2cb-TMA0
+<br>6.	https://www.youtube.com/watch?v=uNNP60MEaYw
+<br>7.	https://www.youtube.com/watch?v=mYq3tP7RArE
+<br>8.	https://www.youtube.com/watch?v=CBFKBf1rOyo
+<br>9.	https://www.youtube.com/watch?v=F7hk_sMings
+<br>10.	https://www.youtube.com/watch?v=0Ld78M3hfjo&list=PLMiiHACprHh3AfvcbGoZSdFPLLciLcsCf
+<br>11.	https://www.youtube.com/watch?v=DAQapF-F4Vw&list=PL678705AFF9E8064E
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>1. prepare Comparative statement, Placing the purchase order with necessary terms and conditions
+<br>2. Given the data, prepare the scheduling using Gantt chart.
+<br>3. Visit a nearby industry make a Power point presentation on Modern production management techniques in use.
+<br>4. Identify any one product ,being manufactured in local industry, Study the process they are following for manufacturing the product, submit hand written report
+<br>5. Visit a nearby industry, make a report on quality system is put in practice and quality tools they are using in work place
+<br>6. case study on plant maintenance of nearby industry, observe what type of maintenance they undertake in their industry.
+<br>7. Visit a nearby industry, make a report on safety measures and safety equipments using in work place
+
+<br><br><b>Note:</b> 
+
+<br>1. Group of max four students should do any one of the above activity or any other similar activity related to the course COs and get it approved from concerned Teacher and HOD. 
+<br>2. No group should have activity repeated or similar 
+<br>3. Teacher should ensure activities by different groups must cover all COs 
+<br>4. Teacher should asses every student by using suitable Rubrics approved by HOD

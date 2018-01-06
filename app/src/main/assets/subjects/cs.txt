@@ -1,0 +1,52 @@
+UNIT I: INTRODUCTION TO CONTROL SYSTEMS & MODELING OF PHYSICAL SYSTEMS
+Introduction to Control Systems, Open loop control system, Closed loop control system, Development of control systems, Multivariable control system, Advantages of control systems, Physical system, Physical model and Mathematical model, Differential equations, Mechanical translational system, Mechanical rotational system, Thermal system, Liquid level system, Analogous systems (Force-Voltage and Force-Current).
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT II: TRANSFER FUNCTIONS, BLOCK DIAGRAMS & SIGNAL FLOW GRAPHS
+Introduction to Laplace transform, Definition of Laplace transform, Inverse of Laplace transform, Laplace transform theorems (no derivation), Laplace transform pairs, Transfer function, Procedure for deriving transfer functions, Block diagram algebra, Block diagram of a Single-input closed-loop system, Block diagram reduction of a Two-input linear control system, Signal flow graphs, Signal flow graph of a closed-loop system, Construction of signal flow graph, Mason’s Gain formula (only definition and equation).
+<br><b>[12 Hrs] [30 Marks] </b>
+
+UNIT III: TIME RESPONSE OF FEEDBACK CONROL SYSTEMS
+Time response of control system – Transient response and Steady-state response, Standard test signals - Step signal - Ramp signal - Parabolic signal - Impulse signal, Time response of first order systems for unit step-signal, Time response specifications, Performance indices for step response, Compensations in second and higher order systems (PD, PI and PID controller), Lag-Lead Compensation.  
+<br><b>[11 Hrs] [30 Marks] </b>
+
+UNIT IV: ROOT LOCUS TECHNIQUES
+Introduction, Root locus concept, Construction of Root loci, Construction rules, Breakaway points on real axis – analytical approach, Breakaway points on real axis – graphical approach, Breakaway directions of Root locus branches, Determination of roots from Root locus, Root contours.
+<br><b>[07 Hrs] [25 Marks] </b>
+
+UNIT V: FREQUENCY RESPONSE & ANALYSIS
+Introduction, Frequency response specifications, Polar plots, Bode plots, General procedure for constructing Bode plots, All-pass and Minimum-phase systems, Log-magnitude versus phase plots.
+<br><b>[06 Hrs] [15 Marks] </b>
+
+UNIT VI: CONTROL SYSTEMS COMPONENTS
+AC Servomotor, AC Position control system, Hydraulic pumps and motors, Hydraulic actuator, Pneumatic actuator, Pneumatic position control system.
+<br><b>[06 Hrs] [15 Marks] </b>
+
+<b>Text books:</b>
+
+<br><br>1.	Control Systems Engineering, 5th edition	I.J. Nagarath and M. Gopal	New Age International, New Delhi, 2007
+<br>2.	Control Systems, 1st edition	K.R. Varmah	Tata McGraw Hill Education, New Delhi, 2010
+<br>3.	Control Systems, 3rd edition	Schaum’s Outlines	Tata McGraw Hill Education, New Delhi, 2010
+<br>4.	Nise’s Control Systems Engineering, 1st edition	Dr. Rajeev Gupta	Wiley India, New Delhi, 2011
+<br>5.	Automatic Control Systems, 8th edition	Benjamin C. Kuo and Farid Golnaraghi	Wiley India, New Delhi, 2010
+<br>6.	Modern Control Engineering, 4th edition	Katsuhiko Ogatta	Pearson Education, Bangalore, 2001
+
+<br><br><b>Website:</b>
+
+<br><br>1.	http://www.control-systems-principles.co.uk/ebooks/Introduction-to-Physical-System-Modelling.pdf
+<br>2.	http://www.ece.tufts.edu/~srout01/ee12-2008/pdfs/lecture14-ogata.pdf
+<br>3.	http://www3.ul.ie/~mlc/support/Loughborough%20website/chap20/20_7.pdf
+<br>4.	https://www.maplesoft.com/content/EngineeringFundamentals/11/MapleDocument_11/Block%20Diagrams,%20Feedback%20and%20Transient%20Response%20Specifications.pdf
+<br>5.	http://web.iku.edu.tr/courses/ee/ee670/ee670/lecture%20notes/ch08.pdf
+<br>6.	https://chemengr.ucsb.edu/~ceweb/faculty/seborg/teaching/SEM_2_slides/Chapter_14.pdf
+<br>7.	http://gnindia.dronacharya.info/EEEDept/Downloads/question_papers/Vsem/Control-System/Unit-3/Lecture-1.pdf
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>1. Take case study on applications of Control systems in nearby industry submit report on same.
+<br>2. Conduct study on real time applications of any one of the control system component and submit a hand report on study.
+<br>3. Each student will give an activity by selecting any one of the unit / chapter of their choice. Internet should be the base for this activity. Activity shall consist additional information, various presentations / articles, industrial applications, colorful images etc of the unit topics / products considered.
+
+<br><br><b>Note:</b> The activities or similar activities for assessing CIE (IA) for 5 marks (Any one)
+<br>1. Each student should do any one of the following type activity or any other similar activity related to the course and before conduction, get it approved from concerned Teacher and HOD.
+<br>2. Each student should conduct different activity and no repeating should occur

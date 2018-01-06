@@ -1,0 +1,115 @@
+UNIT - I:
+<b>1.1 Introduction to Highway Engineering: </b>
+<br>Importance of transportation - different modes of transportation –surface transportation, water transportation and air transportation.
+<br><br><b>1.2 Highways:</b> 
+<br>Highway planning, factors controlling highway alignment, Engineering surveys.Importance and objectives of highway geometric design - highway cross sectional elements. Sight distances, concept of super elevation, widening of roads at horizontal curves, gradients and its types, elements of horizontal and vertical alignments, cross-sections of different types of roads.
+<br><br><b>[08 Hrs] [20 Marks] </b>
+
+UNIT - II: 
+<b>2.1 Highway Materials and Pavements:</b> 
+<br>Highway materials, soilstabilisation principles and methods, aggregates-properties and binders- types and properties.
+<br>Requirements of highway pavements, Types of pavement, Flexible pavements-construction of WBM roads, construction of bituminous roads,( Bitumen bound macadam only)
+<br>Rigid pavements- advantages and disadvantages of CC roads, construction of CC roads, joints in CC roads, comparison between flexible and rigid pavements, Overlays.
+<br><br><b>2.2 Road drainage:</b> 
+<br>Significance and requirements of highway drainage, subsurface highway drainage, objects of Road Arboriculture.
+<br><br><b>[10 Hrs] [25 Marks] </b>
+
+UNIT - III: 
+<b>Introduction to Bridges: </b>
+<br>Introduction, component parts of a bridge, terms used in bridge engineering- water way, afflux, economic span of a bridge, scouring, free board, classification of bridges, selection of site for bridge, bridge foundations-R.C.C cast-in-situ pile foundation, concept of coffer dams. Bridge sub structure- abutments, piers, wing walls, bearings-functions, requirements, types only. Highway bridges- permanent bridges (steel, RCC), flyovers. 
+<br><br><b>[08 Hrs] [30 Marks] </b>
+
+UNIT - IV: 
+<b>4.1 Introduction Railway Engineering:</b>
+<br>Role of Indian railways, General features of Indian railways. Gauge, different gauges on IR, Uni-gauge policy and its benefits.
+<br><br><b>4.2 Railway track:</b>
+<br>Permanentway, Various components and requirements of a good track,factors to be considered while selecting a good alignment, forces acting on the track, concept of coning of wheels and tilting of rails, Gradient and its types.
+<br><br><b>4.3 Track Components:</b>
+<br>Rails - Functions, types and requirements, wear - types and methods to reduce wear, creep, causes, effects and prevention.
+<br>Sleepers - Functions, requirements, PSC monoblock sleeper with pandrol clips, sleeper density.
+<br>Ballast - Functions, requirements, broken stone ballast.
+<br>Track fittings and fastenings - Purpose, fish plates, only elastic fastenings used in concrete sleepers.
+<br>Rail joints and welding of rails - Types of rail joints, comparison of short welded, long welded and continuous welded rails.
+<br><br><b>[10 Hrs] [20 Marks] </b>
+
+UNIT - V: 
+<b>5.1 Points and crossings:</b>
+<br>Turnout and its necessity, sketch of constituents of a turnout.
+<br>Track junctions - crossover between two parallel tracks, Diamond crossing, Scissor crossover. Level Crossings- objects of providing level crossings, typical layout of a square level crossing.
+<br>Track maintenance - Necessity, advantages and essentials of track maintenance, duties of a PWI. 
+<br><br><b>5.2 Railway stations and yards:</b>
+<br>Classification of railway stations on operational and functional considerations (explain only A- class block station for double line) wayside station on a single line section, types of yards, explain Marshalling yard.
+<br>Signalling and interlocking - Objectives, signals required at stations, Interlocking and its essential regulations.
+<br><br><b>5.3 Suburban railways in metro cities:</b>
+<br>Tube railways and elevated railways, typical cross-section of underground railway (tunnel circular section) and elevated railways with dimensions.
+<br><br><b>[12 Hrs] [35 Marks] </b>
+
+UNIT - VI: 
+<b>Introduction to Tunnel Engineering</b> - Terminology, advantages of tunnels, Size and shapes of tunnels- horse shoe, egg shape, segmental roof section, transferring alignment inside the tunnel, mucking, concept of shafts, objects of tunnel lining, ventilation  and drainage in tunnels.
+<br><br><b>Airport</b> – Terminology, Aerodrome, Apron, Hanger, Runway, Taxiway, Terminal area, Wind rose.
+<br><br><b>Harbour</b> - Terminology, Dock, Port, Breakwater, Jetties, Quays, Dredging, Light house, Buoys and Beacons.
+<br><br><b>[04 Hrs] [15 Marks] </b>
+
+<b>Text books:</b>
+
+<br><br>1. Khanna S.K. and Justo C.E.G, Highway Engineering, Nemchand and Bros, Roorkee.
+<br>2. Kadiyali L.R, “Highway Engineering”, Khanna Publishers, New Delhi.
+<br>3. Satish Chandra and Agarwal M M, Railway Engineering,  Oxford university press.
+
+<br><br><b>References:</b>
+<br><br>1. Subramanyam. K.P, “Transportation Engineering”, Scitech Publications, Chennai.
+<br>2. Khanna SK and Justo CEG, “Highway Material Testing Laboratory Manual”, Nemchand and Bros. Roorkee.
+<br>3. Dr. S K Sharma, Highway Engineering, S Chand and company, New Delhi.
+<br>4. J S Mundrey, Railway track engineering, McGraw Hill education, New Delhi.
+<br>5. Paul H Wright and Karen K Dixon, Highway Engineering, Wiley pub, New Delhi.
+<br>6. James H Banks, Tata Mcgraw-Hill, New Delhi.
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br>1. Visit a highway construction site and collect cross sectional drawings and topo sheets and prepare a power point presentation with photographs and videos.
+<br>2. Prepare a comparative chart showing various types of roads such as WBM, Bituminous roads, Concrete roads.
+<br>3. Visit a highway construction site, identify various types of soils, the test procedures as per relevant IS codes and inference based on the test results.
+<br>4. Draw the cross sectional details of Village roads, MDR, SH, NH using CADD and prepare a chart.
+<br>5. Collect the parameters of road intersection in the locality and prepare a model.
+<br>6. Prepare a model showing the cross sectional details of various types of roads such as bituminous and concrete roads.
+<br>7. Taking the measurements of an existing box culvert and prepare a model of the same.
+<br>8. Prepare a model of a typical bridge structure showing the component parts of bridge.
+<br>9. Prepare a presentation on comparison between RCC and PSC bridges with proper photographs and videos.
+<br>10. Prepare a chart showing the various road signs used by collecting the information from nearby RTO and prepare report and presentation it.
+<br>11. Visit nearest railway station and collect the information regarding railway track such as ballast, sleeper, gauge and signals and prepare a presentation and submit a report.
+<br>12. Collect information regarding various types of railway gauges used in India and other countries, prepare a chart and present it.
+<br>13. Collect videos showing the various forces acting on a railway track and present in the class.
+<br>14. Collect photographs and videos of crossings and prepare a presentation on it.
+<br>15. Collect videos related to track laying procedure and give seminar in the class.
+<br>16. Give a presentation on production of railway sleepers.
+<br>17. Collect information about alternate modes of transport (Mass Rapid Transport system) and make a presentation on it.
+<br>18. Explain the airport components in the class with the aid of presentation.
+<br>19. Explain the construction of tunnel with the help of video in the class room and submit a report.
+<br>20. Explain different types of tunnels with the help of presentation.
+<br>21. Prepare a presentation on component parts of Harbour.
+<br>22. Collect different IRC codes pertaining to highway geometric design and prepare a chart.
+<br>23. Prepare a presentation and report on Maglev Trains.
+<br>24. Prepare a presentation and report on Bullet Trains.
+<br>25. Give a seminar on the use of eco-toilets in trains.
+<br>26. Give a seminar on the use of bio toilets in trains.
+<br>27. Prepare a model of a typical railway track.
+<br>28. Prepare a presentation on sky bus technology.
+<br>29. Seminar on Intelligent Transport System (ITS).
+<br>30. Collect the information regarding various railway divisions in India and their functions.
+<br>31. Collect the information regarding the functions and importance of the following agencies regarding road projects.
+<br>a) National Highway Authority of India
+<br>b) Indian Road Congress
+<br>c) Karnataka Rural Infrastructure Development Corporation
+<br>d) Public Works Department
+<br>e) Rural Development and Panchayath Raj Department
+<br>32. Collect the information and prepare a presentation on the following topics.
+<br>a) Pradhan Mantri Gram Sadak Yojana (PMGSY)
+<br>b) Golden Quadrilateral Project
+<br>c) National Highway grid
+<br>d) Public Private Partnership (PPP) road projects
+<br>e) Renumbering of Indian National Highways
+<br>f) Use of road reflectors, delineators, and road markings
+
+<br><br><b>Note:</b>
+<br>1. Students should select any one of the above or other topics relevant to the subject approved by the concerned faculty, individually or in a group of 3 to 5. Students should mandatorily submit a written report and make a presentation on the topic. The task should not be repeated among students. Report will be evaluated by the faculty as per rubrics. Weightage for 5 marks Internal Assessment shall be as follows: (Unsatisfactory 1, Developing 2, Satisfactory 3, Good 4, Exemplary 5)
+<br>2. Reports should be made available along with bluebooks to IA verification officer.

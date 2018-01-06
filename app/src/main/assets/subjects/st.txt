@@ -1,0 +1,43 @@
+UNIT I:  Introduction and Fundamentals of Testing
+<b>Introduction:</b> Power of software, Challenges in software projects, Software Fiascos, Ariane 5, Patriot Missile, Mars Pathfinder, CT Scanner, The great bank robbery, FBI Virtual case file, Reasons for software failure, What is the solution?, Software Quality Assurance, Software Testing, Code of Ethics, Software Testing Professionals, Skill sets for Testing Professionals, Tasks handled by Testing Professionals
+<br><b>Fundamentals of Testing:</b> What is Testing?, Testing versus Debugging, Testing and Bebugging, Verification and Validation, Root Cause Analysis, Significance of Testing, Cost of Quality, Psychology of Testing, Testing Choices, In-house Testing, Outsourcing, Who does the testing?, Developers as Testers, Independent team Testing, Buddy Testing, Testing Phases, V Model, Testing and Life cycle models, Testing the Systems, Testing the Strategies, Static Testing, Dynamic Testing, Why testing is difficult?, Test Case, Test Oracle, Test Software, Manual versus Automated Testing, Testing Software of different Technologies, Metrics in Testing Phase, When Testing is Complete?, Criteria for Completion of Testing, Risk-based Testing, Types of risks, The Myths and Realities of Testing
+<br><b>[12 Hrs] [30 Marks] </b>
+
+UNIT II: Testing Levels and Types
+Testing Levels, Unit/Component Testing, Module Testing, Integration Testing, System Testing, Acceptance  Testing, Testing Approaches, Static Testing vs Dynamic Testing, Positive Testing vs Negative Testing, Top-down Testing vs Bottom-up Testing, Functional Testing vs Structural Testing, Mutation Testing, Confirmation Testing, Regression Testing, Types of Testing, Smoke Testing, Black Box Testing, White Box Testing, Interface Testing, Use Case Testing, Gorilla Testing, Alpha Testing, Beta Testing, Field Trail / Operational Testing, Performance Testing / Load Testing, Stress Testing, Accessibility Testing, Conformance Testing, Internationalization Testing, Security Testing, Maintenance Testing, Acceptance Testing, Documentation Testing
+<br><b>[08 Hrs] [25 Marks] </b>
+
+UNIT III: Static Testing Techniques
+Static Testing, Advantages of Static Testing, Manual Reviews, Formal Review Process, Informal Reviews, Walkthroughs, Inspections, Making Reviews Successful, Checklists, Formal Code Reviews, Coding Guidelines, Programming style, C Coding Guidelines, Code Optimization, Java Coding Guidelines, Static Analysis using Tools, Tool for Readability Improvement / Indenting, Portability Testing Tool, Symbolic Execution
+<br><b>[10 Hrs] [25 Marks] </b>
+
+UNIT IV: Dynamic Testing and Test case design Techniques
+Dynamic Testing, Review work products, Identify Test Objectives, Test Specifications and Test Design, Design Test Cases, Black Box Test Case Design Techniques, White Box Test Case Design Techniques, Experience-based  Test Case Design Techniques, Case Study #1 : Test Cases for an IVR System, Case Study #2 : Test Case for Finger Print Recognition System, Document Test Cases, Execute Test Cases, Generate Incident Report / Anomaly Report, Log the Defects, Test Documentation Standards, Formal Methods of Testing
+<br><b>[08 Hrs] [25 Marks] </b>
+
+UNIT V: Managing the Testing Process
+Management Commitment, Organization Structure, Testing Process management, Options for Managers, Testing Process Management Activities, Planning, Budgeting and Scheduling the Testing Phase, Test Plan, Alignment of the Process to the Project, Team Formation, Infrastructure, Testing Tools, Reviewing, Monitoring and Risk Management, Risk Management, Test Reports, Metrics, Software Reliability, Defect tracking, Classification of Defects, Configuration Management, Test Closure and Process Improvement, Software testing Maturity Model (SW-TMM), Information Security
+<br><b>[08 Hrs] [25 Marks] </b>
+
+UNIT VI: Software Testing Tools and Code of Ethics for Software Professionals
+<b>Software Testing Tools:</b> Need for Tools, Classification of Tools, Functional / Regression Testing Tools, Performance / Load Testing Tools, Testing Process Management Tools, Benefits of Tools, Risks Associated with the Tools, Does your Organization Need Tools?, Selecting Tools, Introducing the tools in the Testing Process
+<br><b>Code of Ethics for Software Professionals:</b> Human Ethics, Professional Ethics, Ethical Issues in Software Engineering, Code of Ethics and Professional Practice, Software Engineering Code of Ethics and Professional Practice, Ethical issues: Right versus Wrong
+<br><b>[06 Hrs] [15 Marks] </b>
+
+<b>Text books:</b>
+<br><br>1.	ISTQB Certification Study Guide, Dr. K.V.K.K. Prasad, Wiley-Dreamtech Press, ISBN: 9788177227116
+
+<br><br><b>References:</b>
+<br><br>1.	Software Testing Principles and Practices, Srinivasn desikan, Goplaswamy Ramesh, Pearson, ISBN: 9788177581218
+<br>2.	Software Testing Tools, Dr. K.V.K.K. Prasad, Wiley- Dreamtech Press, ISBN 10: 8177225324, ISBN 13: 9788177225327
+<br>3.	Software Testing Concepts and Tools, Nageshwara Rao Pusuluri, DreamTech, ISBN 10: 8177227122    ISBN 13: 9788177227123
+
+<br><br><b>Suggested Student Activity:</b>
+	
+<br><br>1. 	Design test cases on validation of time with a format HH : MM : SS
+<br>2. 	Prepare a report on different types of testing.
+<br>3. 	Prepare a presentation on testing tools available
+
+<br><br><b>Note:</b> The activities or similar activities for assessing CIE (IA) for 5 marks (Any one)
+<br>1. Each student should do any one of the following type activity or any other similar activity related to the course and before conduction, get it approved from concerned course coordinator and programme coordinator.
+<br>2. Each student should conduct different activity and no repeating should occur

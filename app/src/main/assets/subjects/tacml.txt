@@ -1,0 +1,67 @@
+<b>Experiments:</b>
+
+<br><br>01.	Identify the physical parts of 1 Phase and 3 phase transformers and Autotransformers. Note down the name plate details and interpret it.
+<br><br>02.	Identify the terminals of a 1 Phase transformer, test it for open circuit, short circuit and ground faults using test lamp / megger, check the insulation resistance, identify and locate the possible faults. Suggest remedies.
+<br><br>03.	Identify the HV/LV terminals, type of primary and secondary connections of a 3 Phase transformer, test it for open circuit, short circuit and ground faults using test lamp / megger, check the insulation resistance, identify and locate the possible faults. Suggest remedies.
+<br><br>04.	Identify the parts of  single phase induction motors, test it for open circuit, short circuit and ground faults using test lamp / megger, check the insulation resistance, identify and locate the possible faults. Suggest remedies.
+<br><br>05.	Identify the terminals and parts of  3 Phase synchronous motor, test it for open circuit, short circuit and ground faults using test lamp / megger, check the insulation resistance, identify and locate the possible faults. Suggest remedies.
+<br><br>06.	Trace and draw the layout of Transformers and A/C motors in the  labarotary and their power circuit wiring, healthy condition of fuses, switches ,MCB, ELCB check them for proper voltage, identify faults if any ,and rectify.
+<br><br>07.	Identify the parts of a DOL starter, test its parts  locate faults if any. Suggest remedies.
+<br><br>08.	Identify the parts of  a Star-Delta starter, test its parts and locate faults if any. Suggest remedies.
+<br><br>09.	Identify the parts of Autotransformer starters,  test its parts  locate faults if any.  Suggest remedies.
+<br><br>10.	Conduct Polarity and Ratio tests on 1-ph transformer.
+<br><br>11.	Determine the efficiency and regulation of 1-ph transformer by direct loading.
+<br><br>12.	Pre-Determine the Regulation and Efficiency of 1-ph transformer by conducting O.C. and  S.C. tests
+<br><br>13. Parallel operation of two single phase transformers and analyse load sharing pattern for a given KVA rating.
+<br><br>14.	Measure Phase and Line Voltage and Phase and Line Current for the Star-Star. (Y-Y Connection) transformer bank using 3 single phase transformers.
+<br><br>15.	Measure Phase and Line Voltage and Phase and Line Current for the Star-Delta.  (Y- Δ Connection) transformer bank using 3 single phase transformers.	
+<br><br>16.	Connect ,Start, Run and Reverse the direction of rotation of 3-phase Induction Motor using DOL starter.
+<br><br>17.	Trace the start terminals and end terminals of three phase windings and mark the terminals  u1,v1,w1 and u2,v2,w2   Connect, Start, Run and Reverse the direction of rotation of 3-phase Induction Motor using star delta starter.
+<br><br>18.	Start and run 3 ph Induction Motor using Autotransformer starter. Measure the speed for different voltages. 
+<br><br>19.	Plot the Speed-Torque (Slip Vs Torque) Characteristics of 3-Phase Induction motor by mechanical loading (Brake-drum apparatus).
+<br><br>20.	Start, Run and Reverse the direction of rotation of synchronous motor.
+<br><br>21.	Identify and connect the starting winding, running winding , capacitor ,centrifugal switch terminals rotation of 1-ph capacitor start Induction Motor. Start, Run and Reverse the direction of rotation.
+<br><br>22.	Perform general preventive maintenance on transformers and synchronous Motors   in the Electrical laboratory.
+<br><br>23.	Perform general preventive maintenance on 3 ph Induction motor and 1 ph Induction Motors  in the Electrical laboratory.
+<br><br>24.	Perform general preventive maintenance on different types of motor starters.
+
+<b>Reference Books:</b>
+
+<br><br>1.	Experiments in Basic Electrical Engineering by S. K. Bhattacharya, New Age International  Publications, 2007 Edition.
+<br>2.	Electrical trade theory and trade practice ( 1st and 2nd year) – National Instructional Media Institute (NIMI)
+<br>3.	Laboratory courses in Electrical Engineering. by S.G. Tarnekar, P. K. Karbanda and others, S. Chand Publishers.
+<br>4.	Electrical Machines by M.V.Deshpande- PHI Publications.
+<br>5.	Electrical Motors Application and control by M.V.Deshpande- PHI Publications.
+<br>6.  www.controlmanual.com / testing and maintenance of electrical machines.
+<br>7.  accessengineeringlibrary.com/.../electrical-equipment-handbook-troubles.
+<br>8.  www.slideshare.net/.../electrical-powerequipmentmaintenanceandtesting.
+<br>9.  https://www.crcpress.com/Electrical...Equipment-Maintenance...Testing...
+<br>10. electrical-engineering-portal.com › Resources.						
+<br>11. https://books.google.co.in/books?isbn=1574446568
+<br>12. http://www.scribd.com/doc/39578646/New-First-year-Electrical-lab-manual#scribd
+<br>13. http://mrcet.ac.in/newwebsite/pdfs/Labmanuals-13/ECE/LabManuals/DC%20LAB% 20%28180%29%20II-I.pdf
+
+<br><br><b>Student Activity</b>
+
+<br><br><b>Note:</b> Student has to submit a self hand written report of minimum 3 pages of any ONE activity listed below.
+
+<br><br>1.	Selection of types of motors and their applications in industries 
+<br>2.	Inspection, Repair and Preventive Maintenance of distribution transformer- testing of transformer oil, reconditioning of breather silica gel, testing Bucholz relay etc.,
+<br>3.	Selection of types of transformers and their applications in industries.
+<br>4.	Significance of vector group in 3 Phase transformers.
+<br>5.	Boost test on transformers.
+<br>6.	Transformer On-line and Off line tap changers.
+<br>7.	Cooling system for electrical machines.
+<br>8.	Energy efficient motors.
+<br>9.	Visit nearby Industry/Substation and make a report of the different motors and transformers used and their purpose.
+<br>10.	Prepare a suitable panel board for Transformers and A/C motors.
+
+<b>Scheme of Valuation for SEE:</b>
+
+<br><br>1.	Identifying the parts and selection of meters/equipment : 05
+<br>2.	Circuit diagram with Procedure for one experiment : 10
+<br>3.	Connections ,Conduction and Tabulation of Readings : 20
+<br>4.	Calculation and Results : 05
+<br>5.	Viva-voce : 10
+
+<br><br><b>TOTAL = 50 Marks</b>

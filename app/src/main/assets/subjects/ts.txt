@@ -1,0 +1,45 @@
+UNIT - I: INTRODUCTION STATIC AND KINEMATIC INDETERMINACY.
+Introduction to Structural Systems- Classification of structures, Structural forms, Loads, Conditions of equilibrium, Compatibility conditions, Statically determinate and indeterminate structures, degree of Static and Kinematic indeterminacy, free body movement diagram. Different methods to analyse Statically indeterminate & Kinematically Indeterminate Structures.
+<br><b>[08 Hrs] [40 Marks] </b>
+
+UNIT - II: SLOPE DEFLECTION METHOD
+Introduction, Sign conventions, Development of slope deflection equations, Analysis of beams-fixed beams, Proped Cantilever beams, Continuous beams (2 spans).
+<br><b>[12 Hrs] [40 Marks] </b>
+
+UNIT - III: MOMENT DISTRIBUTION METHOD
+(Without Sway): Introduction, Definition of terms- Distribution factor, Carry over factor, Analysis of Continuous beams (2 spans), Problems on portal frame. (Single column & single bay, Two column & single bays)
+<br><b>[12 Hrs] [40 Marks] </b>
+
+UNIT - IV: ANALYSIS OF PIN JOINTED DETERMINATE PLANE TRUSSES
+Introduction and types of Trusses, Assumptions, Analysis by Method of joints.
+<br><b>[12 Hrs] [40 Marks] </b>
+
+<b>Reference Books:</b>
+
+<br><br>1.	R.C.Hibbeler, Structural Analysis, Pearson. 
+<br>2.	K.M.Leet,C.Ming UanG&A.M.Gilbert, Fundamentals of Structural Analysis, TATA McGraw Hill Education.
+<br>3.	Devdas Menon, Structural Analysis, Narsoa
+<br>4.	G.S.Pandit,S.P.Gupta&R.Gupta, Theory of Structures Vol-I&II, TATA McGraw Hill Education. 
+<br>5.	L.S.Negi&R.S.Jangid, Structural Analysis, TATA McGraw Hill education.
+<br>6.	S.Ramamrutham &R.Narayan, Theory of Structures, Dhanpat Rai & Son.
+<br>7.	C.S.Reddy, Basic Structural Analysis, TATA McGraw Hill education. 
+<br>8.	B.C.Punmia.Ashok Kumar Jain& Arun Kumar Jain, Theory of Structures, LAXMI. 
+<br>9.	S.S.Bhavikatti, Structural Analysis I&II, VIKAS
+<br>10.	Theory of Structures Vol-1 by Pandit and Gupta, Tata McGraw Hill, New Delhi.
+<br>11.	Basic Structural Analysis by C S Reddy, Tata McGraw Hill, New Delhi.
+<br>12.	Elementary Structural analysis, Norris and Wilbur, International student edition, Tata McGraw Hill book Co, New York.
+<br>13.	Structural Analysis by R C Hibler, 5th edition, Pearson Education Inc.
+<br>14.	J. Sterling Kinney, “Indeterminate Structural Analysis”, Oxford and Publishing Co. 
+<br>15.	Noris C.H., Wilbur J.B., “Elementary Structural Analysis”, Mc Graw Hill International Book Edition.
+<br>16.	C.K. Wang, “Intermediate Structural Analysis”, Mc Graw Hill Publications. 
+<br>17.	Ashok K. Jain, “Advanced Structural Analysis”, Nem Chand & Bros., Roorkee, India.
+
+<br><br><b>Suggested Student Activity:</b>
+<br>The topic should be related to the course in order to enhance his knowledge, practical skill & and lifelong learning, communication, modern tool usage.
+
+<br><br>1.	Solve the solved problems in the class rooms by kanis method, prepare a spread sheet make a report and present it
+
+<br><br><b>Note:</b> 
+<br>1. Students should select any one of the above or other topics relevant to the subject approved by the concerned faculty, individually or in a group of 3 to 5. Students should mandatorily submit a written report and make a presentation on the topic.  The task should not be repeated among students. Report will be evaluated by the faculty as per rubrics. Weightage for 5 marks Internal Assessment shall be as follows:
+ <br>Unsatisfactory 1, Developing 2, Satisfactory 3,  Good 4, Exemplary 5.
+<br>2. Reports should be made available along with bluebooks to IA verification officer.

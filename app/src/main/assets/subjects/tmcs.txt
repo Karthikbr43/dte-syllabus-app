@@ -1,0 +1,34 @@
+UNIT – I: Introduction to Substation System
+Definition of substation, necessity of substation, essential features, types of substation - advantages and disadvantages, single line diagram of substation, List and functions of each component of substation. Auxiliary systems,Over head earthing screen,Sub-station earthing system.
+<br><b>[05 Hrs] [10 Marks] </b>
+
+UNIT – II: Testing and maintenance of Bus Bars, and Isolators
+Types and ratings - Bus bar configuration,Tests on Bus bars.Types of isolators and ratings,Load Break switches, Maintenance of isolators.
+<br><b>[08 Hrs] [25 Marks] </b>
+
+UNIT – III: Testing and maintenance of Circuit Breaker and Reactors
+Circuit breakers -Type Tests,Routine tests,Short circuit Testing of CB -Direct Testing,Indirect testing,Maintenance of CBs. Reactors -Routine Tests,Type Tests,Special tests,Loss Measurement and maintenance of reactors.
+<br><b>[12 Hrs] [30 Marks] </b>
+
+UNIT – IV: Testing and maintenance of Protective Relays
+Tests on relays,Test equipment,Static relays,Digital Relays, Maintenance of relays.
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT – V: Testing and maintenance of Current and Voltage Transformers and Insulators
+Preliminary tests, Final tests, Impulse test, Partial discharge test, Transformer maintenance. Current Transformer tests, PotentialTransformer tests. CT and PT maintenance.Tests on and maintenance of insulator.
+<br><b>[13 Hrs] [40 Marks] </b>
+
+UNIT – VI: Substation monitoring and control
+Fault Monitoring, Two Hierarchical levels, Inter level communication
+<br><b>[04 Hrs] [10 Marks] </b>
+
+<b>Text books:</b>
+
+<br><br>1. Switch gear & protection  By Sunil S Rao, Khanna Publishers Ltd, New Delhi					
+<br>2. Transformers - BHEL Tata McGrawHill, New Delhi		
+
+<br><br><b>References:</b>
+
+<br><br>1.	Testing,Commisioning, operation and maintenance of electrical equipment  by S.Rao, Khanna Publishers Ltd, New Delhi.
+<br>2.	Sub-Station Engineering Design, Concepts & Computer Applications By Er. R.S. Dahiya,Er. VinayAttri, S.K. Kataria and Son’s, New Delhi
+<br>3.	Power Transformers and Special Transformers, By : Sunil S Rao

@@ -1,0 +1,40 @@
+UNIT I: Introduction to Cloud computing
+Evolution of cloud, Essentials, Cloud Computing definition, Benefits and Challenges, Limitations, Usage and Applications, Business Models around Cloud Computing, Characteristics, Cloud Adoption 
+<br><b>[07 Hrs] [20 Marks] </b>
+
+UNIT II: Cloud models
+Introduction, Collaboration to cloud, Cloud Models, Cloud Applications and Architecture, Cloud Computing Architecture, Cloud Infrastructure Models, Cloud Infrastructure Self Service, Scaling a cloud infrastructure   
+<br><b>[10 Hrs] [28 Marks] </b>
+
+UNIT III: Cloud services
+Introduction to Services, Storage as a Service, Database as a Service, Information as Service, Process as a Service, Application as a Service, Management/Governance as Service, Platform as a Service, Security as a Service, Testing as Service, Integration as  Service, Infrastructure as Service
+<br><b>[10 Hrs] [28 Marks] </b>
+
+UNIT IV: Software plus Services
+Introduction, Mobile Device Integration, Providers, Microsoft Online Intuit Quick base, Cast Iron Cloud, Bungee Connect, Introduction to Map Reduce, Goggle File System, Hadoop framework, Hadoop Distributed File System 
+<br><b>[08 Hrs] [22 Marks] </b>
+
+UNIT V: Virtualization for cloud
+Introduction, Pros and Cons of Virtualization, Virtualization Architecture, Virtualization Machine, Virtualization in Clusters/Grid Context, Virtual Network, Types of Virtualization, Virtual Machine Monitor, Virtual Desktop Infrastructure 
+<br><b>[10 Hrs] [28 Marks] </b>
+
+UNIT VI: Examples of Cloud Computing
+Introduction, Types of clouds, Cloud Comparing Approaches, Aneka Integration of private and public cloud, Aneka Cloud Platform, Introduction,, Resource Provisioning Service, Aneka Hybrid Cloud Implementation, Comet Cloud Architecture, Autonomic Behaviour, Comet Cloud, Overview of Comet Cloud Based Applications, Implementation   
+<br><b>[07 Hrs] [19 Marks] </b>
+
+<b>Text books:</b>
+<br><br>1.	Cloud Computing,  M.N RAO,  PHI Learning Private Limited, ISBN: 978-81-203-5073-1                                   
+
+<br><br><b>References:</b>
+
+<br><br>1.	Cloud Computing – A practical approach for learning and implementation  Pearson A.Srinivasan J.Suresh 
+<br>2.	Cloud Computing A hands-on-Approach, universities Press	Arshdeep Bahga and Vijay Madisetti
+<br>3.	Cloud Computing – Concepts, Technology and Architecture Pearson Thomas Erl
+
+<br><br><b>Website:</b>
+<br><br>1.	http://www.tutorialspoint.com/cloud_computing/cloud_computing_tutorial.pdf
+<br>2.	http://www.thbs.com/downloads/Cloud-Computing-Overview.pdf
+<br>3.	https://www.priv.gc.ca/resource/fs-fi/02_05_d_51_cc_e.pdf
+<br>4.	Lewis, Grace. Basics About Cloud Computing. http://www.sei.cmu.edu/library/abstracts/whitepapers/cloudcomputingbasics.cfm (2010).
+<br>5.	http://www.intel.in/content/dam/www/public/us/en/documents/guides/cloud-computing-virtualization-building-private-iaas-guide.pdf
+<br>6.	http://manjrasoft.com/aneka_architecture.html

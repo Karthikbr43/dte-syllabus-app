@@ -1,0 +1,147 @@
+<b>Tutorial:</b>
+
+<br><br><b>Note:</b> Staff-in-charge must teach one hour tutorial for each Lab. The Contents to be taught in the one hour tutorial are(mandatory for tutorial=1hr and practical’s=2hrs).
+
+<br><br><b>Tutorial 1:</b>
+<br>1.Using shunt resistances for range extension in d.c ammeter (low range to high range).
+<br>2.Need of range extension
+<br>3.Types of shunt resistors.
+
+<br><br><b>Tutorial 2:</b>
+<br>1.Using series multiplier resistances for range extension in d.c. voltmeter(low range to high range).
+<br>2.Need of range extension.
+<br>3.Types of multiplier resistances.
+
+<br><br><b>Tutorial 3:</b>
+<br>1.Using C.T.s to extend the range of a.c ammeter from (high range to low range).
+<br>2.Need of range extension.
+
+<br><br><b>Tutorial 4:</b>
+<br>1.Using P.T.s to extend the range of a.c voltmeter from (high range to low range).
+<br>2.Need of range extension.
+
+<br><br><b>Tutorial 5:</b>
+<br>1.Need of calibration.
+<br>2.Necessity of minimizing errors in a.c. instruments.
+<br>3. Calibration of instruments.
+
+<br><br><b>Tutorial 6:</b>
+<br>1.Need of calibration.
+<br>2.Necessity of minimizing errors in d.c. instruments.
+<br>3.Calibration of instruments.
+
+<br><br><b>Tutorial 7:</b>
+<br>1.What is power, power factor.
+<br>2.Measurement of power by volt meter, ammeter by indirectly.
+<br>3.Use of watt meter for power measurement directly, determine p.f. indirectly.
+
+<br><br><b>Tutorial 8:</b>
+<br>1.Measurement of power indirectly by voltmeter and ammeter, directly by wattmeter.
+<br>2.Measurement of p.f..
+<br>3.Comparison of above reading with compared with digital p.f. meter readings.
+
+<br><br><b>Tutorial 9:</b>
+<br>1.Measurement of power by volt meter, ammeter by indirectly.
+<br>2.Use of watt meter for power measurement directly.
+<br>3.Determine p.f. by wattmeter, voltmeter and ammeter reading compared with digital p.f meter
+
+<br><br><b>Tutorial 10:</b>
+<br>1.Measurement of power directly by two wattmeters.
+<br>2.Measurement of p.f. by comparison of two wattmeters reading.
+
+<br><br><b>Tutorial 11:</b>
+<br>1.Measurement of power directly by two wattmeters.
+<br>2.Measurement of p.f. by comparison of two wattmeters reading.
+<br>3.Comparing obtained p.f. readings with digital p.f meter.
+
+<br><br><b>Tutorial 12:</b>
+<br>1.Need and understanding of calibration.
+<br>2.Necessity of minimizing errors in wattmeters.
+
+<br><br><b>Tutorial 13:</b>
+<br>1.Meaning of energy.
+<br>2.Operation of energy meter 
+<br>3.Measurement of energy by using analog energy meter.
+
+<br><br><b>Tutorial 14:</b>
+<br>1.Measurement of energy by analog energy meter.
+<br>2.Comparison of  analog energy meter readings with digital energy meter for accuracy.
+
+<br><br><b>Tutorial 15:</b>
+<br>1.Measurement of energy by 3phase analog energy meter.
+<br>2.Comparison of  3phase analog energy meter readings with 3phase digital energy meter for accuracy.
+
+<br><br><b>Tutorial 16:</b>
+<br>1.Calibration of energy meter.
+<br>2.Necessity of calibration to reduce error in measurement of energy.
+
+<br><br><b>Tutorial 17:</b>(Same tutorial for expt. 18 and 19)
+<br>1.Need of measuring unknown R,L,C .
+<br>2.Operation and applications of various bridges used in d.c and a.c circuit parameter determination.
+
+<br><br><b>Tutorial 18: </b>
+<br>1.Explain operation of transducers.
+<br>2.Application of transducers in various electrical circuits.
+
+<br><br><b>Tutorial 19:</b>
+<br>1.Need of measuring unknown R,L,C using digital LCR meters .
+<br>2.Operation and applications of digital LCR meters.
+
+<br><br><b>Experiments:</b>
+
+<br><br>1.	Extend the range of D.C. ammeter by using shunt resistances (low range to high range)
+<br><br>2.	Extend the range of D.C. voltmeter by using series multiplier(low range to high range)
+<br><br>3.	Extend the range of A.C. ammeter by using C.T.(high range to low range)
+<br><br>4.	Extend the range of A.C. voltmeter by using P.T.(high range to low range)
+<br><br>5.	Calibrate a D.C. voltmeter by standard method.
+<br><br>6.	Calibrate a A.C. ammeter by standard method.
+<br><br>7.	Measure power and p.f. of single phase circuit using wattmeter by indirect method.
+<br><br>8.	Measure p.f. of single phase circuit by direct method using digital p.f. meter and compare the same with indirect method.
+<br><br>9.	Measure power and p.f. of three phase circuit using 2-wattmeters by indirect method.
+<br><br>10.	Measure p.f. of three –phase circuit using digital p.f.meter and compare the same with indirect method.
+<br><br>11.	Calibrate a wattmeter by standard method.
+<br><br>12.	Measure energy consumed by single- phase circuit using analog single- phase energy meter.
+<br><br>13.	Measure energy consumed by single- phase circuit using digital single- phase energy meter and compare the same with analog single-phase energy meter readings.
+<br><br>14.	Measure energy consumed by three phase circuit using analog three- phase energy meter.
+<br><br>15.	Measure energy consumed by three- phase circuit using digital three- phase energy meter  and compare the same with analog three-phase energy meter readings.
+<br><br>16.	Calibrate single phase energy meter by standard method.
+<br><br>17.	Conduct an experiment to determine unknown
+<br>i)Resistance using Wheat stone’s bridge.
+<br>ii)Inductance by Maxwell’s bridge.
+<br>iii)Capacitance by Schering bridge. 
+<br><br>18.	Conduct an experiments to determine physical and electrical parameters using 
+<br>i)LVDT
+<br>ii)STRAIN GUAGES.
+<br>iii)RVDT.
+<br>iv)PYROMETERS.
+<br>v)THERMOCOUPLES.
+<br>vi)BOLOMETER.
+<br>vii)OPTO SENSORS.
+<br>viii)PIEZO-ELECTRIC SENSORS.
+<br><br>19.	Measure R,L,C by using digital LCR meter and current flowing in any phase a.c. circuit using digital tong tester.
+<br><br>20.	Internal assessments
+
+<b>Reference Books:</b>
+
+<br><br>1. www.academia.edu/.../A_K.Sawhney-A_course_in_Electrical_and_Elect...
+<br>2. https://en.wikipedia.org/.../List_of_electrical_and_electronic_measuring_
+<br>3. nptel.iitg.ernet.in › ... › Electrical and Electronic Measurements (Video)
+
+<br><br><b>Student Activity</b>
+
+<br><br>1. Calculate  resistance and inductance of field winding and armature winding of D.C.generator using any digital meter.
+<br>2. Calculate  resistance and inductance of primary winding of single phase transformer using any digital meter.
+<br>3. Calculate  resistance and inductance of 3phase induction motor and alternator using any digital meter.
+<br>4. Detemine the capacitance of capacitor used in fan, single phase induction motors, fluorescent tube using Schering bridge compare with digital LCR  meter.
+
+<br><br><b>Note:</b> Student has to submit a self hand written report of min two pages of any one activity in group of 5 members.
+
+<b>Scheme of Valuation for SEE:</b>
+
+<br><br>1.	Identification  of meters, equipments, components, tools used :	5
+<br>2.	Circuit diagram, Procedure  to conduct one experiment : 10
+<br>3.	Conduction of experiment : 20
+<br>4	Results : 5
+<br>5.	Viva (Oral)	: 10
+
+<br><br><b>TOTAL = 50 Marks</b>

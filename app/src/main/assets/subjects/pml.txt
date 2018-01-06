@@ -1,0 +1,51 @@
+<b>Experiments:</b>
+
+<br><br>1.	Collection, preservation, transport and Storage of  wastewater samples
+<br>2.	Determination of pH of waste water by electrometric method
+<br>3.	Determination of Electrical conductivity and TDS waste water by using conductivity and TDS meter
+<br>4.	Determine of Total solids, Dissolved solids, Suspended solids & Settle able solids by Gravymetric method
+<br>5.	Determination of Turbidity by using Jackson Turbidity meter and Nephelo turbidity meter.
+<br>6.  Determination of Dissolved oxygen (DO)
+<br>7.	Determination of  Biochemical oxygen demand (BOD)
+<br>8.	Determine Chemical oxygen demand (COD)
+<br>9.	Determination of Available chlorine in Bleaching powder.
+<br>10.	Determination of Residual chlorine.
+<br>11.	Determination Sulphates and chlorides
+<br>12.	Determination of Optimum dosage of coagulant by using Jar test apparatus
+<br>13.	Determination of fluorides by colorimetric method.
+<br>14.	Determination of Iron content
+<br>15.	Determination of Calcium and magnesium
+<br>16.	Measurement of Sound
+<br>17. Biological test – plate count & MPN Test by using Colony Counter
+<br>18.	Determination thickness of given plastic sample using Screw Gauge
+
+<b>Reference Books:</b>
+
+<br><br>1. Central Public Health Engg. Organisation (CPHEO) water supply Manual 
+<br>2. National environmental engineering Institute (NEERI) water supply manual 
+<br>3. Water supply engineering by-Birdie
+<br>4. Water supply and sewage disposal by – S.K.Garg.
+<br>5. Water supply and sanitary engg. By –Rangawala.
+
+<br><br><b>SUGGESTED LIST OF STUDENT ACTIVITIES:</b>
+
+<br><br><b>Note:</b> Following is the list of proposed student activities such as (5 marks for CIE). Each student should submit report on any one of the following visits.
+
+<br><br>1.	Visit to a nearby Industries & Identify the sources of waste water generated and their characteristics.	
+<br>2.	Prepare the report on treatment of waste water generated from nearby Industries. 
+<br>3.	Collect the water from various sources and find the characteristics, compare with BIS Standards of portable water
+<br>4.	Visit to a sewage treatment plant, collect the datas and find the efficiency of treatment units
+<br>5.	Prepare a report on quantity of sewage generated from a colony or village for a combined system
+<br>6.	Prepare a report on effects of specific Air pollutants on human health.
+<br>7.	Prepare a report on Occupational Disease caused due to Exposure to Industrial Hazards
+<br>8.	Any other activity suggested by faculty member which is in relevance to the subject.
+
+<b>Scheme of Valuation for SEE:</b>
+
+<br><br>1. Procedure : 05
+<br>2. Conducting : 20
+<br>3. Calculation/Graph/Interpretation : 10
+<br>4. Record And Student Suggested Activity : 05
+<br>5. Viva Voce : 10
+
+<br><br><b>TOTAL = 50 Marks</b>

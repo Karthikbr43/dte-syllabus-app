@@ -1,0 +1,40 @@
+<b>CONTENTS:</b>
+
+<br><br>1. Introduction to Machine Drawing-Multi view drawing, Projection System, Drawing Standards-ISO, ANSI, BIS, Introduction to Parametric Modeling software-Understanding parametric modeling technique, knowing the software tools.
+<br>Define and understand the following terms:
+<br>Planes and their creation, reference axis, Sketch, Profile, constraints-geometrical and dimensional, need for constraining, fully constrained, under constrained, over constrained.
+
+<br><br>2. Part Modeling:
+<br>Conversions of 2D profiles into 3D models-using extrude/protrude and revolve commands. Cut outs/shell creation, placing holes, rounds/fillets, chamfers, creating rectangular and circular array/patterns, array/patterns along a path/curve, mirroring features, editing of a model, creating internal and external threads. Adding draft, ribs, thin wall features, lip to models. Creating vents, boss. Creating swept and lofted models.
+
+<br><br>Using part modeling techniques create the Part Models and learn how to generate different Drawing views:
+<br>Front View
+<br>Top View and Side/Profile view.
+
+<br><br>3. Assembly Modeling:
+<br>Know the assembly environment, setting the assembly environment, Types of assembly design approach-bottom-up and top-down assembly. 
+<br>Creating assembly and sub-assemblies
+<br>Editing and modifying assembly relationships 
+<br>Creating exploded view of the assembly, Knowing the concept about Bill of Materials, Understand the detail drawing. 
+<br>Know the procedure for revision of drawing 
+
+<br><br>4. Using assembly modeling techniques create the following:
+<br>•	Hexagonal Nut and Bolt
+<br>•	Solid Muff Coupling
+<br>•	Knuckle Joint
+<br>•	Socket and Spigot joint
+<br>•	Plummer Block
+<br>•	Screw Jack
+
+<b>Reference Books:</b>
+<br>
+1. http://www.catia.com.pl/tutorial/generative_drafting.pdf 
+
+<b>Scheme of Valuation for SEE:</b>
+
+<br><br>1. Create the part drawing and show the assembly of the model and also show the three views of the assembly.	
+<br>a)  Part drawing of assembly :	15
+<br>b)  Assembly modelling : 20
+<br>c)  Three views of Part drawing of assembly or assembly : 05
+<br><br>2. Viva : 10
+<br><br><b>TOTAL = 50 Marks</b>

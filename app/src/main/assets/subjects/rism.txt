@@ -1,0 +1,46 @@
+UNIT - I: Introduction
+Understand the production of hot metal (iron) with different methods: blast furnace, Corex process, Finex process etc with sketch. Illustrate the making of iron and steel making process with detailed flow diagram from making iron to solid steel.
+<br><b>[05 Hrs] [15 Marks] </b>
+
+UNIT - II: Iron making in Blast Furnace
+Illustrate the detailed construction and working of blast furnace with sketch.
+<br>Describe the refractories used/practices in different parts of blast furnace with their product data sheet: Hearth part (Carbon refractories of different verities), Bosh & Belly (Alumina/ SiC), stack (Alumina / Graphite), furnace top (Alumina), Uptake, down comers (gunning/ casting with high alumina conventional castables) & cyclones (High Abrasion Alumina based). 
+<br>Illustrate the construction and functioning and refractory used/practices in Hot blast main, Bustle main, Hot blast stoves (Alumina, Silica), ceramic burners (alumina based), Blow pipes (self flow castables Al / Al. ZrO2). Study the Operating parameters of the blast furnace.
+<br><b>[12 Hrs] [30 Marks] </b>
+
+UNIT - III: Hot metal handling
+Define one heat with respect to different equipments like steel ladle, iron ladle transfer ladle, Linz Donawitz (L D) Converter, Electric arc furnace for direct melting of scrap. Illustrate with schematic diagram function & refractories used in runners: main runner, slag runner, metal runner and tilting runner, Torpedo, ladle, Iron Ladle.
+<br><b>[08 Hrs] [20 Marks] </b>
+
+UNIT - IV: Primary Steel making refractories		
+Transfer ladles: functions, schematic diagram, refractories used/practices.
+<br>Process study of hot metal de-sulphurisation, reagents used, method of conveying CaC2 through refractory Lances. Detailed study of lances, composition of refractory material used, refractory life analysis. 
+<br>Illustrate LD Convertor, process of steel making, chemical reactions, refractory used (MgO-C) [product datasheet, role of carbon in MgO-C], converter lining procedure, maintenance practice like hot gunning, hot patch, slag splashing, converter tap hole sleeve change. Innovative method of measuring refractory thickness with laser measurement machine. 
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT - V: Secondary Steel making refractories
+Steel Ladle: Illustrate with schematic diagram functions, refractory used, refractory repair practice, factors affecting steel ladle refractory life. Functional refractories in steel ladle: slide gate refractories and bottom purging plug refractories, their usage, mechanical component involved and their significance. 
+<br>RH Degasser: importance of RH degasser, refractory used in vacuum vessel , inlet / outlet snorkel  and refractory maintenance practices.
+<br>Continuous Casting Platform refractories: role of caster in steel making process, black refractories (SEN, SHROUD, MBS), tundish refractories, regular maintenance and practices.
+<br><b>[12 Hrs] [35 Marks] </b>
+
+UNIT - VI: Total Refractory Management concept
+Define TRM, justify its importance, compare pros and cons, General Scope matrix for TRM. Understand the general Safety precautions to be taken during refractory erection of all refractory related equipments in iron and steel making.
+<br><b>[05 Hrs] [15 Marks] </b>
+
+<b>Reference Books:</b>
+<br><br>1.	Fuels Furnace & Refractories New Ed. – O.P.Gupta
+
+<br><br><b>e-Resources:</b>
+<br><br>1.	http://thinkhwi.com/industries/iron-steel/basic-oxygen-furnace-bof/
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>1. Student should collect information on Mortar mixer & castable mixer / Rammers / Brick cutters / Gunning machine and Templates for castings.
+<br>2. Student should make report on Refractory life analysis of Indian steel industries.
+<br>3. Student should make report on Refractory life references.
+<br>4. Student should make report on life analysis of LD converter in India.
+<br>5. Student should make report on Coke oven, sinter plant, lime calcination, reheating furnace and pellet plant refractory application practices.
+<br>6. Student should make a report on trends in refractory management.
+
+<br><br><b>Note:</b> Student should prepare hand written report with minimum 2-3 pages and reports should not be copied from earlier batches. And other similar tasks can be assigned.

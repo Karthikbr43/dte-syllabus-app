@@ -1,0 +1,86 @@
+<b>Experiments:</b>
+
+<br><br><b>I: Preparation of Building Drawings</b>
+<br>Given the line diagram, draw the plan, Section and elevation of the following types of buildings:
+<br>1.  Residential Building with Dog Legged Stairs
+<br>2.	Two storied residential building.
+<br>3.	Primary School
+<br>4.	Hostel Building.
+<br>5.	Primary Health Centre
+<br>6.	Small work shop building / Canteen Building / Bus station
+<br>7.	Post office Building/Bank Building.
+
+<br><br><b>II:	Preparation of working / Service  Drawings</b>
+<br>Preparation of  service drawing for a same given residential building as layers.
+<br>8.	Introduction to layers
+<br>Prepare Water supply layout and Sanitary Layout
+<br>9.	Shallow well rain water harvesting andSolar water heater for terrace
+<br>10.	Fire fighting layout for college building/commercial building
+<br>11.	Preparation of a foundation Plan for residential building and framed structures.
+<br>12.	Preparation of detailed plan and section of a Dog legged Stair case.
+<br>13.	Preparation of Plan and Section of a Manhole and Septic tank with soak pit
+
+<br><br><b>III: Develop 3D Modelling  of Buildings</b>
+<br>14.	Develop 3D model of a stair case.
+<br>15.	Develop 3D model of a Residential Building / Public building from the given line diagram.
+
+<br><br><b>IV: Exercises</b>
+<br>16.	Suggested activities
+
+<b>Reference Books:</b>
+
+<br><br>1.	CAD in Civil Engineering a Laboratory Referrel- Dr M.A.Jayaram, D.S.Rajendra Prasad, Sapna Book House
+<br>2.	Building Drawing – Shah M G, Tata McGraw – Hill, 1992.  
+<br>3.	Building Planning and Drawing – Kumaraswamy N., Kameswara Rao A., Charotar Publishing
+<br>4.	Shah, Kale and Patki, Building Drawing with integrated approach to environment, Tata McGraw – Hill, 1992
+<br>5.	Civil Engg. Drawing and House Planning – Verma B. P., Khanna Publishers, Delhi
+<br>6.	Building Drawing and Detailing – Balagopal and T.S. Prabhu, Spades Publishers, Calicut
+<br>7.	Building Planning and Drawing – S.S .Bhavikatti and M.V Chitawadagi, I.K International Publishing House Pvt.Ltd
+<br>8.	National Building Code, BIS, New Delhi.
+<br>9.	www.sketchup.com
+<br>10.	www.autodesk.in/products/3ds-max/overview
+
+<br><br><b>Student Activity</b>
+
+<br><br>1.	Visit any nearby public building and Draw a Layout Plan (Key plan) with building plan.
+<br>a.	PWD office
+<br>b.	Forest office
+<br>c.	Bank
+<br>d.	Post Office
+<br>e.	Hospital
+<br>f.	Police station
+<br>g.	Bus Stand
+<br><br>2.	Prepare a foundation plan (Excavation Plan) for a multistoried building.
+<br><br>3.	Search for ongoing layout plan collect the information of area distribution, building plans, Service drawings (water supply, sanitary, electrical and landscaping). 
+<br><br>4.	Space design of a Primary health centre using Circulation Diagram (Bubble diagram).
+<br><br>5.	Space design of an Educational Building using Circulation Diagram (Bubble diagram).
+<br><br>6.	Create an awareness program on rain water harvesting among your locality.
+<br><br>7.	Choose a multistoried building and prepare a fire fighting layout.
+<br><br>8.	Create a 3D building model by using any two software mentioned below and compare the utilities and limitations.
+<br>a.	Revit 
+<br>b.	Google sketch up
+<br>c.	ArchiCAD
+<br>d.	3DSMAX
+<br>e.	Blender
+<br>f.	QCAD
+<br>g.	Pythoncad
+<br>h.	CADEMIA
+<br>i.	ZWCAD
+<br>j.	SKETCHBOARD
+<br>k.	Sweethome 3D
+<br>l.	ProgeCAD Smart!
+<br>m.	Sculptris
+
+<br><br><b>NOTE: </b>
+<br><br>1. Students should select any one of the above or other topics relevant to the subject approved by the concerned faculty, individually or in a group of 3 to 5. Students should mandatorily submit a written report and make a presentation on the topic.  The task should not be repeated among students. Report will be evaluated by the faculty as per rubrics. Weightage for 5 marks Internal Assessment shall be as follows: 
+<br>(Unsatisfactory 1, Developing 2, Satisfactory 3, Good   4, Exemplary 5)
+<br><br>2. Reports should be made available along with bluebooks to IA verification officer
+
+<b>Scheme of Valuation for SEE:</b>
+
+<br><br>1.	Record  and report on suggested activities : 10
+<br>2.	Preparation of Building drawings/3D drawings/ Preparation of Service or Working Drawings : 30
+<br>3.	Print out :	5
+<br>4.	Viva-voce :5
+
+<br><br><b>TOTAL = 50 Marks</b>

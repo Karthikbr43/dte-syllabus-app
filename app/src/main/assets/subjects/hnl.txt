@@ -1,0 +1,41 @@
+<b>Experiments:</b>
+
+<br><br><b>A. HYDRAULICS</b>
+<br>1.	Determination of Coefficient of discharge of Venturimeter
+<br>2.	Determination of hydraulic coefficients  of Rectangular and V-Notch and compare
+<br>3.	Evaluate the major losses in pipes  of varying diameter due to friction and interpret their results
+<br>4.	Interpret the performance characteristics for Pelton wheel
+<br>5.	Evaluate  the performance characteristics for Kaplan turbine
+<br>6.	Analyzethe performance characteristics for Francis turbine.
+<br>7.	Draw the performance characteristics for Centrifugal pump and compare the same with reciprocating pump
+<br>8.	Draw the performance characteristics for Reciprocating pump
+<br><br><b>B. PNEUMATICS</b>
+<br>9.	Control of actuators by simple hydraulic circuits.
+<br>10.	Control of actuators by simple Pneumatic circuits.
+<br>11. Crate and Demonstration of meter in and meter out circuit.
+<br>12.	Demonstration of sequencing circuit.
+<br>13.	Demonstration of pneumatic circuit for speed control of double acting cylinders.
+<br>14.	Demonstration of pneumatic circuit for speed control of pneumatic motor..
+
+<b>Reference Books:</b>
+
+<br><br>1.R.S.Khurmi, “Fluid Mechanics and Machinery”,S.Chand and Company, 2nd Edition, 2007.
+<br>2.Hydraulics and Pneumatics – Andrew Parr, Jaico Publishing House New Delhi.
+
+<br><br><b>Student Activity</b>
+
+<br><br><b>Note:</b> the following activities or similar activities for assessing CIE (IA) for 05  marks (Any one)
+<br><br>1. 	Ask the students to Study  of a  jet  pump  and submersible pump used in the fields
+<br><br>2. 	Take the students to Polytechnic machine shop; ask to observe the hydraulic circuit in shaper machine. Make the sketch and analyze its operation
+<br><br>3. 	Take the students to nearby earthmoving equipment (JCB) servicing work shop; ask to observe the hydraulic circuit installed in earthmoving equipment. Make the sketch and analyze its operation
+<br><br>4.	Study of trouble shooting procedures of various hydraulic and pneumatic circuits
+<br><br>5.	Study and think an oil power circuit for an application beyond the syllabus and Draw the circuit diagram , submit hand written report of 500 words
+<br><br>6.	Study and think an pneumatic circuit for an application beyond the syllabus and Draw the circuit diagram , submit hand written report of 500 words
+
+<b>Scheme of Valuation for SEE:</b>
+
+1.	Writing procedure a)One experiment on Fluid mechanics/Machines b)One experiment on Pneumatics :	05+05=10
+2.	Conducting of Experiment a)One experiment on Fluid mechanics/Machines(Group of Five)b) One experiment on Pneumatics (Individual) : 10+10=20
+3.	Calculation, results, Inference(Both experiments) :	15+5=20
+
+<br><br><b>TOTAL = 50 Marks</b>

@@ -1,0 +1,54 @@
+UNIT - I: Introduction to Glass 
+Describe the brief history of glass & its definition. Understand the formation, structure and making of glass. Classify and describe the properties of glass with their definition with application area. 
+<br><b>Based on chemical nature:</b> Soda Lime, Potash Lime, Potash Lead, Borosilicate glass. 
+<br><b>Based on field of application:</b> Optical Glass, color changing glass, Fiber Glass, bullet proof glass, multilayered glass, wired glass, toughened glass, container glass. 
+<br><b>Based on Shaping:</b> Float glass.	
+<br><b>[08 Hrs] [20 Marks] </b>
+
+UNIT - II: Raw materials and Batch preparation
+Discuss various Glass raw materials with their classification, source, property & role in glass batch:  Glass forming oxides - Silica, Boric oxide, Alumina, Lead oxide, Zinc oxide, Barium oxide, Cullet. Fluxes - Soda ash, Potash, Ammonium sulphate, Ammonium chloride. Define oxidizing agents, Reducing agents, Fining agents, Colouring agents, Decolourizers, and Opacifiers with examples.
+<br>Express different Glass compositions: Incandescent lamp, window glass, fibre glass for composites, borosilicate glass, water soluble glass, container (common) glass.
+<br>Describe the Batch House operation for batch preparation: weighing of raw materials, mixing, moisture addition, and need for calibration of weighing balance.
+<br><b>[09 Hrs] [25 Marks] </b>
+
+UNIT - III: Tank furnace and melting
+Illustrate the construction and working of regenerative glass tank furnace with parts of furnace, firing reversal, flame shape, dog house, ports & burner arrangement, throat, distributors, fore-hearth, gob feeders, refractories used in different zones.
+<br>Describe feeding of glass batch into dog house, batch feeders, melting and refining process, convection current ( flow pattern) of molten glass,  tank temperature in different area,  maintaining temperature, use of electric booster, viscosity and density of glass, its effect on fining, maintaining glass level.
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT - IV: Glass forming techniques
+Understand various glass forming techniques like pressing, manual blowing, mechanical blowing (press-blow, blow-blow, vacuum-blow), rolling, drawing, float glass, tube making, spinning, optical glass (lens) making, optical fibre, toughened glass, laminated glass.  
+<br>Summarize the Annealing process of glass, effect of annealing on strength of glass and Annealing lehr.
+<br>Decorate glass wares by sand blasting, etching and paper transfer.
+<br>Recent advancements in glass manufacturing tempering
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT - V: Properties and Testing
+Understand the <b>Physical properties</b>:- density, viscosity of glass, <b>Electrical properties</b>:- electric conductivity, <b>Thermal properties</b>:- thermal expansion, specific heat, heat conductivity, thermal endurance,  <b>Mechanical properties</b>:- young’s modulus of elasticity, tensile strength, modulus of rupture (MOR), bursting pressure, crushing strength, <b>Optical properties</b>:- refractive index, dispersion, absorption of light, transparency.
+<br>Analyse the defects in glass with their causes and remedies: - colour, seeds, chord, stones, blisters, bulging and neck-ring in bottle glass.
+<br><b>[09 Hrs] [25 Marks] </b>
+
+UNIT - VI: Maintenance of Tank Furnace and Environmental issues
+Explain the cleaning of regenerator decongestion, repairing of furnace crown and regenerator crown, maintenance of furnace, distributor, fore-hearth and burners, cleaning of flue lines, batch charger.
+<br>Discuss the effect of pollutants from glass industries on environment and describe their preventive measures.
+<br><b>[06 Hrs] [15 Marks] </b>
+
+<b>Reference Books:</b>
+
+<br><br>1. Industrial Ceramics, Singer & Singer
+<br>2. Glass technology, R Charan
+<br>3. Engineering Materials, Rangwala
+<br>4. Ceramic & Glass Technology
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>1. Student should collect information related to advancements in Glass Technology.
+<br>2. Student should collect glass compositions for different verities of glass.
+<br>3. Student should collect technical data sheet of any one glass product.
+<br>4. Student should make report on any glass decoration method.
+<br>5. Student should collect information of Spectrometer for color measurement of glass.
+<br>6. Student should collect information on different glass testing methods.
+<br>7. Student should make a report on photochromatic & color changing glass.
+<br>8. Student should collect information on advanced techniques in glass tempering.
+
+<br><br><b>Note:</b> Student should prepare hand written report with minimum 2-3 pages and reports should not be copied from earlier batches. And other similar tasks can be assigned.

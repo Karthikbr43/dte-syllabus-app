@@ -1,0 +1,45 @@
+UNIT I: Introduction to Data mining
+What is data mining? Data mining process, application, techniques, practical examples of data mining, Guidelines for successful data mining, limitations of data mining,
+<br><b>[08 Hrs] [20 Marks] </b>
+
+UNIT II: Data understand, data preparation and classification
+Data collection and preprocessing, outliers, mining outliers, missing data, types of data, computing  distance ,data  summarizing using basic statistical measurement ,Displaying the data graphically, multidimensional data visualization  .
+<br>Classification, Decision trees, decision tree rules, estimating predictive accuracy of classification methods, improving accuracy of classification methods, other evaluation criteria for classification methods ,classification software.
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT III: Cluster analysis
+Introduction to cluster analysis, Desired features of cluster analysis, types of cluster analysis 																	
+<br><b>[06 Hrs] [30 Marks] </b>
+
+UNIT VI: Web data mining
+Introduction to Web mining, web terminology and characteristics, locality and hierarchy in the web, web content mining, web usage mining ,web mining software.
+<br><b>[12 Hrs] [22 Marks] </b>
+
+UNIT V: Search Engine  and Query mining
+Introduction ,Differences b/w web search and information retrieval, characteristics , functionalities ,architecture of search engine, Search query mining, Individual privacy and query data mining.
+<br><b>[08 Hrs] [23 Marks] </b>
+
+UNIT VI: Information Privacy and Data mining
+Introduction to information privacy, Basic  principles to protect information privacy, privacy legislation in India, uses and misuses of data mining, primary aims of data mining, pitfalls of data mining, current privacy principles of data mining,  principles of data mining of personal information, technological solutions, use of data mining by  Government.
+<br><b>[08 Hrs] [20 Marks] </b>
+
+<b>Text books:</b>
+<br><br>1.	Introduction to Data Mining with case studies.— G.K.Gupta PHI Publications.
+
+<br><br><b>References:</b>
+
+<br><br>1. Data Mining: Introductory and Advanced Topics- Author: Margaret H. Dunham    ,Pearson .
+<br>2. Data mining concepts and techniques, -- Jiawei Han and Micheline Kamber, second  edition,Welly Publications.
+<br>3. https://www.tutorialspoint.com/data_mining/data_mining_tutorial.pdf
+<br>4. https://www.dataminingbook.com 
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>1. Seminars on clusters, web data mining
+<br>2. Debates on data mining.
+<br>3. Conduct a survey on various applications of data mining and submit a report of 3 to 4 pages.
+<br>4. Conduct a case study on privacy conflicts for online shops.
+
+<br><br><b>Note:</b> The activities or similar activities for assessing CIE (IA) for 5 marks (Any one)
+<br>1. Each student should do any one of the following type activity or any other similar activity related to the course and before conduction, get it approved from concerned Teacher and HOD.
+<br>2. Each student should conduct different activity and no repeating should occur

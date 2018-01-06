@@ -1,0 +1,54 @@
+UNIT I: Combinational logic circuits
+<b>Introduction:</b> Combinational digital circuit. <b>Multiplexers:</b> definition, expression, truth-table, realization of simple (2:1) multiplexer using gates, and applications. Application of multiplexers to implement logic gates and simple sum-of-product equations, list of IC multiplexers and their features. Realization of higher-order multiplexer using lower-order multiplexer ICs. <b>Demultiplexer:</b> definition, expression, realization of simple (1:2) demultiplexer using gates, truth-table and applications, and list of IC demultiplexers and their features. <b>Decoders and encoders:</b> Definition and relevance of decoders and encoders. Logic diagram and truth-table of Decimal-to-BCD encoder and BCD-to-Decimal decoder. Identification of different decoder and encoder ICs.  Need, logic diagram and truth table of BCD to 7-segment decoder. Concept and application of simple (maximum 4 bit) priority encoder. 
+<br><b>[09 Hrs] [25 Marks] </b>
+
+UNIT II: Basic sequential circuits
+<b>Introduction to sequential circuits:</b> Comparison of combinational and sequential circuits. Definition of clock and triggering, types of triggering and their symbolic representations in logic circuits/diagrams. <b>Flip-flops:</b> Operation, gate-level circuit, symbol, truth-table and timing wave-forms of clocked RS flip-flop and J-K flip-flop. Relevance of asynchronous inputs to flip-flops. Race-around problem and remedies, MS flip-flop, D and T flip-flop. Identify and list flip-flop ICs. <b>Timer 555:</b> Internal diagram of IC 555 and its application as astable and monostable multivibrators. Flip-flop as bistable multivibrator.
+<br><b>[09 Hrs] [25 Marks] </b>
+
+UNIT III: Registers and counters
+<b>Registers:</b> Classification of registers, realization of simple (3 or 4 bit) SISO, SIPO, PISO and PIPO using flip-flops, concept of universal shift-register. List shift-register ICs. <b>Ring counter and Johnson’s counter:</b> 3 bit circuit, truth-table and on applications. <b>Counters:</b> definition, modulus, classification (definitions of up/down, asynchronous/synchronous, full-mod/partial-mod) and applications. Working and realization (using flip-flops) of asynchronous and synchronous 3-bit or 4-bit counters, and their comparison. Realization of higher-mod counters using lower-mod counters. List counter ICs and study configuring IC 7490 as decade counter.
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT IV: D to A and A to D Converters
+<b>Data/signal conversion:</b> Concept and need. <b>DAC:</b> Definition, symbolic representation, types, and applications. Circuit, functioning and output expression for   3 or 4-bit DAC using Resistive divider and binary-ladder network. DAC specifications- resolution, accuracy, settling time, speed, linearity and monotonicity, and simple problems. Identify IC DACs and list their features. <b>ADC:</b> Definition, types, applications, specifications-resolution, accuracy, non-linearity, and conversion time. Working of 3-bit or 4-bit flash type, successive approximation and dual-slope ADCs, and simple problems. Identify IC ADCs and list their features.
+<br><b>[09 Hrs] [25 Marks] </b>
+
+UNIT V: Memories and programmable devices 
+<b>Introduction:</b> Definition and relevance of memories. <b>Classification:</b> Based on fabrication material, data retention, speed, storage capacity, cost and application. Working principle and features of magnetic memory, ROM, PROM, EPROM, E2PROM, flash memory, static and dynamic RAM cells, DDR memory and its variants and disk memories. Memory accessing process in semiconductor, magnetic and disk memories. Memory word-size and capacity of memories with examples. <b>Programmable devices:</b> Difference between fixed logic and programmable logic, PLA and PAL-architecture, and implementation of simple Boolean equations.  
+<br><b>[09 Hrs] [25 Marks] </b>
+
+UNIT VI: Digital integrated circuits
+<b>Logic families:</b> Introduction, classification, definitions of fan-in, fan-out, propagation delay, power dissipation and noise margin. Working and circuit of standard TTL NAND gate and CMOS inverter, voltage levels in TTL and CMOS. Comparison of characteristics ECL, TTL, I2L and CMOS logic families. Interfacing of TTL and CMOS devices. Features of HMOS and CHMOS families. Concept of ESD and remedy.
+<br><b>[06 Hrs] [15 Marks] </b>
+
+<b>Reference Books:</b>
+<br><br>1.	Digital principles and applications. Donald P Leach, Albert Paul Malvino, Goutam Saha, McGraw Hill Publisher, 8th edition, ISBN 10: 9339203402 ISBN 13: 9789339203405 
+<br>2.	Digital Systems-principles and applications. Ronald J. Tocci, Neal S.Widmer, Gregory L.Moss, 10th edition,ISBN  : 0131725793 
+<br>3.	Digital Electronics –principles and integrated circuits. Anil K. Maini. Wiley publications,first edition . ISBN: 978-0-470-03214-5
+<br>4.	Digital Computer Fundamentals,- Thomas C Bartee ,McGraw-Hill Publisher,6th edition.ISBN 10: 0070038996 / ISBN 13: 9780070038998
+<br>5.	Digital fundamentals –Floyd and Jain, PEARSON EDUCATION publication, 8th Edition , ISBN-13: 978-0132359238 ,ISBN-10: 0132359235 
+<br>6.	http://www.nptel.ac.in
+<br>7.	http://freevideolectures.com/Course/3164/Digital-Electronics
+<br>8.	http://www.freebyte.com/electronics/
+<br>9.	https://www.circuitlogix.com
+<br>10.	http://www.vlab.co.in
+<br>11.	http://www.electronics-tutorials.ws
+<br>12.	http://www.allaboutcircuits.com
+<br>13.	http://ocw.mit.edu/
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>1. Collect the information about the different types of display devices used in digital circuits and carry out a seminar
+<br>2. Collect the specification sheets, availability and cost of any two ADC and DAC ICs
+<br>3. Prepare a block diagram approach to construct a digital clock or a frequency counter or a digital voltmeter or any other similar digital electronic circuits and analyze the cost of the application
+<br>4. Prepare a note on E-waste and disposal of PCBs and ICs, carry out a seminar
+<br>5. Design and simulate the working of any simple logic circuit using a suitable modern software tool
+
+<br><br><b>Note:</b> The activities or similar activities for assessing CIE (IA) for 5 marks (Any one)
+<br>1. Maximum of 2 students in each batch for student activity
+<br>2. Above activities may be distributed among different batches; activity No. 5 is mandatory and any one activity among 1 to4 or any similar activities per batch may be assigned by the teacher based on interest of the students.
+<br>3. Project activities shall be carried out throughout the semester and present the project report at the end of the semester; concerned teacher is expected to observe and record the progress of students’ activities
+<br>4. Submit qualitative hand-written report not exceeding 6 pages; one report per batch
+<br>5. Each of the activity can be carried out off-class well in advance; however, demonstration/presentation should be done during laboratory sessions
+<br>6. Assessment shall be based on quality of work as prescribed by the following rubrics table

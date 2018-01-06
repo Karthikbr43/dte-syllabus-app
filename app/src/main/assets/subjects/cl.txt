@@ -1,0 +1,51 @@
+ <b>Experiments:</b>
+
+<br><br>1.WAP to swap the values of two variables without using third variable.
+
+<br><br>2.WAP to find the largest/smallest of 3 numbers (if-else).
+
+<br><br>3.WAP to calculate the roots of a quadratic equation (using switch).
+
+<br><br>4.WAP to sum and reverse a given integer (while loop).
+
+<br><br>5.WAP to detect the Armstrong numbers in three digits from 100 to 999. (do-while).
+
+<br><br>6.WAP to check whether the given number is prime or not (for loop).
+
+<br><br>7.WAP to find the number of and sum of all integers greater than 100 and less than 200 that are divisible by 7 for loop).
+
+<br><br>8.WAP to calculate factorial of a given number using function.
+
+<br><br>9.WAP to find GCD of two numbers using function
+
+<br><br>10.WAP to search for a given number in an array
+
+<br><br>11.WAP to find the transpose of a given matrix
+
+<br><br>12.WAP to addition  two matrices
+
+<br><br>13.WAP to create a structure with employee details and display the same
+
+<br><br>14.WAP to process student structure containing roll number, class and age as members. The program must read 5 student record in an array of structure and display the details of a student who is eldest. Use a function to find the eldest for which array of structure is an argument.
+
+<br><br>15.WAP to demonstrate # define function.
+
+<b>Reference Books:</b>
+
+<br><br>Programming with ANSI-C, E. Balaguruswamy, Sixth  Edition, Tata Mcgraw Hill.
+
+<br><br><b>Student Activity</b>
+
+<br><br><b>Note: The following activities or similar activities for assessing CIE (IA) for 5 marks (Any one)</b>
+<br><br>Student activity like mini-project, surveys, quizzes, etc. should be done in group of 3-5 students:
+<br><br>1.	Each group should do any one of the following type activity or any other similar activity related to the course and before conduction, get it approved from concerned course co-ordinator and programme co-ordinator.
+<br><br>2.	Each group should conduct different activity and no repeating should occur.
+<br>•	Customer billing System Project, Cricket Score Board Project, Calendar, Application Project, Employee Record System Project, Student Record System Project, Cyber Management System Project, College billing System Project, Customer billing system, Phone book application, etc.
+
+<br><br><b>Scheme of Valuation for SEE:</b>
+
+<br><br>1.Writing  two programs : 10+10=20
+<br>2.Executing any one program with result : 20
+<br>3.Viva Voice : 10
+
+<br><br><b>TOTAL = 50 Marks</b>

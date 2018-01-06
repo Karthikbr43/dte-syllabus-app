@@ -1,0 +1,52 @@
+UNIT I: INTRODUCTION TO ENERGY SOURCES
+<b>An Introduction To Energy Sources:</b>
+<br>General, Energy Consumption As A Measure Of Prosperity, World Energy Features, Energy Sources And There Availabilities, on Conventional Sources, Renewable Energy Sources.
+<br><b>Solar Energy:</b>
+<br>Introduction, Solar radiation, Solar energy collectors, Solar energy storage and solar energy application, solar constant, solar radiation at the earth’s surface, air mass, absorption & scattering (a) solar radiation geometry  (b) Altitude angle, solar altitude  (c) Zenith angle, solar azimuth angle, the slope  (d) Surface azimuth angle ,incident angle, (no derivation only final formula) ,day length, local solar time ,Green house effect ,typical liquid collector, typical air collector  or solar air heater, solar energy storage system ,thermal storage, sensible storage, latent heat storage, Solar pond, solar pond electric plant with cooling tower.
+<br><br><b>[08 Hrs] [30 Marks] </b>
+
+UNIT II: SOLAR WIND ENERGY
+<b>Solar Energy Application:</b>
+<br>Applications of space heating, passive space cooling, space heating:-passive heating system:- direct gain- thermal storage wall-roof storage wall ,active space heating system: -  basic hot water system- basic hot air system, introduction space cooling
+<br><b>Wind Energy:</b>
+<br>Introduction, basic principles of wind energy conversion ,wind energy conversion system, physical embodiment of wind energy generating station ,classification of wecs, advantages or disadvantages of wecs ,wind energy collector (only horizontal, axial machines)
+<br><br><b>[12 Hrs] [30 Marks] </b>
+
+UNIT III: BIO MASS & GEO THERMAL ENERGY
+<b>Bio Mass Energy:</b>
+<br>Introduction-biomass conversion technologies ,wet process, dry process, photosynthesis, biogas generation anaerobic digestion- enzymatic hydrolysis -acid formation -methane formation, types of biogas plants-working of common circular digester (kvic model)
+<br><b>Geo-thermal energy:</b>
+<br>Introduction, Geothermal sources, hydro thermal convective resources, hot dry rock resources or petro thermal systems, vapour dominated power plant
+<br><br><b>[08 Hrs] [30 Marks] </b>
+	
+UNIT IV: ENERGY FROM OCEANS
+Introduction, OTEC, open cycle OTEC system (Claude System), closed (Anderson) OTEC cycle, energy from Tides, principle of tidal power ,schematic layout of tidal power plant, operation method of utilizing of tidal energy ,wave energy ,wave energy conversion device, wave energy conversion by floats ,high level reservoir wave machine ,the dolphin type wave machine.
+<br><br><b>[08 Hrs] [15 Marks] </b>
+
+UNIT V: MHD POWER GENERATION 
+<b>M H D Power Generation:</b>
+<br>Introduction, Principle of MHD power generation, Simple M H D power generator. M H D systems, open cycle system & closed cycle system, Advantages of MHD system
+<br><b>Hydro Electric Power Plant:</b>
+<br>Introduction, define-runoff, Hydrology, flow duration curve, mass curve and storage, classification of hydroelectric power plant, arrangements of hydroelectric power plant, components and its functions, water hammer and surge tank, advantages and disadvantages.
+<br><br><b>[10 Hrs] [25 Marks] </b>
+
+UNIT VI: NUCLEAR ENERGY
+Introduction, Nuclear fuels, Generation of nuclear energy, Working of a nuclear power plant, components of nuclear reactor, nuclear reactor - classification , CANDU type reactor, site selection for nuclear power plant, effects of nuclear radiation, disposal of nuclear waste. 
+<br><br><b>[06 Hrs] [15 Marks] </b>
+
+<b>Text books:</b>
+
+<br><br>1.	Non-Conventional energy sources, G.D.Rai	Khanna Publishers
+<br>2.	Non-Conventional energy sources-2 E	B.H.Khan	Tata McGraw Hill
+<br>3.	Renewable Energy Sources & Emerging Technologies.	D P Kothari,   K  C  Singal&RakeshRanjan	Prentice Hall India
+<br>4.	Solar energy.	H.P.Garg	McGraw Hill-Education
+<br>5.	Energy opportunities and social responsibility.	Satyesh C. Chakraborty	Jaico publications
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>1. Arrange visit to any Nuclear power plant/hydro electric power plant, study the operational features of nuclear and hydro electric power plant
+<br>2. Collect/ the details and specifications of various types of Solar collectors used in industry.
+
+<br><br><b>Note:</b> The activities or similar activities for assessing CIE (IA) for 5 marks (Any one)
+<br>1. Each student should do any one of the following type activity or any other similar activity related to the course and before conduction, get it approved from concerned Teacher and HOD.
+<br>2. Each student should conduct different activity and no repeating should occur

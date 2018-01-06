@@ -1,0 +1,65 @@
+Unit - I
+<b>Tutorials:</b>
+
+<br><br>1.	Precautions to be taken during conduction of each exercise.
+<br><br>2.	Proper tools to be used and sequence to conduct each exercise.
+<br><br>3.	Relevant circuit diagrams with tabular columns and formulae. 
+<br><br>4.	Any measurements/adjustments to be made in each exercise.
+<br><br>5.	Discussion on trouble shooting of each system.
+
+Unit - II
+<b>Experiments:</b>
+
+<br><br>1)a.	Find the resistance of given resistor using colour code and multi meter.
+<br>  b.	Find the equivalent resistance in series and parallel circuits.
+<br>  c.	Find the voltage drop in series and parallel circuits.
+<br>  d.	Check the value of unknown resistance by using Wheatstone bridge circuit.
+<br><br>2)a.	Practice on checking the condition of Capacitor.
+<br>  b.	Practice on checking the condition of diode.
+<br>  c.	Check the Zener diode used to regulate the cut off voltage.
+<br><br>3)Practice on creating circuits of half wave rectifier, Full wave bridge rectifier
+<br><br>4)Practice on creating circuit to demonstrate Transistor as a switch function.
+<br><br>5)Test the battery charge condition using hydrometer, Voltmeter.
+<br><br>6)a. Practice on preparation of electrolyte.
+<br>  b. Charging of Lead acid battery by constant voltage method, charging multiple batteries and trickle charging.
+<br><br>7)a.	Practice on Servicing of the D C generator.
+<br>  b.	Test field windings, brush holders armature for continuity, short and open circuit using growler/ Multifunction Tester.
+<br><br>8)a.	Practice on servicing of the Alternator.
+<br>  b.	Test stator, rotor and rectifier for continuity, short and open circuit using Multifunction Tester /  Test lamp
+<br><br>9)a.	Practice on servicing of the Starter motor.
+<br>  b.	Test field windings, brush holders armature and solenoid switch for continuity, short and open circuit using growler/ Multifunction Tester
+<br><br>10)a.	Practice on servicing of the distributor, setting CB point’s gap and checking dwell angle.
+<br>   b.	Servicing of the sparkplug cleaning, testing and adjusting gap.	
+<br>   c.	Checking and setting ignition timing and starting the engine.
+<br><br>11)Practice on servicing and tuning of horns.
+<br><br>12)Practice on servicing of the Wiper motor.
+<br><br>13)Practice on aiming of head lights.
+<br><br>14)Practice on testing of fuel gauge and Temperature gauge.
+<br><br>15)Practice on replacement of bulbs, fuses and relays.
+<br><br>16)Construction of different circuits like:
+<br>a.	Ignition Circuit
+<br>b.	Charging Circuit.
+<br>c.	Starting circuit.
+<br>d.	Wind screen wiper circuit
+<br>e.	Horn circuit
+<br>f.	Fuel and Temperature gauges circuits
+<br>g.	Head lights, parking lights, direction indicators circuits.
+
+<b>Reference Books:</b>
+
+<br><br>01.	Mechanic Motor Vehicle Trade theory and Practical,	National Instructional Media Institute, Chennai
+<br>02.	Automobile Engineering Practices, N.Malhotra, Asian publishers
+<br>03.	Vehicle Maintenance and Garage Practice,	Jigar A Doshi,	PHI Learning,Delhi
+<br>04.	Automotive Mechanics, W. H. Crouse and Anglin,	Tata MCgraw-Hill
+<br>05.	Diesel Engineering,	Sean Bennett, 	CENGAGE Learning
+<br>06.	Automotive Technology,	Jack Erjavec, CENGAGE Learning
+<br>07.	Automobile Engineering,	Harban Singh Rayath, S Chand
+<br>08.	Charts and cut section models
+
+<b>Scheme of Valuation for SEE:</b>
+
+<br><br>1.	Writing procedure for One exercise from list of exercises(1-4)  and One exercise from list of exercises(05-16) : 05+05=10
+<br>2.	Conducting and Performance on One exercise from list of exercises(1-4) and One exercise from list of exercises(05-16) : 15+15=30
+<br>3.	Viva-voice	: 10
+
+<br><br><b>TOTAL = 50 Marks</b>

@@ -1,0 +1,42 @@
+<b>Experiments:</b>
+
+<br><br><b>PART - A: MECHANICAL  TESTING LAB</b>
+
+<br><br>1.	Determine co-efficient of friction of any two oil by using Thurston oil tester and compare their results.
+<br>2.	Determine flash and fire point of any two lubricants of different grade and compare their results
+<br>3.	Calculate Impact Value of Mild Steel & Copper using CHARPY Impact Test & compare their results.
+<br>4.	Calculate Impact Value of Mild Steel using IZOD Impact Test Apparatus 
+<br>5.	Calculate Brinell Hardness Number of given material 
+<br>6.	Calculate Hardness of given material using Rockwell Hardness machine 
+<br>7.	Calculate Hardness of given material using Vickers Hardness machine 
+<br>8.	Determination of yield stress, ultimate stress, percentage reduction in area, percentage elongation, Young’s modulus by conducting tension test on Ductile Materials like Mild Steel, Aluminium in Universal testing machine. Draw Stress Strain Curve for both and compare their results.
+<br>9.	Find out Compressive Strength of C.I , M.S using Compression Testing Machine
+<br>10.	Conducting bending test on wood specimen by UTM and evaluate the results
+
+<br><br><b>PART - A: FINISHING TECHNIQUE</b>
+<br><br>1.	Demonstration of equipments and process in Electroplating shop.
+<br>2.	Determine the effects of Hydrochloric acid, Sulphuric acid and Nitric acid on different metals.
+<br>3.	Practice of dressing wheels. Practice the process of polishing and buffing of different metals. Practice of chemical cleaning on mild steel and other metals.
+<br>4.	Demonstration of process used for sample preparation for plating such as Grinding & Sand blasting. Demonstration of process in barred finishing scratch brushing.
+<br>5.	Preparing various electrolytes for electroplating of copper, Nickel and Chromium. Testing the solution on different metals to determination of PH value for the above solutions.
+<br>6.	Preparing the various metals for electroplating of Zinc plating on mild steel & colouring. Preparing the various metals for electroplating of Copper plating on mild steel.
+<br>7.	Preparing the various metals for electroplating of nickel and Chrome plating on Brass. Preparing the various metals for electroplating of nickel and chrome plating on Copper.
+<br>8.	Anodizing on a given Aluminium articles. Colouring on anodized Aluminium articles.
+<br>9.	Practice of Etching & Embossing on Aluminium and Brass.
+
+<b>Reference Books:</b>
+<br><br>Elements of Workshop Technology (Vols. 1 and II) by Hajra Chaudhary
+
+<br><br><b>Student Activity</b>
+
+<br><br>1. 	Ask the students to bring two or three Automobile/ Mechanical components, ask them to conduct the tests on different test rigs and record reading and plot the graph.
+<br>2. 	Market Survey specific to properties of Various type of Materials used in Mechanical/Automobile industry or Any Engineering industries in local vicinity 
+<br>3. 	Take the students for industrial visit for a nearby industry select any three different coated parts and identify the type coating.
+
+<b>Scheme of Valuation for SEE:</b>
+
+<br><br>1.	Writing procedure: One experiment on Mechanical testing and One experiment on Finishing Technique : 05+05=10
+<br>2.	Conducting of Experiment : One experiment on Mechanical testing(Group of five)+ One experiment on Finishing Technique (Individual) : 10+10=20
+<br>3.	Calculation and results,(Both experiments) : 15+5=20
+
+<br><br><b>TOTAL = 50 Marks</b>

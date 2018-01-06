@@ -1,0 +1,84 @@
+<b>Experiments:</b>
+
+<br><br><b>PART - A</b>
+
+<br><br><b>1.Vernier Calipers:</b>
+   <br>a)  To determine the dimensions of given solid cylinder and hence calculate its volume.
+   <br>b) To determine the dimensions of given hollow cylinder and hence calculate its volume.
+   
+	<br><br>Activity: 
+	<br>To calculate the density of material of given solid/hollow cylinder knowing its volume and mass.
+
+<br><br><b>2.Screw Gauge:</b>
+   <br>a)  To determine the thickness of given metal and glass plate.
+   <br>b)  To determine the diameter of given thin wire and hence to calculate its volume.
+   <br>c) To determine the diameter of given metallic sphere and hence to calculate its volume.
+   
+    <br><br>Activity: 
+	<br>1.To calculate volume of such half meter length wire.
+    <br>2. To calculate volume of such number (50 or 75 etc) of spheres.
+			  
+<br><br><b>3.Laws of concurrent forces:</b>
+  <br>a)  Verify the law of parallelogram of forces.
+  <br>b)  Verify the converse law of triangle of forces.
+  <br>c)  Verify Lami’s theorem.
+  
+	<br><br>Activity: 
+	<br>To determine the weight of given body using law of parallelogram of forces.
+
+<br><br><b>4.Moment bar:</b>
+     <br>To verify the conditions of equilibrium of coplanar parallel forces acting on a body.
+	<br><br>Activity: 
+	<br>To determine the weight of given body using moment bar.
+
+<br><br><b>PART-B</b>
+
+<br><br><b>5.Viscosity:</b>
+  <br>a)  To determine the co-efficient of viscosity of water by poiseuille’s method(for a given radius of capillary tube)
+  
+	<br><br>Activity: 
+	<br>To plot a graph of ht versus V and to find ht/V from slope.
+	
+<br><br><b>6.Sonometer:</b>
+	<br>To determine the frequency of given tuning fork by comparison method. 
+	<br>To determine the frequency of given tuning fork by absolute method.
+
+	<br><br>Activity: 
+	<br>1.Plot a graph of ‘n’ versus ‘l’ from the graph, find the frequency unknown Tuning fork
+	<br>2.Plot a graph of √Tversus ‘l’ from the slope of graph   find √T/l
+	<br>3.To calculate linear density ‘m’ by knowing√T/l    and ‘n’
+			
+<br><br><b>7.Resonance:</b>
+<br>a). To determine the velocity of sound in air at room temperature by using resonance air column apparatus. (for single resonating length)
+
+    <br><br> Activity:
+	 <br>1. To calculate velocity of sound in air at 00 C.
+	 <br>2. To determine the unknown frequency of tuning fork.
+			
+<br><br><b>8.Surface Tension:</b>
+  <br>a) To determine the Surface Tension of water by capillary rise method using Travelling Microscope. (radius of capillary  tube is given )
+  
+	<br><br>Activity: 
+	<br>Calculate radius of the capillary tube by knowing the surface tension of the liquid and height of liquid column in capillary tube.
+
+<br><br><b>9.Boyle’s law:</b>
+   <br>a) To verify Boyle’s law using Boyle’s law apparatus
+   
+   <br><br>Activity:
+   <br>1.To plot a graph of pressure versus volume
+   <br>2. To plot a graph of 1/pressure versus volume.
+
+<b>Reference Books:</b>
+
+<br><br>1.	Practical physics by pro. J.D.Belani and N.J.Belani. Published by Nebhandas Hiranand.
+<br>2.	Practical physics by C.L. Arora. Published by S. Chand and company.
+<br>3.	www.jacproduction.co.za
+
+<b>Scheme of Valuation for SEE:</b>
+
+<br><br>1.Writing Observation, Tabular column, formula. : 05x2=10
+<br>2.Conduction of experiment.	: 10x2=20
+<br>3.Calculation and Result. : 05x2=10
+<br>4.Viva Voce. : 10
+
+<br><br><b>TOTAL = 50 Marks</b>

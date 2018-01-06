@@ -1,0 +1,46 @@
+<b>Experiments:</b>
+
+<br><br><b>PART - A: PERFORMING EXPERIMENTS</b>
+<br><br>1.	Determination of calorific value of liquid and gaseous fuel by using Bomb calorimeter /Boy’s gas calorimeter
+<br>2.	Draw the valve  timing diagram  of  4-stroke diesel engine
+<br>3.	Draw the port  timing diagram  of  2-stroke petrol engine
+<br>4.	Plot the performance characteristics of single cylinder diesel engine for different loads
+<br>5.	Draw the heat balance sheet of  single cylinder diesel engine
+<br>6.	Plot the performance characteristics of single cylinder petrol engine for different loads 
+<br>7.	Find the indicated power of individual cylinders of an engine by using MORSE test
+<br>8.	Determine the volumetric efficiency of air compressor
+<br>9.	Determine the co efficient of performance of refrigerator 
+<br>10.	Determine thermal conductivity of thick slab
+<br>11.	Determine thermal conductivity of composite wall
+<br>12.	Determine thermal conductivity of thick cylinder
+
+<br><br><b>PART - B: STUDY EXPERIMENTS</b>
+<br><br>13.	Study of I.C. Engine parts (Cylinder block, head, piston and piston ring Connecting rod& crank shaft , spark plug, Carburettor, fuel injector  and fuel pump
+<br>14.	Study of Differential, rear axle and power steering mechanism
+
+<b>Reference Books:</b>
+
+<br><br>1. Elements of Thermal Engineering by R.S.Khurmi/ Rajputh
+<br>2. Automobile Engg by kirpal Singh (Vols. 1 and II) 
+
+<br><br><b>SUGGESTED STUDENT ACTIVITY:</b>
+
+<br><br>1. 	Collect/ download product catalogues with specification of various types of energy conservation equipment/ devices and heat exchanger of recent trends. 
+<br>2.	Identify and list at least 10 equipments/devices which require heat transfer and prevention of heat transfer. Also state mode of heat transfer and methods used to prevent heat transfer. 
+<br>3. 	At least one visit of any power plant/ industry where various items like air compressor, heat exchanger, cooling tower, condenser etc. can be shown to students. 
+
+<br><br><b>Note:</b>
+<br>1.	Each student should submit any one of the following type activity or any other similar activity related to the course and before take up get it approved from concerned Teacher and HOD.
+<br>2.	Each student should conduct different activity and no repeation should occur
+
+<b>Scheme of Valuation for SEE:</b>
+
+<br><br>1. Part A
+<br>a) Writing procedure : 10
+<br>b) Conducting of Experiment :)Major Experiment(Group of Five) : 10	
+<br>c) Calculation, results, Inference : 15	
+<br><br>2. Part B (Study experiment)
+<br>One question to be asked to explain (with sketch) any one component : 10
+<br><br>3. Viva	: 05
+
+<br><br><b>TOTAL = 50 Marks</b>

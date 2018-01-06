@@ -1,0 +1,45 @@
+UNIT I: Introduction and Electrical current and  voltage
+Introduction to sources of electrical energy, advantages of electrical energy and the effects of electric current and its applications.
+<b>Electrical Current, Voltage and Circuits:</b> Electrical current, e.m.f., voltage, potential difference, open circuit, closed circuit and short circuit. Symbolic representation of sources, loads and basic protective devices.
+<br><b>[05 Hrs] [15 Marks] </b>
+
+UNIT II: DC  circuits and Resistance and temperature effects
+<b>DC circuits:</b> Ohm’s law, Ohm’s law applications and its limitations. Simple problems on ohm’s law.
+<br><b>Resistance and Temperature effects:</b>   Electrical Resistance and its unit.Series, Parallel and Series-Parallel circuits.Simple problems.
+<br>Laws of Resistance, Specific Resistance and its unit. Effect of temperature on resistance and temperature co-efficient.Simple problems.
+<br><b>[12 Hrs] [35 Marks] </b>
+
+UNIT III: Work, Power and Energy
+Work, Power, Energy, Problems on Power and energy, conversion from Mechanical units into Electrical units and vice- versa. Joule’s law of heat.Simple problems.
+<br><b>[07 Hrs] [20 Marks] </b>
+
+UNIT IV: Electrostatics
+Electric charge, Electric flux, Flux density, Electric field, Electric field intensity, Laws of electrostatics, dielectric constant and permittivity, Capacitance. Types of Capacitors, Capacitors in series and parallel, Energy stored in a capacitor. Simple problems on Electrostatic laws, capacitor combinations and energy stored.
+<br><b>[10 Hrs] [25 Marks] </b>
+
+UNIT V: Faraday’s laws of Electrolysis
+Laws, Difference between Cell and a Battery. Difference between Primary and Secondary Cells. Lead - Acid Battery- Construction, Chemical action during charging and discharging. Grouping of cells. Problems on grouping of cells.
+<br><b>[09 Hrs] [25 Marks] </b>
+
+UNIT VI: Electrical Engineering Materials
+Different Conductor materials, properties and applications. Different Resistor materials, properties and applications. Different Insulating materials, properties and applications. Different magnetic materials, properties and applications.
+<br><b>[09 Hrs] [25 Marks] </b>
+
+<b>Reference Books:</b>
+<br><br>1.	Basic Electrical and Electronics Engineering By V.Jegathesan, K.Vinoth Kumar and R.Saravakumar, Wiley India Pvt.Ltd.
+<br>2. Basic Electrical and Electronics Engineering By B.L.Theraja, S. Chand Publications. 
+<br>3. Basic Electrical Engineering By V.K. Mehta andRohit Mehta, S. Chand Publications
+
+<br><br><b>E –Learning</b>
+<br><br>1. http://www.facstaff.bucknell.edu 
+<br>2. http://electrical4u.com/
+<br>3. http://www.electronics-tutorials
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br>Each Student has to prepare and submit at least 3 pages of self hand written report, considering any one of the following topics (Mini project or Charts or Applications )
+<br>1. DC circuits, Electrical Current, Voltage, Power and Energy and Meters to measure, etc.
+<br>2. Resistance -materials used and Temperature effects
+<br>3. Cells and Batteries
+<br>4. Electrostatics
+<br>5. Electrical Engineering Materials

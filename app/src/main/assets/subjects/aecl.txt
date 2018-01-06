@@ -1,0 +1,48 @@
+Unit – 1: Tutorial and Graded Exercises 
+
+<b>Part - A</b>
+<br><br>1.	Construct a regulated power supply to generate 12V and note down the voltage/waveform at each stage (Use discreet components/ ICs for sub circuits)
+<br>2.	Construct voltage divider biased single-stage RC coupled CE amplifier and plot frequency response
+<br>3.	Construct and verify Inverting or non inverting amplifier using Op-amp
+<br>4.	Construct and verify summing or difference amplifier using Op-amp
+<br>5.	Construct and verify differentiator or integrator amplifier using Op-amp
+<br>6.	Construct and verify RC phase-shift oscillator circuit using Op-amp
+<br>7.	Construct and test a positive or negative clipper circuit
+<br>8.	Construct and test positive or negative clamper circuit
+<br><br><b>Part - B</b>
+<br><br>1.	Verification of maximum power transfer theorem.
+<br>2.	Plot the frequency response of series resonant circuit and find its bandwidth and Q factor
+<br>3.	Construct and test the passive low-pass  T-type filter circuit for a give cut-off frequency
+<br>4.	Construct and test active high-pass filter using Op-amp for a given cut-off frequency and gain
+<br>5.	Construct and test PI type attenuator circuit for the given attenuation &  Ro
+<br>6.	Construct and verify amplitude modulation and demodulation using trainer kits
+<br>7.	Construct and verify frequency modulation and demodulation using trainer kits
+
+Unit – 2: Projects/ Activities [CIE- 05 Marks]	
+
+<b>Activity</b>
+<br><br>Prepare module from the list below by placing the components in the General PCB / copper-clad sheet and soldering/wired connection
+<br>(1)	+12v power supply, (2) -12v power supply, (3) +5v power supply, (4) -5v power supply,
+(5)	Half-wave and Full-Wave Rectifier, (6) Half-wave and Full-Wave Rectifier with filter
+(7)	Voltage regulator using Zener diode, (8) Voltage regulator using transistor and op-amp
+(9)	Single stage voltage divider bias RC coupled amplifier, (10) Two stage voltage divider bias RC coupled amplifier, (11) Inverting Amplifier, (12) Non-Inverting amplifier, (13) Inverting Summing Amplifier using op-amp, (14) Non-Inverting Summing Amplifier using op-amp (15) Difference amplifier using op-amp, (16) Differentiator using op-amp, (17) Integrator using op-amp, (19) Comparator using op-amp, (20) Zero cross detector using op-amp, (21) Instrumentation amplifier
+
+<br><br><b>Institutional Activity (No marks)</b>
+<br>The following are suggested institutional activities. At least one activity or similar activity can be carried out during the semester. The course teacher/coordinator is expected to maintain the relevant record (Containing, Activity name, Resource persons and their details, duration, venue, student feedback, etc) pertaining to Institutional activities. 
+<br><br>1.	A seminar of electronics equipment handling and Lab maintenance
+<br>2.	A visit to electronics industry/ electronics research labs
+<br>3.	Organize hands-on practice to construct an application specific module
+
+<b>Reference Books:</b>
+<br><br>1.	Electronics laboratory primer, S. Poorna Chandra, B. Sasikala, S. Chand Technical Publication. ISBN 81-219-2459-6
+<br>2.	Fundamentals of Electronic Devices and Circuits Laboratory Manual ,David A. Bell Oxford University Press, ISBN 978-0-19-542988-6
+<br>3.	Electronic Devices, Thomas L Floyd,ISBN10:  8177586432
+
+<b>Scheme of Valuation for SEE:</b>
+
+<br><br>1.	Writing two specified circuits/diagrams (one each from part A and part B) with applicable Procedure / Tabular Col./ Ideal graph/ formula  calculations : 15
+<br>2.	Construction and conduction of any one circuit : 20
+<br>3.	Result : 05
+<br>4.	Viva-voce : 10
+
+<br><br><b>TOTAL = 50 Marks</b>

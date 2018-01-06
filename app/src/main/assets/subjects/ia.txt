@@ -1,0 +1,72 @@
+UNIT I: Power Electronic Devices
+Power Electronics-Introduction, need for power devices, applications, classification.Symbol, construction, working principle, characteristics, applicationsand comparisons of power semiconductor devices - Power diode, Power BJT, IGBT and MOSFET.SCR-Definition, Specifications, V-I Characteristics, Two transistor analogy, Derive expression for anode current and applications.Compare SCR with DIAC and TRIAC. Controlled rectifiers- Single phase half wave controlled rectifier, single phase full wave controlled rectifier using a centre tapped transformer, single phase half controlled and full controlled bridge rectifiers (only resistive load), importance of freewheeling diode.
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT II:Triggering and Commutation of SCR
+Types of triggering, Triggering circuits: R -Triggering, RC–triggering, Pulse triggering using UJT relaxation oscillators. Commutation:natural and forced commutation of SCR, resonant commutation, auxiliary commutation, complementary commutation, external pulse commutation. Comparison of natural and forced commutation. Protection of SCR-Snubber circuit.
+<br><b>[08 Hrs] [20 Marks] </b>
+
+UNIT III: Choppers, Inverters and Cycloconverters
+Chopper-Definition, working principle, duty cycle, chopper control schemes, step-up and step-down chopper, chopper classifications - first quadrant, second quadrant,two quadrant  and four quadrant choppers and applications.Inverters-Definition, working principle and types.Half bridge inverter, full bridge inverter, series inverter, variable dc link inverter, voltage source and current source inverters.Compare VSI and CSI.PWM techniques used in inverters and applications. Cycloconverters-definition, classification, working of single phase to single phase midpoint cycloconverter, applications. (for resistive load only). 
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT IV: Applications of Thyristors
+Photo Electric Control of SCR, Light Dimmer circuit using DIAC and TRIAC, Burglar alarm circuit. Need for electronic control of motors, armature voltage control and field control method for speed control of DC shunt motor, Speed control of DC motors using dual converters, speed  control of Induction motor, over voltage and over current protection of motors.
+<br><b>[06 Hrs] [20 Marks] </b>
+
+UNIT V: Programmable Logic Controllers
+Introduction to PLC, block diagram of overall PLC system, PLC scanning, PLC Programming-Ladder diagram,programming relation to digital logic gates, Boolean algebra–simple examples, PLC register basics. PLC timer-retentive and delay timer functions. PLC counter-up/down counter with examples. Basic number comparison functions,skip functions, jump functions-jump with non return and jump with return, MOVE functions and its significance. PID control of continues process with respect to PLC-PID.
+<br><b>[10 Hrs] [25 Marks] </b>
+
+UNIT VI: DCS and SCADA System
+DCS-Introduction, features, hierarchical architecture, advantages and applications.Introduction to HMI/MMI.SCADA-Introduction, background, definition, features, typical SCADA system.SCADA architecture-first to fourth generation.Introduction to SCADA hardware & software, interfacing PLC with SCADA, applications of SCADA.Comparison of PLC and SCADA.
+<br><b>[08 Hrs] [20 Marks] </b>
+
+<b>Reference Books:</b>
+
+<br><br>1.	Power Electronics - Soumitrakumarmandal, McGrawHill education, ISBN-13:978-93-329-0114-8.
+<br>2.	Power Electronics - 2nd edition, M D singh, K B Khanchandani, McGrawHill education, ISBN-13:978-0-07-058389-4.
+<br>3.	Programmable Logic Controllers- 4th edition, Frank D, Petruzella, McGrawHill education, ISBN-13:978-93-5260-212-4.
+<br>4.	Power Electronics – Joseph Vithayathil, McGrawHill education, ISBN-13:978-0-07-070329-4.
+<br>5.	Industrial electronics and Contol - S.K.Bhattacharya,S.Chatterjee – TTTI, Chandigarh.
+<br>6.	Power electronics- P C Sen, Mcgraw-Hill Publishing, New Delhi, ISBN-13: 978-0-07-462400-5
+<br>7.	Programmable Logic Controllers- John W.Webb and Ronald A Reis (Principle and applications)(Fifth Edition).
+<br>8.	Power Electronics handbook, 3rd edition-MuhammadH. Rashid- Elsevier, ISBN: 978-0-12-382036-5
+<br>9.	Industrial Electronics & Control-Biswanath Paul - PHI.
+<br>10.	Industrial Electronics - Bimbra, 2nd Edition, Khanna Publications.
+<br>11.	Power Electronics - Essentials and Applications by L Umanad, Wiley India Publications.
+<br>12.	Overview of Industrial Process Automation - KLS Sharma, Elsevier Publication 
+<br>13.	Programmable Logic Controllers -Programming Methods and Applications, John R. Hackworth and Frederick D. Hackworth, Jr.
+<br>14.	SCADA-Supervisory Control and Data Acquisition System - Stuart A. Boyer, ISA publication (3rd Edition).
+<br>15.	Practical SCADA for Industry- David Bailey, Edwin Wright, Newnes, (an imprint of Elsevier), 2003.
+<br>16.	Distributed Computer Control for Industrial Automation- DobrivojePopovic and Vijay Bhatkar, Marcel Dekker Inc.,1990
+<br>17.	Practical Distributed Control System for Engineers and Technicians- IDC Technologies.
+<br>18.	http://minitorn.tlu.ee/~jaagup/kool/java/kursused/15/robootika/elektriopik.pdf
+<br>19.	https://books.google.co.in/books/about/Power_Electronics.html?id=llbvkc52h5gC
+<br>20.	http://www.dauniv.ac.in/downloads/Electronic%20Devices/21EDCSCRLesson21.pdf
+<br>21.	https://www.youtube.com/watch?v=9WBOFsPGKiU
+<br>22.	https://www.youtube.com/watch?v=EzR-mRhFrtw
+<br>23.	https://en.wikipedia.org/wiki/PID_controller
+<br>24.	http://www.ni.com/white-paper/3782/en/
+<br>25.	https://en.wikipedia.org/wiki/SCADA
+<br>26.	http://www.edgefxkits.com/blog/scada-system-architecture-types-applications/
+<br>27.	https://scadahacker.com/library/Documents/ICS_Basics/SCADA%20Basics%20-%20NCS%20TIB%2004-1.pdf
+<br>28.	https://www.fer.unizg.hr/_download/repository/Practical_SCADA_for_Industry.pdf
+<br>29.	https://en.wikipedia.org/wiki/Distributed_control_system
+<br>30.	http://faculty.ksu.edu.sa/Emad.Ali/mylib/Workshop/DCS.pdf
+<br>31.	http://www.ijecse.org/wp-content/uploads/2012/06/Volume-3Number-3PP-269-277.pdf
+<br>32.	http://www.mjret.in/V1I1/M19-1-1-4-2014.pdf
+
+<br><br><b>Suggested Student Activity:</b>
+<br>Note:The following activities or similar activities for assessing CIE (IA) for 5 marks (Any one)
+
+<br><br>1. Prepare adata sheet for various power electronic devices. 
+<br>2. Make a hand-written report on industrial applications of PLC with logic diagram and its working.
+<br>3. Prepare a report and ppt on Implementation of SCADA systems.
+
+<br><br><b>Execution Mode:</b>
+<br>1.	Maximum of 4 students in each batch for student activity.
+<br>2.	All the above activities need to be distributed evenly to the students.
+<br>3.	Write qualitative report of 4-6 pages; one report per batch.
+<br>4.	Activities can be carried out off-class orin thelaboratory as the case may be. 
+<br>5.	Assessment shall be made based on quality of activity/presentation/demonstration and report.

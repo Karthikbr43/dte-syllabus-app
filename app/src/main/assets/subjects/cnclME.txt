@@ -1,0 +1,65 @@
+<b>Experiments:</b>
+
+<br><br><b>PART - A: CNC turning centre part programming</b>
+
+<br><br>1.	Develop  a part program for step turning and simulate
+<br>2.	Develop a part program for taper turning and simulate
+<br>3.	Develop a part program for circular interpolation and simulate 
+<br>4.	Develop a part program for multiple turning operation and simulate 
+<br>5.	Develop a part program for thread cutting, grooving and simulate
+<br>6.	Develop a part program for internal drills, boring and simulate
+
+<br><br><b>PART - B: CNC machining centre part programming</b>
+
+<br><br>7.	Develop a part program for grooving and simulate on CNC Milling
+<br>8.	Develop a part program for drilling (canned cycle) and simulate 
+<br>9.	Develop a part program for mirroring with subroutines and simulate 
+<br>10.	Develop a part program for rectangular and circular pocketing and simulate
+
+<br><br><b>Note:</b>
+<br>Students would: 
+<br>a. Sketch each part with dimensions. 
+<br>b. Prepare CNC part programme using G and M codes with ISO format. 
+<br>C. Show various zeros and tool path on part sketch with color codes and dimensions. 
+<br>d. Simulate the prepared part programme using available simulation software’s. 
+<br>e. Prepare the parts on CNC
+
+<b>Reference Books:</b>
+
+<br><br>1. CNC Machines.	Pabla B.S., Adithan M.	New Age International, New Delhi,2014(reprint).
+<br>2. CAD/CAM: computer aided design and manufacturing.	Groover Mikell P, Zimmered W Emory	Prentice Hall 2014.
+<br>3. Computer Numerical Control-Turning and Machining centers.	Quesada Robert	Prentice Hall 2014.
+<br>4. CAD/CAM.	Sareen Kuldeep	S.Chand 2012.
+<br>5. Introduction to NC/CNC Machines.	Vishal S.	S.K.Kataria & Sons. 2012.
+<br>6. Computer Aided Manufacturing.	Rao P N, Tiwari N K, Kundra T	Tata McGraw Hill 2014.
+
+<br><br><b>Website:</b>
+<br><br>•	http://www.nptel.ac.in  
+<br>•	http://www.youtube.com/watch?v=M3eX2PKM1RI   
+<br>•	http://www.youtube.com/watch?v=EHQ4QIDqENI&list=PLBkqkLQO2nAt5 
+<br>•	http://www.youtube.com/watch?v=hJFLcvtiNQI    
+<br>•	http://www.youtube.com/watch?v=BIM1AyxfYkw . 
+<br>•	http://www.mtabindia.com  
+<br>•	http://www.swansoftcncsimulator.com  
+
+<br><br><b>SUGGESTED LIST OF STUDENT ACTIVITES:</b>
+
+<br><br>1. 	Visit nearby industry having CNC machines. List and state important features of them with detail specifications and name of manufacturers.
+<br>2. 	Download free simulation software’s available on website and practice for part programming 
+<br>3. 	At least take two simple mechanical components likes step turned shaft,sleeve,muff measure the dimensions, prepare the sketch and develop part program, then simulate 
+
+<br><br><b>Note:</b>
+<br>1.	Each student should submit any one of the following type activity or any other similar activity related to the course and before take up get it approved from concerned Teacher and HOD.
+<br>2.	Each student should conduct different activity and no repeating should occur
+
+<b>Scheme of Valuation for SEE:</b>
+
+<br><br>1. Part A – CNC Turning
+<br>a) Writing : 10
+<br>b) Execution : 10	
+<br><br>2. Part B – CNC Milling
+<br>a) Writing : 10
+<br>b) Execution : 15	
+<br><br>3. Viva : 5
+
+<br><br><b>TOTAL = 50 Marks</b>

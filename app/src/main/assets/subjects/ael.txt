@@ -1,0 +1,44 @@
+UNIT - I: POWER SUPPLIES
+Block diagram of Linear Power supply, operation of, HWR, Bridge rectifier. Filter:- Necessity of filters, L type and Pi type filters. Voltage Regulators: Zener diode regulator, Series voltage regulator, IC Voltage Regulators: IC 723, IC 78XX and 79XX.Block diagram of UPS and SMPS
+<br><b>[10 Hrs] [25 Marks] </b>
+
+UNIT - II: AMPLIFIERS
+Working of transistors in CB, CE and CC configuration. Necessity of Biasing and different biasing circuits. Multi Stage Amplifiers, frequency response of Two stage RC coupled amplifier Power Amplifier: Difference between voltage and power amplifier, operation of Class A, class B, class AB and class C, Push pull power  amplifier, FET Amplifier: 
+<br><b>[10 Hrs] [20 Marks] </b>
+
+UNIT - III: OSCILLATORS
+Feed Back Amplifier: principle of Feedback and types of feedback, the Effect of feedback on amplifier performance, Study the typical feedback circuits.  Positive feedback, Barkhausen's Criteria. working of RC oscillators and study the working of RC-Phase shift Oscillators. working of LC oscillators: Hartley Oscillator, Colpitt’s Oscillators, Piezo Electric Effect, Piezo electric crystal, Crystal oscillator.
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT - IV: OP-AMP LINEAR APPLICATIONS
+Differential Amplifier: Operational Amplifier: Block diagram, characteristics of ideal Op-Amp, IC 741 Linear Applications of Op-Amp: Inverting amplifier, Non-inverting amplifier, Summer, Subtractor, Voltage follower, Differentiator, Integrator.
+<br><b>[08 Hrs] [30 Marks] </b>
+
+UNIT - V: OP-AMP NON-LINEAR APPLICATIONS
+Non-Linear  Applications of Op-Amp Schmitt trigger. Oscillators: RC Phase shift Oscillators using OPAMP.  Active Filters:   Advantage of active filters over passive filters. The operation of Low pass, high pass, band pass and band stop filters.
+<br><b>[08 Hrs] [25 Marks] </b>
+
+UNIT - VI: APPLICATIONS OF IC AS A TIMER, PLL AND PWM
+IC 555: Internal structure, the operation of monostable, bistable and astable multivibrators using IC 555 Timer. List the applications of IC 555 Timer. Phase Lock Loop (PLL): Circuit, Operation, applications of PLL.  Power Interfaces, power OPAMP used in industries, Switch Mode Servo Amplifiers, Pulse Width Modulation and working of PWM IC 
+<br><b>[06 Hrs] [15 Marks] </b>
+
+<b>Reference Books:</b>
+
+<br><br>1.  A Text Book Of Electrical Technology - B.L.Theraja Volume I and II
+<br>2.  Electronic Principles - Malvino
+<br>3.  Op-Amp and Other Linear Integrated Circuits - Gayekwad 
+<br>4.  Basic electrical Engineering, Kulashreshta, TMH
+<br>5.  http://www.allaboutcircuits.com/
+<br>6.  http://www.allaboutcircuits.com/videos
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>1. Build hobby circuit such as door bell, calling bell, blinking LED etc
+<br>2. Students can Build a Miniature circuits consists of Transistors, OP-AMP and IC555.
+
+<br><br><b>Note:</b> 
+
+<br>1. Group of max four students should do any one of the above activity or any other similar activity related to the course COs and get it approved from concerned Teacher and HOD. 
+<br>2. No group should have activity repeated or similar 
+<br>3. Teacher should ensure activities by different groups must cover all COs 
+<br>4. Teacher should asses every student by using suitable Rubrics approved by HOD

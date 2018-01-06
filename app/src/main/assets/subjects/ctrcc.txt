@@ -1,0 +1,61 @@
+UNIT I: Introduction to Concrete Technology
+Concrete - its ingredients. Water cement ratio & its significance. Properties of Fresh & Hardened concrete and factors affecting. Concept of Design mix, Methods of curing ,Admixtures- necessity, types-mineral and chemical.
+<br><b>[08 Hrs] [20 Marks] </b>
+
+UNIT II: Special Concrete and Introduction to Limit State Design
+<b>Special concrete:</b>
+<br>High performance concrete, Self compacting concrete, Fiber reinforced concrete, High volume fly ash concrete, Foam concrete & Ready mix concrete, Reinforced cement concrete, 
+<br><br><b>Introduction to Limit State Design:</b>
+<br>Introduction to limit state design. Limit state of collapse, serviceability, durability, characteristic strength & loads. Partial safety factors, limit state of collapse in flexure, stress-strain curves for  steel and concrete. Assumptions made in the limit state design
+<br><br><b>[07 Hrs] [20 Marks] </b>
+
+UNIT III: Analysis and Design of Singly reinforced beams
+Singly reinforced sections-depth of neutral axis and Moment of Resistance .Balanced, under reinforced and over reinforced sections.  Analysis of singly reinforced sections (different cases).R.C. beams subjected to shear and Diagonal Tension. Design the Shear Reinforcement for the given rectangular section. Design of Singly Reinforced rectangular beams for flexure and shear. 
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT IV: Analysis & Design of Doubly reinforced beams and  T Beams   
+<b>Analysis & Design of Doubly reinforced beams:</b> 
+<br>Doubly reinforced sections-depth of neutral axis and Moment of resistance Analysis of doubly reinforced sections (Calculating Moment of resistance).Design of doubly reinforced beams.
+<br><br><b>Analysis of  T Beams:</b>
+<br>Depth of neutral axis, effective flange width. Analysis of T beams (Calculating Moment of resistance).  
+<br><br><b>[10 Hrs] [25 Marks] </b>
+
+UNIT V:	Design of Slabs 
+Classification of slabs. Design of one way slab, Design of sun shade and cantilever slabs’ Design of two way slabs using moment coefficients
+<br><b>[08 Hrs] [25 Marks] </b>
+
+UNIT VI: Design of RCC Columns and Footings  
+Design of axially loaded short columns - problems(square, circular & rectangular only)  Design of isolated footings - rectangular and square footings.
+<br><b>[09 Hrs] [25 Marks] </b>
+
+<b>Text books:</b>
+
+<br><br>1.  Design of reinforced concrete structures by P.C. Varghees
+<br>2.  Text book of concrete technology and RCC By H S Vishwanath, Sapna Publications
+<br>3. 	Reinforced Concrete -Limit state design by Ashok K Jain
+<br>4.	Design of Reinforced Concrete Structures  by S Ramamrutham & R Narayan
+<br>5.	Theory & design of RCC Structures by Gurucharan Singh
+<br>6.	Design of reinforced concrete structures by Krishna raju
+<br>7.	Reinforced Concrete Structures by B C Punmia
+<br>8.	Treasure of RCC Designs by Sushil Kumar S
+<br>9.	Concrete technology & R.C.C by H.S.Vishwanath
+<br>10.	Concrete Technology by Gambhir
+<br>11.	Concrete Technology by M S Shetty
+<br>12. Limit state design of concrete structural elements -TTTI(NITTTR), Chennai
+<br>13.	SP-16 Design aid for IS 456-2000, SP-23 Hand book on concrete mixes
+<br>14.	IS 875-1987 Loading standards
+<br>15. SP-34 Detailing of RC Structures
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>1. Prepare Concrete mix design of M20 grade for the locally available raw material and adding suitable quantity of flash or silica fume.
+<br>2. Design the structural elements -Beams, Columns and Slabs for Residential Building (One and Two Story Building)
+<br>3. Visit nearby multistoried building/Apartment/culvert/bridge etc. nearby place and collect the structural details.
+<br>4. Collect the information about Minimum Live load to be considered for Residential/Office Building/Commercial Complex
+<br>5. Understand the Concept of design of form work for different types of buildings & Collect information about stripping times for forms for different conditions.
+<br>6. Identify various tests to be conducted on Concrete, Cement, Aggregates, water and their standard values
+
+<br><br><b>Note:</b> The activities or similar activities for assessing CIE (IA) for 5 marks (Any one)
+<br>1. Each student should do any one of the following type activity or any other similar activity related to the course and before conduction, get it approved from concerned Teacher and HOD.
+<br>2. Each student should conduct different activity and no repeating should occur
+<br>3. Each student should conclude the activity through presentation/Seminar.

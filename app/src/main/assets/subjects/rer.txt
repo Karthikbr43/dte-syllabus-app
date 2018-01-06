@@ -1,0 +1,55 @@
+UNIT I: ENERGY CONSERVATION & STORAGE
+Energy- Energy Sources & their Availability - Importance of  Renewable Energy Resources -Principles of energy conservation- Energy storage- Necessity of energy storage-Energy storage methods- Mechanical Energy storage -Pumped storage-Compressed air storage- Electrical Storage -Lead Acid Battery -Chemical Storage -Energy storage via hydrogen - Electromagnetic energy storage.
+<br><b>[08 Hrs] [25 Marks] </b>
+
+UNIT II: SOLAR ENERGY
+Solar energy -	Introduction-Solar constant- Solar Radiation at the Earth’s surface-measurements of solar radiation-pyronometer- pyrheliometer- sunshine recorder –Solar collectors-Classification-liquid flat plate collector-construction-effect of various parameter on its performance-Concentrating collector-Focusing and non-focusing type-Applications of Solar Energy  - solar water heater- Solar Cooker-Box type- Solar dryer-solar greenhouse—Summer and winter greenhouse-solar electric power generation-Solar photovoltaic.
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT III: WIND ENERGY
+Introduction-	Basic  Principles of  Wind energy conversion-The nature of wind- The power in the wind  ( No derivations )- Forces on the Blades  ( No derivations  )-Site Selection considerations-Basic components of a wind energy conversion system (WECS)-Advantages & Limitations of WECS-Wind turbines (Wind mill )-Horizontal Axis wind mill-Vertical Axis wind mill-performance of wind mills-Environmental aspects
+<br><b>[08 Hrs] [20 Marks] </b>
+
+UNIT IV: BIO MAS ENERGY
+Introduction-	Biomass conversion techniques-Biogas Generation-Factors affecting biogas Generation-Types of biogas plants- Advantages and disadvantages of biogas plants-urban waste to energy conversion-MSW incineration plant
+<br><b>[08 Hrs] [20 Marks] </b>
+
+UNIT V: GEO THERMAL & TIDAL ENERGY
+Geothermal Sources-Hydro thermal Sources- a. Vapor dominated systems b. Liquid dominated systems -Prime movers for geothermal energy conversion-Tidal Energy-Basic Principles of Tidal Power-Components of Tidal Power Plants- Schematic Layout of Tidal Power house-Advantages & Limitations of Tidal power
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT VI: DIRECT ENERGY CONVERSION SYSTEM
+Thermo - Electric power- Basic Principles-Thermo electric power generator-Thermionic  Generation –Introduction-Thermionic emission & work function-Basic Thermionic generator-Chemical Energy Sources-Introduction-Fuel cells – Principles of operation, classification & Types-Applications of fuel cells.
+<br><b>[08 Hrs] [20 Marks] </b>	
+
+<b>Text books:</b>
+
+<br><br>1.	Non-Conventional energy sources, G.D.Rai, Khanna Publishers
+<br>2.	Non-Conventional energy sources-2 E	B.H.Khan, Tata McGraw Hill
+<br>3.	Renewable Energy Sources & Emerging Technologies.	D P Kothari,   K  C  Singal&RakeshRanjan	Prentice Hall India
+<br>4.	Solar energy.	H.P.Garg	McGraw Hill-Education
+<br>5.	Energy opportunities and social responsibility.	Satyesh C. Chakraborty	Jaico publications
+
+<br><br><b>Website:</b>
+<br><br>1.  http://nptel.ac.in/courses/112105051/ 
+<br>2.  https://www.youtube.com/watch?v=Ota2_LUuar0 
+<br>3.  https://www.youtube.com/watch?v=Ota2_LUuar0 
+<br>4.  https://www.youtube.com/watch?v=3dJAtHaSQ98 
+<br>5.  https://www.youtube.com/watch?v=xokHLFE96h8 
+<br>6.  http://www.tatapower.com/businesses/renewable-energy.aspx 
+<br>7.  http://www.cleanlineenergy.com/technology/wind-and-solar 
+<br>8.  https://www.youtube.com/watch?v=kbuLfXgw4Gs 
+<br>9.  https://www.youtube.com/watch?v=r9q80sSHxKM 
+<br>10. https://www.youtube.com/watch?v=GZKKWz_tX1c
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>1. Prepare a of monthly energy consumption of your institute and find the ways how it can be conserved.
+<br>2. Conduct an energy audit of your institute; suggest the ways how the conventional energy resources utilization can be minimized. Suggest the areas ,where the non-conventional energy may be used
+<br>3. Identify the solar intensity and wind speed in your institute locality and calculate the intensity of Solar/Wind Power can be generated.
+<br>4. Visit to web site of ministry of renewable energy ,Government of India: http://mnre.gov.in/ make a Study on ‘Developmental Impact and Sustainable Governance aspects of Renewable Energy Projects’
+<br>5. Visit solar power plant /wind power plant available in your locality/ nearer to your institute and understand different elements, working, and note the power generation by these plants
+
+<br><br><b>Note:</b> The activities or similar activities for assessing CIE (IA) for 5 marks (Any one)
+<br>1. Each student should do any one of the following type activity or any other similar activity related to the course and before conduction, get it approved from concerned Teacher and HOD.
+<br>2. Each student should conduct different activity and no repeating should occur

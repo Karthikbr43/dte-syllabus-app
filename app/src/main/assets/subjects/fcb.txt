@@ -1,0 +1,45 @@
+UNIT - I: COMBUSTION OF FUELS
+Introduction, classification of fuels, caloric value - higher and lower calorific value, definition of combustion, principles of combustion, minimum amount of air required for complete combustion (by weight and by volume), calorimeter- bomb calorimeter, boy’s gas calorimeter, Flue gas analysis by orsat apparatus, Fluidized bed Combustion.
+<br><b>[09 Hrs] [20 Marks] </b>
+
+UNIT - II: COAL FIRING AND PULVERIZED FUEL FIRING
+<b>COAL FIRING:</b> coal storage process, Methods of coal storage, coal cleaning equipment’s,  Process of coal preparation, selection of coal for thermal power plant, methods of coal firing, hand firing, stoker firing - overfeed stoker and underfeed stoker, Overfeed stoker – Chain Grate type and spreader type, Underfeed stoker –Single retort and multi retort.
+<br><br><b>PULVERIZED FUEL FIRING:</b> Pulverized fuels, Distribution system – Unit system, Central system, Necessity of adopting pulverized fuel firing, Pulverized fuel burners, Classifications, Long frame burner, Short frame burner, Tangential burner, Cyclone burner, Comparison between pulverized fuel firing and coal firing.
+<br><br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT - III: MODERN HIGH PRESSURE BOILERS
+Introduction, Important terms for steam boilers, Features of high pressure boilers, Selection of a steam boiler, Classification of steam boilers, Lamont Boiler, Benson boiler, Loefller boiler, Velox boiler, Babcock and Wilcox boiler, Comparison between water tube and fire tube boilers, Advantages and disadvantages.
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT - IV: BOILER MOUNTINGS AND ACCESSORIES
+Introduction, Water level indicator, Pressure gauge,  Safety valves – Lever safety valve and Rams bottom safety valve, Fusible plug, Blow off valve, Man hole and hand hole, Feed pump, Super heater, Economizer, Air preheater.
+<br><b>[07 Hrs] [25 Marks] </b>
+
+UNIT - V: BOILER OPERATION MAINTENANCE AND REPAIR
+<b>BOILER OPERATION:</b> Cleaning, Acid method, precautions, critical areas of failure, Warming up and cooling down of boilers, Level of water in boilers, Leakage of water during boiler operation, Boiler storage – wet storage method and Dry storage method, Furnace explosion, Automatic burner system.
+<br><br><b>BOILER MAINTENANCE AND REPAIRS:</b> Internal inspection of boiler, Presence of oil in steam drum, Heating side/Fireside of boiler, Inspection of external fitting, Non-destructive testing equipments, Failures of steam generators, Boiler accidents, Tubing – water tube boilers and fire tube boilers, Flame impingement,  Man hole and Hand hole
+<br><br><b>[09 Hrs] [25 Marks] </b>
+
+UNIT - VI: FEED WATER TREATMENT
+Necessity of feed water treatment, Impurities present in water, Effect of impurities, Boiler scale formation, Water softening, Soda Ash treatment, Zeolite ion exchange process, Demineralising water treatment, and Vapour compression type evaporator.
+<br><b>[07 Hrs] [15 Marks] </b>
+
+<b>Text books:</b>
+<br><br>1. Power Plant Engineering 	- Arora and Domkundwar.
+<br>2. Power Plant Engineering - K. Nagpal.
+<br>3. Generation of electrical energy - B R Gupta.
+<br>4. Thermal Engineering	- R.S. Khurmi.
+<br>5. Standard Boiler operators - Stephen M. ElonkaandAnthony L. Kohan
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>1. List the fuels which you are using in your day to day life. Study and submit handwritten report of 500 words 
+<br>2. Take a photo of a boilers, study and submit handwritten report of 500 words
+<br>3. List the accessories and mountings boilers, study and submit handwritten report of 500 words
+<br>4. Identify coal and fuel firing system used in the power plants. study and submit handwritten report of 500 words
+<br>5. Identify the type of feed water treatment study and submit handwritten report of 500 words
+<br>6. Visit the any small scale industry having boiler, study and submit handwritten report of 500 words
+
+<br><br><b>Note:</b> The activities or similar activities for assessing CIE (IA) for 5 marks (Any one)
+<br>1. Each student should do any one of the following type activity or any other similar activity related to the course and before conduction, get it approved from concerned Teacher and HOD.
+<br>2. Each student should conduct different activity and no repeating should occur

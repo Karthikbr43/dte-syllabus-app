@@ -1,0 +1,100 @@
+<b>Experiments:</b>
+
+<br><br><b>Note:</b>
+<br>i. Tutorial – 1Hour and Practice -2 Hours
+<br>ii.	Write flow chart for all the programs.
+
+<br><br><b>Tutorial 1</b>
+<br>Steps involved in problem solving using Algorithms and Flowcharts. 
+<br>Basic structure of C program, Steps to be followed for–Creation, Compilation and Execution of a C program, use of simple scanf( ) and printf( ) functions.
+<br>Programs:
+<br>1. Write a Program to print the text “Welcome to C programming”
+
+<br><br><b>Tutorial 2</b>
+<br>Character set, keywords and identifiers, constants, variables, data types. 
+<br>Programs:
+<br>2. Write a program to find the area and circumference of a circle. 
+
+<br><br><b>Tutorial 3</b>
+<br>Operators and expressions, Library functions.
+<br>Programs:
+<br>3.Write a program to calculate the instantaneous value of an AC quantity like v=Vmsinωt
+<br>4. Write a program using ternary operator to find the minimum of two resistor values.
+
+<br><br><b>Tutorial 4</b>
+<br>Managing input-output operations – using functions like getchar( ) – reading a character, putchar( ) – writing a character, scanf( ) – formatted input and printf( ) – formatted output.
+<br>Programs:
+<br>5. Write a program to display the electrical units in the following format:
+
+<br><br>	Electrical quantity		Unit
+<br>	-----------------------------------------
+<br>	Resistance		Ohm
+<br>	Current		Ampere
+<br>	Voltage		Volt
+<br>	Power		Watt
+
+<br>6.  Write a program to find equivalent resistance when resistors are connected in series, equivalent capacitance when capacitors are connected in parallel.
+<br>7.  Write a program to calculate the total cost of 2 Laptops and 1 Printer, assuming cost price and discount offer. 
+<br>8. Write a program to find impedance in series RLC circuit.
+
+<br><br><b>Tutorial 5</b>
+<br>Decision making and branching using if, if -else, multi branch if, nested if statements.
+<br>Programs:
+<br>9. Write a program to generate the electricity bill according to the units consumed for AEH and lighting installation as per present KPTCL tariff.
+
+<br><br><b>Tutorial 6</b>
+<br>Switch –case statement
+<br>Programs:
+<br>10.Write a program using switch – case to calculate
+<br>i. Power dissipated in resistance	
+<br>ii. Energy stored in capacitor
+<br>iii. Energy stored in inductor
+	
+<br><br><b>Tutorial 7</b>
+<br>Looping - while, do-while and for statements 
+<br>Programs:
+<br>11. Using for loop find the current through a resistor, for voltage varying from 5V to 20V in steps of 5V, using Ohm’s Law.
+<br>12. Using while loop find the current through a resistor, for voltage varying from 50V to 100V in steps of 10V, using Ohm’s Law.
+<br>13. Using do….While loop find the current through a resistor, for voltage varying from 16V to 8V in steps of 4V, using Ohm’s Law.
+
+<br><br><b>Tutorial 8</b>
+<br>Arrays – Syntax, reading and writing of one dimensional array.
+<br>Programs:
+<br>14. Write a program to input 10 numbers to an array and display the greatest number.
+
+<br><br><b>Tutorial 9</b>
+<br>Strings - Initializing String, Manipulating strings of characters  
+<br>Programs:
+<br>15. Accept any electrical quantity as a string in lower case. Convert and display it in upper case.
+<br>16. Accept any 10 words and display the same.
+
+<b>Reference Books:</b>
+
+<br><br>1.	Programming with C – Byron S Gottfried		
+<br>2.	Programming in ANSI C – Balaguruswamy
+<br>3.  Programming in C Language - M A Jayaram. Sapna Publications.
+<br>4.	Let us C – YaswanthKanetkar
+<br>5.	Programming in C – V.Rajaraman
+<br>6.	http://fresh2refresh.com/cprogramming
+<br>7.	http://www.learn-c.org
+<br>8.	http://www.learnconline.com/
+
+<br><br><b>Student Activity</b>
+
+<br><br>1.	Develop flow chart for a given Process industry/ office automation/ salary slip, etc. 
+<br>2.	Mini project on Applications of C language in Engineering field.
+<br>3.	Mini project on C language.
+<br>4.	Report on C programs to solve an electrical circuit for currents (using KVL).
+<br>5.	Report on C programs to solve an electrical circuit for voltages (using KCL).
+<br>6.	Mini project on C language commands, keywords, arrays, etc.
+
+<br><br><b>Note:</b> Any one to be submitted with 3 pages report
+
+<b>Scheme of Valuation for SEE:</b>
+
+<br><br>1.	Write one program for the assigned question	: 10
+<br>2.	Enter, execute and  obtain output for the assigned question	: 25
+<br>3.	Obtain the printout of the assigned program	: 05
+<br>4.	Viva-voce :	10
+
+<br><br><b>TOTAL = 50 Marks</b>

@@ -1,0 +1,50 @@
+UNIT - I: INTRODUCTION TO SOLID WASTES
+Definition of solid wastes, Sources, classification and characteristics of solid wastes, Municipal Solid Waste (Management and Handling ) Rules, 
+<br><b>[06 Hrs] [15 Marks] </b>
+
+UNIT - II: COLLECTION OF SOLID WASTE
+Systems of collection of solid wastes, transfer stations, collection equipments, route optimization techniques and numerical problems on route optimization. Processing techniques of solid wastes (principle of operation and function only).
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT - III: TREATMENT METHODS AND COMPOSTING
+<b>TREATMENT METHODS</b>: Various methods of refuge processing, recovery, recycle and reuse.- Mechanical volume reduction, Chemical volume reduction, Mechanical size reduction and component separation
+<br><b>COMPOSTING</b>: Composting, factors affecting composting process, aerobic and anaerobic composting, Indore and Bangalore method of composting, mechanical composting process, vermin-composting. 
+<br><b>[12 Hrs] [35 Marks] </b>
+
+UNIT - IV: LANDFILLS
+Sanitary land filling – trench method and area method  Factors considered for a landfill site selection, leachate collection systems, control of gas movement and gas recovery systems. 
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT - V: INCINERATION
+Incineration process, factors affecting incineration process, and air pollution prevention in incinerators, pyrolysis process. Biomedical Waste, Biomedical Waste Handling Rules and its Impact on Human Health. 
+<br><b>[08 Hrs] [20 Marks] </b>
+
+UNIT - VI: RECENT DEVELOPMENT IN SOLID WASTE REUSE AND DISPOSAL
+Power generation, Building with construction materials and Best Management Practices (BMP)
+<br><b>[06 Hrs] [15 Marks] </b>
+
+<b>Text books:</b>
+<br><br>1. George Tchobanoglous et.al., “Integrated Solid Waste Management”, Mc-Graw-Hill, Inc.      New York, 1993. 
+<br>2. Howard S.Peavy et.al., “Environmental Engineering”, Mc-Graw-Hill Book Company, New York, 1985. 
+
+<br><br><b>References:</b>
+<br><br>1. A.D. Bhide and B.B.Sudareshan, “Solid Waste management in Developing Countries”, NEERI, Nagpur 1983. 
+<br>2. “Environmental Engineering (Vol II)”- S.K Garg Khanna Publishres, New Delhi 2009. 
+<br>3. Robert A. Corbit, “Standard Handbook of Environmental Engineering”, Mcgraw Hill Inc, New Delhi,1990. 
+<br>4. P. Aarne Vesilind, William Worrel and Reinhart, Solid Waste Engineering, Thomson Brooks, Cole. 
+<br>5. Manual on Municipal Solid Waste Management, CPHEEO, Ministry of Urban Development, Govt. of India, 2000. 
+<br>6. Management and Handling Rules for Municipal Solid Waste and Biomedical Waste and Plastic Waste, MOEF publications. 
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>1.	Prepare a report on Quantity of solid waste generated from village or town
+<br>2.	Identify the different sources and types of solid waste generated for a village or town. 
+<br>3.	Write a report on visit to Sanitary landfill site nearby to your place.
+<br>4.	Write a report on visit to Mechanical process of Composting plant nearby to your place.
+<br>5.	Identify the different types of biomedical waste generated in hospital and then visit nearby Incineration unit.
+<br>6.	Prepare a report on Best Management Practices (BMP) for disposal of solid waste generated in your places.
+<br>7.	Prepare a report on treatment methods adopted in sanitary landfill area to reduce solid waste quantity.
+
+<br><br><b>Note:</b> The activities or similar activities for assessing CIE (IA) for 5 marks (Any one)
+<br>1.	Each student should do any one of the following type of activity or any other similar activity related to the course and before conduction, get it approved from concerned Teacher and HOD.
+<br>2.	Each student should conduct different activity and no repeating should occur

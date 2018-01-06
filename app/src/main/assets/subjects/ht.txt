@@ -1,0 +1,57 @@
+UNIT - I: HEAT TRANSFER BY CONDUCTION
+Introduction-Modes of heat transfer- Conduction – Fourier’s law – Thermal conductivity - compound resistance in series, heat transfer through single wall, compound wall – A cylinder – problems.
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT - II: HEAT TRANSFER BY CONVECTION
+Conduction through fluids – Convection – temperature gradient – Surface co-efficient – Overall co-efficient – Natural and forced convection, heat transfer – Turbulent flow in circular pipes – Boiling of fluids – Condensation – simple problems.
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT - III:  HEAT TRANSFER BY RADIATION
+Radiation heat transfer – Law of radiation heat transfer and applications of radiation heat transfer.
+<br><b>[06 Hrs] [15 Marks] </b>
+
+UNIT - IV:  HEAT TRANSFER EQUIPMENTS
+Heat transfer equipment – Double pipe heat exchanger – Shell and tube heat exchanger – Finned tube heat exchanger - Condensers.
+<br><b>[10 Hrs] [25 Marks] </b>
+
+UNIT - V: EVAPORATION
+Principles of Evaporation-Types of evaporators – Standard vertical evaporators – Basket type evaporators – Long tube evaporators – Falling  and climbing film evaporators – Agitated film type evaporators – Jacketed vessels – Evaporator accessories – Steam traps – Condenser – Entrainment separator
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT - VI: MULTIPLE EFFECT EVAPORATION
+Capacity and Economy of an evaporator-Vacuum evaporation – Multiple effect evaporation principles  –  Capacity of multiple effect evaporation.
+<br><b>[06 Hrs] [15 Marks] </b>
+
+<b>Reference Books:</b>
+
+<br><br>1.	Unit Operations of Chemical Engineering, McCabe W.L Smith V Edn., McGraw Hill
+<br>2.	Introduction to Chemical Engineering, Badger, W.L. and Banchero J.T, 3rd Edition, McGraw Hill. 
+<br>3.	Coulson and Richardson’s Chemical Engineering. 
+<br>4.	Perry’s Chemical Engineers’ Handbook, McGrawHill .
+<br>5.	Heat transfer by K.V Gahvane.
+
+<br><br><b>E –Learning</b>
+
+<br><br>https://www.youtube.com/watch?v=w7MoS2C70zU
+<br>https://www.youtube.com/watch?v=n9Riw8gp2JI
+<br>https://www.youtube.com/watch?v=GzH1Z2IpnMY
+<br>https://www.youtube.com/watch?v=jdsNoRgt7zY
+<br>https://www.youtube.com/watch?v=iIRbhZY8MpE
+<br>https://www.youtube.com/watch?v=22W753joAnA
+<br>https://www.youtube.com/watch?v=x4c6UN8IqOc
+<br>https://www.youtube.com/watch?v=-42JmVBdlM4
+<br>https://www.youtube.com/watch?v=ftnLJ6VDwS8
+<br>https://www.youtube.com/watch?v=Gn0E7BSaVZ8
+<br>https://www.youtube.com/watch?v=3T8Km9BYHegandlist=PL4ECF5DA8511498E6
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>1. Each student will give an activity to prepare a tabulated summary for types of evaporators which is available in the market. (Summary includes types of evaporators other than indicated in chapter-5)
+<br>2. List out any five heat exchangers devices available in market with its specifications and current market price. (Summary includes types of evaporators other than indicated in chapter-4)
+<br>3. Each student will give an activity to prepare a tabulated summary for types of heat insulating materials available in market. (Summary includes type, specification, size range, material, rate and applications. Summary includes types of insulators other than indicated in chapter-1).
+<br>4. Through relevant sources collect information on different types of evaporators accessories and submit a summary including types, specifications, size, advantages, disadvantages, applications, rate etc.)
+<br>5. Collect information regarding different types of condensors available in the market for a specific duty and prepare a tabulated summary including type, specifications, size, advantages, disadvantages, cost, applications etc.
+
+<br><br><b>Note:</b> The activities or similar activities for assessing CIE (IA) for 5 marks (Any one)
+<br>1. Each student should do any one of the following type activity or any other similar activity related to the course and before conduction, get it approved from concerned Teacher and HOD.
+<br>2. Each student should conduct different activity and no repeating should occur

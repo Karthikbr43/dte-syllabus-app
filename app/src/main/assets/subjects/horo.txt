@@ -1,0 +1,49 @@
+UNIT I: THEORY OF TIME MEASUREMENT
+Introduction to time measurement, Earth rotation, Sidereal day, Solar & mean solar days, Unit of time, Latitudes and National standard times calendar
+<br><b>[08 Hrs] [15 Marks] </b>
+
+UNIT II: TIME  MEASUREMENT IN OLDEN DAYS
+Electric candle, Burning lenity card, Water bowl, Sun dial, Hour glass.
+<br><b>[06 Hrs] [15 Marks] </b>
+
+UNIT III: GENERAL WORKING PRINCIPLE AND MECHANICS OF SIMPLE STRIKING SYSTEMS OF CLOCKS
+Simple pendulum, Compound pendulum, Compressing pendulum, Motive power, Train of wheels, Indicating system, Frames main springs, Escapement, A.C drives, Battery drive, Electronic drive and Rack 2 locking plate types.
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT IV: GENERAL WORKING PRINCIPLE OF TIME PIECE
+Alarm/repeater Mechanism, Train of wheels, Trail train, Regulation, Function of complete balance wheels  and Pivots bearings.
+<br><b>[08 Hrs] [15 Marks] </b>
+
+UNIT V: MECHANISM OF WATCHES
+Plates, bridges, Motive power to transmission, Escapement balance & hair spring, Regulation, winding, Hand setting mechanisms, train of wheels casing, Trail train, Wheels 2 jewel bearing. Resolve power, Pulse system, A.C.drives, Transistor clock, Electronic drive, Train of wheels, Gear train. Self winding principle, Self winding gear train, Drive of Calendar mechanisms, Jumpers & types of correction systems.
+<br><b>[12 Hrs] [45 Marks] </b>
+
+UNIT VI: SOLUTIONS & METHODS USED IN CLEANING AND LUBRICANTS
+Different cleaning solutions used in horology, Methods of cleaning. Epilame treatment, Methods & types of lubricants used.
+<br><b>[08 Hrs] [25 Marks] </b>
+
+<b>Reference Books:</b>
+
+<br><br>1.	HOROLOGY BY - HASWELL J.ERIC
+<br>2.	LEATCH ESCAPEMENT BY - DR. JAMES C PELLINTON
+<br>3.	MODERN CALENDAR WATCHES BY - B. HUMBEOT
+<br>4.	CLOCK 2 WATCHES ESCAPEMENT BY - GAZELEY
+<br>5.	DEERFLIES WATCH 2 CLOCK ENCYCLOPEDIAS BY - WAG PRES LTD
+
+<br><br><b>Website:</b>
+
+<br><br>1.	http://www.technologystudent.com/elec1/ldr1.htm
+<br>2.	http://www.aptechnologies.co.uk/support/photodiodes/photodiode-theory-of-operation
+<br>3.	http://sine.ni.com/np/app/main/p/ap/daq/lang/en/pg/1/sn/n17:daq,n21:11/fmid/2998/
+<br>4.	https://www.amplicon.com/info/faq-answer.cfm?id=584
+<br>5.	https://www.youtube.com/watch?v=nW421UQa7as
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>1. Each student will select and bring at least one clock. Sketch and label main parts of clock. Run the clock and note down the time in hours, minutes and seconds.
+<br>2. Sketch and label the part of watch, assemble the different parts of watch, list the steps followed for assembling and record the timings.
+<br>3. List the different solvents and lubricants used in industries.
+
+<br><br><b>Note:</b> The activities or similar activities for assessing CIE (IA) for 5 marks (Any one)
+<br>1. Each student should do any one of the following type activity or any other similar activity related to the course and before conduction, get it approved from concerned Teacher and HOD.
+<br>2. Each student should conduct different activity and no repeating should occur

@@ -1,0 +1,98 @@
+<b>Staff-in-charge must teach one hour tutorial for each Lab. The Contents to be taught in the one hour tutorial are: </b>
+
+<br><br><b>Tutorial 1:</b>
+<br>1.	Mention circuit elements as per I.S.
+<br>2.	Use an analog multimeter to record different readings.
+<br>3.	Connect analog voltmeter and analog ammeter in circuit and record the readings.
+<br>4.	Identify different measuring instruments.
+
+<br><br><b>Tutorial 2:</b>
+<br>1.	Identify standard symbols of load and protective devices.
+<br>2.	Identify AC/DC supply terminals and tabulate measured voltage between terminals.
+<br>3.	Explain Ohm’s law.
+
+<br><br><b>Tutorial 3:</b>
+<br>1.	Explain KCL.
+
+<br><br><b>Tutorial 4:</b>
+<br>1.	Explain KVL.
+
+<br><br><b>Tutorial 5:</b>
+<br>1.	Explain resistance.
+<br>2.	Explain specific resistance.
+
+<br><br><b>Tutorial 6:</b>
+<br>1.	Study different types of rheostats, like wire wound, water rheostat.
+
+<br><br><b>Tutorial 7:</b>
+<br>1.	Explain secondary cells
+<br>2.	Explain voltage variation when cells are connected in series.
+
+<br><br><b>Tutorial 8:</b>
+<br>1.	Explain current variation when cells are connected   in parallel.
+
+<br><br><b>Tutorial 9:</b>
+<br>1.	Explain voltage and current variation   when cells are connected   series and parallel combination.
+
+<br><br><b>Tutorial 10:</b>
+<br>1.	Explain the conditions of fully charged battery.
+
+<br><br><b>Tutorial 11:</b>
+<br>1.	Connect wattmeter and calculate wattmeter constant.
+<br>2.	Differentiate UPF and LPF wattmeter’s and mention their uses.
+<br>3.	Explain power and power factor and how power factor varies on different types of loads (resistive load or inductive load).
+
+<br><br><b>Tutorial 12:</b>
+ <br>1.	Explain super position theorem.
+
+<br><br><b>Tutorial 13:</b>
+ <br>1.	Explain reciprocity theorem.
+
+<br><br><b>Tutorial 14:</b>
+ <br>1.	Explain Thevenin's theorem
+
+<br><br><b>Experiments:</b>
+
+<br><br>1.	Use a multimeter to measure -The voltage across the terminals, the current flowing in the circuit and the resistance of the load.
+<br>2.	Verify Ohm's law experimentally.
+<br>3.	Verify Kirchhoff’s current law experimentally.
+<br>4.	Verify Kirchhoff’s voltage law experimentally.	
+<br>5.	Measure the resistance of a given material by using ammeter and voltmeter method and calculate the specific resistance of Copper.
+<br>6.	Measure the temperature coefficient of resistance of a resistive material using calorimeter.
+<br>7.	Measure voltage and current when secondary cells are in series.             
+<br>8.	Measure voltage and current when secondary cells are in parallel. 
+<br>9.	Measure voltage and current when secondary cells are in series- parallel.		
+<br>10.	Test and report the condition of car battery of 12 V rating	.
+<br>11.	Measure power in a single phase AC circuit using ammeter, voltmeter, Wattmeter and calculate p.f.
+<br>12.	Verify experimentally super position theorem.			
+<br>13.	Verify experimentally reciprocity theorem.				
+<br>14.	Verify experimentally Thevenin's theorem
+
+<b>Reference Books:</b>
+<br><br>1.	Electrical Lab Manual by CCTEK, S. J. (GOVT.) POLYTECHNIC,BANGALORE.
+<br>2.	Experiments in Electrical Engg by Soni, Gupta and Bhatnagar
+<br>3.	http://www.facstaff.bucknell.edu 
+<br>4.	http://www.electronics-tutorials	
+<br>5.	http://electrical4u.com/
+<br>6.	https://www.safaribooksonline.com/
+<br>7.	http://www.allaboutcircuits.com/
+
+<br><br><b>Student Activity</b>
+
+<br><br>1.	Visit nearby Battery charging shop or show room and prepare a report of the visit.
+<br>2.	Identify the faulty battery and service the same using standard tools.
+<br>3.	Identify the faults in the Rheostats in the Laboratory and service the same.
+<br>4.	Prepare a report of the conditions of batteries available in the Polytechnic.
+<br>5.	Mini project on measurement methods of Resistance, Inductance and Capacitance.
+<br>6.	For given voltage, current, Ah ratings of individual cell, and required voltage and current rating of battery, prepare a report of calculations for number of cells and their method of connections.
+
+<br><br><b>Note:</b> Any one to be submitted with 3 pages report
+
+<b>Scheme of Valuation for SEE:</b>
+
+<br><br>1.	Writing circuit diagram and Procedure(for One) : 10
+<br>2.	Conduction of Experiment : 25
+<br>3.	Calculation and Result : 5
+<br>4.	Viva voce :	10
+
+<br><br><b>TOTAL = 50 Marks</b>

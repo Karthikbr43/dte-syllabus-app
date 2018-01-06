@@ -1,0 +1,66 @@
+<b>Experiments:</b>
+
+<br><br><b>I: Introduction to CADD</b>
+<br>1.	General features of CADD, CADD work station, Hardware and Software requirements, Advantages of using CADD, Starting CADD, Understanding CADD Editor Screen- title bar, menu bar, dashboard, standard tool bar, drawing area, UCS, command prompt area, status bar.	06
+
+<br><br><b>II: Demonstration of commands in CADD </b>
+<br>2.	Commands- Command Entry Options using -Command Line, Menus (File, Edit, View, Insert, Format, Tools, Draw, Dimension, Modify, Window, Help) and Dialog Boxes. Understanding the use of CADD Menus and Tool Bars, CADD Basic Entities- Drawing Line, Arc, Circle, Rectangle and polygons using different coordinate Systems such as Absolute Cartesian Coordinates, Relative Cartesian Coordinates, Absolute Polar coordinates, Relative Polar Coordinates, Direct distance entry and line command, Picking coordinates on the screen and line command.	09
+
+<br><br><b>III: Creating a new drawing</b>
+<br>Using a wizard, using a template, starting from scratch.
+<br>Selection of units, Selection of paper space, Setting up of limits 
+<br>Draw 2D drawings of simple building components and Print/ Plot the following drawings using Plot Settings. 	
+<br>3.	Draw the Elevation and cross section of fully panelled Door	3
+<br>4.	Draw the Elevation and cross section of fully panelled Window and glazed Window	3
+<br>5.	Draw the Cross Section through Wall	3
+<br>6.	Draw the sectional Elevation of Spread footing	3
+<br>7.	Draw the sectional Elevation and Plan showing Reinforcement details of Column footing.	3
+<br>8.	Draw the plan and sectional Elevation of Dog-Legged Staircase.	3
+
+<br><br><b>IV: Developing 2D drawings of Buildings</b>
+<br>9.	Draw Plan, Elevation and Sectional View of Single Room Building. Print/ Plot the above drawings using Plot Settings.	33
+<br>10.	Drawing Plan, Elevation and Sectional View of  Two Room Residential Building. Print/ Plot the above drawings using Plot Settings.	
+
+<br><br><b>V: Developing Isometric and 3D drawings</b>
+<br>11.	Develop isometric drawings of Simple Objects such as Steps, Footings etc. Print/ Plot the above drawings using Plot Settings. 	12
+<br>12. Develop a 3D Model for a Single Room Building.	
+
+<b>Reference Books:</b>
+
+<br><br>1.	CAD in Civil Engineering a Laboratory Referrel- Dr M.A.Jayaram, D.S.Rajendra Prasad, Sapna Book House
+<br>2.	Sham Tickoo-CADD: A Problem-Solving Approach Thomson LearningEMEA, Limited
+<br>3.	George Omura- Mastering Auto CAD BPB Publication
+<br>4.	Arshad N Siddique, Zahid Khab, Mukhtar Ahmed- Engineering Drawing withCADD
+<br>5.  http://www.sketchup.com
+<br>6.	http://www.autodesk.in/products/3ds-max/overview
+<br>7.	http://www.we-r-here.com/cad/tutorials/index.htm
+<br>8.	http://www.cadtutor.net/tutorials/CADD/
+<br>9.	http://www.caddprimer.com/CADD_training_tutorial/CADD_training_lessons.html
+<br>10.	http://www.CADDmark.com/
+<br>11.	http://www.CADDtutorials.net/
+
+<br><br><b>Student Activity</b>
+
+<br><br>1.	Plot the different line styles used in Civil Engineering drawing.
+<br>2.	Collect and measure the dimensions of different paper sizes available in market.
+<br>3.	Prepare a plan, elevation and sectional view of a single room building and plot on different paper sizes.
+<br>4.	Develop a 3D model of simple objects like cube, prism, cylinder and cone.
+<br>5.	Measure the dimensions of a beam and column develop 3D model.
+<br>6.	Measure the dimensions of your classroom/any other room and create a 3D model.
+<br>7.	Prepare a plan showing arrangements of steps spiral stairs.
+<br>8.	Develop a conic section
+<br>9.	Object of drawing models non-dissected and dissected Rectangular prism, Rectangular pyramid, Triangular prism and pyramid, Square prism and pyramid, Pentagonal prism and pyramid, Hexagonal prism and pyramid , Octagonal prism and pyramid, Decagonal prism and pyramid, Cube, cone sphere, cylinder, half cylinder, quarter cylinder, Semi, cylinder, tetrahedron, octahedron
+
+<br><br><b>NOTE:</b>
+<br><br>1. Students should select any one of the above or other topics relevant to the subject approved by the concerned faculty, individually or in a group of 3 to 5. Students should mandatorily submit a written report and make a presentation on the topic.  The task should not be repeated among students. Report will be evaluated by the faculty as per rubrics. Weightage for 5 marks Internal Assessment shall be as follows:  
+<br>Unsatisfactory 1, Developing 2, Satisfactory 3, Good 4, and Exemplary 5.
+<br><br>2. Reports should be made available along with bluebooks to IA verification officer.
+
+<b>Scheme of Valuation for SEE:</b>
+
+<br><br>1.	Record + Viva on Suggested activity Report : 05 + 05
+<br>2.	Concept of CADD work station and Demo of commands :	10
+<br>3.	Drawing and  taking print out of given 2D problem :	15
+<br>4.	Isometric drawing/3D drawings :	15
+
+<br><br><b>TOTAL = 50 Marks</b>

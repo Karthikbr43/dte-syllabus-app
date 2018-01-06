@@ -1,0 +1,60 @@
+UNIT I: BASIC CONCEPTS AND LAWS OF THERMODYNAMICS
+Basic concepts-Definitions :system - boundary, surrounding, working fluid and state of a system.-thermodynamic systems – closed, open and isolated systems with examples-Properties of system- Intensive and Extensive properties with examples.-Definitions for properties like Enthalpy (H), Entropy(s) Internal energy (U)-  Specific heat at constant pressure(Cp), specific heat at constant volume(Cv) for a gas-Relation between Cp andCv , characteristic gas equation,  Universal gas constant, Definitions for quasi-static work flow-Law of thermodynamics-Zeroth, first and second laws of thermodynamics- simple problems on conversion of Heat into Work and vice versa., Problems on gas equations-Steady flow energy equation (without proof) 
+<br><b>[10 Hrs] [25 Marks] </b>
+
+UNIT II: THERMODYNAMIC PROCESSES
+Thermodynamic processes,- Explain with P-V and T-S diagram the Constant pressure, Constant volume, Isothermal,  Isentropic, Polytrophic, Free expansion and throttling processes and equations representing the processes- Derivation for work done for the above processes- Calculation of change in internal energy, heat supplied or rejected, change in Entropy  for the above processes. Simple problems on the above processes	.
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT III: THERMODYNAMIC CYCLES
+Thermodynamic cycle – reversible and irreversible cycles conditions for reversibility of a cycle-Explanation of Carnot cycle with P.V. and T-S diagrams, Air standard Efficiency - Problems on Carnot cycle-Explanation of Otto cycle with P.V. and T-S diagrams, Air standard Efficiency - Simple problems on Otto cycle-Explanation of Diesel cycle with P.V. and T-S diagrams, Air standard Efficiency - Simple problems on Diesel cycle.-Explanation of Dual cycle with P.V. and T-S diagrams, Air standard Efficiency - Simple problems on dual cycle.
+<br><b>[11 Hrs] [30 Marks] </b>
+
+UNIT IV: IC ENGINES- PERFORMANCE OF I.C ENGINES	
+IC engine -definition-classification- Terminology of IC engine - Working principle of Two Stroke petrol and Diesel engine - Working principle of Four Stroke petrol and Diesel engine. Testing of IC engines-Rope brake Dynamometer-Formulae for Brake power, Indicated power Mechanical efficiency, Indicated thermal efficiency, Brake thermal efficiency, Air standard efficiency, Relative efficiency, Volumetric efficiency-Concept of Heat balance sheet for an engine-Simple problems on testing of I.C. engines and heat balance sheet
+<br><b>[12 Hrs] [35 Marks] </b>
+
+UNIT V:HEAT TRANSFER
+Introduction -Methods of heat transfer-- Conduction, convection and radiation -Fourier’s law of heat conduction-Newton law of cooling- Stefan-Boltzmann law -Heat transfer by conduction through slab and composite wall- Heat transfer by Radiation: -Thermal Radiation, Absorptivity, Transmissivity, Reflectivity, Emissivity, black and gray bodies, Radial heat transfer by conduction through thick cylinder-Simple problems on above (conduction only)
+<br><b>[05 Hrs] [15 Marks] </b>
+
+UNIT VI: GAS TURBINE AND JET PROPULSION SYSTEMS
+Gas turbines- classification of gas turbines-Closed cycle gas turbine-Schematic diagram-explanation-Open cycle gas turbine-schematic diagram-explanation-Comparison of open cycle and closed cycle gas turbines.-Jet propulsion-Ram–jet engine ,turbojet engines and Rocket engine- principle of working and application.
+<br><b>[04 Hrs] [10 Marks] </b>
+
+<b>Text books:</b>
+
+<br><br>1.	Heat Engines, Pandya and Shah, Charotar Publishing House 
+<br>2.	Thermodynamics and Heat power Engg., Mathur and Mehta, Tata Mcgraw- Hill 
+<br>3	A Text book of Thermal Engineering, R S Khurmiand J K Gupta, S Chand 
+<br>4.	Thermal Engineering, P.L.Ballaney, Khanna.Publishers 
+<br>5	Thermal Engineering, A. S. Sarao, SatyaPrakashan 
+<br>6	Thermal Engineering, R K Rajput, Laxmi.Publications 
+<br>7	Practical Thermodynamics, G D Rai, Khanna Publisher 
+
+<br><br><b>E –Learning</b>
+
+<br><br>a. http://www.nptel.iitm.ac.in/video.php?subjectId=112105123 (IIT-B Video lectures)   
+<br>b. http://www.thermofluids.net/  
+<br>c. http://www.learnerstv.com/Free-Engineering-Video-lectures-ltv301-Page1.htm  
+<br>d. http://www.grc.nasa.gov/WWW/k-12/airplane/thermo.html  
+<br>e. http://www.youtube.com/watch?v=Xb05CaG7TsQ  
+<br>f. http://www.youtube.com/watch?v=aAfBSJObd6Y  
+<br>g. http://www.youtube.com/watch?v=DHUwFuHuCdw  
+<br>h. http://www.youtube.com/watch?v=kJlmRT4E6R0  
+<br>i. http://www.youtube.com/watch?v=GKqG6n6nAmg  
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>1. Identify and list real situations which works on:
+<br>a: Zeroth law.
+<br>b: First law of thermodynamics.
+<br>c: Second law of thermodynamics.
+<br>2. Identify different Thermodynamic process in real situations.
+<br>3. Prepare charts of diesel, duel and gasoline cycles. Tabulate main points of differences between them.
+<br>4. Write the specifications of I.C.Engine of any two wheelers. Also Construct & explain cycle on which that I.C.Engine works.
+<br>5. Arrange visit to any gas turbine power plant/Diesel engine power plant, study the operational features of Gas turbines/Diesel engines
+
+<br><br><b>Note:</b> The activities or similar activities for assessing CIE (IA) for 5 marks (Any one)
+<br>1. Each student should do any one of the following type activity or any other similar activity related to the course and before conduction, get it approved from concerned Teacher and HOD.
+<br>2. Each student should conduct different activity and no repeating should occur

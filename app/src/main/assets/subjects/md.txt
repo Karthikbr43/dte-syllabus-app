@@ -1,0 +1,43 @@
+UNIT I: CONVENTIONAL REPRESENTATION
+Standard convention using SP – 46 (1988)-Materials C.I., M.S, Brass, Bronze, Aluminum, wood, Glass, Concrete and Rubber-Long and short break in pipe, rod and shaft.- Various sections- Half, removed,-Standard convention of Knurling, splined shafts, and chain wheels-Springs with square and flat ends, Gears, sprocket wheel-Countersunk andcounter bore
+<br><b>[04 Hrs] [15 Marks] </b>
+
+UNIT II: THREADED FASTENERS
+Screw thread terminology-Conventional representation of External threads and internal threads-Draw the top and front view of hexagonal headed bolt with nut across flat and  corner-Draw -square headed bolt across corner and flat-cylindrical headed bolt-Eye bolt-Locking devices-Draw the views of for standard dimensions-lock nut-castle nut-Studs-Tap bolt-Machine screws-washers-Keys-sunk key-Gib head key.(For a given standard diameter with proportions)
+<br><b>[12 Hrs] [15 Marks] </b>
+	
+UNIT III: RIVETED JOINTS	
+Rivets-types-Types of riveted joints-Draw the sectional front view and top view of-single riveted lap joint, double riveted lap joint with chain riveting and zigzag riveting. Draw the sectional front view and top view of-single riveted butt joint with single and double cover plate - double riveted butt joint with chain riveting and zigzag riveting with double cover plate.
+<br><b>[12 Hrs] [15 Marks] </b>
+
+UNIT IV: LIMITS, FITS AND TOLERANCES
+Concept of limits, fits and allowances--Introduction to ISO system of tolerance,-dimensional tolerances-Draw the working drawing plain step turned shaft of varying diameter, indicate the dimensional tolerances
+<br><b>[06 Hrs] [15 Marks] </b>
+
+UNIT V: PRODUCTION DRAWINGS	
+Surface roughness-Indication of machining-symbol showing direction of lay, roughness grades, machining allowances, Machining symbols used in industry
+(Suggested Practice:Disassembling of any Physical model having not less than five parts, sketch the minimum views required for each component, measure all the required dimensions of each component.)
+<br><b>[06 Hrs] [-- Marks] </b>
+
+UNIT VI: DETAILS TO ASSEMBLY
+Introduction to the unit assembly drawing, steps involved in preparing assembly drawing from Details-Sequence in assembly-Preparation of details and Assembly of parts with Sectional views of- Socket and Spigot joint Cotter Joint-- Knuckle joint- Protected Flanged coupling- Universal coupling-Plummer Block and  Screw Jack (Front, side and top views)
+<br><b>[38 Hrs] [70 Marks] </b>
+
+<b>Text books:</b>
+<br><br>Machine drawing, -K.R. Gopala Krishna  Subhas Publishers, Bangalore 
+
+<br><br><b>References:</b>
+<br><br>1.	Machine Drawing- N.D.Bhatt, Charotar Publication, Anand
+<br>2.	Machine Drawing-Sidheshwar-Tata McGraw Hill
+<br>3.	Code of practice for general engineering-IS Code SP 46(1988)- Engineering Drawing Practice for School and colleges
+<br>4.	Production Drawing-L.K.Narayanan,P.Kannaich,- New Age International Publication
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>1. Select at least four simple mechanical components each made up of minimum 5-6 Manufacturing operations. Get them approved by teacher. Measure and sketch them in a drawing sheet with dimensions.
+<br>2. Select at least one simple mechanical assembly in group of 5-6 students, each made up of minimum 5-6 manufacturing operations. Get them approved by teacher. Measure and sketch them in a drawing sheet with dimensions. Example- assembly of any coupling, carburetor, machine vice, fuel pump, tail stock etc.
+<br>3. Bring Actual assembly from workshop/industry, measure dimensions, sketch it and make 2D production drawing for the same.
+
+<br><br><b>Note:</b> The activities or similar activities for assessing CIE (IA) for 5 marks (Any one)
+<br>1. Each student should do any one of the following type activity or any other similar activity related to the course and before conduction, get it approved from concerned Teacher and HOD.
+<br>2. Each student should conduct different activity and no repeating should occur

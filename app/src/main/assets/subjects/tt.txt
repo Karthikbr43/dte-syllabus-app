@@ -1,0 +1,43 @@
+UNIT - I: Introduction
+Introduction & history of flooring tiles, Definition of Glazed tiles, raw materials with their sources, typical composition (for body & glaze), Properties. Types of glazed tiles, (wall and floor) manufacturing process of glazed tiles with flow chart (Both wet and Dry method). Definition of Vitrified tile, raw materials used, typical body composition, properties. Types of vitrified ceramic tiles, manufacturing process with flow chart. Comparison between glazed floor tiles vs glazed wall tiles vs vitrified tiles. Recent advancement in tile technology.
+<br><b>[08 Hrs] [20 Marks] </b>
+
+UNIT - II: Body Making
+<b>Wet Method:</b> Describe Batch compositions for glazed and vitrified tile, ball mill feeding, typical operating parameters of ball mill, grinding in ball mill, agitator, screening, magnetic separation, granulation in spray dryer, operating parameters of spray drier. 
+<br><b>Dry Method:</b> Crushing, Pendular Mill (Pan mill), tube mill, storing in silo, moisture addition for pressing. Powder characteristics. Use sketches wherever applicable.
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT - III: Pressing & drying
+Describe dry pressing machine, single and double stroke, uni-axial and biaxial pressing, stages in dry pressing, pressing variables, capacity of pressing machine, die size.
+<br>Describe drying, its need, drying time, drying temperature, driers used with respect to tile industry. Explain pressing & drying defects (laminations, warping, cracks) with causes and remedies.
+<br><b>[07 Hrs] [20 Marks] </b>
+
+UNIT - IV: Glaze line operations
+Illustrate water spraying, top and bottom engobe, glazing-spraying (mechanical / disc, pneumatic), curtain coating (bell method/water fall), typical operating parameters (density, viscosity, glaze thickness). Describe decoration methods (direct & indirect) screen printing, roller printing, digital printing and other decoration methods.
+<br><b>[09 Hrs] [25 Marks] </b>
+
+UNIT - V: Firing
+Describe fuels (natural gas, LPG) & furnace (roller hearth kiln) used in tiles industry, different zones with temperature, maintaining draught, illustrate typical firing schedule, control parameters in firing. 
+<br>Describe firing defects (pin holes, blisters, over glazing, under glazing, discoloration, over firing, peeling, crazing, crawling, fish scaling, stuck ware etc.) with their causes & remedies.
+<br>Operations for Vitrified Tiles: Polishing, edge trimming, different polishing materials with grades. Describe defects in vitrified tiles.
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT - VI: Testing and Quality Control
+Describe the methods for measurement of Moisture content with conventional and IR Moisture balance, particle size analysis of body powder, green body density distribution (penetrometer), viscosity & density of glaze slip.
+<br>Dimensional accuracy, water absorption test, porosity test, density test, shrinkage, thickness, glossiness, Strength (green and fired), MOR test, warpage test, abrasion resistance. 
+<br><b>[08 Hrs] [20 Marks] </b>
+
+<b>Reference Books:</b>
+
+<br><br>1. Indutrial Ceramics by Singer & Singer
+<br>2. Whitewares by Sudhir Sen
+<br>3. Tiles Technology	Handbook by SACMI 
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>1.	Surf the internet and find recent advancements in tile manufacturing and make a report.
+<br>2.	Search information related to advanced equipments used in ceramic tiles industry and make a report on the same.
+<br>3.	Visit nearby glazed /vitrified tile industry and make a report.
+<br>4.	Prepare a low temperature glazed tile in laboratory and make a report.
+
+<br><br><b>Note:</b> Student should prepare hand written report with minimum 2-3 pages and reports should not be copies from earlier batches. And other similar tasks can be assigned.

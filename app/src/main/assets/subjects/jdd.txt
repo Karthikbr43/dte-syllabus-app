@@ -1,0 +1,64 @@
+UNIT-I:	Introduction to Machine drawing 
+1.1. Machine design
+<br>1.2. Design procedure
+<br>1.3. Properties of material
+<br>1.4. Design considerations
+<br>1.5. Codes and standards
+<br>1.6. Factors influencing the selection of a suitable material for a machine element.
+<br><br><b>[04 Hrs] [05 Marks] </b>
+
+UNIT-II: Design of Riveted  joints
+2.1. Rivet, Riveting
+<br>2.2. Caulking and Fullering
+<br>2.3. Rivet heads
+<br>2.4. Types of Riveted joints. Merits of riveted joints
+<br>2.5. Terminology
+<br>2.6. Failure of Riveted joints
+<br>2.7. Strength of joint
+<br>2.8. Efficiency – Tearing efficiency, shearing efficiency and crushing efficiency.
+<br>2.9. Riveted  joints for Boiler or pressure vessels
+<br>2.10. Design of boiler joint- Design of longitudinal joint and design of circumferential joints
+<br>a. Design procedure for longitudinal joints
+<br>b. Design procedure for circumferential joints
+<br>2.11. Structural joints
+<br>2.12. Problems on longitudinal joint and circumferential joint and structural joints
+<br><br><b>[12 Hrs] [40 Marks] </b>
+
+UNIT-III: Design of welded joints
+3.1	Introduction to welded joints
+<br>3.2 Types of welded joints
+<br>3.3 Strong of butt welds, Lap or Fillet welds, Transverse (normal) fillet weld, combines (parallel and transverse fillet weld.   
+<br>3.4 Welded joint subjected to static and fatigue loading
+<br>3.5 Axially loaded unsymmetrical welded section 
+<br>3.6 Welded joint- Eccentric loading, Welds subjected to bending, Welds subjected to Torsion
+<br>3.7 Advantages of welded joints over riveted joints
+<br>3.8 Solve problems on welded joint under static and dynamic loading, axially loaded unsymmetrical welded sections, welding subjected to torsion and bending.
+<br><br><b>[12 Hrs] [40 Marks] </b>
+
+UNIT-IV: Sheet metal drawing
+4.1	Types of sheet metal joints
+<br>4.2 Different methods of design and development of sheet metal components
+<br>4.2	Development of component of shape cubes, prisms, cylinders using parallel line method
+<br>4.3	Development of pyramid, conical shaped component using radial line method
+<br>4.4	Development of components of transition pieces, connecting ducts, pipes and opening of different shapes using triangular methods.
+<br>4.5	Development of double curved surfaces such as spheres, parabolic etc. using approximate method
+<br>4.6	 Combination method of development, such as round to square, square to conical, conical to sphere etc.
+<br><br><b>[12 Hrs] [30 Marks] </b>
+
+UNIT-V: Welding Drawing
+5.1	Types of welded joints with edge preparation 
+<br>5.2	Types of pipe joint
+<br>5.3	Standard location of elements of welding symbols
+<br>5.4	Welding symbols
+<br>5.5	Design and joint details of column splices, column base and column seals
+<br>5.6	Design and joint details of  trusses like mill roof, fink roof
+<br><br><b>[12 Hrs] [30 Marks] </b>
+
+<b>Reference Books:</b>
+<br><br>1. Design of Machine Elements I; TBK Das & P. L Srinivas murthy
+<br>2. Design of Machine Elements;    R.S. khurmi and J.K. Gupta 
+<br>3. Mechanical Engineering design I; A.S Ravindra and M .S Annaiah
+
+<br><br><b>Note:
+<br><br>SECTION - I: Unit-I to Unit-III
+<br>SECTION - II: Unit-IV and Unit-V</b>

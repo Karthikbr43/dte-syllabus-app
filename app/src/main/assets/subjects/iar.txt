@@ -1,0 +1,88 @@
+UNIT I: Industrial Automation
+1.1 General Aspects 
+<br>1.2 Aims of Automation 
+<br>1.3 Elements of Automation 
+<br>1.4 Mechanization and Automation 
+<br>1.5 Types of Automation 
+<br>1.5.1 Fixed or hard automation 
+<br>1.5.2 Programmable automation 
+<br>1.5.3 Flexible (or soft) automation 
+<br>1.6 Low Cost Automation 
+<br>1.7 Applications of Automation 
+<br>1.8 Advantages and Limitations of Automation 
+<br><br><b>[08 Hrs] [20 Marks] </b>
+
+UNIT II: Assembly Automation Equipment - Transfer Devices And Feeders
+2.1 Introduction 
+<br>2.2 Classification of material handling systems 
+<br>2.3 Transportation system 
+<br>2.3.1 Transfer systems 
+<br>2.3.2 Transfer machines 
+<br>2.3.3 Transfer devices 
+<br>2.4 Feeding System 
+<br>2.4.1 Introduction 
+<br>2.4.2 Characteristics of feeder 
+<br>2.4.3 Types of feeders 
+<br>2.5 Random access transport systems (New trends) - Automated Guided Vehicles (AGVs) 
+<br>2.5.1 General aspects 
+<br>2.5.2 AGVs equipment 
+<br>2.5.3 Applications of AGVs 
+<br><br><b>[09 Hrs] [25 Marks] </b>
+
+UNIT III: Fundamentals Of Robot
+3.0 Introduction 
+<br>3.1 Definition of Robotics 
+<br>3.2 Difference between a robot and an automated machine 
+<br>3.3 Robot v/s NC technology 
+<br>3.4 Advantages and Disadvantages of Robots 
+<br>3.5 Physical configuration-Cartesian, Polar, Cylindrical and Jointed arm robot 
+<br>3.6 Six degrees of freedom 
+<br>3.7 Technical features 
+<br>3.8 Robot Programming Languages
+<br><br><b>[08 Hrs] [20 Marks] </b>
+
+UNIT IV: Robotic Systems
+4.0 Introduction 
+<br>4.1 Basic components of robotics system 
+<br>4.2 Mechanical Design of a Robot 
+<br>4.3 Types of Mechanical Joints 
+<br>4.4 Robots Qualities 
+<br>4.5 Robot Specifications 
+<br>4.6 Robot Control System 
+<br>4.6.1 Non Servo Control 
+<br>4.6.2 Servo Control 
+<br>4.7 Robot cell layouts 
+<br><br><b>[09 Hrs] [25 Marks] </b>
+
+UNIT V: Robots and Its End Effectors
+5.1 Introduction 
+<br>5.2 Types of End-effectors 
+<br>5.3 Classification of End-effectors 
+<br>5.4 Mechanical grippers – Two & three finger 
+<br>5.5 Vacuum grippers 
+<br>5.6 Magnetic grippers 
+<br>5.7 Adhesive grippers 
+<br><br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT VI: Robotic Sensors and Vision
+6.1 Introduction to Robotic Sensors 
+<br>6.2 Characteristics of sensing device 
+<br>6.3 Types of Sensors 
+<br>6.4 Touch or Tactile Sensors 
+<br>6.4.1 Binary sensors 
+<br>6.4.2 Analog sensors 
+<br>6.5 Position and displacement sensors-Optical encoder and LVDT
+<br><br><b>[08 Hrs] [25 Marks] </b>
+
+<b>Reference Books:</b>
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>1. Prepare a chart to show the Industrial automation elements
+<br>2. Prepare a chart to show the different types Assembly Automation Equipment- Transfer Devices And Feeders
+<br>3. Prepare a chart to show the Fundamentals of robots
+<br>4. Prepare a chart to show the Robotic system
+
+<br><br><b>Note:</b> The activities or similar activities for assessing CIE (IA) for 5 marks (Any one)
+<br>1. Each student should do any one of the following type activity or any other similar activity related to the course and before conduction, get it approved from concerned Teacher and HOD.
+<br>2. Each student should conduct different activity and no repeating should occur

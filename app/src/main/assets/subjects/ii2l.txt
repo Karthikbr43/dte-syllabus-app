@@ -1,0 +1,79 @@
+<b>Experiments:</b>
+
+<br><br><b>1.	R.P.M MEASUREMENT</b>
+<br>	STUDY OF STROBOSCOPE, TACHOMETER & REDUCTION COUNTER 
+<br>	EXPLAIN THE PRINCIPLES OF OPERATIONS
+<br>	TESTING & CALIBRATION OF R.P.M MEASURING INSTRUMENTS
+
+<br><br><b>2.	STRAIN MEASUREMENT</b>
+<br>	STUDY OF STRAIN GAUGES, LOAD CELL AND STRAIN INDICATOR
+<br>	EXPLAIN THE PRINCIPLES OF OPERATIONS.
+<br>	TESTING & CALIBRATION OF STRAIN MEASURING INSTRUMENTS
+
+<br><br><b>3.	LOAD MEASUREMENT</b>
+<br>	STUDY OF LOAD CELL, LOAD INDICATOR AND PROVING RING
+<br>	EXPLAIN THE PRINCIPLES OF OPERATIONS 
+<br>	TESTING & CALIBRATION OF LOAD MEASURING INSTRUMENTS
+
+<br><br><b>4.	MEASUREMENT OF FLOW</b>
+<br>	STUDY OF FLOW METERS
+<br>	EXPLAIN THE PRINCIPLES OF OPERATIONS 
+<br>	TESTING & CALIBRATION OF FLOW MEASURING INSTRUMENTS
+
+<br><br><b>5.  MEASUREMENT OF PRESSURE</b>
+<br>	STUDY OF PRESSURE GAUGES
+<br>	EXPLAIN THE PRINCIPLES OF OPERATIONS 
+<br>	TESTING & CALIBRATION OF PRESSURE MEASURING INSTRUMENTS
+
+<br><br><b>6.	DISPLACEMENT MEASUREMENT</b>
+<br>	STUDY OF LVDT MICROMETER 
+<br>	EXPLAIN THE PRINCIPLES OF OPERATIONS 
+<br>	TESTING & CALIBRATION OF DISPLACEMENT MEASURING DEVICES
+
+<br><br><b>7.	TEMPERATURE MEASUREMENT</b>
+<br>	STUDY OF TEMPERATURE GAUGES
+<br>	EXPLAIN THE PRINCIPLES OF OPERATIONS
+<br>	TESTING & CALIBRATION OF TEMPERATURE MEASURING DEVICES
+
+<br><br><b>8.	STUDY OF RECORDERS</b>
+<br>	STUDY OF RECORDERS
+<br>	EXPLAIN THE PRINCIPLES OF OPERATIONS 
+<br>	TESTING & CALIBRATION OF RECORDERS
+
+<br><br><b>9.	P H MEASUREMENT</b>
+<br>	STUDY OF P H INDICATORS AND P H ELECTRODE
+<br>	EXPLAIN THE PRINCIPLES OF OPERATIONS
+<br>	TESTING & CALIBRATION OF STRAIN P H MEASURING DEVICES 
+
+<br><br><b>10.	MEASUREMENT OF SPEED</b>
+<br>	STUDY OF SPEEDOMETER, TEST RIG AND TACHOMETER
+<br>	EXPLAIN THE PRINCIPLES OF OPERATIONS 
+<br>	TESTING & CALIBRATION OF SPEEDOMETER
+
+<b>Reference Books:</b>
+
+<br><br>1.	Mechanical Measurements And Instrumentation	A. K. Sawhney and Puneeth Sawhney	DhanpatRai & Sons, New Delhi.
+<br>2.	Mechanical Measurement and Control	Dr.D.S.Kumar	Metropolitan Book Company Pvt. Ltd., New Delhi
+
+<br><br><b>SUGGESTED LIST OF STUDENT ACTIVITY:</b>
+
+<br><br>1. 	Ask the students to bring two or three used gauges, disassemble, find the defects, rectify it assemble and calibrate. 
+<br>2. 	Repeat the above procedure for other equipments also.
+<br>3. 	Take the students for industrial visit for a nearby industry, select any two calibrated gauges. Check for standardization.
+
+<br><br><b>Note:</b>
+<br>1.	Each student should submit any one of the following type activity or any other similar activity related to the course and before take up get it approved from concerned Teacher and HOD.
+<br>2.	Each student should conduct different activity and no repeating should occur
+
+<b>Scheme of Valuation for SEE:</b>
+
+<br><br>1.	Writing procedure
+<br>a) One Individual experiment : 5
+<br>b) one Group experiment : 5
+<br><br>2.	Conducting of Experiment 
+<br>a) One Individual experiment : 10
+<br>b) One Group experiment : 10
+<br><br>3.	Tabulation, Calculation & results (Both experiments) : 10+05=15
+<br>4.	Viva : 05
+
+<br><br><b>TOTAL = 50 Marks</b>

@@ -1,0 +1,40 @@
+UNIT - I: Assembly drawing of followings
+1.Non-return valve 
+<br>2.Globe valve
+<br>3.Gate valve
+<br>4.Ball valve 
+<br>5.Diaphragm valve
+<br>6.Gland cock 
+<br>7.Rams bottom safety valve
+<br>8.Lever safety valve
+<br>9.Angle stop valve 
+<br>10.Bucket trap 
+<br>11.Invested bucket trap
+<br>12.Thermodynamics steam trap
+<br>13.Centrifugal pump
+<br>14.Ram pump
+<br>15.Nylon roller pump
+<br>16.Gear pump
+<br><br><b>[66 Hrs] [70 Marks] </b>
+
+UNIT - II: Line sketches of following chemical engineering equipments
+1.Jacketed vessel 
+<br>2.Bourdon pressure gauge
+<br>3.Shell and tube heat exchanger
+<br>4.Bessemer  converter 
+<br>5.Standard vertical tube evaporator
+<br>6.Steam jet ejector
+<br>7.Rotary drum filter
+<br>8.Swenson walker crystallizer
+<br>9.Rotary kiln
+<br>10.Ball Mill 
+<br>11.Thickener
+<br>12.Venturi meter
+<br><br><b>[12 Hrs] [30 Marks] </b>
+
+<b>Reference Books:</b>
+
+<br><br>1.	Machine Drawing- N.D.Bhatt, Charotar Publication, Anand
+<br>2.	Process equipment design by V. Joshi
+<br>3.	Chemical Engineering data hand book by Perry.
+<br>4.	Machine drawing, -K.R. Gopala Krishna  Subhas Publishers, Bangalore. 

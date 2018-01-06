@@ -1,0 +1,47 @@
+UNIT - I: Architecture of MCS 8051
+Block diagram of microprocessor, microcontroller, and microcomputer, Classification of microcontroller; features of following types of microcontroller: - Embedded, External Program memory, RISC, CISC, Harvard architecture, Princeton architecture. Features of 8051 family microcontroller, Functional block diagram of 8051 and mention on chip sources, Study various register set, data memory, program memory, register banks and stacks of 8051 MCS, Pin details of 8051. Architecture of PIC Micro controllers (PIC 16F74) and its application
+<br><b>[10 Hrs] [25 Marks] </b>
+
+UNIT - II: Instruction Set and Assembly Programming of 8051
+Discuss the following terms: - Instruction, Program and Software, Addressing modes of MCS-8051, Assembly instruction format, assembler, assembler directives, linker, loader and cross compiler 
+<br>Classify MCS-8051 Instruction set, Write syntax and function of each instruction with example, Simple programs to perform arithmetic, logical, looping and conditional jump operations. 
+<br><b>[18 Hrs] [45 Marks] </b>
+
+UNIT - III: Hardware Programming
+Study I/O port structure for I/O operations, Study timer/counter registers for programming timer/counter, Serial communication using I/O port, Study programming using interrupts.
+<br><b>[10 Hrs] [25 Marks] </b>
+
+UNIT - IV: Applications of MCS-8051
+Introduction, Functional details of PPI 8255, Applications of 8051 to control LED, BUZZER, RELAY, and OPTOCOUPLER, Interfacing the following modules with 8051: - ADC, DAC, Seven segment display, LCD and Stepper motor.
+<br><b>[07 Hrs] [25 Marks] </b>
+
+UNIT - V: Industrial Applications of Microcontrollers
+Microcontroller based Robot arm position measuring system, Microcontroller based angular position measuring system, Explain microcontroller based angular speed measuring system, and Explain microcontroller based force measuring system 
+<br><b>[07 Hrs] [25 Marks] </b>
+
+<b>Reference Books:</b>
+
+<br><br>1. The 8051 Microcontroller and Embedded Systems  by M.A.Mazdi and J.G.Mazdi
+<br>2. The 8051 Microcontroller (Architecture, Programming and Applications) by Kenneth J Ayala
+<br>3. Designing with PIC Microcontrollers by Jhon D Peatman
+<br>4. Microcontrollers [Theory and applications] by Ajay V Deshmukh ( TMH  publication) 
+<br>5. 8051 Microcontroller, V. Uday shankara, TMH
+
+<br><br><b>E –Learning</b>
+
+<br>https://www.siemens.com/microcontrollers
+<br>https://www.microcontroller.com
+<br>https://www.embeddedindia.com
+<br>https://www.neatsite.com/micros.htm
+<br>https://www.Microchip.com
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>1. Students can make models of Micro controller applications excluded from the curriculum.
+
+<br><br><b>Note:</b> 
+
+<br>1. Group of max four students should do any one of the above activity or any other similar activity related to the course COs and get it approved from concerned Teacher and HOD. 
+<br>2. No group should have activity repeated or similar 
+<br>3. Teacher should ensure activities by different groups must cover all COs 
+<br>4. Teacher should asses every student by using suitable Rubrics approved by HOD

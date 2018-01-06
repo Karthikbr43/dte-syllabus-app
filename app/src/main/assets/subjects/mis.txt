@@ -1,0 +1,45 @@
+UNIT I: Fundamental Concepts of Information Systems
+Information System in Business; Information technologies, Information System frame work for Business Professionals, The Fundamental roles of  Information System in Business, Trends in Information System.
+<br>Operating Support System, Management Support System, Other classification of Information System, Managerial Challenges of Information Technology, Success and Failure with Information Technology. 
+<br><b>[06 Hrs] [18 Marks] </b>
+
+UNIT II: Electronic and Functional Business Systems
+Enterprise Business Systems: Introduction, Cross-functional enterprise applications, Enterprise application integration, Transaction processing systems, Enterprise collaboration systems.  
+<br>Introduction, marketing systems, Manufacturing systems, Human resource systems, Accounting systems, financial management systems.
+<br><b>[10 Hrs] [28 Marks] </b>
+
+UNIT III: Decision Support Systems
+Decision support in business: Introduction, Decision support trends, Decision support systems (DSS), Management Information Systems, Executive information systems, An overview of AI, Expert systems.
+<br><b>[08 Hrs] [23 Marks] </b>
+
+UNIT IV: Security and Ethical Challenges
+Security, Ethical and societal challenges of IT: Introduction, Ethical responsibility of business professionals, Computer crime
+<br>Security management of IT: Introduction, Tools of security management, Internet worked security defenses, other security measures.
+<br><b>[12 Hrs] [30 Marks] </b>
+
+UNIT V: Developing Business/IT Strategies
+Planning fundamentals – Introduction, Organizational Planning, The Scenario Approach, Planning for competitive advantage, Business Models and Planning, Identifying Business IT strategies, Business Application Planning
+<br><b>[08 Hrs] [23 Marks] </b>
+
+UNIT VI: Implementation Challenges
+Implementation, Implementing information technology, end user resistance and involvement, Change management
+<br><b>[08 Hrs] [23 Marks] </b>
+
+<b>Text books:</b>
+<br><br>1.	Management Information Systems,James A O’Brien, George M Marakas, Seventh Edition,Tata McGraw Hill
+
+<br><br><b>References:</b>
+<br><br>1.	Management Information Systems, Kenneth C Laudon, Jane P. Laudon, Fourteenth Edition, Pearson
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>1. Give a presentation on Information on the present software.
+<br>2. Prepare a report and demonstrate on any business.
+<br>3. Prepare a report on the comparison study of MISs.
+<br>4. List and prepare a reporton different types of crimes in information field and list out the solutions.
+<br>5. Conduction of seminars on planning different types of businesses with the technology.
+<br>6. Demonstrate the implementation of information in business.
+
+<br><br><b>Note:</b> The activities or similar activities for assessing CIE (IA) for 5 marks (Any one)
+<br>1. Each student should do any one of the following type activity or any other similar activity related to the course and before conduction, get it approved from concerned Teacher and HOD.
+<br>2. Each student should conduct different activity and no repeating should occur

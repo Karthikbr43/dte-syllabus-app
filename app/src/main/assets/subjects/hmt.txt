@@ -1,0 +1,43 @@
+UNIT-I: INTRODUCTION 
+Importance of Heat Transfer, Modes of Heat Transfer, Mechanism of Thermal Conduction in Solids, Liquids & Gases, Thermal Conductivity, Basic laws of Heat Transfer, Heat Transfer at interface of two Solids, Heat flux, Thermal Diffusion, Steady state and unsteady state, Concept of driving potential, Simple Problems. 
+<br><b>[08 Hrs] [30 Marks] </b>
+
+UNIT-II: CONDUCTION 
+Derivation of Three Dimensional Heat Conduction Equation in Cartesian Co-ordinates, Special form of heat conduction equation, Heat conduction equation in Polar Co-ordinates (No Derivation), Heat conduction equation in Spherical Co-ordinates (No Derivation), One Dimensional Steady state Heat Conduction Without internal Heat Generation through. Plane slabs, Cylinders & Spheres with uniform thermal Conductivity, Thermal resistance & Electrical analogy of Thermal systems, Critical Radius of Insulation for cylinders & spheres, Heat Transfer through Composite slabs, Cylinders & Spheres, Fins. 
+<br><b>[10 Hrs] [20 Marks] </b>
+
+UNIT-III CONVECTION AND BOILING & CONDENSATION
+<b>CONVECTION:</b> Introduction, Convection Heat Transfer Co-efficient, Forced & Free or Natural Convection, Laminar flow & Turbulent flow, The Boundary Layers Concept, The Velocity Boundary Layer over on a flat plate, The Thermal Boundary Layer (No Problems) 
+<br><b>BOILING & CONDENSATION:</b> Boiling Heat Transfer Phenomena, Pool Boiling, Flow Boiling, Condensation, Film Wise Condensation, Drop Wise Condensation (No Problems) 
+<br><b>[09 Hrs] [25 Marks] </b>
+
+UNIT-IV: RADIATION AND MASS TRANSFER
+<b>RADIATION:</b> Introduction, Nature of Thermal Radiation, Emissive power, Absorption, Reflection & Transmission, concept of Black body, Laws of black body radiation, Plank’s Distribution law(No Derivation-Only final equation), Weins Displacement Law (No Derivation –Only Final equation), Stefan Boltzmen Law , Kirchhoff’s Law (No Problems) 
+<br><b>MASS TRANSFER:</b> Introduction, Mass Transfer, By Diffusion, By Convection, By change of phase, Velocities & Fluxes, Fick’s law of diffusion mass transfer, Comparison of Ficks law, Fourier’s law & Newton’s law of viscosity (No Problems)
+<br><b>[08 Hrs] [15 Marks] </b>
+
+UNIT-V: HEAT EXCHANGERS 
+Introduction, Classification of Heat Exchangers in Detail, According to principle & operation, According to Design & Construction, According to physical state of Fluids, According to flow of liquids, over all Heat Transfer Co-efficient, Temperature Distribution of Parallel & Counter flow rate Heat Exchangers, LMTD for Parallel & Counter flow Heat Exchangers (No Derivation), Fouling Factor, Assumptions made in obtaining the expression of LMTD, LMTD method of Analysis (No Derivation for LMTD) (No Problems). 
+<br><b>[07 Hrs] [25 Marks] </b>
+
+UNIT-VI: THERMAL MANAGEMENT & HEAT PIPES
+Thermal Management, Introduction, Heat sinks, Thermal management, Need of thermal management, Thermal management application in various fields, Advanced cooling technologies, Introduction to fire science.
+<br>Heat Pipes, Introduction, Working principles of heat pipes, Advantages of heat pipes, Application of heat pipes
+<br><b>[10 Hrs] [30 Marks] </b>
+
+<b>Reference Books:</b>
+
+<br><br>1. Heat and mass transfer, Sathyanarayana Swamy, B.N Veeranna
+<br>2. Engineering Heat & Mass Transfer, R.C Sachedeva., sudha
+<br>3. Heat & Mass Transfer, Balachandra V.Karelekar & Robert M Desmond., sudha
+<br>4. Heat & Mass transfer, R.S Khurmi., S Chand
+<br>5. http://nptel.ac.in
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>1. Visualize and Identify applications of Heat exchangers and heat pipes.
+<br>2. Thermal management application in various fields
+
+<br><br><b>Note:</b> The activities or similar activities for assessing CIE (IA) for 5 marks (Any one)
+<br>1. Each student should do any one of the following type activity or any other similar activity related to the course and before conduction, get it approved from concerned Teacher and HOD.
+<br>2. Each student should conduct different activity and no repeating should occur

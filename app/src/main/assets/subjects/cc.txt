@@ -1,0 +1,57 @@
+UNIT - I: Introduction to Ceramic Coatings
+Define coating, importance of coatings and classification of ceramic coatings, define Glaze, Enamel, Differentiate Glass vs. Glaze vs. Enamel, Properties of Glaze and Enamel, Effect of Glaze on electric and mechanical properties of ceramic body.
+<br>Classification of Glaze: Raw glaze, Fritted Glaze, Lead Glaze, Opaque Glaze, Matt Glaze, Crystalline Glaze, vapour Glaze.
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT - II: Raw materials
+Discuss different raw materials for making glaze like Clay, Quartz, feldspar (soda & potash), sodium carbonate, alumina, barium oxide, zirconia, etc.
+<br>Categorize the  raw material as Glass forming oxides, network modifiers, Fluxes,  Amphoteric oxides(Alumina), alkali materials (Sodium Carbonate, Sodium Chloride, Sodium Nitrate, Sodium Hydroxide, Sodium Silica fluoride, Potassium Carbonate, Sodium Nitrate, litharge, red lead), alkaline earth materials (Barium Carbonate, calcium carbonate, borax, boric acid). Describe opacity and Opacifiers (Tin oxide, zirconia, zircon, antimony oxide, & calcium fluoride) and mill additives.
+<br>Properties and functions of each material in desired coating material
+<br><b>[08 Hrs] [20 Marks] </b>
+
+UNIT - III: Preparation and Application of Glaze
+Choose the raw materials for desired Glaze; formulate the composition, Define Frit, importance of fritting, fritting rules, preparation of Frit.
+<br>Batch preparation: weighing of raw materials, mixing, grinding. Controlling parameters of glaze (density, viscosity, & fineness/residue)
+<br>Application of Glaze: describe the different application method of Glazing like dipping, pouring, brushing, spraying (mechanical, electrostatic, pneumatic, Plasma spraying)
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT - IV: Firing and defects of Glaze
+Describe the firing Schedule of Glaze, placing precautions of Glazed material, understand the pyro-chemical reaction, 
+<br>Categorize the defects, Explain common defects in Glaze like crazing: types of crazing, instant and delayed crazing, crawling, peeling, pinholes, blistering, chipping, over glazing, etc. Describe the causes and remedies of particular defects
+<br><b>08 Hrs] [20 Marks] </b>
+
+UNIT - V: Decoration in Glaze
+Define colour; explain different ceramic material as colouring oxide like manganese, cobalt, chromium, iron, & copper and their associated color. Describe the stain and its preparation methods
+<br>Discuss different types of decorating techniques: In Glaze, On Glaze, Under Glaze decoration.
+<br>Describe Painting, banding & lining as direct decorating, Screen printing, & Chromolithographic as indirect decorating and Stamping & Stenciling as semi direct decorating method.
+<br><b>[06 Hrs] [15 Marks] </b>
+
+UNIT - VI: Enamel coatings
+Define enamel discuss various types of enamel like vitreous, soft and, hard porcelain, colored, iron, steel & jewellery enamels 
+<br>Describe raw materials and frit making with enamel frit furnace, crucible frit furnace working process
+<br>Describe the metal preparation for enamel coating by organic detergents, chemical method, degreasing by heat treatment and pickling method
+<br>Illustrate the composition of enamel, describe milling of enamel batch and mill additives, define Ground and Cover coat. Explain the application method by dipping and spraying 
+<br>Generalize the defects from enameled body, like under fired, rolling, scaling, chipping, pinholes, crazing. Describe the causes and remedies of these defects
+<br><b>[10 Hrs] [30 Marks] </b>
+
+<b>Reference Books:</b>
+
+<br><br>1.	The potters book of Glaze recepie - Emmanuel Cooper 
+<br>2.	The Ceramic Glaze Handbook: Materials - Mark Burleson
+<br>3.	Glaze: The Ultimate Ceramic Artist's Guide to Glaze and Color - Kate Doody
+
+<br><br><b>Website:</b>
+
+<br><br>1.	http://ceramicartsdaily.org/
+<br>2.	http://www.sheffield-pottery.com/
+<br>3.	http://www.torrecid.com/
+<br>4.	https://en.wikipedia.org/wiki/Ceramic_glaze
+
+<br><br><b>Suggested Student Activity:</b>
+<br><br>1.	Prepare a Glaze of your own composition and apply the glaze on terracotta body by spraying method
+<br>2.	Clean a rusty metal coated with grease by suitable metal preparation method for enamelling and make a report on the steps and difficulties faced.
+<br>3.	Analyze  Glaze defects of different glazed products and report the same with their causes and remedies 
+<br>4.	Compose a glaze composition to produce defect free product and report the same
+<br>5.	Decorate the Glazed body by using any defined techniques and report the product
+<br>6.	Decorate a glazed tile with ceramic chromolithographic transfer papers and fire it.
+<br><br><b>Note:</b> Student should prepare hand written report with minimum 2-3 pages and reports should not be copies from earlier batches. And other similar tasks can be assigned.

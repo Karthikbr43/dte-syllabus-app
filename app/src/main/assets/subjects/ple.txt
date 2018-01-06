@@ -1,0 +1,76 @@
+UNIT - I: Basic Plant Facilities
+1.1 Industrial Ventilation 
+1.2 Water supply System 
+1.3 Water Purification and Treatment 
+1.4 Water Cooling System 
+1.5 Electric Power Distribution System 
+1.6 Electric Supply system 
+1.7 Stand by and Emergency Power 
+1.8 Lighting, Insulators 
+1.9 Steam Supply System. 
+<br><b>[08 Hrs] [25 Marks] </b>
+
+UNIT - II: Material handling
+2.1 Introduction 
+2.2 Principles of material handling systems 
+2.3 Classifications of material handling systems 
+2.3.1 Belt conveyer 
+2.3.2 Chain conveyer 
+2.3.3 Over head crane 
+2.4 Selections of material handling system 
+2.5 Applications of material handling system 
+2.6 Safety Precautions of Material Handling Equipments 
+<br><b>[08 Hrs] [20 Marks] </b>
+
+UNIT - III: Mechanical Maintenance
+3.1 Total Productive Maintenance 
+3.2 TPM circle 
+3.3 Planning and Scheduling of Maintenance work 
+3.4 Repair Cycle 
+3.5 Maintenance Stages 
+3.6 Spare parts Management 
+3.7 Lubrication of Machine Tools 
+3.8 Maintenance Manuals and Reports 
+<br><b>[11 Hrs] [30 Marks] </b>
+
+UNIT - IV: Electrical Maintenance
+4.1 Equipment needed for electrical maintenance
+4.1.1 Functions of -Ammeter, Voltmeter, Multimeter, tong Tester, Energy Meter, fuses, overload relays, circuit breakers. 
+4.2 Safety measures 
+4.2.1 Earthing, Double Earthing 
+4.2.2 Precautions against electric shock Prevention of electric fire. 
+4.2.3 Lightening arresters on tall buildings
+<br><b>[09 Hrs] [25 Marks] </b>
+
+UNIT - V: Accidents and Safety
+5.1 Accidents
+5.2 Definition 
+5.3 Causes of Accidents 
+5.4 Types of Accidents 
+5.5 Effects of Accidents 
+5.6 Accident report writing 
+5.7 First aid, Legal aspects 
+5.8 Personal Protective Equipments 
+5.9 Safety Policies 
+5.10 House Keeping 
+<br><b>[08 Hrs] [25 Marks] </b>
+
+UNIT - VI: Industrial waste and waste disposal
+6.1 Effluent treatment plant 
+6.2 Solid waste disposals 
+6.3 Bio-treatment of solid and liquid waste 
+6.4 Recycling of waste 
+6.5 ISO-14000 Systems 
+<br><b>[08 Hrs] [20 Marks] </b>
+
+<b>Text books:</b>
+
+1. H.P. Garg Industrial Maintenance- S Chand K. T. Kulkarni 
+2. Introduction to Industrial Safety - Self Published Robert C. Rosaler 
+3. Plant Engineering Handbook- McGraw HILL Lindecy R Higgins 
+4. Maintenance engineering - McGraw HILL P. GopalKrishnan & A.F. Banerji 
+5. Maintenance & spare part maintenance Prentice –hall of India Ltd. G.C. Sen. & A. Bhattacharya 
+6. Principles of Machine tools- New Central Book Agency C.R. Dragon 
+7. Electrical Technology- Dhanpat Rai and Sons A A Hattangadi 
+8. Failure prevention of Plant and machinery- Tata McGraw HILL Reference books : K.C.Agrawal- Industrial power engg. & application handbook
+

@@ -1,0 +1,71 @@
+UNIT-I: FUEL FEED SYSTEMS IN SI ENGINES	
+Fuel feed systems- function – types, Gravity feed system – layout – construction,  Pump feed system – layout – construction, Fuel tank, Fuel filter - need , Air filters – need – types, Wet and Dry type – construction - working , AC mechanical fuel pump – construction – working,  SU electrical fuel pump -  construction – working.
+<br><b>[09 Hrs] [25 Marks]</b>
+
+UNIT-II: CARBURETORS
+Carburization, Atomization, Vaporization, Air fuel ratio requirements – Carburetor -  requirements, Simple carburetor – Principle – construction – working – limitations,  Classifications of carburetors based on various parameters , S U carburetor - construction – working.
+<br><b>[07 Hrs] [20 Marks]</b>
+
+UNIT-III: FUEL FEED SYSTEMS IN CI ENGINES
+Fuel injection systems – requirement – function – types,  Layouts of - Individual pump injection system -  Distributor type injection system  – common rail injection  - unit injection system,  Water separator - Construction – working, Fuel filters -  primary filter - secondary filters - purpose -  construction – working of each type.
+<br><b>[07 Hrs] [20 Marks]</b>
+
+UNIT-IV: FUEL INJECTION PUMPS IN CI ENGINES	
+Plunger type Fuel feed pump - construction – working,  Fuel injector  - construction – working,  Fuel nozzles – types - construction – working,  Governors –necessity - classification - mechanical and pneumatic governor -  construction  -  working of each type.
+<br><b>[11 Hrs] [30 Marks]</b>
+
+UNIT-V: COOLING SYSTEM
+Cooling system-purpose-types, Air cooling system –construction-working- merits and demerits, Pump circulation water cooling system - necessity - construction-working -merits and demerits, Water Pump - construction - working, Radiator-necessity, Radiator pressure cap-need- construction - working , Expansion tank- necessity, Thermostat valve- necessity- types-construction – working, Anti-freeze solutions-purpose, Anti-rust solutions-purpose.
+<br><b>[07 Hrs] [20 Marks]</b>
+
+UNIT-VI: LUBRICATION SYSTEM	
+Lubricants - types – properties - SAE ratings – applications ,  Lubrication system-purpose-types, Petrol ,Splash Lubrication-construction- working, Force feed lubrication system- construction- working, Gear pump - Construction- working,   Rotor pump - Construction- working,  Vane pump - Construction- working,  Full flow filtering system – layout - working,   By-pass  flow filtering systems  -  layout- working, Bearings – need - types, Shell bearings - Ball bearings - Thrust bearings – necessity - Construction and working of each type. 
+<br><b>[11 Hrs] [30 Marks]</b>
+
+<b>Reference Books:</b>
+
+<br><br>1	Automobile Engineering vol-2,Kirpal singh,Standard publications
+<br>2	Automobile Engineering,R B Gupta,Satya Prakashan
+<br>3	Automotive Engines,S Srinivasan,Tata McGraw-Hill
+<br>4	Automotive Technology,H M Sethi,Tata McGraw-Hill
+<br>5	Automotive  Mechanics,Crouse and Anglin,Tata McGraw-Hill
+<br>6	Automotive Engineering vol-2,Anil Chikara,Satya Prakashan
+<br>7	The Automobile,Harbans singh rayat,S Chand
+<br>8	Automobile Engineering,	Er.A.K.Babu, Er Ajit Pal Singh,	S Chand
+
+<br><br><b>Websites:</b>
+<br><br>1.	How stuff works.com
+<br>2.	https://www.youtube.com/watch?v=9BYm0HnLGRU
+<br>3.	https://www.youtube.com/watch?v=5W1ucQsksSA
+<br>4.	https://www.youtube.com/watch?v=wyspAHrMbb8
+<br>5.	https://www.youtube.com/watch?v=zUuVQfvWSnI
+<br>6.	https://www.youtube.com/watch?v=V7inC4lOpGs
+<br>7.	https://www.youtube.com/watch?v=f45kAmjAOYA
+<br>8.	https://www.youtube.com/watch?v=_HclvBmwWgQ
+<br>9.	https://www.youtube.com/watch?v=DG-STqFiCg0
+<br>10.	https://www.youtube.com/watch?v=mmmcj53TNic
+<br>11.	https://www.youtube.com/watch?v=eFe43SnBlMI
+<br>12.	https://www.youtube.com/watch?v=qUzvNA2b4ms
+<br>13.	https://www.youtube.com/watch?v=MOoQMT9EfnQ
+<br>14.	https://www.youtube.com/watch?v=EbjDH7fr_J8
+<br>15.	https://www.youtube.com/watch?v=9-GSNR7W73M
+<br>16.	https://www.youtube.com/watch?v=F6wmSCgVWOM
+<br>17.	www.youtube.com/watch?v=jHZ4giLdbtc
+<br>18.	http://lh5.ggpht.com/_dSeRrhZ5pEA/TdrCh5n7X2I/AAAAAAAAAOM/cNk-nB96CVU/Howmechanicalpumpworks_thumb4.jpg?imgmax=800
+<br>19.	https://www.youtube.com/watch?v=0ycvbFxB87s
+<br>20.	https://www.youtube.com/watch?v=BaEHVpKc-1Q
+<br>21.	https://www.youtube.com/watch?v=c6gwU7IHtlo
+<br>22.	https://www.youtube.com/watch?v=t6RiX5HDKQg
+<br>23.	https://www.youtube.com/watch?v=BnvzPoNSXCg
+<br>24.	https://www.youtube.com/watch?v=Zom_hp_M6IE
+<br>25.	https://www.youtube.com/watch?v=MYvbDaHoxRg
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>1. Visit nearby garage/service station and collect information on specification of components of different automobile fuel feed systems.
+<br>2. Visit nearby garage/service station and collect information on specification of components of different automobile cooling system systems.
+<br>3. Visit nearby garage/service station and collect information on specification of components of different automobile lubrication systems.
+
+<br><br><b>Note:</b> The activities or similar activities for assessing CIE (IA) for 5 marks (Any one)
+<br>1. Each student should do any one of the following type activity or any other similar activity related to the course and before conduction, get it approved from concerned Teacher and HOD.
+<br>2. Each student should conduct different activity and no repeating should occur

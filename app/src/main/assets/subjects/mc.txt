@@ -1,0 +1,43 @@
+UNIT I: Basics of Communication Technologies
+Mobile handsets, Wireless Communications and Server Applications, Cell phone System, Types of Telecommunication Networks, Components of wireless communication system, Architecture of mobile telecommunication system, wireless networking standards, 
+<br>Wireless LANs,Wireless LAN Architecture, Applications of WLANs, Advantages of WLANs over wired LANs, Bluetooth Technology,Protocol stack of Bluetooth.
+<br><b>[06 Hrs] [17 Marks] </b>
+
+UNIT II: Introduction to Mobile Computing and Wireless Networking 
+Define	Mobile	 Computing, Mobile Computing vs. Wireless Networking, Mobile  Computing Application, Characteristics of Mobile	 Computing, Structure of Mobile Computing Application, Cellular Mobile Communication, Generation of Cellular Communication Technologies, Global System for Mobile communications(GSM),GSM Services, System Architecture of GSM,GSM security, General Packet Radio Service(GPRS),GPRS	Services, GPRS ArchitectureUniversal Mobile Telecommunication System (UMTS),UMTS Network Architecture, SDR, Mobile phone and human body.
+<br><b>[16 Hrs] [45 Marks] </b>
+
+UNIT III: Mobile IP and Mobile Ad Hoc Networks(MANET)
+Mobile IP, Packet Delivery, Desirable features of Mobile IP,Key mechanism used in Mobile IP, Route Optimization, Dynamic Host Configuration Protocol(DHCP),significance of DHCP.A Few Basics concepts-How is an Ad Hoc Network setup without the infrastructure Support?, Why is Routing in  a MANET a Complex Task?, Characteristics of Mobile Ad Hoc Networks(MANETs)-MANET Operational Constraints, Applications of MANETs, MANET  Design issues, Routing ,Vehicular Ad Hoc Networks(VANETs), MANET vs VANET, Security issues in a MANET.
+<br><b>[12 Hrs] [33 Marks] </b>
+
+UNIT IV: Operating Systems for Mobile Computing 
+A Few Basic Concepts, Special Constraints and Requirements of Mobile OS,A Survey of Commercial Mobile Operating Systems,Windows Mobile, Palm OS, Symbian OS, iOS, Android, Blackberry OS,A Comparative study of Mobile OS,OS for sensor Network.
+<br><b>[06 Hrs] [17 Marks] </b>
+
+UNIT V: Mobile Application Development and Protocols
+Mobile Devices as Web Clients ,HDML(Handheld Markup Language) ,WAP, J2ME - J2ME Configuration, Android Application Development - Software Development Kit(SDK), Features of SDK, Android Application Components, Android Software stack Structure, Advantages of Android.
+<br><b>[08 Hrs] [22 Marks] </b>
+
+UNIT VI: Mobile Commerce
+Application of M-Commerce,Business to Consumer(B2C) Applications, Business to Business (B2B) Applications,. Structure of M-Commerce, Pros and Cons of M-Commerce, Mobile Payment System,Mobile Payment Schemes, Desirable properties of a Mobile Payment system, Mobile Payment solutions, Process of Mobile Payment, Security Issues.
+<br><b>[04 Hrs] [11 Marks] </b>
+
+<b>Text books:</b>
+<br><br>1.	Fundamentals of Mobile Computing, Prasant Kumar Pattanaik, Rajib Mall, Second Edition, PHI, ISBN: 978-81-203-5181-3
+
+<br><br><b>References:</b>
+<br><br>1.	Mobile Computing, ASOKE TALUKDER HASAN AHMED ROOPA R YAVAGAL,Second Edition.Mc GrawHill
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>1. Give a presentation on call setup between two mobile phones.
+<br>2. Prepare a report and demonstrate Bluetooth technology.
+<br>3. Prepare a report on the working of GSM and GPRS
+<br>4. List and prepare a report any one application used by MANET.
+<br>5. With a real world example prepare a report on different mobile payment solutions for different payment schemes.
+<br>6. Prepare a report on procedure for working of software in shopping mall.
+
+<br><br><b>Note:</b> The activities or similar activities for assessing CIE (IA) for 5 marks (Any one)
+<br>1. Each student should do any one of the following type activity or any other similar activity related to the course and before conduction, get it approved from concerned Teacher and HOD.
+<br>2. Each student should conduct different activity and no repeating should occur

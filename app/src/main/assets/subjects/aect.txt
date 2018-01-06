@@ -1,0 +1,43 @@
+UNIT I: Power supplies
+<b>DC regulated power supply:</b> Need and block diagram. <b>Rectifiers:</b> Ripple Factor, Ripple Frequency, Efficiency, Peak Inverse Voltage. Circuits, operations and waveforms of half-wave and full-wave (centre-tap transformer and bridge) rectifiers. Expressions for ripple factor and efficiency, simple problems. <b>Filters:</b> Need for filters in power supplies, working of C and PI filter with waveforms.  <b>Regulators:</b> Need for voltage regulators in power supplies, working of voltage regulator using Zener diode, line and load regulation. <b>IC voltage regulators:</b> Features of 78xx, 79xx, LM 317 ICs. <b>Basic switching regulator:</b> Definition, working, step-down and step-up configuration, block diagram of SMPS. <b>UPS:</b> Block diagram and working principle of on-line and off-line UPS.
+<br><b>[12 Hrs] [30 Marks] </b>
+
+UNIT II: BJT biasing and amplifiers
+<b>Biasing:</b> principle of transistor as switch and amplifier, need for biasing, operating point, DC load line, stability factor, voltage divider bias for BJT. <b>Amplifier features:</b> direct, RC coupled and Transformer coupled; AF and RF amplifiers; and voltage and power amplifiers. <b>Feedback in amplifiers:</b> Types of feedback and their features. <b>Small-signal Amplifier:</b> Working of common emitter RC coupled amplifier and its frequency response. <b>Large-signal amplifier:</b>  Concept of AC load line, classification and principle of power amplifiers, working of Class A–Series-fed amplifier and transformer-coupled amplifier, Class B- Push-pull amplifier and complementary-symmetry push-pull amplifier, expression for output power and maximum power efficiency of class-A and class-B power amplifiers. Working of Class AB and Class C amplifiers. Comparison of power amplifiers. <b>Multistage amplifiers:</b> Concept and expression for voltage gain.
+<br><b>[12 Hrs] [30 Marks] </b>
+
+UNIT III:  OP-amp and applications 
+<b>Basic differential amplifier:</b> Working principle. <b>Op-amp:</b> Block diagram, ideal and practical characteristics.  <b>Op-amp parameters:</b> Input offset voltage, input offset current, power supply rejection ratio, CMRR, input and output impedance, gain, gain-bandwidth product, slew-rate. <b>Open-loop configuration:</b> comparator, disadvantages of open-loop mode. <b>Closed-loop configuration:</b> virtual ground, applications - inverting, non-inverting, voltage follower, summing and difference amplifiers, differentiator, integrator, Schmitt trigger, and concept of precision rectifier. Simple problems.
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT IV: Active filters and instrumentation amplifier
+<b>Active filter:</b> Classification, circuits, working, expressions for cut-off frequencies and frequency response of 1st order Butterworth LPF, HPF, BPF and BEF (No Derivation). Problems to design and analyse 1st order Butterworth filters. Realization of BPF and BEF using LPF and HPF. Mention of applications of active filters. <b>Instrumentation amplifier:</b> Need for instrumentation amplifier, working of instrumentation amplifier circuit. <b>Phase Locked Loop (PLL):</b> voltage to frequency converter, PLL operation with mention of its applications. 
+<br><b>[07 Hrs] [25 Marks] </b>
+
+UNIT V: Wave-shaping circuits
+<b>RC Circuits:</b> Differentiator and Integrator circuits and their response to sine and square-wave signals. <b>Clippers:</b> positive and negative series clippers, positive and negative shunt clippers, combinational clippers and simple problems. <b>Clampers:</b> positive and negative clampers. Mention on the applications of clippers and clampers.
+<br><b>[06 Hrs] [15 Marks] </b>
+
+UNIT VI: Sinusoidal oscillators 
+Concept of feedback and types, open and closed-loop gains, Barkhausen criteria, LC Tank circuit and stability. Working of Hartley, Collpits and crystal oscillator using BJT. Working of RC phase-shift and Wein-bridge oscillators using Op-amp. Mention on applications and features of these oscillators.
+<br><b>[05 Hrs] [15 Marks] </b>
+
+<b>Reference Books:</b>
+
+<br><br>1.	Electronic Devices and Circuits,  S. Salivahanan , N. Sereshkumar , McGraw Hill Education (India) Private Limited,  ISBN - 9781259051357
+<br>2.	Op-amps and linear integrated circuits, Ramakanth A. Gayakwad, ISBN- 9780132808682
+<br>3.	Principles of Electronics, Rohit Mehta and V K Mehta, S. Chand and Company Publishing, ISBN- 9788121924504
+<br>4.	Electronic Devices and Circuits, David A. Bell, Oxford University Press, ISBN- 9780195693409
+<br>5.	Fundamentals of Electrical and Electronics Engineering, B. L. Theraja, S. Chand and Company Publishing. REPRINT 2013, ISBN-8121926602.
+<br>6.	http://www.allaboutcircuits.com/
+<br>7.  http://www.allaboutcircuits.com/videos
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>1. Design and construct simple application such as door bell/calling bell, blinking LED, burglar’s alarm etc. Prepare a report on its design, function, specifications and cost estimation.
+<br>2. Collect the technical specifications and price of at least 10 electronic components such as diode, transistor etc. and at least 5 electronics equipments such as RPS, UPS, CRO etc.
+
+<br><br><b>Note:</b> The activities or similar activities for assessing CIE (IA) for 5 marks (Any one)
+<br>1. Each batch (Maximum of 2 students) should perform the above activities independently. Students can also choose any other two similar activities/related/ innovative activities with prior approval from the concerned teacher.
+<br>2. Teacher is expected to observe, follow-up, and record the progress of students’ activities
+<br>3. Assessment is made based on quality of work as prescribed by the following rubrics table.

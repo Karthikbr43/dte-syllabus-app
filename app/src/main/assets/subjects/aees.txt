@@ -1,0 +1,97 @@
+UNIT-I: Basic Electricity
+Electrical energy-definition-Benefits-sources-effects of electrical current with applications, electrical current-definition-units-DC current-definition-applications-AC current-definition-applications, Definitions and  units -frequency-amplitude-instantaneous value-RMS value-average value-form factor-cycle-, voltage-definition-units, resistance-definition-unit, conductors, insulator, semiconductors, capacitors-working principle-capacitance unit-types-applications, Ohms law-series and parallel circuits, magnetism-magnetic lines of force-magnetic field-reluctance-flux density, electromagnetism-faraday’s law of electromagnetic induction-self induction-mutual induction-units of inductance, Switches-function-types.
+<br><b>[08 Hrs] [20 Marks] </b>
+
+UNIT-II: Basic electronics
+Semiconductors- P type- N type, Diode-introduction-half wave rectification-full wave bridge rectifier-full wave bridge rectifier with capacitor filter, zener diode-introduction, zener diode as voltage regulator, LED and photo diode-introduction-applications, transistor-introduction-NPN and PNP transistor-applications-transistor as switch.
+<br><b>[07 Hrs] [20 Marks] </b>
+
+UNIT-III: Introduction to Automotive Electrical System
+Automotive Electrical Systems–function of each system, Earth and Insulated return system-circuit diagram-merits and demerits, Positive and negative earth return system-merits and demerits, Electrical and electronics symbols used in Auto electrical system.
+<br><b>Battery</b>
+<br>Battery -purpose-types, construction and working-Lead acid and alkaline battery-differences between lead acid and alkaline battery, Explain-Cell voltage -Battery capacity-Battery efficiency, Battery ratings- types.
+<br><b>[08 Hrs] [20 Marks] </b>
+
+UNIT-IV: Charging system
+Charging system-purpose-circuit diagram with D C generator, D C generator-principle-construction and working, need of cut-out relay, current and voltage regulator, Alternator-charging circuit with alternator-working principle-construction and working-regulation, Electronic voltage regulators-construction and working, comparison between generator and alternator.
+<br><b>Starting system</b>									
+<br>Staring system-requirements-circuit diagram-working principle, construction and working-series shunt wound motor Drive mechanism-need-types, construction and working-Standard Bendix drive- positive engaging drive with shift lever and over running clutch drive-axial sliding armature drive, Solenoid switch with two winding-construction and working.
+<br><b>[11 Hrs] [30 Marks] </b>
+
+UNIT-V: Ignition system	
+Ignition system-requirements-types, battery coil ignition system-circuit diagram-function of each component, Ignition coil-function-construction and working ,Ignition timing-definition-need of ignition timing advance based on speed and load, Firing order-definition-need, Magneto ignition system-circuit diagram of  High tension rotating magnet type ignition system-function of each component, spark plug-classification-construction-specification, spark plug gap, heat range and reach- definition and importance.
+<br><b>[09 Hrs] [30 Marks] </b>
+
+UNIT-VI: Lighting system
+Circuit diagram-head light-parking light, side indicator, brake light, reverse gear light, Head light-construction, bulbs, Dipper switch, Fuses, cable colour codes, cable connectors, Wiring harness.
+<br><b>Electrical Accessories</b>
+<br>Circuit diagram and explain- fuel level gauge-coolant temperature gauge, oil pressure gauge, horn, wind screen wiper, construction and working- Speedo meter, odometer,  wind screen wiper, electric horn, purpose, types, construction-relays.
+<br><b>[09 Hrs] [25 Marks] </b>
+
+<b>Reference Books:</b>
+
+<br><br>1	Automobile Electrical Equipment, Kohli,	Tata McGraw-Hill
+<br>2	Automobile Engineering Vol-2, Kirpal Singh,	Standard Publications
+<br>3	The Automobile Engineering Vol-2, K.M Guptha, Umesh publications
+<br>4	Diesel Engineering Electricity and Electronics, Joseph Bell, Ceangage
+<br>5	Principals of Electrical Engineering and Electronics, V. K Mehta and Rohit Mehta, S Chand and Co
+<br>6	A system approach to Automotive Technology,	Jack Erjavec, Ceangage
+<br>7	The Automobile Engineering,	Harban  Singh  Reyath, S Chand and Co
+<br>8	The Automobile Engineering,	Er  S K Gupta, S Chand and Co
+<br>9	Automobile Electrical Equipment, W. H. Crouse, Tata McGraw-Hill
+
+<br><br><b>Websites:</b>
+	<br><br>http://www.electrical4u.com/electric-current-and-theory-of-electricity/
+ 	<br>http://www.studyyaar.com/index.php/module-video/watch/272-electrical-circuits-prerequisites
+ 	<br>https://www.youtube.com/watch?v=l8JS8BbrVOg
+ 	<br>https://www.youtube.com/watch?v=m75jvmtVyVY
+ 	<br>https://www.youtube.com/watch?v=XiHVe8U5PhU
+ 	<br>https://www.youtube.com/watch?v=EJeAuQ7pkpc
+ 	<br>https://www.youtube.com/watch?v=Gc1wVdbVI0E
+ 	<br>https://www.youtube.com/watch?v=Gc1wVdbVI0E
+ 	<br>https://www.youtube.com/watch?v=5qwCmyETAvA
+ 	<br>https://www.youtube.com/watch?v=X5bzjs3ByBU
+ 	<br>https://www.youtube.com/watch?v=BcIDRet787k
+ 	<br>https://www.youtube.com/watch?v=xUSSTV0Hs0s
+ 	<br>https://www.youtube.com/watch?v=KGTZPTnZBFE
+ 	<br>https://electronicspani.com/nickel-cadmium-battery/
+ 	<br>https://www.youtube.com/watch?v=ZDBfDTEMGaQ
+ 	<br>https://www.youtube.com/watch?v=s6rQI7t9XM4
+ 	<br>https://www.youtube.com/watch?v=OyC02DWq3mI
+ 	<br>https://www.youtube.com/watch?v=CfoKSkzK6jg
+ 	<br>https://www.youtube.com/watch?v=rF0WMlH8BBk
+ 	<br>https://www.youtube.com/watch?v=WGskIUxzcz8
+ 	<br>https://www.youtube.com/watch?v=TK2mvyi1YiU
+ 	<br>https://www.youtube.com/watch?v=Mj-5hbQAWe8
+ 	<br>https://www.youtube.com/watch?v=WjvUVjuHRtc
+ 	<br>https://www.youtube.com/watch?v=SyZ3s45StaM
+ 	<br>https://www.youtube.com/watch?v=BH9LI973H8w
+ 	<br>https://www.youtube.com/watch?v=YsdPjY58Go8
+ 	<br>https://www.youtube.com/watch?v=HTQQnl1pArk
+ 	<br>https://www.youtube.com/watch?v=mDUTTLCM2K8
+ 	<br>https://www.youtube.com/watch?v=BDEyvgrp8N4
+ 	<br>https://www.youtube.com/watch?v=rJV2iu3BzmY
+ 	<br>https://www.youtube.com/watch?v=3_vfyt6-2Ic
+ 	<br>https://www.youtube.com/watch?v=1Ww5-pmiokc
+ 	<br>https://www.youtube.com/watch?v=-SlIHGqDTc8
+ 	<br>https://www.youtube.com/watch?v=4IgHj2Uim_0
+ 	<br>https://www.youtube.com/watch?v=MhnVZ7ZPunw
+ 	<br>https://www.youtube.com/watch?v=8WD5Q_PF3pM
+ 	<br>https://www.youtube.com/watch?v=ITFW2PkqXWw
+	<br>https://www.youtube.com/watch?v=LAtPHANEfQo
+ 	<br>https://www.youtube.com/watch?v=-JURAbC6oRE
+ 	<br>https://www.youtube.com/watch?v=GMjw6vxV5pg
+ 	<br>https://www.youtube.com/watch?v=LGB6ZEjGm7Q
+ 	<br>https://www.youtube.com/watch?v=W94iksaQwUo
+ 	<br>https://www.youtube.com/watch?v=dIQ4IWSpMO0
+ 	<br>https://www.youtube.com/watch?v=OMLSNwQiiKg
+	
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>1. Visit nearby two wheel/four wheeler service stations/garages and make report of different automotive electrical and electronic components seen with specification, materials used and manufacturing processes used along with photographs.
+<br>2. Visit nearby two wheel/four wheeler service stations/garages and collect different electrical circuits of vehicles.
+
+<br><br><b>Note:</b> 
+<br>1. Student should prepare a report on any one of the above/similar activity, which helps in achieving above course outcomes.
+<br>2. The report prepared should be approved by the concerned staff and HOD.
+<br>3. The activity group should consist of maximum of three students.

@@ -1,0 +1,44 @@
+Unit I: TURNING PRACTICE
+Demonstration and detailed explanation of Machine tools (Ordinary lathe/capstan/Turret Lathe) and work holding devices used-Description and specification of Cutting tools required for creating model–Various Turning operations performed in Machine shop-Safety practices to be observed-Clean the machine after operation
+<br><br><b>Hands on Experience</b>
+<br>1.	Turning practice on mild steel specimen to an accuracy of ± 0.25 mm.
+<br>2.	Preparing at least ONE model involving the following operations. Plain Turning, Step Turning, Taper Turning, Knurling, Thread cutting
+
+Unit II: DRILLING PRACTICE
+Demonstration and detailed explanation of Machine tools (Radial drilling Machine) and work holding devices used-Description and specification of Cutting tools required for creating model–Various Drilling operations performed in Machine shop-Safety practices to be observed-Clean the machine after operation
+<br><br><b>Hands on Experience</b>
+<br>1.	Preparation of  ONE model with two or three different sizes holes for different materials at different locations
+
+Unit III: SHAPING PRACTICE
+Demonstration and detailed explanation of Machine tools (Shaper) and work holding devices used-Description and specification of Cutting tools required for creating model–Various Shaping operations performed in Machine shop-Safety practices to be observed-Clean the machine after operation
+<br><br><b>Hands on Experience</b>
+<br>1.	Preparation of  ONE model with Shaping step block cut dovetail to angles 60
+
+Unit IV: MILLING PRACTICE
+Demonstration and detailed explanation of Machine tools (MILLING MACHINE) and work holding devices used-Selection and specification of Cutting tools required for creating model–Various Milling operations performed in Machine shop-Safety practices to be observed-Clean the machine after operation
+<br><br><b>Hands on Experience</b>
+<br>1.	Preparation of  ONE model Milling-square-hexagon, Spur gear teeth, Key way from round bars with indexing and without indexing
+
+Unit V: GRINDING PRACTICE
+Demonstration and detailed explanation of Machine tools (Grinding) and work holding devices used-Selection and specification of Grinding wheels required for creating model–The grinding operations performed in Machine shop-Safety practices to be observed-Clean the machine after operation
+<br><br><b>Observe on Experience</b>
+<br>1.	The Grinding Single point cutting tool for required angle
+
+<b>Reference Books:</b>
+<br><br>Elements of Workshop Technology (Vols. 1 and II) by Hajra Chaudhary
+
+<br><br><b>Student Activity</b>
+
+<br><br>1. 	Take the students for local Machine shop observe the Machining practices followed in the industry and submit an hand written report of 500 words
+<br><br>2.	Ask the students to observe the Various machining operations carried out  in a sample component and submit an hand written report of 500 words
+<br><br>3. 	Take the students for industrial visit for a nearby MSME; observe the safety practices followed and Study Various operational activities. and submit an hand written report of 500 words
+
+<b>Scheme of Valuation for SEE:</b>
+
+<br><br>1.	Listing of tools and operations required for performing job : 05
+<br>2.	Marking of job : 05
+<br>3.	Operation performed	: 15
+<br>4.	Dimensional accuracy of job	: 15
+<br>5.	Finishing of job : 10
+
+<br><br><b>TOTAL = 50 Marks</b>

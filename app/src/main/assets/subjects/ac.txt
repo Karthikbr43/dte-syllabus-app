@@ -1,0 +1,64 @@
+UNIT I: Microwave Devices
+Microwave signal: Definition, frequency bands, advantages and applications.  Waveguides: Need and Types, Energy coupling methods: Probe, Loop and Aperture coupling. Mode of operation: TE and TM modes. Dominant mode for rectangular and circular waveguides.
+Microwave semiconductor devices – Construction and applications of: IMPATT and TRAPATT. 
+Microwave tube devices- Construction, Working, Performance and Applications:Two cavity Klystron, Reflex klystron, Magnetron and Travelling Wave Tube (TWT).
+<br><b>[09 Hrs] [25 Marks] </b>
+
+UNIT II: Radar Principles and Applications
+Radar: Introduction and applications. Definitions: PRF, PRI, Average power, peak power and duty cycle. Radar range equation and factors influencing the radar range. Pulsed radar system- Principle and Block diagram.  Modulator - Line type. Duplexer - Branch type. Displays: A-scope and PPI.
+Antenna Scanning: Horizontal, Vertical, Nodding and Spiral. Tracking: Sequential lobing, conical scan and Monopulse. Special purpose radars- MTI Radar, CW Doppler radar, FM-CW Radar.Radar beacons, Aircraft landing system: GCA and ILS.
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT III: Satellite Fundamentals
+Definition of Satellite, Satellite orbits, Kepler’s Laws (only statements), Apogee and Perigee, Azimuth and Elevation angles, Subsatellite point, subsatellite path, Ascending and descending nodes, Posigrade and Retrograde orbits, Uplink and Downlink, Orbital period and radius of Geosynchronous satellite,  Satellite Eclipse, Polar and Geostationary satellites- Advantages and Disadvantages. LEO, MEO & GEO satellites.Station keeping, attitude control and Thermal control.
+<br><b>[08 Hrs] [15 Marks] </b>
+
+UNIT IV: Satellite Communication System
+Satellite communication system- Block diagram, Transponder- Single conversion, double conversion, regenerative transponder. Satellite frequency allocation and satellite bandwidth.Increasing channel capacity- frequency reuse and spatial isolation.General block diagram of communication satellite, Satellite subsystems- Classification.Power subsystem, TT&C subsystem.Applications payload. Earth station- block diagram.
+<br><b>[07 Hrs] [15 Marks] </b>
+
+UNIT V: Satellite Applications
+Global Positioning System (GPS). Satellite forTelevision applications: Direct-To-Home (DTH) and Cable TV. Voice and Data communication, Earth observation (Remote Sensing) applications, Military applications, Introduction to VSAT.
+<br><b>[06 Hrs] [20 Marks] </b>
+
+UNIT VI: Mobile and Wireless Communications
+<b>Mobile communication</b>: Features of 1G, 2G, 2.5G, 3G, 4G cellular networks, Cellular concept, Frequency reuse, Capacity expansion techniques- Cell splitting and cell sectoring, working of a typical cellular system. GSM services and features, GSM system architecture, CDMA 2000 system-services and features.LTE services and features.Handoff strategies.
+<b>Wireless communication</b>: Bluetooth-Components, Stack, Links and channels, Bluetooth networking, Bluetooth connections, Transmissions characteristics, Applications. Features and applications of Wi-Fi , Hot-spot. 
+<b>ZIGBEE</b> - Stack, Zigbee Addressing- Messaging, Broadcast addressing, Group addressing. Zigbee network topologies, Applications of Zigbee.
+<br><b>[12 Hrs] [40 Marks] </b>
+
+<b>Reference Books:</b>
+
+<br><br>1.	Electronic communication system by George Kennedy and Davis Fourth Edition.
+<br>2.	Communication Electronics by Frenzil Third Edition, TMH Publications
+<br>3.	Microwave Engineering, by Vasuki, Helena and Rajeswari, McGrawHill education 
+<br>4.	Satellite communications by Dr. D.C. Agarwal. Seventh edition, Khanna publishers.
+<br>5.	Introduction to Radar Systems by Skolnic, TMH Publications
+<br>6.	Wireless communications by Theodore S.Rappaport. II Edition,PHI publications.
+<br>7.	Communication engineering, S Vijayachitra, McGrawHill Education. ISBN-13: 978-1-25-900686-9
+<br>8.	Introduction to wireless telecommunications systems and networks by  Mullett, CENGAGE Learning
+<br>9.	Mobile and personal communications system and services by Raj Pandya
+<br>10.	Satellite communications, by Dennis Roddy, , McGrawHill education
+<br>11.	Mobile communications by Jochen Schiller.
+<br>12.	Satellite Communication by Anil K Maini, Wiley India Publications
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>1. Prepare a report on the limitations of microwave signals for conventional low frequency devices.
+<br>2. Prepare a report on Microwave device: Pin diode, Varactor diode and Tunnel diode.
+<br>3. Visit the local BSNL office and prepare a report on it.
+<br>4. Visit the local Microwave station and prepare a report on it.
+<br>5. Prepare a report on different types of antennas used in radar application.
+<br>6. Visit the local Radar station and prepare a report on it.
+<br>7. Prepare a report on Historical background of Satellite.
+<br>8. Prepare a report in Indian satellites.
+<br>9. Prepare a report on activities of ISRO.
+<br>10. Visit a local Mobile service Centre and prepare a report on it.
+<br>11. Prepare a report on cashless transaction.
+
+<br><br><b>Note:</b> The activities or similar activities for assessing CIE (IA) for 5 marks (Any one)
+<br>1. Maximum of 4 students in each batch should do any one of the activity or similar activity related to the course and before take up, get it approved from concerned Teacher.
+<br>2. Each batch should conduct different activity and no repeating should occur.
+<br>3. Submit a brief report on the activity done on 4-6 pages, A4 size handwritten paper. Papers should be simple stapled or tagged. Avoid plastic based files for submitting of reports.
+<br>4. Activities can be carried off-class or in the laboratory, as the case may be.
+<br>5. Assessment shall be made based on quality of activity/presentation/demonstration and report.

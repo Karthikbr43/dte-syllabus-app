@@ -1,0 +1,68 @@
+UNIT I: Fundamentals and Laws of Thermodynamics
+Introduction to thermodynamics- system- boundary - surrounding, Types of thermodynamic systems – closed, open and isolated systems with examples, Properties of system- Intensive and Extensive properties with examples, thermodynamic state-process-cycle, point and path functions, thermodynamic equilibrium – mechanical – chemical - thermal, quasi static process, basic thermodynamic properties- pressure - Volume - Temperature –Energy-potential energy-kinetic energy-internal energy -heat- Specific heat at constant pressure- specific heat at constant volume-work- Enthalpy -Entropy and their units, standard atmospheric conditions-NTP-STP.
+<br>Laws of thermodynamics: -Zeroth- first-second, simple problems on conversion of Heat into Work and vice versa.
+<br><b>[09 Hrs] [25 Marks] </b>
+
+UNIT II: Laws of perfect gases
+Definition of perfect gas,  Gas Laws – Boyle’s law - Charles’s Law – Gay-Lussac law -Avogadro’s  law-Joule’s law, characteristic gas equation- universal gas equation, universal gas constant and their relationship with molecular weight of gas, Derivation for an expression showing the relationship between the two specific heats- characteristic gas constant R- Adiabatic index ϒ, Simple problems.
+<br><b>[08 Hrs] [20 Marks] </b>
+
+UNIT III: Thermodynamic processes on gases
+Introduction to thermodynamic processes, derive expressions for PVT relations-work done-heat transfer-change in internal energy-change in enthalpy and entropy for Constant volume, Constant pressure, Isothermal, Isentropic processes, Simple problems on the above processes.
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT IV: Air standard cycles
+Air standard cycles- definitions and types, assumptions made in air standard cycles
+<br>Description - P.V. and T-S diagrams of Carnot cycle, Otto cycle, diesel cycle, dual combustion cycle
+<br>Derivation of air standard efficiency of Carnot cycle, Otto cycle, diesel cycle, dual combustion cycle, Simple problems.
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT V: Fuels and Combustion
+<b>Fuels</b>-types of fuel-solid fuel-liquid fuel-gaseous fuel with merits and demerits, refining process of crude oil-products of refining process, structure of petroleum, definition of heat values – higher heat value and lower heat value, calorimeter-types-bomb calorimeter-Junkers calorimeter, SI engine fuel-requirements-rating - octane number, CI engine fuel-requirements -  rating - cetane number, fuel additives, simple problems to find HCV and LCV on Bomb and Junkers calorimeter.
+<br><b>Combustion</b>-Definition-main combustible elements-atomic mass-molecular mass, combustion equations by mass –by volume, equation for minimum oxygen/air required for complete combustion, conversion of gravimetric (mass) analysis into volumetric analysis, excess air supplied, Flue gas analysis using Orsat apparatus, Simple problems to find minimum air quantity-mass analysis-volumetric conversion-excess air.
+<br><b>[08 Hrs] [20 Marks] </b>
+
+UNIT VI: Combustion in SI and CI engines.
+<b>SI engine</b>: Stages of combustion with pressure crank angle diagram, ignition lag-variables affecting ignition lag, detonation- definition – process- effects – controlling method, surface ignition- wild ping –rumble- run on-run away, pre-ignition.
+<br><b>CI engine</b>: Stages of combustion with pressure crank angle diagram, ignition delay -variables affecting delay period, knocking- definition – process- effects – controlling method.
+<br><b>[07 Hrs] [20 Marks] </b>
+
+<b>Reference Books:</b>
+
+<br><br>1	Thermal Engineering, R.S.Khurmi,S Chand and Co
+<br>2	Thermal Engineering,R K Hegde and Niranjan.Murthy, Sapna Publications
+<br>3	Basic and applied thermodynamics, P.K.Nag,Tata MCgraw-Hill
+<br>4	I C Engines, Mathur and Sharma, Danapat Rai and sons
+<br>5	I C Engines, V. Ganeshan, Tata MCgraw-Hill
+
+<br><br><b>Websites:</b>
+<br><br>•	https://www.youtube.com/watch?v=9GMBpZZtjXM
+<br>•	https://www.youtube.com/watch?v=9GMBpZZtjXMandlist=PLD8E646BAB3366BC8
+<br>•	https://www.youtube.com/watch?v=xQwi9fveGTQandindex=2andlist=PLD8E646BAB3366BC8
+<br>•	https://www.youtube.com/watch?v=sUDfpFD0xX4andindex=4andlist=PLD8E646BAB3366BC8
+<br>•	https://www.youtube.com/watch?v=-42JmVBdlM4
+<br>•	https://www.youtube.com/watch?v=lbPEaaKiCww
+<br>•	https://www.youtube.com/watch?v=gg-dlrbXxzI
+<br>•	https://www.youtube.com/watch?v=Xto88gMmDzw
+<br>•	https://www.youtube.com/watch?v=7ZpuMBkf1Ss
+<br>•	https://www.youtube.com/watch?v=0Oq7bCSDPxE
+<br>•	https://www.youtube.com/watch?v=pucd2b7jZJw
+<br>•	https://www.youtube.com/watch?v=K8RzTmeVWfM
+<br>•	https://www.youtube.com/watch?v=fyadfj7NQqI
+<br>•	https://www.youtube.com/watch?v=YNGtJo-VspE
+<br>•	https://www.youtube.com/watch?v=NG41IbDtd44
+<br>•	https://www.youtube.com/watch?v=HeofLEQ6wuA
+<br>•	https://www.youtube.com/watch?v=-FpRVaZhTlE
+<br>•	https://www.youtube.com/watch?v=W94iksaQwUo
+<br>•	https://www.youtube.com/watch?v=ZWKRw0HmBLE
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>1. Prepare a report on applications of Laws of Thermodynamics.
+<br>2. Prepare a report on different issues related to fuels like additives, price hikes, pollution norms, health and environmental effects.
+<br>3. Collect special features of combustion chambers used in engines of different vehicles to reduce pollution, noise, vibration and harshness levels.
+
+<br><br><b>Note:</b> 
+<br>1. Student should prepare a report on any one of the above/similar activity, which helps in achieving above course outcomes.
+<br>2. The report prepared should be approved by the concerned staff and HOD.
+<br>3. The activity group should consist of maximum of three students.

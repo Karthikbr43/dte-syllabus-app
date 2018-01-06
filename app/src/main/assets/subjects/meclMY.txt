@@ -1,0 +1,47 @@
+<b>Experiments:</b>
+
+<br><br><b>PART – A: Mechatronics Lab</b>
+<br><br>1. Design a PLC ladder diagram to construct an alarm system .
+<br><br>2. Using PLC ladder diagram realize the following logic gates.
+	<br>AND, OR, NOT, NAND, NOR, EX-OR 
+<br><br>3. Device a circuit that can be used to start a motor and then to start a pump after delay of 50s. Then the motor is switched off 10s before the pump is switched off when the pump remains on for 50s.
+<br><br>4.There are 3 mixing devices on a processing line A,B,C.Afterthe process begin mixer-A is to start after 7 seconds elapse, next mixer-B is to start 3.6 second after A. Mixer-C is to start 5 seconds after B. All then remain ON until a master enable switch is turned off. Write PLC ladder diagram, timing diagram and realize the same
+<br><br>5. The sub conveyors feed a main conveyor. The count from feeder conveyor is fed into an input register in the PLC. Construct a PLC program to obtain the total count of parts on the main conveyor. Use a time to update the total every 15 seconds. Design, construct, and test PLC circuits for this process
+<br><br>6. Design a PLC program for the following real time applications.
+<br>Ex:	
+<br>i) Water level controlling
+<br>ii) Drilling machine controlling
+
+<br><br><b>PART – B: Robotics Lab</b>
+<br><br>1.	Understand the concept about Robot components	
+<br>2.	Understand the concept about Pick & Place tasks.	
+<br>3.	Understand the concept about Inputs (Digital, Analog, Sensors).
+<br>4.	Understand the concept about Joint & XYZ co-ordinate system.
+<br>5.	Understand the concept about Point-to-Point control	
+<br>6.	Understand the concept about Linear interpolation.	
+<br>7.	Understand the concept about Circular interpolation.
+<br>8.	Understand the concept about Robot controller components
+<br>9.	Understand the concept about Accessories
+<br>10.	Understand the concept about Activating software
+<br>11.	Understand the concept about XYZ coordinates
+<br>12.	Understand the concept about Robot working limits
+<br>13.	Understand the concept about Operating the gripper
+<br>14.	Understand the concept about Changing speed
+<br>15.	Write Program Using Relative position on the “Z” Axis for the pick and place application
+
+<b>Reference Books:</b>
+
+<br><br>1.	Mechatronics	W.Bolton	Pearson education
+<br>2.	Mechatronics-Principles, Concepts and Applications	Nitaigour Premch and Mahalik	Tata McGraw-Hill Pub. Co. Ltd., New Delhi, 2006
+<br>3.	Mechatronics	HMT 	Tata McGraw Hill Publishers, New Delhi 
+<br>4.	Programmable logic controllers	W.Bolton	Pearson education
+<br>5.	Digital electronics	Flyod
+<br>6.	Exploring PLC with applications	Pradeep Kumar Srivatsava	BPB publications
+
+<b>Scheme of Valuation for SEE:</b>
+
+<br><br>1.	Writing	: 10
+<br>2.	Execution : 30
+<br>3.	Viva : 10
+
+<br><br><b>TOTAL = 50 Marks</b>

@@ -1,0 +1,56 @@
+<b>Experiments:</b>
+
+<br><br><b>ANALYSIS and SIMULATION USING ANSYS</b>
+
+<br><br>1.	Introduction to computer aided analysis and simulation
+<br><br>2.	Awareness about using ANSYS
+<br><br>3.	Familiarisations of using ANSYS
+<br><br>4.	Stress Analysis of Bars of Constant Cross Section Area
+<br>a)	Determine the nodal displacement, stress in each element and reaction forces of bar subjected to a Tensile force. 
+<br>b)	Determine the nodal displacement, stress in each element and reaction forces of bar subjected to a Compression force. 
+<br><br>5.	Stress Analysis of Bars of Tapered Cross Section Area
+<br>a)	Determine the nodal displacement, stress in each element and reaction forces of Taper bar subjected to a external loads.
+<br><br>6.	Stress Analysis of Bars Varying In Cross Section or Stepped Bars
+<br>a)	Determine the nodal displacement, stress in each element and reaction forces of Stepped bar subjected to a external loads. 
+<br><br>7.	Stress analysis of Beams
+<br>a)	Draw the shear force and bending moment diagrams for the given Cantilever beam due to applied load. 
+<br>b)	Draw the shear force and bending moment diagrams for the given Simply supported beam due to central point load
+<br>c)	Draw the shear force and bending moment diagrams for the given Simply supported beam due to UDL
+<br>d)	Draw the shear force and bending moment diagrams for the given Simply supported beam due to applied load(one point loads, and UDL) 
+<br>e)	Draw the shear force and bending moment diagrams for the given Simply supported beam due to Uniformly varying load(UVL)
+<br>f)	Draw the shear force and bending moment diagrams for the given Simply supported beam due to applied load(Several point loads,UVL) 
+<br><br>8.	Stress Analysis of a Rectangular Plate with a circular Hole
+<br>a)	Determine the stress acting on a rectangular plate with a circular hole due to the applied external load 
+
+<b>Reference Books:</b>
+
+<br><br>1.	ANSYS free software tutorial - Free soft ware(Student version) 	https://www.google.co.in/search?biw=1024&bih=667&q=ansys+software+tutorial&sa=X&ved=0ahUKEwjm5o_MndHNAhUBsI8KHbRWDhUQ1QIIXygE 
+<br>2.	http://www.nptel.ac.in 
+<br>3.	www.ansys.com/Student  
+<br>4.	https://www.google.co.in/search?biw=1024&bih=667&q=ansys+software+free+download+for+windows+7+64+bit&sa=X&ved=0ahUKEwjm5o_MndHNAhUBsI8KHbRWDhUQ1QIIXCgB 
+<br>5.	https://www.google.co.in/search?biw=1024&bih=667&q=ansys+software+free+download+for+windows+7+32+bit&sa=X&ved=0ahUKEwjm5o_MndHNAhUBsI8KHbRWDhUQ1QIIXSgC 
+<br>6.	https://www.google.co.in/search?biw=1024&bih=667&q=ansys+software+tutorial&sa=X&ved=0ahUKEwjm5o_MndHNAhUBsI8KHbRWDhUQ1QIIXygE 
+<br>7.	http://www.colorado.edu/MCEN/MCEN4173/Ansys_introduction.pdf 
+<br>8.	http://www2.warwick.ac.uk/fac/sci/eng/study/pg/students/esrhaw/introduction_to_ansys.pdf 
+<br>9.	http://www.mece.ualberta.ca/tutorials/ansys 
+
+<br><br><b>SUGGESTED LIST OF STUDENT ACTIVITES:</b>
+
+<br><br>1. 	Ask the students to take the simple problems in Strength of Materials, analyze the stresses by using software.
+<br>2. 	Ask the students to take the simple problems in Design of machine elements, analyze the stresses by using software. 
+<br>3. 	At least take two simple mechanical components likes step turned shaft, measure the dimensions, Apply loads and analyze for stresses. 
+<br>4.	Study and understand the concept of theories of failure –Maximum shear stress theory,  Maximum distortion energy theory ( Von-Mises Theory of failure)
+<br>5.	Identify the theory of failure for the brittle material and ductile materials
+
+<br><br><b>Note:</b>
+<br>1.	Each student should submit any one of the following type activity or any other similar activity related to the course and before take up get it approved from concerned Teacher and HOD.
+<br>2.	Each student should conduct different activity and no repeating should occur
+
+<b>Scheme of Valuation for SEE:</b>
+
+<br><br>1.	ANSYS Basic, Pre-processing : 20
+<br>2.	Solution, Post-processing : 10
+<br>3.	Result, Conclusion with analytical comparisons : 15	
+<br>4.	Viva : 5
+
+<br><br><b>TOTAL = 50 Marks</b>

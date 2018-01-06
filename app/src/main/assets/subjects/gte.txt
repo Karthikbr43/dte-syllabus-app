@@ -1,0 +1,81 @@
+UNIT - I: Introduction to Soil Mechanics  and Properties of Soils
+<b>Introduction</b> – Development of soil Mechanics – Fields of application of Soil Mechanics – Formation of soil, Three phase system of soil.
+<br><b>Soil properties</b> – Definitions of  Index properties (Water content, Specific gravity, porosity, Degree of saturation, Void ratio, Particle size distribution, Bulk Unit weight of soil,  Consistency Limits and relative density) and Engineering properties(Cohesion, Angle of internal friction, Capillarity, Permeability, Elasticity. Compressibility) & Atterberg’s limits (shrinkage limit, plastic limit, and liquid limit).
+<br><br><b>[06 Hrs] [15 Marks] </b>
+
+UNIT - II: Classification, Compaction, Shear Strength
+<b>Classification</b> -  Purpose of soil classification,  Particle size classification ,IS classification, Highway Research Board classification system, field identification of soils
+<br><b>Compaction of soils</b> - Definition, Mechanism of compaction, procedures of Standard proctor & Modified proctor tests, factors affecting compaction, Methods of compaction, field compaction equipments.
+<br><b>Shear strength</b> - concept of Shear strength- List the Methods of determination of Shear strength of soils -concept of sensitivity of soils.
+<br><br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT - III: Field tests on soil, Soil Exploration & Sampling of soil
+<b>Field tests on soil</b> - Static Cone Penetration Test, Electrical Resistivity method and Permeability Test.
+<br><b>Soil exploration</b> - Needs & objectives, guidelines for deciding Number & disposition of trail pits & borings ,depth of exploration, List of methods of soil exploration, 
+<br><b>Sampling of soil</b> – Types of samples -undisturbed, disturbed and representative samples, typical Bore log, format of Soil investigation report.
+<br><br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT - IV: Ground Engineering 
+<b>Ground improvement techniques</b> – introduction – commonly used methods – pre loading, use of sand drains, densification of soils by vibro floatation, Sand compaction piles, simple stone columns,  blasting, heating
+<br><b>Stabilization of soil</b> – Introduction- Objects of stabilization- Methods of stabilization- grouting methods (Compaction grouting, slurry injection grouting only), soil reinforcement- geogrid  and geotextiles.  
+<br><br><b>[10 Hrs] [25 Marks] </b>
+
+UNIT - V: Foundations
+<b>Deep foundations</b> - Introduction – Pile foundation – Uses of piles – Types of piles –selection of piles – Pile driving – Capacity of piles – Pile load test – Floating foundation–   pile groups – Settlement of Pile 
+<br><b>Well foundation</b> - Caissons(box & pneumatic caissons), shapes of well foundation, components of well foundation, forces acting on well foundation
+<br><br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT - VI: Foundation in expansive soil
+Introduction – Identification of expansive soil – Free swell Index Test – Differential free swell test –Swell potential and Swelling pressure- Methods of foundation in expansive soils- replacement of Expansive soils and “CNS(Cohesive Non Swelling)” concept- Under reamed pile foundation.
+<br><br><b>[06 Hrs] [15 Marks] </b>
+
+<b>Reference Books:</b>
+
+<br><br>1.	A text book of Soil Mechanics & Foundation Engineering – VNS Murthy, Dhanpat Rai & Sons 1682,, Nai sark, Delhi.
+<br>2.	A text book of Soil Mechanics & Foundation Engineering – B.N.D Narasimha Rao
+<br>3.	Construction and Foundation Engineering – Dr. Janardhana Jha and S. K. Sinha.
+<br>4.	Geo technical Engineering by Prof.T.N.Ramamurthy , Prof.T.G.SITHARAM
+<br>5.	Problems in soil mechanics – B. C. Punmia.
+<br>6.	A Text book of soil mechanics- Dr. B. C. Punmia.
+<br>7.	Problems in soil mechanics – Shamsher Prakash.
+<br>8.	Foundation Design in Engg. Practice – Nayak.
+<br>9.	Soil Mechanics in Engineering practice – Tenzagi & Peck.
+<br>10.	Soil Mechanics by K R Arora.
+<br>11.	Soil Mechanics and foundation Engineering -- Joseph. E. Bowles
+<br>12.	Basic Soil Mechanics & Foundations Paperback – January 1, 2011 by Alam Singh (Author)
+<br>13.	Foundation Engineering- P C Varghese, PHI learning, 2009.
+<br>14.	Geotechnical Engineering- Dr C Venkataramaiha, New Age Publications,2009
+<br>15.	Soil Mechanics and foundation Engineering- S K Garga, Khanna publications, 2003. 
+
+<br><br><b>e - Links:</b>
+<br><br>16.	http://nptel.ac.in/courses/105104034/
+<br>17.	http://nptel.ac.in/courses/105104131/
+<br>18.	http://nptel.ac.in/courses/105104135/
+<br>19.	https://www.youtube.com/watch?v=cRAEZTOCBm0
+<br>20.	https://www.youtube.com/watch?v=C42m52LKgX8
+<br>21.	https://www.youtube.com/watch?v=o0Kyihefy2A&list=PLWbF2j_Smxk1VgPtPsQwQDlLLDnzA5moT
+<br>22.	https://www.youtube.com/watch?v=vjGNwhvODGk
+<br>23.	https://www.youtube.com/watch?v=BQ2w6A23ElQ
+<br>24.	https://www.youtube.com/watch?v=4h8vqN6nOa4
+<br>25.	https://www.youtube.com/watch?v=bh7TieIxrWE
+<br>26.	https://www.youtube.com/watch?v=IPGAJCdVjUQ&list=PLFH132nBHpEZP-eTIcAcK0_A1qXKhCKxV
+<br>27.	https://www.youtube.com/watch?v=kNllvz-0oF4
+<br>28.	https://www.youtube.com/watch?v=e2aEEUvmLIM
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br>The topic should be related to the course in order to enhance his knowledge, practical skill & and lifelong learning, communication, modern tool usage.
+
+<br><br>1.	Collect samples of soil & make a mini project report on their properties.
+<br>2.	List the various earthwork excavating machines & their usage as per their suitability.
+<br>3.	Prepare a case study on advanced ground improvement techniques.
+<br>4.	Collect the soil investigation report for any nearby construction project & prepare a report on it.
+<br>5.	Visit any nearby site & interact with the engineer how the soil investigation is conducted & make a report on it.
+<br>6.	Conduct field tests on soil sample of your college & make a report on the tests.
+<br>7.	Prepare a report on collection of samples of soil.
+<br>8.	Visit nearby PWD office & collect details of soils of your zone & make a report on it.
+<br>9.	Conduct seminars on i)Stress distribution of soil ii) Consolidation of soil iii)Reinforcement of soil iv) Stability of slopes v) Soil formation & soil structure vi) Seepage analysis of soil.
+
+<br><br><b>Note:</b> 
+<br>1. Students should select any one of the above or other topics relevant to the subject approved by the concerned faculty, individually or in a group of 3 to 5. Students should mandatorily submit a written report and make a presentation on the topic.  The task should not be repeated among students. Report will be evaluated by the faculty as per rubrics. Weightage for 5 marks Internal Assessment shall be as follows: (Unsatisfactory 1, Developing 2, Satisfactory 3,  Good   4,  Exemplary5)
+<br>2. Reports should be made available along with bluebooks to IA verification officer

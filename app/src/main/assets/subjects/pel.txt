@@ -1,0 +1,46 @@
+<b>Experiments:</b>
+<br><br>1.	Design an experiment to plot the  V –I  characteristics  of DIAC.
+<br>2.	Design an experiment  toplot the V –I  characteristics forward biased  SCR for different gate currents.
+<br>3.	Design an experiment  to  plot the V –I  characteristics  TRIAC in preferred turn on modes
+<br>4.	Construct  R firing  circuit and determine the maximum firing angle.
+<br>5.	Construct  R –Cfiring  circuit and determine the maximum firing angle
+<br>6.	Construct and test UJT Relaxation oscillator
+<br>7.	Construct  UJT firing circuit and determine the range of  firing angle
+<br>8.	Construct a firing circuit using UJT and pulse transformer and trigger the SCR
+<br>9.	Construct single phase half controlled bridge converter for resistive load.Trace the waveforms  across  SCR and  load.
+<br>10.	Construct single phase full controlled bridge converter for resistive load.Trace the waveforms  across  SCR and  load.
+<br>11.	 Construct and test a Triac- fan motor speed control circuit
+<br>12.	Construct twilight relay using LDR  and TRIAC
+<br>13.	Construct  time delay relay using SCR and UJT.
+<br>14.	Construct  andtest a SCR battery charger  circuit.
+<br>15.	Construct a simple circuit to use Optocoupler as an SSR
+<br>16.	Construct ac static switch using SCR and verify the wave forms
+
+<b>Reference Books:</b>
+
+<br><br>1) Industrial Electronics and control by  DrS  Chatterji
+<br>2) 24 SCR   Projects – BPB Publications
+<br>3) SCR Manual – GEC
+<br>4) Industrial Electronics Test Lab Manual – Paul B Zbar
+<br>5) www.electricalengineeringinfo.com/2014/06/silicon...  
+<br>6) www.radio-electronics.com/info/circuits/scr-silicon.
+
+<br><br><b>Suggested Student Activity (any oneto be submitted with 3 pages report):</b>
+<br>1.	Study data sheet of various power semiconductor devices 
+<br>2.	Identify  various   power  electronic components  and  method of  testing
+<br>3.	Construct a digital firing circuit for converters
+<br>4.	Dis-assembling  and assembling ,  identify  the circuits  in UPS
+<br>5.	Dis –assembling and assembling , identify  the circuits  of a relay type stabilizer 
+<br>6.	Dis -assemble, identify  the circuits  and assemble  servo –controlled stabilizer
+<br>7.	Determine the  rating  of UPS according to customer requirement
+<br>8.	Construct temperature controller using triac
+
+<b>Scheme of Valuation for SEE:</b>
+
+<br><br>1.	Writing  Circuit diagram and Procedure : 10
+<br>2.  Circuit connection : 10
+<br>3.	Conduction : 10
+<br>4.	Results	: 10
+<br>5.	Viva-voce : 10
+
+<br><br><b>TOTAL = 50 Marks</b>

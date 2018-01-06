@@ -1,0 +1,60 @@
+UNIT – I: FLUID STATICS AND ITS APPLICATIONS
+Definitions of fluids – Real and Ideal fluids, Compressible, incompressible fluids physical properties of fluids – Density – Viscosity – Specific gravity, surface tension, adhesion, fluid static – Pressure concepts –pressure measurement of Fluid- Different types of  Manometers.
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT – II: FLUID FLOW PHENOMENA
+Types of Fluids – Newtonian and Non- Newtonian fluids - laminar and turbulent flow – Reynolds experiment- Reynolds Number
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT – III: BASIC EQUATIONS OF FLUID FLOW
+Average velocity, Mass velocity–continuity Equation- Bernoulli’s equation- Modified Bernoulli’s Equation for frictional flow and simple problems on Bernoulli equation.
+<br><b>[08 Hrs] [20 Marks] </b>
+
+UNIT – IV:  FLOW OF INCOMPRESSIBLE FLUIDS                       
+Flow of incompressible fluids in pipes – Boundary layer formation in pipes – Frictional factor – statement of equation for point velocity, average velocity – Hagen-poiseuille equation, energy loss for fluid during flow – expansion and contraction losses – Losses in pipe fittings –flow of  past immersed bodies – Drag co-efficient- flow through packed beds – Fluidization and its applications.
+<br><b>[08 Hrs] [25 Marks] </b>
+
+UNIT – V: FLOW MEASUREMENT
+Classification of flow meters- Measurement of flow rate by Orifice Meter, Venturi Meter, Rota Meter and Pitot Tube- Solve problems of flow measuring devices.
+<br><b>[08 Hrs] [20 Marks] </b>
+
+UNIT – VI: TRANSPORTATION OF FLUIDS
+Pipes and tubes – Pipe fittings and joints – Pipe standards, valves – Gate valve – Globe valve – check valve – Safety valve- Equipments for fluid transportation –Pumps – Positives displacement pumps – Centrifugal pumps – Characteristics of centrifugal pumps – Centrifugal pump impellers – Centrifugal pump installation and maintenance – Suction head – Discharge head, total head developed – Priming and cavitations’ – Comparison of a centrifugal pump and reciprocating pump, Gear pump – Calculation of horse power – Selection of a pump for a given duty – Processing NPSH – Power  requirement mechanical efficiency – Solve simple problem on power requirement of a centrifugal pump- Equipments for gas flow fans – Blowers – Compressors – Principles and operations of compressors – Vacuum producing equipment – ejectors.
+<br><b>[08 Hrs] [20 Marks] </b>
+
+<b>Reference Books:</b>
+
+<br><br>1.	Unit Operations of Chemical Engineering, McCabe and W.L Smith V Edn., McGraw Hill
+<br>2.	Introduction to Chemical Engineering, Badger, W.L. and Banchero J.T, 3rd Edition,McGraw Hill. 
+<br>3.	Coulson and Richardson’s Chemical Engineering. 
+<br>4.	Perry’s Chemical Engineers’ Handbook, McGrawHill .
+<br>5.	Unit operations-I  by K.A. Gavhane.
+<br>6.	A text book of Hydraulics fluid machines and Hydraulic machines by R. S. Kurmi
+
+<br><br><b>E –Learning</b>
+
+<br><br>1.	https://www.youtube.com/watch?v=nArDCon3zNAandlist=PLT9SSmKPgh1aLQ5VKi5QslUdO5DTgMP6Handindex=7
+<br>2.	https://www.youtube.com/watch?v=0aYzgj_AXxc
+<br>3.	https://www.youtube.com/watch?v=f29ZDmqBuQo
+<br>4.	https://www.youtube.com/watch?v=2k1NRCRVZZM
+<br>5.	https://www.youtube.com/watch?v=5YBZJrxmt3Q
+<br>6.	https://www.youtube.com/watch?v=BnFW5t07qFo
+<br>7.	https://www.youtube.com/watch?v=upHHx42r4E0
+<br>8.	https://www.youtube.com/watch?v=upHHx42r4E0
+<br>9.	https://www.youtube.com/watch?v=VLYonC--7Io
+<br>10.	https://www.youtube.com/watch?v=ZYqhLWDXJp4
+<br>11.	https://www.youtube.com/watch?v=UuhOjmy2cwg
+<br>12.	https://www.youtube.com/watch?v=bC8v6hlXnSk
+<br>13.	https://www.youtube.com/watch?v=tGQqEZDFVUA
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>1. Each student will give an activity to prepare a tabulated summary for types of fluid (Summary includes properties of fluid other than that indicated in syllabus)
+<br>2. List out any five pressure measuring devices available in market with its specifications and current market price.
+<br>3. Each student will give an activity to prepare a tabulated summary for types of pipes and pipe fittings available in market. (Summary includes type, specification, size range, material, rate and applications).
+<br>4. Through relevant sources collect information on priming and non priming pumps.(Summary includes types, specifications, size, advantages, disadvantages, applications, rate etc.)
+<br>5. Collect information regarding different types of pumps available in the market for a specific duty and prepare a tabulated summary including type, specifications, size, advantages, disadvantages, cost, applications etc.
+
+<br><br><b>Note:</b> The activities or similar activities for assessing CIE (IA) for 5 marks (Any one)
+<br>1. Each student should do any one of the following type activity or any other similar activity related to the course and before conduction, get it approved from concerned Teacher and HOD.
+<br>2. Each student should conduct different activity and no repeating should occur

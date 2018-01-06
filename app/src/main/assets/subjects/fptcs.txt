@@ -1,0 +1,96 @@
+UNIT I: INTRODUCTION
+Fluid power engineering – definition - importance - areas of application, application in automobiles, fluid-definition- properties, Pascal Law with illustrations, transmission of power - methods, fluid system – types –hydraulics – pneumatics - block diagrams.
+<br><b>[04 Hrs] [10 Marks] </b>
+
+UNIT II: VALVES AND ACTUATORS
+<b>valves</b> – functions – types – lifting type – sliding/rotary type – poppet – ball – flap – disc – spool valves, requirements - pressure control valve - pressure relief valve – pressure (counter)  balance valve - pressure reducing valves, directional control valves - 2/2 - 3/2 - 4/2 - 5/2 - 5/3, control of  valves – manual – mechanical - hydraulic – pneumatic - electro pneumatic, combination valves - hydro pneumatic – electro hydraulic - electro pneumatic,  flow control valve, non return/check valves, pilot operated sequence valve.
+<br><b>Actuators</b> –functions, types, cylinder type-ram type, and piston type- single acting cylinder-double acting cylinder- Rotary actuators- Gear- vane- piston- Unidirectional – Bidirectional actuators. 
+<br><b>[12 Hrs] [35 Marks] </b>
+
+UNIT III: DESIGN OF HYDRAULIC CIRCUITS
+Hydraulics - definition, properties of hydraulic fluids, pumps - necessity - classification, construction and working of - external gear, lobe, Vane pumps, Piston-radial pumps, Reservoir, Accumulators-weight loaded- spring loaded- gas loaded, Intensifier, pressure switches, pressure regulators.
+<br>Hydraulic Circuits-Hydraulic symbols, Port markings- ports and positions, Basic hydraulic circuits- Meter in circuits- Meter out circuits- Bleed off circuits - Accumulator circuits - Regenerative circuits-pressure reducing circuits, Maintenance of hydraulic system- common faults - visual checks of oil- causes of contamination- preventive measures - maintenance schedule. 
+<br>Hydraulic circuits of systems used in automotive-hydraulic brake-clutch- shock absorber -hydraulic power steering.
+<br><b>[12 Hrs] [35 Marks] </b>
+
+UNIT IV: PNEUMATIC SYSTEMS 
+Pneumatics – definition - importance - areas of Applications, automotive applications. 
+<br>properties of air, humidity, Pneumatic Components - Air compressors-necessity-types-reciprocating-diaphragm-vane compressor, requirement of multi stage compressors, reservoirs- functions of reservoirs, air filter - screen type - bowl type, pressure regulators – diaphragm type, lubricator, FRL unit.
+<br><b>Air motors</b>- piston motor, gear motor, sliding vane motor
+<br><b>[09 Hrs] [25 Marks] </b>
+
+UNIT V: DESIGN OF PNEUMATIC CIRCUITS 
+Pneumatic Symbols, Basic pneumatic circuit -control of double acting cylinder using 4/2 DCV-pilot controlled double acting cylinder 4/2 DCV - speed control circuit for a double acting cylinder - semi-automatic material handling circuit - time delay circuit, pneumatic tool circuit. Maintenance of pneumatic systems - common faults - preventive measures - maintenance schedule.
+<br><b>[09 Hrs] [25 Marks] </b>
+
+UNIT VI: COMBINATION CIRCUITS
+<b>Combination circuit</b> - advantages - hydro pneumatic circuits - air over oil circuit- air over oil intensifier circuit - mechanical hydraulic servo system-	electro hydraulic servo system, comparison of hydraulic - pneumatic and hydro pneumatic systems - power steering circuit -  power brake circuit - hoist circuit.
+<br><b>[06 Hrs] [15 Marks] </b>
+
+<b>Reference Books:</b>
+
+<br><br>1.	Hydraulic and Pneumatic Controls, K.Shanmuga.Sundaram, S.Chand and Co
+<br>2.	Pneumatic Systems,S.R.Majumdar,Tata McGrawhill
+<br>3.	Pneumatic Controls,	Joji P,	Wiley India Pvt Ltd
+<br>4.	Fluid Power with Applications,	Anthony Esposito, Pearson india
+<br>5.	Hydraulics and Pneumatics, Andrew Parr, Jaico publishing house
+<br>6.	Fluid Power Transmission and Control,	A Alavudeen Khalid Hussain Syed N Shanmugum, Charotor Publisher Anand-388001
+
+<br><br><b>Web links:</b>
+<br><br>Pascal’s Law Demo
+<br>https://www.youtube.com/watch?v=VxLTDtaRCZk
+<br><br>Basic Hydraulic System
+<br>https://www.youtube.com/watch?v=KgphO-u7MlQ
+<br><br>Valves
+<br>https://www.youtube.com/watch?v=3RAxRed7QuE
+<br><br>Spool Valve
+<br>https://www.youtube.com/watch?v=dnVjKV74sAQ
+<br><br>Hydraulic Lifters
+<br>https://www.youtube.com/watch?v=lorANZ1Tptw
+<br><br>4/2 Directional Control Valves
+<br>https://www.youtube.com/watch?v=XOYqnLWCYEc
+<br><br>Pressure Regulating Valve
+<br>https://www.youtube.com/watch?v=sFAYW_D3G_g
+<br><br>Pilot Operated Pressure Relief Valve
+<br>https://www.youtube.com/watch?v=q5NV2gBsryk
+<br><br>Pressure Relief Valve Working
+<br>https://www.youtube.com/watch?v=DAqnpaHf2Qs
+<br><br>Pressure Reducing Valve
+<br>https://www.youtube.com/watch?v=YgnwuTJB-wcandlist=PL9DA65D90A4561300
+<br><br>Mechanicl Control Valve
+<br>https://www.youtube.com/watch?v=HJRE5EfTPcU
+<br><br>Non Return/Check Valve
+<br>https://www.youtube.com/watch?v=C-8FKgxSg68
+<br>https://www.youtube.com/watch?v=StHAmZpDHi0
+<br>https://www.youtube.com/watch?v=XAItnsUcES0andlist=PLDaXKeQT8i0-ojLE8MMzWQXp1HfeJMqc1
+<br><br>Pumps
+<br>https://www.youtube.com/watch?v=KM3ivQL6W6w
+<br>https://www.youtube.com/watch?v=bdib6XwxNuc
+<br><br>Gear Pump
+<br>https://www.youtube.com/watch?v=c6gwU7IHtlo
+<br><br>Vane Pump
+<br>https://www.youtube.com/watch?v=BnvzPoNSXCg
+<br><br>Lobe Pump
+<br>https://www.youtube.com/watch?v=vE7y0ElIrgk
+<br><br>Actuators
+<br>https://www.youtube.com/watch?v=cScz67tWqCY
+<br><br>Radial Piston Pump
+<br>https://www.youtube.com/watch?v=a58zzqfF5N0
+<br><br>Air Compressors
+<br>https://www.youtube.com/watch?v=Ue7BkzBARXw
+<br><br>FRL Unit
+<br>https://www.youtube.com/watch?v=zPT0YDERfy4
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>Visit any service centres /workshop/ construction company / earth moving vehicle showroom
+<br><br>and
+<br><br>1. Prepare a report with materials and manufacturing process of different types of hydraulic valves, pumps and actuators used in earth moving/ construction vehicles.
+<br>2. Prepare a report on different types of pneumatic compressors, motors, filters, regulators and lubricators in earth moving and construction vehicles.
+<br>3. Draw hydraulic circuits used in Automobile's, construction vehicles and garage equipment/machines.
+<br>4. Draw pneumatic circuits used in Automobile's, construction vehicles and garage equipment/machines.
+
+<br><br><b>Note:</b> 
+<br>1. Student should prepare a report on any one of the above/similar activity, which helps in achieving above course outcomes.
+<br>2. The report prepared should be approved by the concerned staff and HOD.
+<br>3. The activity group should consist of maximum of three students.

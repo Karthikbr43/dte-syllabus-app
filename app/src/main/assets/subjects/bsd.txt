@@ -1,0 +1,31 @@
+UNIT - I: Introduction to Semiconductor Devices
+<b>Semiconductor Physics:</b> Atomic structure, Neil Bohr's atomic theory, definition of conductors, insulators and semiconductors, energy level diagrams. <b>Semiconductors:</b> Classification and types, intrinsic and extrinsic, P-type and N-type semiconductors, majority and minority carriers, recombination, effect of temperature.<b>PN junction:</b> Formation, depletion region, barrier potential, reverse breakdowns, PN junction as diode, symbol, biasing modes, V-I characteristics, reverse saturation current, diode current equation, effect of temperature on diode current, ideal diode, basic diode ratings. <b>Zener diode:</b> Symbol, Principle, Zener breakdown, V-I characteristics. <b>Application of Diodes:</b> diode as a switch, voltage regulator.
+<br><b>[11 Hrs] [30 Marks] </b>
+
+UNIT - II: Bipolar Transistors
+<b>Transistor Basics:</b> Definition, formation of transistor-PNP and NPN, symbols, working principle, transistor current equation. <b>Modes of operation:</b> CB, CE and CC Configuration modes, input and output characteristics in CB and CE configuration, definition of Riand Ro, α, β, and γ relation between them, simple problems, comparison of CB, CE and CC modes. <b>Applications:</b> switch and amplifier in CE configuration, thermal runaway, role of heat sinks.
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT – III: Field Effect Transistor
+<b>FET basics:</b> Physical structure of FET, principle of operation, P-channel and N-channel, symbols, drain and transfer characteristics, definition of pinch-off voltage, rd, gm, µ and their relationship, comparison of JFET and BJT, Applications of JFET. <b>MOSFET:</b> Types-Depletion and enhancement, P-channel and N-channel, physical structure, comparison of MOSFET and JFET.
+<br><b>CMOS:</b> Working principle, low-power consumption feature, limitations, inverter, Applications of CMOS, comparison with MOSFET.
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT - IV: Special Semiconductor Devices
+Physical structure, Working principle, characteristic curves, symbol and Applications of following semiconductor devices: UJT, SCR, DIAC and TRIAC. Features of varactor, tunnel diode, Gunn diode, PIN diode, and Schottky diode.
+<br><b>[08 Hrs] [20 Marks] </b>
+
+UNIT - V: Fabrication of Integrated ICs
+Definition and need of IC’s, 	advantages and disadvantages, classification of ICs based on structure, scale of integration, function. Fabrication process of monolithic ICs. Fabrication of diode and capacitor.
+<br><b>[06 Hrs] [15 Marks] </b>
+
+UNIT - VI: Opto-semiconductor Devices
+<b>Definitions:</b> photo emission, photoconduction, photovoltaic effect with Application examples. <b>Features:</b> photodiode, phototransistor, LED, Opto-coupler, LED lamps, solar cell, solar panel, LASER and MASER. 
+<br><b>[07 Hrs] [20 Marks] </b>
+
+<b>Reference Books:</b>
+
+<br><br>1.	Principles of Electronics, RohitMehtaandV K Mehta, S. Chand Publishing ISBN: 9788121924504
+<br>2.	Electronic Devices and Circuits, David A. Bell, Oxford University Press, ISBN: 9780195693409
+<br>3.	Fundamentals of Electrical and Electronics Engineering, B. L. Theraja, S. Chand and Company. REPRINT 2013, ISBN 8121926602.
+<br>4.	http://www.electronics-tutorials.ws

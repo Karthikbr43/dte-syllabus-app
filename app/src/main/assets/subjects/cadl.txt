@@ -1,0 +1,28 @@
+<b>Experiments:</b>
+
+<br><br>1.	Familiarization of CAD software tool
+<br>2.	Prepare a 2D CAD drawing of projection of pentagonal prism resting with its edge or corner on HP and its axis inclined to VP
+<br>3.	Prepare a 2D CAD drawing of projection of hexagonal pyramid resting with its edge or corner on HP and its axis inclined to VP
+<br>4.	Prepare a 2D CAD drawing of projection of cylinder resting on its corner on HP and its axis inclined to VP
+<br>5.	Prepare a 2D CAD drawing of projection of cone resting on its corner on HP and its axis inclined to VP
+<br>6.	Prepare atleast four CAD drawing by converting orthographic to isometric views
+<br>7.	Prepare atleast four CAD drawing by converting isometric to orthographic views
+<br>8.	Prepare an assembly of screw jack, and draw its  orthographic views
+<br>9.	Prepare an assembly of flange coupling and  draw its orthographic views
+<br>10.	Prepare an assembly of Plummer block and draw its orthographic views
+<br>11.	Prepare an assembly of machine vice and draw its  orthographic views
+
+<b>Reference Books:</b>
+<br><br>1.	Computer Aided Electrical Drawing - YOGESH, NAGARAJA,NANDAN	PHI Publication
+
+<br><br><b>Student Activity</b>
+<br><br>1. Get a used or replaced fastener or any other machine element from a nearby garage or workshop and prepare a CAD drawing of that machine elements with dimensions.(Full or reduced or enlarge scale) and printout has be submitted
+
+<b>Scheme of Valuation for SEE:</b>
+
+<br><br>1.	List and Explain any five  CAD Commands	: 05
+<br>2.	Solving a problem on projection of solids or conversion of isometric to orthographic views or conversion of orthographic views to isometric on answer sheet(Any one) : 10
+<br>3.	Execution of above using cad software :	10
+<br>4.	Execution of assembly drawing using CAD software (Any one) : 25
+
+<br><br><b>TOTAL = 50 Marks</b>

@@ -1,0 +1,36 @@
+<b>Experiments:</b>
+
+<br><br>1.	Determination of fineness of by sieve test.
+<br><br>2.	Determination of fineness of by Blaine’s Air Permeability test.
+<br><br>3.	Determination of specific gravity of cement powder.
+<br><br>4.	Determination of normal consistency of cement.
+<br><br>5.	Determination of initial setting time of OPC & White cement.
+<br><br>6.	Determination of final setting time of OPC and White cement.
+<br><br>7.	Determination of CCS of cement.
+<br><br>8.	Determination of tensile strength of OPC.
+<br><br>9.	Determination of soundness of OPC.
+<br><br>10.	Determination of consistency of concrete by Slump Cone Test
+<br><br>11.	Determination of CCS of OPC with curing for 3, 7 & 28 days.
+<br><br>12.	Determination of CCS of cement + sand mix (with 1:6, 1:8 ratio) and curing of 3, 7 and 28 days.
+
+<b>Reference Books:</b>
+
+<br><br>1.  Engineering Materials by Rangwala
+<br>2.  Cement technology by Lea
+<br>3.  Advanced cement technology by S.N. Ghosh
+<br>4.  Ceramic and glass materials	by James F Shackelford
+
+<br><br><b>Suggested Student Activity:</b>
+<br><br>1.	Student should test CCS of cement plaster mix (with 1:6, 1:8 ratio) with varying water content and curing of 3, 7 and 21 days.
+<br>2.	Surf the internet and find various brands of cement manufacturer and make a comparative on their manufacturing process.
+<br>3.	Visit a nearby cement industry and make a report.
+<br><br><b>Note:</b> Student should prepare hand written report with minimum 2-3 pages and reports should not be copies from earlier batches. And other similar tasks can be assigned.
+
+<b>Scheme of Valuation for SEE:</b>
+
+<br><br>1.	Writing  Procedure : 05
+<br>2.	Conducting of experiment : 30
+<br>3.	Results	: 05
+<br>4.	Viva-voce : 10
+
+<br><br><b>TOTAL = 50 Marks</b>

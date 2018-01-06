@@ -1,0 +1,58 @@
+UNIT - I: INTRODUCTION TO DESIGN
+Machine Design-Definition, Classification, General procedure and   considerations.
+<br><b>[04 Hrs] [10 Marks] </b>
+
+UNIT - II: DESIGN OF FASTENERS
+Screw thread terminology, Common types of screw fastenings-Through bolts-Tap bolts-Studs-Cap screws-Set screws, forms of screw threads-V Threads-square threads-whitworth thread-sellers thread-unified standard thread-square thread-acme thread-knuckle thread-buttress thread, locking devices-Lock nut-Slotted nut-Castle nut-grooved nut-Locking by a lock plate-tab washer-spring washer, Designation of screw thread, stresses in screw fastening due to external loading- Tensile-compressive-combined tensile & shear stress, bolts of Uniform Strength, simple problems on design of bolts subjected to external force -Design of Riveted  joints  -classification-  Important  terms  used  in riveted  joints-materials  for  rivets- Failures of riveted joints-Strength and efficiency of riveted joints-Simple problems on Single and Double riveted lap joint -Single and Double riveted Butt joint (with single and double strap)
+<br><b>[14 Hrs] [40 Marks] </b>
+
+UNIT - III: DESIGN OF SHAFTS, KEYS
+Types of Shafts, Shaft materials, Standard Sizes, Design of Shafts subjected to twisting & bending moment (Hollow and Solid) using strength and rigidity criteria, Design of propeller shaft & rear axle shaft-simple problems
+<br>Keys-Purpose, Types-Taper key-parallel key-sunk key-saddle key-Gib head key-woodruff key-feather key-splines, Forces acting on sunk key-Design of Sunk Keys based on shear & crushing-Simple problems
+<br><b>[08 Hrs] [25 Marks] </b>
+
+UNIT - IV: DESIGN OF SIMPLE MACHINE PARTS
+Couplings-purpose-requirements-Types ,Design of Couplings – Solid Muff Coupling- Flange coupling (Protected  and Unprotected type) –simple problems, Design of socket and spigot cotter joint-simple problem, Knuckle Joint-purpose-methods of failure-simple problems.
+<br><b>[12 Hrs] [40 Marks] </b>
+
+UNIT - V: DESIGN OF ENGINE PARTS
+Design of Engine cylinder (Thickness of cylinder wall, head thickness, bore & length of cylinder, size of studs)-simple problems, Design of piston, piston pin & piston rings-simple problems
+<br><b>[08 Hrs] [20 Marks] </b>
+
+UNIT - VI: DESIGN OF SPRINGS
+Coil springs-Terms used in helical compression spring, stresses & deflection of helical spring, simple problems
+<br>Leaf springs- Effective & ineffective length, camber, stresses & deflection of semi elliptic leaf spring, simple problems.
+<br><b>[06 Hrs] [10 Marks] </b>
+
+<b>Reference Books:</b>
+
+<br><br>1.	A Text book of Machine Design, R.S. Khurmi & J.K.Gupta, S. Chand publication
+<br>2.	Machine design, S G Kulkarni, McGraw Hill Education Publications
+<br>3.	Introduction to Machine design, V B Bhandari, McGraw Hill Education Publications
+<br>4.	Automotive Mechanics, Dr N K Giri, Khanna Publishers
+<br>5.	Design Of Machine Elements Vol I, Vol II, J.B.K. Das , P.L. Srinivas Murthy, Sapna Publication
+<br>6.	Auto Design, Design	R B Gupta, Satya Prakashan
+<br>7.	Design Data Hand Book  for Mechanical Engineers, K Mahadevan  &  K Balaveera  Reddy, CBS publications
+
+<br><br><b>Website:</b>
+
+<br><br>1. http://nptel.ac.in/courses/Webcourse-contents/IIT%20Kharagpur/Machine%20design1/left_home.html
+<br>2  http://nptel.ac.in/courses/Webcourse-contents/IIT%20Kharagpur/Machine%20design1/left_mod4.html
+<br>3. http://nptel.ac.in/courses/Webcourse-contents/IIT%20Kharagpur/Machine%20design1/left_mod7.html .
+<br>4. http://nptel.ac.in/courses/Webcourse-contents/IIT%20Kharagpur/Machine%20design1/left_mod4.html
+<br>5. http://nptel.ac.in/courses/Webcourse-contents/IIT%20Kharagpur/Machine%20design1/left_mod5.html
+<br>6. http://nptel.ac.in/courses/Webcourse-contents/IIT%20Kharagpur/Machine%20design1/left_mod8.html
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>1. The students should identify at least five machine components .He should select the materials for identified machine components by using design data hand book. List the mechanical properties of material selected.
+<br>2. Observe the mechanisms where transmission of power takes place through shaft, Keys, coupling, pulley and belt drive. Get the required information regarding power transmitted (power output by motor engine etc.).
+<br>3. The students can visit nearby workshops/garages and collect information like material, design features etc on different fasteners and machine components.
+<br>4. Assignments on design of Screwed joints, Riveted joints [one each] With free hand sketches.
+<br>5. The student should Download and present various presentations related to design of machine elements.
+<br>6. The student should Download and present various presentations related to stresses in Machine elements.
+<br>7. The student should Download and present various presentations related to failure of Machine elements.
+
+<br><br><b>Note:</b> The activities or similar activities for assessing CIE (IA) for 5 marks (Any one)
+<br>1. Each student should do any one of the following type activity or any other similar activity related to the course and before conduction, get it approved from concerned Teacher and HOD.
+<br>2. Each student should conduct different activity and no repeating should occur

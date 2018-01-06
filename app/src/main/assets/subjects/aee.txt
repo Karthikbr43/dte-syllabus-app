@@ -1,0 +1,58 @@
+UNIT - I: Consumer electronics
+<b>Calculator</b> – Structure of a calculator, internal organisation of a calculator. 
+<br><b>Microwave oven</b>- Block diagram, Types, principle of microwave cooking. 
+<br><b>Washing machine</b>- Electronic controller of washing machines, Washing machine Hardware, Washing cycle, Hardware software development, Types of washing machine, Fuzzy logic washing machine. 
+<br><b>Air conditioners</b>- Air conditioning, Components of air conditioners. Remote controlled air conditioner. Barcodes – Scanner and decoder. 
+<br><b>Refrigeration</b> – Refrigerants, Refrigeration system, smart refrigerators. 
+<br><b>Office automations</b> - Features of copiers, scanners and printers. 
+<br><br><b>[10 Hrs] [25 Marks] </b>
+
+UNIT - II: Automobile electronics
+Need of Electronics in Automobiles, Electronic ignition, electronic ignition lock system, Anti brake system (ABS), Electronically controlled suspension, Instrument panel displays, Ultrasonic car safety belt system, vehicle proximity detection system, Air-bag system, Vehicle navigation, theft detection and remote locking 
+<br><br><b>[10 Hrs] [25 Marks] </b>
+
+UNIT - III: Audio  systems
+<b>Terminology in audio systems</b> - Audio signal, amplifier, bass control, treble control and decibel.
+<br><b>Microphone</b>- Characteristics of microphone, Carbon microphone, Wireless microphone. 
+<br><b>Headphones</b>- Types of headphones, moving – iron headphone, dynamic headphone.  
+<br><b>Loudspeakers</b>- Features of Basic loud speaker, Crystal loudspeaker and woofers. 
+<br><br><b>[06 Hrs] [20 Marks] </b>
+
+UNIT - IV: Video systems
+Features of Digital camera and Cam coder. Television- Terminology and block diagram of TV communication system. Features of TV Transimitter and receiver. Features of Colour TV system.  Features of video/TV Displays– CRT, PLASMA, LCD, LED, HDTV and Touch screens. Features of Smart-TV.
+<br><br><b>[06 Hrs] [20 Marks] </b>
+
+UNIT - V: Entertainment electronics
+Interactive video system, Working of a LCD projectors, 3D glasses, Applications of Virtual reality. 
+<br><b>Electronic music synthesizers</b> - typical generators, basic modifiers, voltage control, envelope generator, other signal modifiers, assembling a synthesizer, Electric guitar, electric wind instruments.
+<br><br><b>[08 Hrs] [20 Marks] </b>
+
+UNIT - VI: Robotics
+<b>Robot</b>- Definition, Advantages and disadvantages, Functions and Applications.
+<br><b>Components of Robotic system</b> - Manipulator arm, end-effectors (gripper), Actuators and transmissions, Controller, Sensors, Basic motions / degrees of freedom.
+<br><b>Robot Classification</b>–Standard classification, Broad classification and general classification.     
+<br><b>Robot qualities</b> - Tactile sensing, Vision, Mobility, others
+<br><b>Robot Control systems </b>- Non- servo control and Servo control
+<br><b>Robotic sensors </b>- Classification – Internal state sensors and External state sensors, tactile and non-tactile sensors
+<br><b>Robotic vision system</b> - Functions, components of vision system, Industrial applications of vision controlled robotic system 
+<br><b>Actuators</b> - Definition, Electrical actuator- Switching devices (Mechanical and solid state), Drive systems (D.C motors, A.C motors and stepper motors)
+<br><b>Control system</b> - Definition, classification – Open loop and closed loop systems, Automatic control system, Pick and place robot, line follower robot, obstacle detecting robot.  
+<br><br><b>[12 Hrs] [35 Marks] </b>
+
+<b>Reference Books:</b>
+
+<br><br>1.	S P Bali, “Consumer Electronics”
+<br>2.	Tom Denton, “Automobile Electrical and Electronic Systems”. 3rd edition. 
+<br>3.	William. B. Ribbens, “Understanding Automotive electronics”
+<br>4.	R.K. Rajput, “Robotics and Industrial automation”
+<br>5.	http://ocw.mit.edu/courses/mechanical-engineering/2-12-introduction-to-robotics-fall-2005/lecture-notes/chapter3.pdf 
+<br>6.  https://www.engineeringforchange.org/uploads/activity/147/147/396/1316201555863/low_cost_projector.pdf 
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>1.	Prepare a report on role of electronics in Aeronautics.
+<br>2.  Prepare  a report on Internet of Things (IOT) ( smart automobile,  smart home, smart city, Smart Villages, Smart hospitals )  
+<br>3.  Prepare a report on role of electronics in Agriculture
+<br>4.  Identify at least any ten electronics applications which are not covered in this course and list their features.
+
+<br><br><b>Note:</b>  The activities or similar activities for assessing CIE (IA) for 5 marks (Any one)

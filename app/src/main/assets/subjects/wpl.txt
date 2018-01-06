@@ -1,0 +1,79 @@
+<b>Experiments:</b>
+
+<br><br><b>Dynamic Documents with Java Script</b>
+<br><br>1.	The document must have a paragraph of text that describes your home. Choose atleast three different phrases (3 to 6 words) of this paragraph and make them change font, font style, color and font size when the mouse cursor is placed over them. Each of the different phrases must change to different fonts, font styles, colors and font sizes. 
+<br><br>2.	The document must contain four short paragraphs of text stacked on top of each other with only enough of each showing so that the mouse cursor can also be placed over some part of them. When the cursor is placed over the exposed part of any paragraph it should raise to the top to become completely visible.
+
+<br><br><b>XML</b>
+<br><br>3.	Design an XML document to store information about patience in a hospital. Information about patients must include name (in 3 parts, first name, middle name, last name), social security number (SSN), age, room number, primary insurance company – including member identification number, group number and address – secondary insurance company (in the same sub parts as for the primary insurance company), known medical problems, and known drug allergies. Both attributes and nested tags must be included. Make up sample data of atleast 4 patients. Create a CSS style sheet for the above XML document and use it to create a display of that document.
+<br><br>4.	Create the XSLT style sheet to format all the patient elements of the XML, document of exercise 3 and use it to create a display of whole element.
+
+<br><br><b>PHP</b>
+<br><br>5.	Write an XHTML document to include an anchor tag, that calls a PHP document also write the called PHP document which returns a randomly chosen greeting from a list of five different greetings. The greetings must be stored as constant strings in the script. A random number between 0 and 4 can be computed with these line.
+<br>#set the seed for mtrand  with the number of microseconds
+<br>#since the last full second of the clock
+<br>mt_strand((double) microtime() * 1000000);
+<br>$number=mtrand(0,4); #computes a random integer 0-4
+<br>Write the PHP script for above to count the number of visitors and display that number for each visitor.
+<br>Hint: Use a file to store current count.
+
+<br><br>6.	Write the XHTML code using JavaScript Object Notation (JSON) to create the form with the following capabilities
+<br>a)	A text widget to collect the users name
+<br>b)	Four check boxes, one each for the following items
+<br>i)	Four 100 watt light bulbs for Rs. 20=39
+<br>ii)	Eight 100 watt light bulbs  for Rs 40=20
+<br>iii)	Four 100 watt long life light bulbs for Rs. 30=95
+<br>iv)	Eight 100 watt long life light bulbs for Rs 70=49
+<br>c)	A collection of 3 radio buttons that are labeled as follows
+<br>i)	Visa
+<br>ii)	Master Card
+<br>iii)	Discover
+<br>Write a PHP script that computes the total cost of the ordered light bulbs for the above program after adding 13.5% VAT. The program must inform the buyer of exactly what was ordered in table.	
+
+<br><br>7.	Write a XHTML code to provide a form that collects names and telephone numbers. The phone numbers must be in the format ddd-ddd-dddd. Write a PHP script that checks the submitted telephone number to be sure that it confirms to the required format and then returns a response that indicates whether the number was correct.
+<br><br>8.	Write the XHTML code using JavaScript Object Notation (JSON)  to accept from the user name, phone no, mail-id, stored in database. Retrieve same information from database using a separate PHP script.
+
+<br><br><b>Java Servlets and JSP</b>
+<br><br>9.	Write a servlet that returns a randomly chosen greeting from a list of five different greetings. The greeting must be stored as constant strings in the program.
+<br><br>10.	Write a servlet for the XHTML code of exercise 6 that computes the total cost of ordered light bulbs after adding 2% sales tax. The servlet must inform the buyer of exactly what was ordered in table.
+<br><br>11.	Write and test a JSP document that displays the form of exercise 6 and produces the same response document as exercise 10.
+<br><br>12.	Write a markup document to create a form that collects favourite popular songs, including the name of the song, the composer and the performing artist or group. This document must call a servlet when the form is submitted and another servlet to request a current list of survey results.
+
+<br><br><b>Ruby</b>
+<br><br>13.	Write, test and debug a ruby program with the following specifications:
+<br>Input: Three names, on separate lines, from the keyboard.
+<br>Output: The input names in alphabetical order. Do not use arrays.
+
+<br><br>14.	Write, test and debug a ruby program with the following specifications:
+<br>Input: A list of numbers from the keyboard.
+<br>Output: Two lists of numbers, One with input numbers greater than zero and one with those less than zero. (Ignore the zero-valued numbers). You must first build two arrays with the required output numbers before you display any of them. 
+
+<br><br>15.	Open Ended exercise- Mini project using Responsive Web Design (RWD) concept. Not for exam, but compulsory to be included in record.
+
+<b>Reference Books:</b>
+
+<br><br>1.	http://www.tutorialspoint.com 
+<br>2.	http://www.w3schools.com/
+<br>3.	Programming the World Wide Web, 7th edition, Robert W. Sebesta , Pearson Education, ISBN- 9789332518827
+<br>4.	Web Programming – Building Internet Applications, 3rd  edition, Chris Bates, Wiley  publisher
+<br>5.	Web Technologies— HTML, JavaScript, PHP, Java, JSP, ASP.Net, XML & Ajax – Black  Book, Wiley,  ISBN : 978-81-7722-997-4
+
+<br><br><b>Suggested list of student activities:</b>
+
+<br><br>1.	Make presentation on latest web designing softwares.
+<br>2.	Demonstrate any application using word press or joomla.
+<br>3.	Quiz
+
+<br><br><b>Note:</b> The activities or similar activities for assessing CIE (IA) for 5 marks (Any one). Student activity like mini-project, surveys, quizzes. Activity should be done individually.
+<br>1.	Each individual student should do any one of the following type activity or any other similar activity related to the course and before conduction, get it approved from concerned course co-ordinator and programme co-ordinator.
+<br>2.	Each student should conduct different activity and no repeating should occur.
+
+<b>Scheme of Valuation for SEE:</b>
+
+<br><br>1.	Record : 05
+<br>2.	Writing one program from Java scripting or XHTML or Java Servelets and JSP : 10
+<br>3.	Writing one program from PHP or Ruby : 10
+<br>4.	Executing any one program with result : 15
+<br>5.	Viva Voice : 10
+
+<br><br><b>TOTAL = 50 Marks</b>

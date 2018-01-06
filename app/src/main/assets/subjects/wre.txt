@@ -1,0 +1,69 @@
+UNIT I: INTRODUCTION TO WATER RESOURCES ENGINEERING
+Introduction and objects of  water resource development, world water resources, water resources of India and Karnataka, Necessity of irrigation in India, Advantages & Disadvantages of Irrigation	
+<br><b>[02 Hrs] [05 Marks] </b>
+
+UNIT II: HYDROLOGY
+Introduction and importance of hydrology 
+<br>Hydrologic cycle, Precipitation ,forms of precipitation, types of precipitation, Rainfall in India ,Measurement of rainfall,types of rain gauges(Simon’s rain gauge and floating type rain gauge).Mean annual rainfall and methods of computation of average rainfall, (simple problems). Definition of Hydrograph.
+<br>Definitions of Abstractions from precipitation (Evaporation, Transpiration, Evapotranspiration, Interception, Depression storage, Infiltration), Run-off and Estimation of runoff (Runoff co-efficient & Empirical formula methods-only theory), Factors affecting run-off.
+<br><br><b>[08 Hrs] [30 Marks] </b>
+
+UNIT III: METHODS OF IRRIGATION  AND WATER REQUIREMENT OF  CROPS:
+Methods of irrigation, Subsurface irrigation, Surface irrigation (Border strip method, Furrow method, Basin method), Sprinkler irrigation, Drip irrigation, Advantages and disadvantages of Drip Irrigation & Sprinkler irrigation.
+<br>Quality of water for Irrigation, water requirements of crops, Base period, duty, delta and their relationship (simple problems).
+<br>Definitions of Gross command area ,cultivable command area , intensity of irrigation, Annual irrigation intensity, Net and gross Sown area, Net & gross irrigated area, Time factor, Capacity factor ,Full supply co-efficient 
+<br>Factors affecting duty, methods of improving duty. Crop seasons – Rabi and Kharif, Irrigation water efficiency.
+<br>Soil moisture irrigation relationship, Definitions of field capacity, soil moisture content, permanent wilting point, available moisture, soil moisture deficiency. optimum moisture content, Root zone depth.
+<br><br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT IV: RESERVOIRS AND DAMS
+Introduction, site selection for reservoirs and dams, 
+<br>Earthen dams, Typical cross section of different types of earthen dam, causes of failures of earthen dams (structural failures). 
+<br>Gravity dams, Elementary profile of a gravity dam, list various forces acting on gravity dam, modes of failure of gravity dams, Inspection galleries.
+<br>Spillways and its types (Straight drop, Ogee spillway, Chute Spill way, volute type Syphon spillway).
+<br>Reservoir sedimentation
+<br><br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT V: DISTRIBUTION WORKS CROSS, DRAINAGE WORKS, DIVERSION WORKS
+<b>DISTRIBUTION WORKS:</b> Canal and its classification (based on alignment, function), Layout of canal system, Canal lining and Maintenance of canals.
+<br><b>CROSS DRAINAGE WORKS:</b> Types of cross drainage works, Aqueduct, Canal siphon, Super passage, Level crossing, Inlet and outlet.
+<br><b>DIVERSION HEAD WORKS:</b> Definition, Location, layout and components of diversion head works, Sketches and description of Weirs, barrage, Body wall of a weir, divide wall Approach channel, canal head regulator, and Fish ladder. Difference between weir and barrage.
+<br><br><b>[14 Hrs] [35 Marks] </b>
+
+UNIT VI: GROUND WATER ENGINEERING AND WATER RESOURCE MANAGEMENT
+<b>GROUND WATER ENGINEERING:</b>
+<br>Ground water and its importance, Aquifer, Aquiclude, Aquitard ,Aquifuge Aquifer properties -porosity, ground water yield, specific yield, specific retention, permeability, transmissibility.
+<br>Artificial recharge of ground water and its methods , Ground water pollution protection of wells, Legislation provisions for ground water protection
+<br><br><b>WATER RESOURCE MANAGEMENT:</b>
+<br>Water conservation- Rain water harvesting, Methods of rain water harvesting
+<br>Watershed management and its importance, National water policy, Inter basin water transfer. Definition and application of Cloud seeding.
+<br><br><b>[08 Hrs] [15 Marks] </b>
+
+<b>Text books:</b>
+<br><br>1. Irrigation and water power engineering-by B.C.Punmia, Pande, B.B.Lal Lakshmi Publications, 7/21, Ansari Raod, Daryaganj, New Delhi - 110 002.
+<br>2. Irrigation and Hydraulic structures S.K.Garg (Khanna Publishers, Delhi)
+<br>3. Ground water- H.M.Raghunath, New age international publisher
+<br>4. Irrigation Engineering- R.K.Sharma and T.K.Sharma (S.Chand and Company Ltd)
+<br>5. Irrigation Engineering-N.N. Basak McGraw Hill Education India Private Ltd New Delhi
+
+<br><br><b>References:</b>
+
+<br><br>1. Principles and practice of irrigation engineering S.K.Sharma(S.Chand and company Pvt. Ltd. Ramnagar, New Delhi - 110 055
+<br>2. Irrigation Engineering - voi I, II and III K.R. Sharma
+<br>3. Theory and design of irrigation structures Varshney, S.C., Gupta AndR.L.Gupta
+<br>4. A text book of irrigation engineering and Hydraulics structures R.K.Sharma (Oxford - IBH publishing Co.,)
+<br>5. Hydrology – Principles, Analysis and design, New age international publisher
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>1.	Visit to nearby Irrigation projects (Existing or on-going) & prepare a detailed report.
+<br>2.	Visit to nearby meteorological station & collect the meteorological data for past 5 years & prepare a report.
+<br>3.	Calculate the average rainfall for mini water shed by collecting the meteorological data.
+<br>4.	Visit to nearby lakes or irrigation tanks& study its present status, suggest restoration measures & prepare a report.
+<br>5.	Seminars on following topics:
+<br>i)Cloud seeding  ii) Water shed management iii) Rain water harvesting iv) Restoration of lakes & Reservoirs v) Remote sensing & GIS applications in water resources engineering vi) Urban flood management.
+<br>6.  Visit nearby agricultural field where micro irrigation techniques are implemented & prepare a report.
+
+<br><br><b>Note:</b> 
+<br>Students should select any one of the above or other topics relevant to the subject approved by the concerned faculty, individually or in a group of 3 to 5. Students should mandatorily submit a written report and make a presentation on the topic.  The task should not be repeated among students. Report will be evaluated by the faculty as per rubrics. Weightage for 5 marks Internal Assessment shall be as follows: 
+<br>Unsatisfactory 1,  Developing 2, Satisfactory 3, Good   4, Exemplary 5.

@@ -1,0 +1,42 @@
+<b>Experiments:</b>
+
+<br><br>1.	Illustrate the if-else statement and how does it operate on vectors of variable length.
+<br>2.	Illustrate for loop and stop on condition. Print the error message.
+<br>3.	Illustrate while loop and stop on condition. Print the error message.
+<br>4.	Apply the predefined mean function using two dimension data set.
+<br>5.	Apply for ragged array tapply.
+<br>6.	Compute mean values for vector aggregates defined by factors tapply and sapply.
+<br>7.	Compute sum of each list component and return result as list.
+<br>8.	Compute sum of each vector component and return result as list.
+<br>9.	Illustrate return and break.
+<br>10.	Illustrate for computing the mean for any custom selection of column without compromising the speed performance.
+<br>11.	Illustrate the function in R programming.
+<br>12.	Illustrate the function with optional argument.
+
+<b>Reference Books:</b>
+
+<br><br>1. Sams Teach Yourself R – Andy Nicholls,RichardPugh,AimeeGott,Pearson Publication.
+<br>2. http://www.statmethods.net/about/books.html
+<br>3. http://cran.r-project.org/doc/contrib/Owen-TheRGuide.pdf
+<br>4. http://cran.r-project.org/doc/contrib/Rossiter-RIntro-ITC.pdf
+<br>5. http://cran.r-project.org/doc/manuals/R-intro.pdf
+<br>6. http://www.amazon.com/Statistics-Introduction-Michael-J-Crawley/dp/0470022981/ref=pd_sim_b_4_img/102-9916685-3885749?ie=UTF8&qid=1181567691&sr=1-1
+<br>7. http://www.amazon.com/Introductory-Statistics-R-Peter-Dalgaard/dp/0387954759/ref=pd_bbs_sr_1/102-9916685-3885749?ie=UTF8&s=books&qid=1181567691&sr=1-1
+
+<br><br><b>Suggested list of student activities:</b>
+
+<br><br>1. Conduct a survey on the Big data and prepare a report of 3-4 pages on various softwares used for analyzing Big data.
+<br>2. Using R concepts analyze the student result.
+<br>3. Conduct a survey how Big data can use R programming for an enterprise.
+
+<br><br><b>Note:</b> the following activities or similar activities for assessing CIE (IA) for 5 marks (Any one). Student activity like mini-project, surveys, quizzes, etc. should be done in group of 1-2 students. 
+<br>1.	Each group should do any one of the following type activity or any other similar activity related to the course and before conduction, get it approved from concerned course co-ordinator and programme co-ordinator.
+<br>2.	Eachgroup should conduct different activity and no repeating should occur.
+
+<b>Scheme of Valuation for SEE:</b>
+
+<br><br>1.	Writing  two programs : 10+10=20
+<br>2.	Executing any one program with result : 20
+<br>3.	Viva Voice : 10
+
+<br><br><b>TOTAL = 50 Marks</b>

@@ -1,0 +1,57 @@
+UNIT-I: HISTORY OF AUTOMOBILE
+Automobile-Definition - history and development in abroad and in India before and after independence- different Indian and foreign Automobile manufacturing concerns of two wheeler, three wheeler, LMV and HTV – their products and plants location.
+<br><b>[06 Hrs] [15 Marks]</b>
+
+UNIT-II: GENERAL STRUCTURE OF AUTOMOBILE
+classification of Automobile, Major systems of an Automobile - their functions, Chassis – definition, chassis layout of two, three andfour wheeler with major components - their functions ,  engine mounts – need – types, definition of : wheel base - wheel track - overall length - front overhung -  rear overhung - height of CG point - ground clearance -  gross weight and kerb weight. 
+<br><b>[06 Hrs] [15 Marks]</b>
+
+UNIT-III:	HEAT ENGINES
+Heat engines - Definition - types - comparison of IC and EC engines, engine terminology-bore – stroke – TDC – BDC – clearance volume - swept volume - total volume - compression ratio - mean effective pressure – indicated power – brake power - friction power - engine speed engine torque, classification of IC engines with respect to different parameters, Two stroke and four stroke SI engines-construction– working, Two stroke and Four stroke CI engines - construction – working,-comparison of SI and CI engines- comparison of Two stroke and Four stroke engines.
+<br><b>[12 Hrs] [40 Marks]</b>
+
+UNIT-IV: ENGINE CONSTRUCTION DETAILS - I	
+Cylinder block – types - Constructional details - materials used , Cylinder head -constructional details -  materials used, crank case, oil pan , cylinder  liners – types – construction - merits and demerits ,Gasket - purpose- types , Piston - functions  - requirements - constructional details - materials used ,piston clearance – importance , Expansion control methods in pistons - heat dam – slots – bimetal - cam ground - taper piston - offset piston- special alloy, Piston rings – functions - types  - constructional details – materials, Piston pin -construction – materials, Connecting rod– functions – types – construction -  materials, Different methods of connecting piston with connecting rod – Explain each method.
+<br><b>[14 Hrs] [35 Marks]</b>
+
+UNIT-V: ENGINE CONSTRUCTIONAL DETAILS - II
+Meaning and need of firing order, firing order of three, four and six cylinder engines-functions, construction and materials for flywheel- need, types and constructional details of vibration damper- functions, construction and materials for cam shaft, different types of camshaft drives.
+<br><b>[07 Hrs] [20 Marks]</b>
+
+UNIT-VI: ENGINE CONSTUCTIONAL DETAILS - III
+Construction and materials for poppet valve, valve seat and valve guide- overhead valve operating mechanism, over head camshaft valve mechanism- meaning and importance of valve clearance- construction of inlet and exhaust manifold- purpose of mufflers - constructional details of absorber type, baffle plate type, wave cancellation type and resonance type mufflers.
+<br><b>[07 Hrs] [20 Marks]</b>
+
+<b>Reference Books:</b>
+
+<br><br>1.	Automobile Engineering vol-2,Kripal Singh,Standard publications
+<br>2.	Automobile Engineering,R B Gupta,Satya Prakashan
+<br>3.	Automotive Engines,S Srinivasan,Tata McGraw-Hill
+<br>4.	Automotive Technology,H M Sethi,Tata McGraw-Hill
+<br>5.	Automotive Mechanics,Crouse and Anglin,Tata McGraw-Hill
+<br>6.	Automotive Engineering vol-2,Anil Chikara,Satya Prakashan
+<br>7.	The Automobile	Harbans, singh rayat,S Chand
+<br>8.	Automobile Engineering,Er.A.K.Babu, Er Ajit Pal Singh,S Chand
+<br>9.	Automobile Engineering,Er S.K.Gupta,S.Chand
+
+<br><br><b>e - Links:</b>
+<br><br>1.	How stuff works.com.
+<br>2.	http://en.wikipedia.org/wiki/Car
+<br>3.	http://en.wikipedia.org/wiki/History_of_the_automobile
+<br>4.	http://www.history.com/topics/automobiles.
+<br>5.	http://en.wikipedia.org/wiki/History_of_the_automobile.
+<br>6.	https://www.youtube.com/watch?v=fTAUq6G9apg.
+<br>7.	https://www.youtube.com/watch?v=rWmR9UIz5iA.
+<br>8.	https://www.youtube.com/watch?v=nAKTVBRNsmI.
+<br>9.	https://www.youtube.com/watch?v=hV3LImCslpo.
+<br>10.	https://www.youtube.com/watch?v=PYje-4D76kc.
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>1. Visit nearby garage/service station and collect information on specification of different automobiles.
+<br>2. Visit nearby garage/service station and collect information on specification of different automobile engines
+<br>3. Visit nearby garage/service station and collect information on different automobile engine components with photographs and list of materials.
+
+<br><br><b>Note:</b> The activities or similar activities for assessing CIE (IA) for 5 marks (Any one)
+<br>1. Each student should do any one of the following type activity or any other similar activity related to the course and before conduction, get it approved from concerned Teacher and HOD.
+<br>2. Each student should conduct different activity and no repeating should occur

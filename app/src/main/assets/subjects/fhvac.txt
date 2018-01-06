@@ -1,0 +1,40 @@
+UNIT I: INTRODUCTION TO REFRIGERATION 
+Definition of refrigeration, laws of refrigeration, methods of refrigeration, refrigeration effects, COP, TON of refrigeration, difference b/w refrigeration & heat pump. VCR system, VCR cycle, principle parts of single VCR system, Representation of the vapour compression cycle on P-H, T-S & P-V Diagram, factors affecting the performance of a VCR system, house hold refrigerator working on VCR cycle. Refrigerants, essential properties of refrigerants, selection of refrigerants, simple vapour absorption refrigeration system, difference of an absorption system over vapour compression system. 
+<br><b>[08 Hrs] [30 Marks] </b>
+
+UNIT II: INTRODUCTION TO HVAC SYSTEM 
+Introduction, History of HVAC, Scope of Modern HVAC, Introduction To Air-Conditioning Processes, Environment For Human Comfort, Introduction to psychrometry, Psychrometric Chart, Air conditioning, Basic Air-Conditioning System, classifications , equipments & devices used in Air conditioning plants, Air conditioning plants-Unit air conditioner, package air conditioner, central air conditioning plants, summer air conditioning system, year round air conditioning system. 
+<br><b>[09 Hrs] [20 Marks] </b>
+
+UNIT III: THERMAL COMFORT 
+Zoned Air-Conditioning Systems, Choosing an Air-Conditioning System, System Choice Matrix, Thermal Comfort, seven Factors Influencing Thermal Comfort, and Conditions for Comfort, Central Plant Versus Local Plant, Boilers, and Chillers. 
+<br><b>[09 Hrs] [15 Marks] </b>
+
+UNIT IV: VENTILATION AND INDOOR AIR QUALITY 
+Introduction, Air Pollutants and Contaminants , Indoor Air Quality Effects on Health and Comfort , Controlling Indoor Air Quality, ASHRAE Standard , Ventilation for Acceptable Indoor, Air Quality. Zones Introduction, zoning Design, Controlling the Zone, Single Zone Air Handlers and Unitary Equipment, Examples of Buildings with Single-zone, Air-Conditioning Units, Air-Handling Unit Components, Rooftop Units Split Systems, Multiple Zone Air Systems, Single-Duct, Zoned Reheat, Constant VolumeSystems, Single-Duct, Variable Air Volume Systems, By-Pass Box Systems, Constant Volume Dual-Duct, All-Air Systems, Multizone Systems, Three-deck Multizone Systems, Dual-Duct, Variable Air Volume Systems 
+<br><b>[09 Hrs] [30 Marks] </b>
+
+UNIT V: HYDRONIC SYSTEMS 
+Introduction, Natural Convection and Low Temperature Radiation, Heating Systems, Panel Heating and Cooling, 4 Fan Coils, Two Pipe Induction Systems, Water Source Heat Pumps, Hydronic System Architecture, steam, Water Systems, Hot Water, Chilled Water, Condenser Water, Central plants Central Plant Versus Local Plant in a Building, Boilers, Chillers, Energy Conservation Measures, Energy Considerations for Buildings, ASHRAE/IESNA Standard , Heat Recovery, Air-Side and Water-Side Economizers, Evaporative Cooling.
+<br><b>[09 Hrs] [25 Marks] </b>
+
+UNIT VI: APPLICATION OF REFRIGERATION 
+General, medical & surgical- manufacture & treatment of metals, Chemical, cold storage, Radiant Heating and Cooling Systems, Thermal Storage Systems, The Ground as Heat Source and Sink, Occupant Controlled Windows with HVAC, Room Air Distribution Systems
+<br><b>[08 Hrs] [25 Marks] </b>
+
+<b>Text books:</b>
+
+<br><br>1. Fundamental of HVAC system, Robert McDowal, ASHRAE LEARNING INT
+<br>2. Refrigeration and Air conditioning, C P Arora, Mc-Graw Hill
+<br>3. Handbook of Refrigeration and Air conditioning, SHAN K WONG, Mc-Graw Hill
+<br>4. Refrigeration and Air conditioning, R S Khurmi, S.Chand
+<br>5. Practical Thermodynamics, G D Rai, Khanna Publisher
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>1. Collect/ download product catalogues with specification of various types of HVAC systems used in industry/theater.
+<br>2. Each student should prepare a detailed report showing the construction/components/Working of Domestic refrigerator or Air Conditioners
+
+<br><br><b>Note:</b> The activities or similar activities for assessing CIE (IA) for 5 marks (Any one)
+<br>1. Each student should do any one of the following type activity or any other similar activity related to the course and before conduction, get it approved from concerned Teacher and HOD.
+<br>2. Each student should conduct different activity and no repeating should occur

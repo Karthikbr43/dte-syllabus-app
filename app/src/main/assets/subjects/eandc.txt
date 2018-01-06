@@ -1,0 +1,62 @@
+UNIT I: INTRODUCTION TO ESTIMATION & COSTING
+Estimation - Definition, Importance and Aims- Qualities and functions of an Estimator- Source of errors in estimation- Constituents of Estimation- Costing - Definition and Aims -Difference between costing and estimating- - Depreciation and obsolescence: Definition, types, different methods of calculating depreciation- numeric examples. 
+<br><b>[08 Hrs] [20 Marks] </b>
+
+UNIT II: ESTIMATION OF MATERIALS COST
+Material - Direct material, indirect material and examples- Calculation of Material cost - Labour - direct, indirect labour and examples - Calculation of labour cost - Expenses - direct, indirect expenses and examples- Classification of expenses - factory, administrative, selling and distribution expenses - Fixed and variable expenses - Components of cost - prime cost, factory cost, office cost, total cost - Block diagram to show the relationship between elements and components of cost -Determination of selling price - Break even analysis - break event chart, diagram to illustrate break event point-Estimation of materials cost of step pulley, spindle lathe centre, Rivets, Fly wheel, Crankshaft, Chain link, Wedge and Gib-headed key. 
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT III: ESTIMATION IN MACHINE SHOP
+The terminology associated with machine shop estimation- Definition of cutting speed, feed, depth of cut- Procedure of estimating cost of machined part for following operations: Lathe operations (Facing, outside/inside turning, boring, drilling on lathe, grooving and threading). Drilling operations (Drilling, reaming, tapping)-Shaping operations- Milling operations (Face milling, side and face cutting, end milling)- Cylindrical grinding operations (Plain cylindrical grinding)- For given machined part, estimate material cost and machining cost. 
+<br><b>[10 Hrs] [35 Marks] </b>
+
+UNIT IV: ESTIMATION IN WELDING & SHEET METAL SHOP
+Estimation in welding shop - gas welding cost, arc welding cost - production cost of given welding job- the types of welding costs- the factors affecting the welding cost. Estimation in sheet metal shop - Sheet material and gauge number, Sheet metal joints - Estimate the material required for preparation of container open on one side, Cylindrical drum, funnel and tray. 
+<br><b>[09 Hrs] [25 Marks] </b>
+
+UNIT V: ESTIMATION IN FORGING SHOP & FOUNDARY SHOP
+Cost terminology associated with forging shop- The procedure for calculating material cost of a product for forging shop- Procedure for estimating forging cost- forging losses to be considered while estimating -Estimation of forging cost. Estimation in foundry shop-pattern allowances- The procedure for calculating material cost of a product for foundry shop - Procedure for estimating cost of pattern making. -Procedure for estimating foundry cost of components such as C.I pulley and C.I. Wheel and estimate foundry cost. 
+<br><b>[09 Hrs] [25 Marks] </b>
+
+UNIT VI: PROCESS COSTING & ACCOUNTING
+Process & Job Costing -Characteristics -Principles -Procedure for Process costing. Wages-types, Incentives-types, Budget-Types, Accounting terminology like -book value-Net Present Value-Work in progress- Gross Domestic Product (GDP)-balance sheet-Tendering- manual tendering and e-tendering. TEXT BOOKS Sl.No. Title of Books Author Publication
+<br><b>[06 Hrs] [10 Marks] </b>
+
+<b>Reference Books:</b>
+
+<br><br>1. Mechanical estimation and costing, T.R.Banga and S.C.Sharma, Khanna publishers
+<br>2. Mechanical Estimation, Malhothra
+<br>3. Industrial Organisation and Engineering Economics, T.R.Banga and S.C.Sharma, Khanna publishers
+<br>4. Mechanical Estimation, NITTTR Chennai, NITTTR Chennai
+<br>5. Mechanical costing and estimation, Singh and Khan, Khanna Publishers
+<br>6. Process planning & cost estimation, M.Adithan, New age International
+<br>7. http://calculatoredge.com/index.htm#mechanical
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>1. Collect the finished parts from industries/market/scrap merchants Measure the dimensions and prepare production drawings of the parts using A4 size paper. Estimate the material cost
+<br><br>2. Welding estimation: 
+<br>a) Determine raw material volume for all welded parts. 
+<br>b) Select welding rod to be used. Estimate quantity of welding rod required. 
+<br>c) Determine material and consumables costs. 
+<br>d) For each part, estimate welding cost. Show the assumptions and steps followed to estimate welding cost. 
+<br>e) Derive total cost of the part.
+<br><br>3. Casting estimation: 
+<br>a) Determine raw material volume for all casted parts (Determine input weight, cut weight, net weight, losses etc.). 
+<br>b) Prepare pattern drawings (production drawings with all dimensions, surface finishes, allowances, etc.) for all parts. 
+<br>c) Estimate pattern cost. 
+<br>d) Determine material and consumables costs. 
+<br>e) For each part, estimate casting cost. Show the assumptions and steps followed to estimate casting cost. 
+<br>f) Derive total cost of the part.
+<br><br>4. Forging estimation:
+<br>a) Determine raw material volume for all forged parts. 
+<br>b) Prepare die drawings (production drawings with all dimensions, surface finishes, allowances, etc.) for all parts. 
+<br>c) Estimate dies cost. 
+<br>d) Determine material and consumables costs. 
+<br>e) For each part, estimate forging cost. Show the assumptions and steps followed to estimate forging cost. 
+<br>f) Derive total cost of parts.
+<br><br>5. Machining estimation: a. Determine raw material volume for all machined parts. b. For each part, tabulate operation, cutting tool/s to be used and cutting parameters (speed, feed and depth of cut) to be used. c. Estimate raw material cost. d. For each part, estimate machining cost. Show the assumptions and steps followed to estimate machining cost. e. Derive total cost of parts
+
+<br><br><b>Note:</b> The activities or similar activities for assessing CIE (IA) for 5 marks (Any one)
+<br>1. Each student should do any one of the following type activity or any other similar activity related to the course and before conduction, get it approved from concerned Teacher and HOD.
+<br>2. Each student should conduct different activity and no repeating should occur

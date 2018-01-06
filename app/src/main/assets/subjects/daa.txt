@@ -1,0 +1,42 @@
+UNIT I: Introduction
+What is an Algorithm?, Fundamentals of Algorithmic problem solving, Important problem types, Fundamental data structures.
+<br><b>[08 Hrs] [20 Marks] </b>
+
+UNIT II: Fundamentals of the Analysis of Algorithm Efficiency
+Analysis Framework, Measuring the input size, Units for measuring Running time, Orders of Growth, Worst-case, Best-case and Average-case efficiencies, Asymptotic Notations and Basic Efficiency classes, Informal Introduction, O-notation, Ω-notation, θ-notation, mathematical analysis of non-recursive algorithms, mathematical analysis of recursive algorithms.
+<br><b>[10 Hrs] [30 Marks] </b>
+ 
+UNIT III: Brute Force
+Selection Sort and Bubble Sort, Sequential search and Brute-Force String matching, Closest pair and Convex-Hull problems by Brute Force, Exhaustive Search.
+<br><b>[06 Hrs] [15 Marks] </b>
+
+UNIT IV: Divide-and-Conquer
+Merge Sort, Quick Sort, Binary Search, Binary Tree traversals and related properties.
+<br><b>[08 Hrs] [20 Marks] </b>
+
+UNIT V: Decrease-and-Conquer and Greedy Technique
+<b>Decrease-and-Conquer</b>: Insertion Sort, Depth-First Search and Breadth-First Search, Topological Sorting.
+<br><b>Greedy Technique</b>: Prim’s Algorithm, Kruskal’s Algorithm, Dijkstra’s Algorithm, Huffman Trees.
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT VI: Limitations of Algorithm Power and Coping with its Limitations
+<b>Limitations of Algorithm Power</b>: Lower-Bound arguments, Decision trees, P,NP and NP complete problems, Challenges of numerical Algorithms.
+<br><b>Coping with limitations of Algorithm Power</b>: Backtracking, Branch-and-Bound, Approximation Algorithms for NP-Hard problems.
+<br><b>[10 Hrs] [30 Marks] </b>
+
+<b>Text books:</b>
+<br><br>1.	Introduction to the Design and Analysis of Algorithms ,2nd edition,  Anany Levitin, Pearson Publication, ISBN: 9788131758953   
+
+<br><br><b>References:</b>
+<br><br>1.	http://nptel.ac.in/courses/106101060/
+<br>2.	http://www.tutorialspoint.com/data_structures_algorithms/
+<br>3.	Design & Analysis of Algorithms, S. Nandagopalan, Sapna Book House.
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>1. Build and execute programs from the unsolved exercises given from the course textbook at the end of each chapters.
+<br>2. Quiz
+
+<br><br><b>Note:</b> The activities or similar activities for assessing CIE (IA) for 5 marks (Any one)
+<br>1. Each student should do any one of the following type activity or any other similar activity related to the course and before conduction, get it approved from concerned Teacher and HOD.
+<br>2. Each student should conduct different activity and no repeating should occur

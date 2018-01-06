@@ -1,0 +1,57 @@
+<b>Experiments:</b>
+
+<br><br>1.  Design a PLC ladder diagram to construct an alarm system which operates as follows
+<br>a) If one input is ON nothing happens
+<br>b) If any two inputs are ON, a red light goes ON
+<br>c) If any three inputs are ON, an alarm sirens sound
+<br>d) If all are ON, the fire department is notified.
+<br><br>2.   Design a PLC program using ladder diagram for start-stop jog.
+<br><br>3.   Design a PLC program using ladder diagram for Forward-reverse-stop with mutual interlocks
+<br><br>4.   Using PLC ladder diagram realize the following logic gates.
+<br>AND, OR, NOT, NAND, NOR, EX-OR.
+<br><br>5. Represent the following Boolean expressions in to ladder diagram and realize     
+<br><img src="plcl.png"/>
+<br><br>6. In certain process control application a fan is to run only when all of the following conditions are met
+<br>a) Input A is OFF
+<br>b) Input B is ON or i/p C is ON, or both B &C are ON
+<br>c) Inputs D &E both are ON
+<br>d) One or more of inputs F, G, or H is ON
+<br>Write Gate logic, equivalent Boolean expression & realize the same using PLC ladder diagram
+<br><br>7. Design a PLC ladder diagram to realize the following Timer operation. Write timing diagrams.	
+<br>i) One shot operation
+<br>ii) Limited ON time
+<br><br>8. There are 3 mixing devices on a processing line A,B ,C. After the process begin mixer-A is to start after 7 seconds elapse, next mixer-B is to start 3.6 second after A. Mixer-C is to start 5 seconds after B. All then remain ON until a master enable switch is turned off. Write PLC ladder diagram, timing diagram and realize the same. 
+<br><br>9. An indicating light is to go ON when a count reaches 23.The light is then go off when a count of 31 is reached. Design, construct, and test PLC circuits for this process.
+<br><br>10. In certain process control application when the count reaches 25, a paint spray is to run for 40 seconds. Design, construct, and test PLC circuits for this process.  
+<br><br>11. Design a Ladder diagram for the forward and reverse moment of a piston in pneumatic cylinder. The Ladder diagram should consist of 2 input Push button switches I1 and I2 .The output O1 and O2 of PLC are connected to Forward and retract Coil of the Pneumatic Cylinder. 
+<br><br>12. In bottling plant of cool drinks the bottles are kept on the conveyor. Some bottles are capless, so these bottles are to be removed from the conveyor. I1 are I2 are two toggle switches connected to input unit of PLC. I1 is used to operate (ON) the conveyor and I2 is used to stop (OFF) the conveyor at any time. O1 is the output used to operate the conveyor. S2 is the Proximity Switch which predicts that metal cap is not present on the bottle top. Use I3 switch to operate the conveyor after the removal of capless bottle from the conveyor. Write the Ladder diagram to achieve the above Industrial Scenario. 
+<br><br>13. There are 4 cars parking spaces .Car is to detected and allowed to enter into the parking space if space is available. I1 is the proximity switch at the gate for detecting the presence of Car. I2, I3, I4, I5 are proximity switches which are installed at suitable places in 4 parking spaces. When the car is parked in a parking place , presence of Car is indicated by corresponding output O2,O3,O4,O5 (by glowing the Output) .If space is vacant the corresponding light will not glow and the car owner will have to go in that parking place.
+<br><br>14. Interface a PLC program for the following real time applications
+<br>i) Traffic light controlling
+<br>ii) Water level controlling 
+
+<b>Reference Books:</b>
+
+<br><br>1. “Programmable Logic Controllers Principles & Applications” by John W. Webb – Ronald A. Reis. , 5th Edition, Published by PHI Publication.
+<br>2. Exploring Programmable Logic-Controllers with Applications by Pradeep Kumar Srivastava, BPB PUBLICATIONS.
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>1.	Prepare the hand written report on various sensors, actuators, transducers used in industrial automation. 
+<br>2.	Students can make models of Programmable Logic Controller applications beyond the curriculum.
+
+<br><br><b>Note:</b> 
+<br>1. Group of max four students should do any one of the above activity or any other similar activity related to the course COs and get it approved from concerned Teacher and HOD.
+<br>2. No group should have activity repeated or similar
+<br>3. Teacher should ensure activities by different groups must cover all Cos.
+<br>4. Teacher should asses every student by using suitable Rubrics approved by HOD
+
+<b>Scheme of Valuation for SEE:</b>
+
+<br><br>1.	Writing two Ladder diagrams : 10
+<br>2.	Entering two programs in computer system : 10
+<br>3.	Simulation\Execution : 10
+<br>4.	Result : 10
+<br>5.	Viva - Voce : 10
+
+<br><br><b>TOTAL = 50 Marks</b>

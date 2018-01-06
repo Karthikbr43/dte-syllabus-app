@@ -1,0 +1,62 @@
+UNIT I:
+<b>INTRODUCTION:</b> Definition of sullage, sewage, sewerage, sewer, refuge, garbage. Aims and objectives of sewerage work, systems of refuge disposal and water carriage system.
+<br><b>QUANTITY OF SEWAGE:</b> Domestic and industrial sewage, volume of domestic sewage, variability of flow, limiting velocities-Self cleansing and Maximum velocities of sewer. Simple problems on design of sewers.
+<br><b>[06 Hrs] [15 Marks] </b>
+
+UNIT II:
+<b>CHARACTERISTICS AND ANALYSIS OF SEWAGE:</b> Strength of Sewage, Sampling of Sewage to analyze for Physical, Chemical and Biological Parameters. Decomposition of sewage. Analysis of Sewage - Significance of the following Tests for i) Solids ii) Dissolved Oxygen iii) B.O.D iv) C.O.D v) pH value vi) Chlorides  vii) Nitrate
+<br><b>SEWARAGE SYSTEMS:</b> Types of Sewerage System and their Suitability - Separate, Combined and Partially Separate Systems Brief Description and Suitability of the following Types of Sewers Stoneware, Cast Iron, Cement Concrete, AC Pipes, Pre-Cast Sewers, PVC sewer (SWR grade), and laying of sewers
+<br><b>[08 Hrs] [20 Marks] </b>
+
+UNIT III:
+<b>SURFACE AND STORM WATER DRAINAGE:</b> Determination of Storm Water Flow, Run-Off Co-Efficient, Time of Concentration, Empirical Formulae for Run-Off Simple Problems on Design of Storm Water Sewers Ssystems. Surface Drains - Requirements, Shapes, Laying and Construction. (No Design) 
+<br><b>SEWERAGE APPURTENANCES:</b> Brief description, Location, Function and Construction of Manholes, Drop Manholes, Inlets Catch Basin, Traps, Flushing Tanks, Regulators.
+<br><b>[10 Hrs] [35 Marks] </b>
+
+UNIT IV:
+<b>SEWAGE TREATMENT AND DISPOSAL:</b>
+<br><b>Preliminary Treatment</b> - Brief Description and Functions of - i) Screens ii) Skimming Tanks iii) Grit Chambers. 
+<br><b>Primary Treatment</b> - Brief Description and Function of the Sedimentation and Septic Tanks 
+<br><b>Secondary Treatment</b> - Brief Description of  i) Trickling Filters ii) Activated Sludge Process  
+<br>Oxidation Ponds, Oxidation Ditches, Aerobic Lagoons, Anaerobic Lagoons, Rotary Biological Disc.
+<br><b>Tertiary treatment</b> – Activated sand filter and chlorination.
+<br><b>[14 Hrs] [40 Marks] </b>
+
+UNIT V:
+SEWAGE AND SLUDGE DISPOSAL
+<br><b>Sewage Disposal</b> - Dilution, Self purification of streams, factors affecting self purification. Disposal in Sea water, Disposal on Lands,. Recycle of wastewater(Grey water technology)
+<br><b>Sludge treatment and Disposal</b> - Sludge treatment and disposal methods. Sludge digestion tank, Sludge drying bed. 
+<br><b>[06 Hrs] [15 Marks] </b>
+
+UNIT VI:
+<b>SANITATION IN BUILDINGS AND SANITARY FITTINGS</b>
+<br>Importance and Requirement of Building Drainage, General Lay-out of Sanitary Fittings and House Drainage Arrangements for Single and Multi- Storied Buildings as Per B.I.S Code of Practice. Dual pipe system. Sanitary Fittings- Water Closets, Flushing Cisterns, Urinals, Inspection Chambers, Traps, Anti-syphonage. Inspection, Testing and Maintenance of sanitary fittings. 
+<br><b>[08 Hrs] [20 Marks] </b>
+
+<b>Text books:</b>
+
+<br><br>1) Water Supply and Sanitary Engineering- by Rangwala 
+<br>2) Sewage Disposal and Air pollution - by S.K.Garg.
+<br>3) Water Supply and Sanitary Engineering- by G.S.Birde 
+<br>4) Environmental Science and Engg.- Vol-I – by Aloka Debi. (Universities Press)
+<br>5) Sanitary Engineering   Vol-II - by Gurucharan Singh
+<br>6) Sewerage and Sewage Treatment Vol-II.– by Fair and Geir
+<br>7) Text Book of Environmental studies – Erach Bharucha (Universities Press)
+<br>8)Water Supply,Waste Disposal and Environmental Pollution Engineering-(khanna publication)a.k.chatterjee     
+<br>9) Waste water Engineering by Dr B.C. Punmia, Jain and Jain
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>1. Students are able to identify various types of sewerage system and their relative advantage and disadvantages.
+<br>2. Estimate total quantities of sewage generated from a locality and design the sewage discharge.
+<br>3. Visit nearby New layout under construction and collect details of sewerage system.
+<br>4. Visit Sewage Treatment Plant and collect details each unit operations for treatment of sewage and prepare the charts.
+<br>5. Visit nearby Certified Waste Water testing laboratories and identify various tests conducted on waste water.
+<br>6. For a given building identify various components of sanitary fixtures used for sewerage system.
+<br>7. To visit a nearby industry to collect details of sources and control of air pollution.
+<br>8. Prepare a mini project report for Sewerage System for a locality.
+<br>9. To conduct market survey of sanitary ware.
+
+<br><br><b>Note:</b> The activities or similar activities for assessing CIE (IA) for 5 marks (Any one)
+<br>1. Each student should do any one of the following type activity or any other similar activity related to the course and before conduction, get it approved from concerned Teacher and HOD.
+<br>2. Each student should conduct different activity and no repeating should occur

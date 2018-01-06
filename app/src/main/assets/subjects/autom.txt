@@ -1,0 +1,45 @@
+UNIT - I: PERFORMENCE OF IC ENGINES
+Dynamometers-need-types, Prony Brake Dynamometer, Electrical Dynamometer.-hydraulic dynamometer-construction and working, Engine performance- determination of IP- BP- FP- MEP- IMEP-BMEP- Engine Torque - piston speed -Mechanical Efficiency-Thermal Efficiency- Indicated Thermal Efficiency- Brake Thermal Efficiency- Volumetric Efficiency,-Air Standard Efficiency- Relative efficiency –TFC-SFC- BSFC- ISFC- air fuel ratios ,determination of IP- William’s Back Trace Method- Morse Test, heat balance sheet, Performance Curves - Problems.
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT - II: CLUTCH
+Clutch: Introduction, Derivation on Torque Transmitted Through Single and Muti plates Clutches – Uniform Intensity of Pressure- Uniform Rate of Wear Conditions, Problems on Uniform Rate of Wear Conditions.
+<br><b>[07 Hrs] [15 Marks] </b>
+
+UNIT - III: GEARBOX
+Terminology of gear, gear train-speed ratio-gear ratio, output torque, module of gear tooth, centre distance of gear train shafts – Problems.
+<br><b>[06 Hrs] [20 Marks] </b>
+
+UNIT - IV: STEERING
+Definitions: wheel base, wheel track, overall length, and front over hung, rear over hung, and turning circle radii, derive equation for correct steering, Ackerman steering mechanism-Derive equation by Analytical method - derive expression for turning circle radii – problems.
+<br><b>[07 Hrs] [15 Marks] </b>
+
+UNIT - V: BRAKES
+Definitions:  Stopping Distance-Braking Efficiency-Braking Torque-Leading Shoe and Trailing Shoe – Derive an Expression For Stopping Distance – Derive Expressions for Braking of Vehicle Moving on Gradient- Brakes Applied To Rear Wheels-Front Wheels and All Four Wheels- Equation for Braking Torque on Leading and Trailing Shoe – Mean Lining Pressure and Heat Generated – Problems. 
+<br><b>[11 Hrs] [30 Marks] </b>
+
+UNIT - VI: VEHICLE PERFORMANCE
+Different resistances on vehicle movement- Equations of the resistances -Wind Resistance-Rolling Resistance & Grade  Resistance , Equation for power required for propulsion, relation between engine revolution and vehicle speed, Traction & Tractive effort with mathematical expression , Concept of Surplus power-acceleration-Gradability and Drawbar pull with Mathematical expression – Definition of equivalent weight with mathematical expression, Expression of maximum acceleration , maximum Tractive effort for front wheel, Rear wheel and Four wheel drives – problems.
+<br><b>[11 Hrs] [35 Marks] </b>
+
+<b>Text books:</b>
+
+1. Automotive Mechanics, Dr.N.K. Giri (Khanna Publishers)
+2. Automobile design Problem, R.S. Agarwal
+3. Machine design, R.S. Khurmi & J.K. Gupta (S.Chand Publications)
+
+<br><br><b>References:</b>
+1. Machine Design, Sharma & Agarwal
+2. Machine design, R.S Kurmi
+3. Machine design, Abdulah sharief
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>1. List the Dynamometers, sketch and explain any one of them.
+<br>2. Collect the performance data of different 100cc engines analyze, grade the engines and submit the report.
+<br>3. Sketch the ideal Valve timing diagram and the actual, compare submit hand written report of 500 words.
+<br>4. Assignments related to subject.
+
+<br><br><b>Note:</b> The activities or similar activities for assessing CIE (IA) for 5 marks (Any one)
+<br>1. Each student should do any one of the following type activity or any other similar activity related to the course and before conduction, get it approved from concerned Teacher and HOD.
+<br>2. Each student should conduct different activity and no repeating should occur

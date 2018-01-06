@@ -1,0 +1,36 @@
+<b>Experiments:</b>
+
+<br><br>1.	Introduction to computer fundamentals
+<br>2.	Awareness about using CAD software                  
+<br>3.	Familiarizations of using CAD software                  
+<br>4.	Draw the 2D drawings of different valves
+<br>5.	Draw the 2D drawings of Heat exchangers
+<br>6.	Draw the 2D drawings of evaporators
+<br>7.	Draw the 2D drawings of different dryers
+<br>8.	Practice  of  3D drawings 
+
+<b>Reference Books:</b>
+
+<br><br>1.	Machine drawing, K.R.Gopalakrishna 
+<br>2.	Machine drawing, N.D.Bhat 
+<br>3.	Introduction to Chemical Engg, Badger and Banchero
+<br>4.	unit operations of Chemical Engg, Mc Cabe and Smith
+
+<br><br><b>SUGGESTED LIST OF STUDENT ACTIVITES:</b>
+
+<br><br>1. 	Ask the students to take the simple 2D drawings of any Chemical engg. equipments
+<br>2. 	Ask the students to draw simple flow diagrams indicating various stages. 
+<br>3. 	Ask the students to draw sketches of pipe fittings. 
+<br>4.	Ask the students to draw any accessories of evaporators and distillation columns. 
+
+<br><br><b>Note:</b>
+<br>1.	Each student should submit any one of the following type activity or any other similar activity related to the course and before take up get it approved from concerned Teacher and HOD.
+<br>2.	Each student should conduct different activity and no repeating should occur
+
+<b>Scheme of Valuation for SEE:</b>
+
+<br><br>1.	Drawings (2D drawings only)	: 30
+<br>2.	Dimensioning : 10	
+<br>3.	Viva : 10
+
+<br><br><b>TOTAL = 50 Marks</b>

@@ -1,0 +1,78 @@
+<b>Experiments:</b>
+
+<br><br><b>CHAIN SURVEYING</b>
+<br>1.	Study of instruments required for chain surveying.
+<br>2.	Ranging and chaining a line
+<br>3.	Prolongation of  a survey line
+<br>4.	Practice of reciprocal ranging
+<br>5.	Practice of different methods of Setting out perpendiculars
+<br>6.	Set out  Regular Polygons and compute its area
+<br>7.	Practice of  cross staff survey
+<br>8.	Conduct traversing and record the data in the Field book
+<br>9.	Obstacles in chaining
+
+<br><br><b>COMPASS SURVEYING</b>
+<br>10.	Study of prismatic compass and surveyors compass
+<br>11.	Taking bearings and finding the included angles by using prismatic compass
+<br>12.	Set out  regular and irregular  Polygons  using prismatic compass
+<br>13.	Find the distance between two inaccessible points using Compass
+
+<br><br><b>LEVELLING</b>
+<br>14.	Study of level and its  temporary adjustments
+<br>15.	Taking level of various points and recording it in a level book
+<br>16.	Finding the difference in elevation between  two points by  Simple and Differential Levelling
+<br>17.	Conduct Fly leveling to establish a  Temporary BM and check its accuracy
+<br>18.	Finding RL of given point by taking Inverted Staff Reading
+<br>19.	Conduct Longitudinal and cross sectioning for the given alignment and plot it
+<br>20.	Conduct Block Levelling for an area  and plot Contours
+
+<b>Reference Books:</b>
+
+<br><br>1.	Surveying and Levelling  Vol- I and II  by  B C Punmia
+<br>2.	Surveying and Levelling  by T P  konetkar and S V Kulkarni
+<br>3.	Plane Surveying by Dr. Alak De
+<br>4.	Surveying and Levelling   by S S Bhavikatti
+<br>5.	Surveying by Duggal
+<br>6.	Surveying by R Agor
+<br>7.	Fundamentals of Surveying by S K Roy
+<br>8.	Surveying and Levelling  by N N Basak
+<br>9.	Advanced Surveying by R Agor
+<br>10.	www.elearning.com/survey
+<br>11.	http://nptel.ac.in/video.php?subjectId=105104101
+<br>12.	http://media.sakshat.ac.in/NPTEL-IIT-Videos/
+<br>13.	http://nptel.iitk.ac.in/courses/Civil_Eng/IIT%20Roorkee/Surveying.htm
+<br>14.	http://nptel.iitk.ac.in/
+
+<br><br><b>Student Activity</b>
+
+<br><br>1.	Prepare a spread sheet of Rise and fall method or height of instrument method showing the calculation by using formula bar.
+<br>2.	Layout Plan of Existing Campus
+<br>3.	Contour Map of Existing Campus 
+<br>4.	Dividing the area into plots using town planning rules, and plot it
+<br>5.	Carryout reciprocal levelling and make a presentation
+<br>6.	Presentation on Precise levelling 
+<br>7.	Presentation on Digital levelling
+<br>8.	Presentation on Digital ground model
+<br>9.	Presentation on Data logger
+<br>10.	Presentation on Triangular grid model
+<br>11.	Presentation on units of measurements used in survey from history
+<br>12.	Sensitivity of bubble used in levelling
+<br>13.	Two Peg Test 
+<br>14.	Three Wire Levelling
+<br>15.	Permanent Adjustments of a Dumpy Level
+
+<br><br><b>NOTE:</b>
+
+<br><br>1. Students should select any one of the above or other topics relevant to the subject approved by the concerned faculty, individually or in a group of 3 to 5. Students should mandatorily submit a written report and make a presentation on the topic.  The task should not be repeated among students. Report will be evaluated by the faculty as per rubrics. Weightage for 5 marks Internal Assessment shall be as follows: 
+<br>(Unsatisfactory 1, Developing 2, Satisfactory 3, Good   4, Exemplary 5)
+<br><br>2. Reports should be made available along with bluebooks to IA verification officer
+
+<b>Scheme of Valuation for SEE:</b>
+
+<br><br>1.	Writing procedure :	05
+<br>2.	Conducting and Performance : 20
+<br>3.	Calculation and results : 10
+<br>4.	Viva-voice : 05
+<br>5.	Record +suggested activity report :	10
+
+<br><br><b>TOTAL = 50 Marks</b>

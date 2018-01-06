@@ -1,0 +1,34 @@
+<b>Experiments:</b>
+
+<br><br>1.	Safety precautions in automobile workshop.
+<br><br>2.	Identification of tools, special tools, gauges and equipments used in Automobile workshop.
+<br><br>3.	Practice on use of tools and gauges used in workshop.
+<br><br>4.	Identification of major components in Two-wheeler and three wheeler.
+<br><br>5.	Identification of major components in Four-wheeler.
+<br><br>6.	Practice on dismantling and assembling of Two-stroke single cylinder petrol engine.
+<br><br>7.	Practice on dismantling and assembling of Four-stroke single cylinder petrol engine.
+<br><br>8.	Calculate the swept volume and compression ratio of a single cylinder engine assuming the clearance volume.
+<br><br>9.	Practice on use of Torque wrench.
+<br><br>10.	Check the compression pressure of a given petrol engine using Compression gauge.
+<br><br>11.	Practice on adjusting belt tension of cooling / charging system.
+<br><br>12.	Identification of components of valve operating mechanism and adjust the tappet clearance.
+<br><br>13.	Measuring the wheel base, wheel track and ground clearance of LMV.
+<br><br>14.	Practice on using different jacks to remove wheels from vehicle and.
+<br><br>15.	Practice on removal of tyre from disc and mending the punctured tubes using hot patch and cold patch.
+<br><br>16.	Practice on High pressure washing of different vehicles.
+<br><br>17.	Practice on adjusting/changing the different control cables and drive chain of two wheelers.
+<br><br>18.	Practice on Cleaning and adjustment of spark plug gap.
+
+<b>Reference Books:</b>
+
+<br>1.	Mechanic Motor Vehicle  Trade theory and Practical,	National Instructional Media Institute, Chennai
+<br>2.	Automobile Engineering Practices, N.Malhotra, Asian publishers
+<br>3.	Vehicle Maintenance and Garage Practice,	Jigar A Doshi,	PHI Learning,Delhi
+
+<b>Scheme of Valuation for SEE:</b>
+
+<br><br>1.	Writing procedure for One exercise from list of exercises(1-9)  and One exercise from list of exercises(10-18) : 05+05=10
+<br>2.	Conducting and Performance on One exercise from list of exercises(1-9) and One exercise from list of exercises(10-18) : 15+15=30
+<br>3.	Viva-voice	: 10
+
+<br><br><b>TOTAL = 50 Marks</b>

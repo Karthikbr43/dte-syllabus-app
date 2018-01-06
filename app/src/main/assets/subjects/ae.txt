@@ -1,0 +1,47 @@
+UNIT – I: Semiconductors and Diodes
+Electrons- free and valence. Conductors, Insulators, and Semiconductors- definition andenergy band diagrams.Properties of semiconductors.Meaning of Hole current, electron-hole pairs, recombination, doping, acceptor and donor impurities. Intrinsic and Extrinsic, N and P type semiconductors. Diode- formation, depletion region, VI Characteristics, ratings, types and applications. Zener diode- reverse bias characteristics, voltage regulation, shunt voltage regulator, and applications. Varistor and Thermistor- working and applications.			
+<br><b>[07 Hrs] [20 Marks] </b>
+
+UNIT – II: Transistors and MOSFETs
+Transistors- definition, terminals, types, symbols, formation of NPN and PNP, ratings. Transistor biasing- definition, importance, list types,stabilisation, thermal runaway, heat sink, and voltage divider method. List configurations and applications.Alpha and Beta- definitions, relation.CE input and output characteristics- cut off, saturation, and active regions. Transistor as a switch.List applications. FET- definition, types. MOSFET- definition, types, symbols. N type enhancement mode- construction, working, characteristics, switch. List applications and ratings. Differentiate BJT and MOSFET.
+<br><b>[12 Hrs] [25 Marks] </b>
+	
+UNIT – III: Optoelectronic devices
+Electron emission– types, applications. Symbols, working and applications of–photo diode, opto isolator, photo voltaic cell, LED, LDR, LCD, opto coupler.		
+<br><b>[06 Hrs] [15 Marks] </b>
+
+UNIT – IV: Rectifiers, filters and regulators
+Regulated power supply- block diagram and applications. 
+<br>Rectifiers- definition, half wave, centre tapped and bridge full wave rectifier, efficiency, ripple factor, PIV, ratings.Filters- definition, necessity, C and PI filters, Regulator-definition, working of 7805, operating voltages- 7809, 7812, 7905, 7912.
+<br><b>[07 Hrs] [20 Marks] </b>
+
+UNIT – V: Amplifiers and Oscillators
+Amplifier- definition, faithful amplification, classificationbased on configuration,power, and frequency. Transistor CE amplifier with biasing.Working of class A, B, C, and Push pull amplifier. Two stage RC coupled amplifier- working, gain in dB, frequency response.Feed back- definition,types, advantages and disadvantages, applications. Oscillators- definition, classification, LC tank circuit, criteria.RC phase shiftand crystal oscillator- working, applications.CRT- construction, working and applications.
+<br><b>[11 Hrs] [30 Marks] </b>
+	
+UNIT – VI: OP-AMP and Timers
+OPAMP– definition, block diagram, operation, characteristics, applications, µA 741 pin diagram. Definitions of virtual ground, CMRR and Slew rate.OPAMP applications– inverting, integrator, differentiator, summer, voltage follower, and comparator.Filters- definition, Working- low pass, high pass passive and active filters,applications.Timers– block diagram, pin diagram of 555, duty cycle, time constant, applications. Multi-vibrators- Astable and monostable using 555.
+<br><b>[09 Hrs] [25 Marks] </b>
+
+<b>Reference Books:</b>
+<br><br>1.	Electronics Principles and applications by Charles A Schuler and Roger L Tokhiem, Sixth Edition, Mc. Graw Hill , 2008.
+<br>2.	Electronics Principles by Malvino, Mc. Graw Hill, Third edition. 2000.
+<br>3.	Electronics Devices and Circuits by AllanMottershed, PHI Learning Pvt. Ltd., First Edition.
+<br>4.	Electronics Analog and Digital by I. J. Nagrath, PHI Learning Pvt. Ltd., 2013 Edition.
+<br>5.	Linear Integrated Circuits by Ramakant A. Gayakwad, PHI Learning Pvt. Ltd., Fourth Edition.
+
+<br><br><b>E –Learning</b>
+
+<br><br>1.	https://www.faculty.virginia.edu/stt/...5.../pdfFiles/SemiconductorsDiodes.pdf
+<br>2.	https://www.youtube.com/watch?v=xzVDMUMW9JU
+<br>3.	https://en.wikipedia.org/wiki/
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br><b>Note:</b> Any one to be submitted with 3 pages self HAND WRITTEN report
+<br><br>1. Study and identify the components of a serviceable regulated power supply.
+<br>2. Study/ rig up the amplifier circuit with loud speaker and test.
+<br>3. Visit nearby electronics shop/ market and identify the different diodes and ratings.
+<br>4. Visit nearby electronics shop/ market and identify the different Transistors and MOSFETs with their ratings.
+<br>5. Visit nearby Automobile show room and identify the optoelectronic devices and purpose.
+<br>6. Visit the nearby electronic shop/ market and list different IC’s for timers and OP-AMP applications.

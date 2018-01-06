@@ -1,0 +1,92 @@
+UNIT - I: Combustion chambers and Stratified engines
+Petrol engine combustion Chambers-types-construction, merits and demerits- T head, L head, F head and I head
+<br>Air swirl-need-methods of generating swirl, Diesel engine combustion Chambers-open combustion chamber-pre-combustion chamber-M combustion chamber- construction and working.
+<br>Stratified charge engines-concept-need-methods-construction and working- Volkswagen PCI stratified charge engine.
+<br><b>[08 Hrs] [20 Marks] </b>
+
+UNIT - II: Advancements in air induction systems
+Variable geometry intake manifold-concept-need-working principle. Variable valve timing-concept-need-types-working principle of cam changing VVT (Honda VTEC)-Cam phasing VVT (Toyota VVT)-advantages, supercharging-concept-need-types of superchargers, turbo charging-concept-need-types, constant pressure turbo charging- construction and working-merits-demerits, pulse pressure turbo charging- construction and working-merits-demerits. 
+<br><b>[07 Hrs] [20 Marks] </b>
+
+UNIT - III: Alternate propulsion technology
+Petrol wankel engine-construction and working- advantages and disadvantages.
+<br>Fuel cells-types, proton exchange membrane type fuel cell- working principle -advantages and disadvantages.
+<br>Hybrid propulsion-concept, traction motors-concept-types, brush less DC motor- working principle with speed control, 3phase AC induction motor- working principle with speed control, series hybrid-working principle-merits-demerits, parallel hybrid-working principle-advantages and disadvantages.
+<br>Battery operated vehicle-working principle-advantages and disadvantages, regenerative braking-need-working principle.
+<br><b>[08 Hrs] [20 Marks] </b>
+
+UNIT - IV: Advancements in Transmission Systems
+Planetary gear train-construction and working-advantages, torque converter- construction and working,  torque converter lock up control-need-types, centrifugal type- construction working double clutch type- construction working, Automatic transmission-concept-types, Continuously variable transmission-construction and working-merits-demerits, hydraulic automatic transmission-gear shifting process –merits-demerits, Semi and fully automatic manual transmissions-working principle-merits-demerits, viscous coupling-need-working principle, four wheel drive system-need-types-construction and working of permanent 4 wheel drive with viscous coupling-advantages and disadvantages.
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT - V: Advancements in Steering and Suspension system
+Air spring-types-advantages, bellows air spring- construction and working, piston air spring- construction and working, air suspension-layout and working- advantages, hydro-elastic spring-construction and working, hydro-elastic suspension-layout and working-advantages.
+<br>power steering-need-types, integral- construction and working , linkage power steering- construction and working, Spool valves-types, rotary spool valve- working principle, collapsible steering column-need-types, ball type-mesh type-tilt-telescopic steering columns- construction and working.
+<br><b>[09 Hrs] [25 Marks] </b>
+
+UNIT - VI: Advancements in Final drives and brakes
+Limited slip differential-need-types-construction and working of clutch type LSD, Differential lock-need-construction and working of dog clutch type differential lock.
+<br>Servo brakes-need-types, vacuum servo brakes-layout-working, vacuum servo booster-construction and working, power brakes-need -types, air brake system-layout and working, air brake valve-brake chamber- unloader valve- construction and working, air assisted hydraulic system-layout-working, exhaust brakes-need-layout and working.
+<br><b>[10 Hrs] [30 Marks] </b>
+
+<b>Reference Books:</b>
+
+<br><br>1. Understanding Automotive electronics, William Ribben, Butterworth-Heinemann 
+<br>2. A Systems Approach to Automotive technology, Jack Erjavec, Cengage Learning
+<br>3. Electronic Engine Controls,	Steve.V.Hatch, Cengage Learning
+<br>4. Truck engines Fuel& computerized management systems, Sean Bennett, Cengage Learning
+<br>5. Advanced vehicle technology, Heinz Heisler, Butterworth-Heinemann 
+<br>6. Automobile enginnering Vol I, Anil chikara, Satya Prakashan
+<br>7. Automotive mechanics 10thEdition, W H Crouse and Anglin, Tata mcGraw Hill
+<br>8. Automobile electrical and electronic systems, Tom Denton, Butterworth-Heinemann
+<br>9. Automobile Technolgy, R B Gupta, Satya Prakashan
+<br>10.Automobile Technology, Dr N K Giri,	Kanna Publications
+<br>11.Automotive Computer Controlled Systems (Diagnostic tools and techniques), Allan. W. M Bonnick, Butterworth-Heinemann 
+
+<br><br><b>Website:</b>
+<br><br>Variable length intake manifold:
+<br>http://www.globalsuzuki.com/marine/tech175_150.html
+<br>https://en.wikipedia.org/wiki/Variable-length_intake_manifold
+<br>http://www.techsmartparts.com/en/products/content/read-and-repair-disa-valve/
+<br><br>Variable valve timing:
+<br>http://blog.caranddriver.com/timing-changes-how-hondas-vtec-variable-timing-system-works/
+<br>http://www.carbibles.com/fuel_engine_bible_vvt.html
+<br>http://www.austincc.edu/wkibbe/vvt.htmVariable valve timing:
+<br>https://takemebeyondthehorizon.wordpress.com/2009/12/02/the-variable-valve-timing-and-lift-electronic-control-v
+<br>http://toyota-club.net/files/faq/16-01-01_faq_vvt_3_eng.htm
+<br>http://www.ej9.ru/art/vtec_sohc/
+<br><br>Brush less DC Motor (Traction Motor):
+<br>http://www.learnengineering.org/2014/10/Brushless-DC-motor.html
+<br><br>3 phase Induction motor:
+<br>http://www.learnengineering.org/2013/08/three-phase-induction-motor-working-squirrel-cage.html
+<br><br>Automatic transmission:
+<br>http://www.mogi.bme.hu/TAMOP/jarmurendszerek_iranyitasa_angol/math-ch07.html
+<br>https://www.youtube.com/watch?v=8S7jQYzRJkw
+<br><br>Electronic suspension:
+<br>http://www.autoserviceprofessional.com/article/94036/Advances-in-ride-control-Getting-up-to-speed-on-electronic-suspension-control?Page=2
+<br>http://www.motor.com/newsletters/20131010/WebFiles/ID1_TheEyesHaveIt.html
+<br>https://www.youtube.com/watch?v=W5zblLY4R3Y
+<br>https://www.youtube.com/watch?v=zkado-fNddo
+<br><br>Semi active suspension system working:
+<br>CVT Transmission:
+<br>https://www.youtube.com/watch?v=PEq5_b4LWNY
+<br><br>Automatic transmission:
+<br>https://www.youtube.com/watch?v=u_y1S8C0Hmc
+<br>https://www.youtube.com/watch?v=cn-ryXUYSek
+<br><br>Planetary gear train:
+<br>https://www.youtube.com/watch?v=ea3qSccR90s
+<br>https://www.youtube.com/watch?v=YBW4EYVSzPI
+<br><br>Limited slip differential:
+<br>https://www.youtube.com/watch?v=WeLm7wHvdxQ
+<br>https://www.youtube.com/watch?v=PEdnH7_7_yc
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>1. Visit nearby two wheel/four wheeler service stations/garages/websites and make report of different automotive advanced engine components/systems seen with specification, materials used, need and manufacturing processes used along with photographs.
+<br>2. Visit nearby two wheel/four wheeler service stations/garages/websites and collect information on advanced steering, suspension, transmission and braking systems with photographs/sketch/layouts/circuits and working principle.
+<br>3. Visit nearby two wheel/four wheeler service stations/ websites and collect information on different electrical and hybrid vehicles with photographs/sketch/layouts/circuits, working principle and specifications.
+
+<br><br><b>Note:</b> 
+<br>1. Student should prepare a report on any one of the above/similar activity, which helps in achieving above course outcomes.
+<br>2. The report prepared should be approved by the concerned staff and HOD.
+<br>3. The activity group should consist of maximum of three students.

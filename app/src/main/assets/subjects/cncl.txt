@@ -1,0 +1,66 @@
+<b>Experiments:</b>
+
+<br><br>1.	Understand the concept CNC Machines
+<br>a) G codes and M codes		
+<br>b) Structure of a part programme	
+<br>c) CNC Coordinate system	
+<br>d) CNC Motion Control system	
+
+<br><br>2.	Understand, remember  and practice CNC Simulation Software Practice
+<br>a) Commands   
+<br>b) Coordinates    
+<br>c) Tools	
+
+<br><br>3.	Understand and practice of CNC Turning center basic operations
+<br>a)	Develop  a part programme for Plain turning and simulate	
+<br>b)	Develop  a part programme for Step turning and simulate	
+<br>c)	Develop  a part programme for Facing and simulate	
+<br>d)	Develop  a part programme for Drilling and simulate	
+<br>e)	Develop  a part programme for Grooving and simulate	
+<br>f)	Develop  a part programme for Convex, Concave and simulate	
+<br>g)	Develop  a part programme for Taper turning and simulate	
+<br>h)	Develop  a part programme for Thread cutting and simulate	
+<br>i)	Develop  a part programme for Boring and simulate	
+<br>j)	Develop  a part programme for Tapping  and simulate	
+
+<br><br>4.	Prepare and apply the concept of CNC turning operation on production models   
+<br>Develop  a part programme  for combined turning centre operations and simulate (combined operation models)
+
+<br><br>5.	Understand and practice of CNC milling center basic operations
+<br>a)	Develop  a part programme on milling centre for Square slot cutting and simulate	12
+<br>b)	Develop  a part programme on milling centre for triangular slot cutting and simulate	
+<br>c)	Develop  a part programme on milling centre for rectangle slot cutting and simulate	
+<br>d)	Develop  a part programme on milling centre for clockwise and anticlockwise circular slot cutting  and simulate	
+<br>e)	Develop  a part programme on milling centre for clockwise and anticlockwise circular slot cutting  and simulate	
+<br>f)	Develop  a part programme on milling centre for drilling on component by using canned cycles and simulate	
+
+<br><br>6.	Prepare and apply the concept of CNC milling center  operation on production models   
+<br>Develop  a part programme  for combined turning center operations and simulate (combined operation models)   
+
+<b>Reference Books:</b>
+<br><br>1.	CAD/CAM- Mikell P Groover, Pearson Education
+<br>2.	 Numerical  control  and  computer  aided  manufacturing- T.K.Kundra  and  P.N.Rao, Tata Mc-Graw Hill
+<br>3.	CAD/CAM/CIM-P Radhakrishna,New Age International Publisher Company 
+<br>4.	Automation,Production system and CIM-P Groover, Pearson Education	
+<br>5.	CNC machines-  Pabla B. S. M, Adithan , New Age international limited
+
+<br><br><b>SUGGESTED LIST OF STUDENT ACTIVITIES:</b>
+<br><br>1.	Visit nearby industry having CNC machines. List and state important features of CNC Machines, specifications and name of manufacturers.
+<br>2.	Prepare the charts containing  G codes and M Codes
+<br>3.	Prepare the charts containing  different axis motions of  turning center and  machining center 
+
+<br><br><b>Note:</b>
+<br>1.	Each student should submit any one of the following type activity or any other similar activity related to the course and before take up get it approved from concerned Teacher and HOD.
+<br>2.	Each student should conduct different activity and no repeating should occur
+
+<b>Scheme of Valuation for SEE:</b>
+
+<br><br>1. PART – A
+<br>a) Writing turning programme : 10	
+<br>b) Execution and simulation	: 10	
+<br>2. PART – B
+<br>a) Writing milling programme : 10	
+<br>b) Execution and simulation	: 10	
+<br>3. Viva : 10
+
+<br><br><b>TOTAL = 50 Marks</b>

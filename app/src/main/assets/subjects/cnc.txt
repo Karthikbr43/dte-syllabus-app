@@ -1,0 +1,86 @@
+UNIT–I: Introduction to CAD /CAM
+1.0	Introduction
+<br>1.1	CAD/CAM Defined
+<br>1.2	The Product Cycle and CAD/CAM
+<br>1.3	Automation and CAD/CAM.  
+<br><br><b>[06 Hrs] [20 Marks] </b>
+
+UNIT-II: Conventional Numerical Control
+2.0	Introduction
+<br>2.1	Basic Components of an NC System
+<br>2.2	The NC Procedure
+<br>2.3	NC Coordinate Systems
+<br>2.4	NC Motion Control Systems
+<br>2.5	Applications of Numerical Control
+<br>2.6	Advantages and disadvantages of Numerical Control
+<br>2.7	Comparison between traditional and NC Machines	
+<br><br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT-III: Construction of CNC Machines
+3.0 Introduction
+<br>3.1	Machine Structure
+<br>3.2	Sideways
+<br>3.3	Spindle and Drive units
+<br>3.4	Elements of Machine motion Transmission
+<br>3.5	Tool and work holding devices
+<br>3.6 Automatic Tool Changers
+<br>3.7	Functions of MCU
+<br><br><b>[08 Hrs] [25 Marks] </b>
+
+UNIT-IV: Computer Controls in NC
+4.0	Introduction 
+<br>4.1	Problems with Conventional NC 
+<br>4.2	Computer Numerical Control
+<br>4.3	Functions of C.N.C
+<br>4.4	Advantages of C.N.C
+<br>4.5 Direct Numerical Control and its types
+<br>4.6	Functions of DNC
+<br>4.7	Advantages of D.N.C
+<br>4.8	Combined DNC/CNC Systems 
+<br><br><b>[10 Hrs] [25 Marks] </b>
+
+UNIT-V: Computer-Integrated Manufacturing Systems and FMS
+5.0	Introduction
+<br>5.1 Objective of CIM
+<br>5.2 Types of CIM
+<br>5.3	Nature and elements of CIM system 
+<br>5.4	Types of CIM Hardwares and CIM  soft  wares
+<br>5.5	Development of CIM	
+<br>5.6 Introduction to FMS
+<br>5.7	Classifications of FMS	
+<br>5.8 Benefits of FMS
+<br>5.9 Typical layout of FMS
+<br><br><b>[06 Hrs] [15 Marks] </b>
+
+UNIT-VI: CNC Programming
+6.0	CNC Programming
+<br>6.1	N.C. Words
+<br>6.2 Structure of a part programming
+<br>6.3 Preparatory Functions and Auxiliary Functions 
+<br>6.4	Linear interpolations
+<br>6.5	Circular interpolation
+<br>6.6	Writing part programme for machining in point to point  		
+<br>6.7	Writing part programme for machining in along a straight line
+<br>6.8 Writing part programme for machining, Taper Turning, Step Turning, Drilling, Boring, Thread cutting and Circular interpolations.
+<br>6.9	Writing part programme for machining on milling machine
+<br>6.10 Writing part programme for machining on Lathe and milling machine using canned cycles.
+<br><br><b>[12 Hrs] [30 Marks] </b>
+
+<b>Reference Books:</b>
+
+<br><br>1. CAD/CAM- Mikell P Groover, Pearson Education
+<br>2. Numerical  control  and  computer  aided  manufacturing- T.K.Kundra  and  P.N.Rao, Tata  Mc  Graw  Hill
+<br>3. CAD/CAM/CIM-P Radhakrishna,New Age International Publisher Company 
+<br>4. Flexible Manufacturing System-H K Shivananda, New Age International Publisher Company
+<br>5. Automation,Production system and CIM-P Groover, Pearson Education
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>1. Prepare a chart to show the Product cycle and CAD/CAM or Assignments
+<br>2. Prepare a chart to show the different types motion control system in NC
+<br>3. Prepare a chart to show the NC,CNC and DNC system
+<br>4. Prepare a chart to show the G codes and M codes or Assignments
+
+<br><br><b>Note:</b> The activities or similar activities for assessing CIE (IA) for 5 marks (Any one)
+<br>1. Each student should do any one of the following type activity or any other similar activity related to the course and before conduction, get it approved from concerned Teacher and HOD.
+<br>2. Each student should conduct different activity and no repeating should occur

@@ -1,0 +1,75 @@
+UNIT - I: Introduction to Embedded System
+<b>Embedded System</b>-Definition, History, Classification, Major Application Areas, Purposewith example,Embedded system vs. General Computing system, Characteristics and quality attributes of Embedded System, Application Case study: Smart running shoes
+<br><b>[06 Hrs] [15 Marks] </b>
+
+UNIT - II: Architecture of Embedded System
+<b>Hardware Architecture</b>: Elements of Embedded System,Block diagram, Core of embedded system, Memory, Sensors and Actuators, Communication Interface, timing circuits-reset, watchdog timer, brownout protection and RTC, PCB and Passive components.
+<br><b>Software Architecture</b>: Embedded Firmware, Operating System Basics,Characteristics and role of RTOS in embedded systems, Software Architecture of an Embedded System.
+<br><br><b>[09 Hrs] [30 Marks] </b>
+
+UNIT - III: Introduction to MSP430 Architecture
+<b>MSP430</b>: Features of MSP430 suitable embedded application, Different families and naming of MSP430
+<br><b>MSP430 Architecture</b>:Data sheet reading of MSP430-TheOutside View—Pin-Out, The Inside View—Functional Block Diagram
+<br><b>Central Processing Unit</b>:Program Counter (PC), Stack Pointer (SP), Status Register (SR), Constant Generators, General-Purpose Registers, Memory, Memory-Mapped Input and Output, Clock Generator
+<br><b>Exceptions</b>: Interrupts and Resets
+<br><b>Addressing Modes:</b>Register Mode, Indexed Mode, Indirect Register Mode, Indirect Auto-increment Register Mode.Low-Power Modes of Operation of MSP430.Comparison of MSP430 and 8051 Architectures.
+<br><br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT - IV: MSP430 Assembly and Embedded C Programming
+<b>MSP430 Instruction Set</b>:Classification-Constant Generator and Emulated Instructions, Movement Instructions, Arithmetic and Logic Instructions with Two Operands, Shift and Rotate Instructions, Flow of Control instructions. Simple assembly language programs.
+<br><b>Program development</b>: Features of embedded C as applicable to MSP430, development environment, simple Embedded C programs such as programs to control LEDs, access switches, generating delays and so on.
+<br><br><b>[09 Hrs] [30 Marks] </b>
+
+UNIT - V: MSP430 GPIO, Timer and On-chip Peripherals
+<b>Digital Input-Output</b>: Non Interruptible I/O and Interruptible I/O: Pin logic diagram Different Control Register, Port register Table.
+<br><b>Timers</b>:Classification of timers. Timer_A- Block diagram, Capture/Compare channels, interrupts and application notes.
+<br><b>Watchdog Timer</b>:Features and applications.
+<br><b>Hardware Multiplier</b>:Features and applications.
+<br><b>LCD Driver</b>: LCD Driver features.
+<br><br><b>[08 Hrs] [25 Marks] </b>
+
+UNIT - VI: MSP430: Mixed Signal Systems
+<b>Comparator A</b>: Architecture,operationand applications of comparator. Use of comparator for Capacitative Touch Sensing. 
+<br><b>ADCs</b>: Architecture ,Features of ADC 10 and ADC 12.  Use of ADC10 for simple temperature Sensing.
+<br><br><b>[07 Hrs] [15 Marks] </b>
+
+<b>Reference Books:</b>
+
+<br><br>1.	Introduction to Embedded Systems- K V Shibu , McGraw Hill-ISBN-978-0-0701-4589-4
+<br>2.	MSP430 Microcontroller Basics - John Davies, Elsevier, 2008 – ISBN-978-0-7506-8276-3
+<br>3.	Embedded Systems Design Using the TI MSP430 Series, 1st Edition - Chris Nagy, Elsevier, 2003 – ISBN- 9780750676236
+<br>4.	Analog and Digital Circuits for Electronic Control System Applications-Using the TI MSP430 Microcontroller- Jerry Luecke, Elsevier, 2004- ISBN-978-0-7506-7810-0
+<br>5.	Introduction to Embedded Systems Using Microcontrollers and the MSP430-Manuel Jiménez, Rogelio Palomera, IsidoroCouvertier, Springer, 2014 – ISBN- 978-1-4614-3142-8
+<br>6.	Texas Instrument MSP430 reference Page:  http://www.ti.com/lsds/ti/microcontrollers_16-bit_32-bit/msp/overview.page
+<br>7.	IDE User Guide for MSP430: 
+<br>	a)Code Composer Studio™ v6.1 for MSP430™ User's Guide:http://www.ti.com/lit/ug/slau157an/slau157an.pdf 
+<br>	b) IAR Embedded Workbench™ Version 3+ for MSP430™ User's Guide: http://www.ti.com/lit/ug/slau138an/slau138an.pdf  
+<br>	c) Energia is an open-sourced, community-driven IDE- http://energia.nu/guide/
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>1. Install AR Embedded Workbench for MSP430/Code composer studio for MSP430/Energia for MSP430: Create Project from Scratch, debug and run any twoprograms in assembly and Embedded C. Example programs given below:
+<br>1) Data Transfer - Block move
+<br>2) Block Exchange
+<br>3) Addition/subtraction
+<br>4) multiplication
+<br>5) Division
+<br>6) Finding largest element in an array
+<br>7) Sorting
+<br>8) Code conversion: BCD – ASCII
+<br>9) Code conversion: ASCII – Decimal; Decimal - ASCII;
+<br>10) Code conversion :HEX - Decimal and Decimal – HEX
+
+<br><br>2. Any one activity from following list or similar activity.
+<br>1) Prepare a report on the case study on working of embedded system with respect to: a) Washing Machine b) Microwave Oven
+<br>2) Conduct case studies for working of embedded systems for the following topics: a) Air Conditioner b) Automobile
+<br>3) Conduct case studies for MSP430 embedded systems for any two topics.
+<br>4) List and Explain different types of sensors and actuators used in Embedded System
+
+<br><br><b>Note:</b> The activities or similar activities for assessing CIE (IA) for 5 marks (Any one)
+<br>1. Every student should perform Project activity 1 and 2 independently as assigned by the teacher based on interest of the student. Student can also choose any other similar activity with a prior approval from the concerned teacher.
+<br>2. Project activities shall be carried out throughout the semester and present the project report at the end of the semester.
+<br>3. Report-size shall be qualitative and not to exceed 6 pages;
+<br>4. Each of the activity can be carried out off-class; however, demonstration/presentation should be done during laboratory sessions.
+<br>5. Assessment shall be made based on quality of activity, presentation/demonstration and report.
+<br>6. Assessment is made based on quality of work as prescribed by the following rubrics table.

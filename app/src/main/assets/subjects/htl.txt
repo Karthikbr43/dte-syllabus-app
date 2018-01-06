@@ -1,0 +1,39 @@
+<b>Part-A: Performing experiments</b>
+<br><br>1.	Determination of rate of heat transfer and heat transfer coefficient in natural & Forced convection
+<br>2.	Determination of rate of heat transfer and heat transfer coefficient in double pipe heat exchanger
+<br>3.	Determination of rate of heat transfer and heat transfer coefficient in Vertical condenser
+<br>4.	Determination of rate of heat transfer and heat transfer coefficient in horizontal condenser
+<br>5.	Determination of rate of heat transfer and heat transfer coefficient in coil tube heat exchanger
+<br>6.	Determination of rate of heat transfer and heat transfer coefficient in bare and finned tube heat exchanger
+<br>7.	Determine rate of heat transfer through  composite wall
+<br>8.	Determine thermal conductivity metal rod
+<br>9.	Determination of rate of heat transfer and heat transfer coefficient in shell and tube heat exchanger.
+
+<br><br><b>Part-B: Opened Experiments</b>
+<br><br>10.	Determination of rate of heat transfer in natural convection& radiation
+<br>11.	Determination of rate of heat transfer in lagged pipes
+<br>12.	Determination of rate of heat transfer and heat transfer coefficient in boiling liquids
+
+<b>Reference Books:</b>
+
+<br><br>1.	unit operation of chemical Engg by W.L.Mc cabe J.C.Smith Mc Graw Hill book co.
+<br>2.	Introduction to chemical Engg by W.L.Badger & J.T.Banchero.
+
+<br><br><b>SUGGESTED STUDENT ACTIVITY:</b>
+
+<br><br>1. Collect/ download product catalogues with specification of various types of energy conservation equipment/ devices and heat exchanger of recent trends. 
+<br>2. Identify and list at least 10 equipments/devices which require heat transfer and prevention of heat transfer. Also state mode of heat transfer and methods used to prevent heat transfer. 
+<br>3. At least one visit of any power plant/ industry where various items like air compressor, heat exchanger, cooling tower, condenser etc. can be shown to students. 
+
+<br><br><b>Note: </b>
+<br>1. Each student should submit any one of the following type activity or any other similar activity related to the course and before take up get it approved from concerned Teacher and HOD.
+<br>2. Each student should conduct different activity and no repeation should occur
+
+<b>Scheme of Valuation for SEE:</b>
+
+<br><br>1. Procedure  writing : 10
+<br>2. Conducting of Experiment : 10
+<br>3. Calculation, results, Inference : 20
+<br>4. Viva : 10
+
+<br><br><b>TOTAL = 50 Marks</b>

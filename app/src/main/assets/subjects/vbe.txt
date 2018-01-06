@@ -1,0 +1,51 @@
+UNIT - I: CAR BODIES
+Car body-purpose-requirements-Types, Dimensional regulations-concept, driver’s visibility-concept- tests for visibility-Methods of improving visibility, space in cars-concept-methods of improving space, Safety- safety design, safety equipments for car, Car body construction-components of car body-purpose of each component, Doors-types, window actuating mechanisms-types-construction and working, Door locks-types, central locking-concept-working principle, general unitary body construction process.
+<br><b>[12 Hrs] [35 Marks] </b>
+
+UNIT - II: VEHICLE AERODYNAMICS
+Aerodynamics-concept-Objectives-Vehicle drag-definition-types-effects, forces and moments acting on vehicle body-types-effects, various body optimization techniques for minimum drag. Wind tunnel testing-concept-types-test setup-testing process- Flow visualization techniques- scale model testing-Component balance to measure forces and moments.
+<br><b>[08 Hrs] [20 Marks] </b>
+
+UNIT - III: BUS AND COMMERCIAL VEHICLE BODIES
+Types, Bus body layouts of each type, Bus Body Lay Out-Floor height-engine location-entrance and exit location-seating dimensions, Constructional details-Frame construction-types-Types of metal section used-Regulations, Double skin construction-concept, Conventional and Integral type construction-concept-merits-demerits, Commercial Vehicle body- Types- illustration of each type, Light commercial vehicle body- types-illustration of each type, Dimensions of driver’s seat in relation to controls, driver’s cabin design.
+<br><b>[10 Hrs] [35 Marks] </b>
+
+UNIT - IV: BODY MATERIALS
+Body material - Requirements-Steel sheet, timber, plastics, GRP, CRP-properties of materials-applications in vehicle body, Interior materials-requirements-types-applications, Glasses-types, laminated glass-concept-purpose, defrosting in glasses-concept-purpose. 
+<br><b>[06 Hrs] [15 Marks] </b>
+
+UNIT - V: BODY PAINTING
+Painting-concept-objectives, elements of paint-resins-concept-function, pigment- concept-function, solvent- concept-function -Types, paint drying process-Types-drying principle of each type-merits-demerits, composition &functions- primer paint- putty paint- surface-sealer - top coat, spray painting- Types, air spray painting-procedure, air less spray painting-procedure, electrostatic painting-procedure, New vehicle painting with a block diagram.
+<br><b>[08 Hrs] [20 Marks] </b>
+
+UNIT - VI: AUTOMOTIVE AIR CONDITIONING
+Air conditioning- concept, humidity-concept, Automobile air conditioner-layout - functions of each component, refrigerant- metering devices-types, Expansion valve-construction and working, fixed orifice tube-construction and working, Refrigerant –Definition-types-Properties.
+<br><b>[08 Hrs] [20 Marks] </b>
+
+<b>Reference Books:</b>
+
+<br><br>1. Automotive Engineering (Heating & Air conditioning), Mark Schnubel, Cengage Learning
+<br>2.	Automobile Engineering	vol VI(Air Conditioning System), Anil Chhikara,	Satya Prakashana New Delhi
+<br>3.	Automobile Engineering,	Ramalingam K.K	
+<br>4.	Automobile Engineering vol IV, Anil Chhikara, Satya Prakashana New Delhi
+<br>5.	Vehicle Body Repair, James Duffy, Cengage Learning
+<br>6.	Automobile Engineering(Paint Technology) vol V, Anil Chhikara, Satya Prakashana New Delhi
+<br>7.	Vehicle Body Engineering, Powloski. J.	
+<br>8.	Body construction and design, Giles. J.C	
+<br>9.	Vehicle Body layout and analysis, John Fenton, Mechanical Engg Publication Ltd., London, 1982
+<br>10.	Vehicle Body building and drawing, Braithwaite.J.B,	Heinemann Educational Books Ltd., London
+<br>11.	Automotive Mechanics, Grouse W and Anglin D, Tata Mcgraw Hill Publication 10th edition, 2004
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>1. Collect information on different vehicle bodies with photographs and specifications.
+<br>2. Collect information on different tools and equipments used in body repair shops.
+<br>3. Collect information on different paint components used in car body painting shops.
+<br>4. Collect information on different advanced body repair process.
+<br>5. Collect information on different advanced paints and painting process.
+<br>6. Collect information on servicing of car air conditioning system.
+
+<br><br><b>Note:</b> 
+<br>1. Student should prepare a hand written report on any one of the above/similar activity, which helps in achieving above course outcomes.
+<br>2. The report prepared should be approved by the concerned staff and HOD.
+<br>3. The activity group should consist of maximum of three students.

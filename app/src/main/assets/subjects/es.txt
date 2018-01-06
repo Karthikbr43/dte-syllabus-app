@@ -1,0 +1,38 @@
+UNIT – I: Introduction to 8051 Microcontroller
+Introduction to microcontrollers, applications,comparison between microprocessor and micro controller, block diagram of 8051,features of 8051,Pin diagram of 8051,Pin description of 8051, I/O ports Pins and their  functions,structure of Assembly language program
+<br><b>[06 Hrs] [15 Marks] </b>
+
+UNIT – II: 8051 Architecture
+Registers, On chip 8051 chip ROM memory address range, 8051 data type and  directives, register banks, On-chip ROM memory and  RAM Memory organization, stack and stack pointer,  SFR registers, I/O ports structure and operation bit address.  Registers - A, B, SP, DPTR, PCand SFRs.General Format and functions of each bit of PSW SFRs, machine cycle, Time delay calculations.
+<br><b>[09 Hrs] [25 Marks] </b>
+
+UNIT – III: 8051 Instruction Set
+Arithmetic instructions, Addressing modes ,Data transfer instructions, Logical and compare instructions, Jump and Loop, Rotate and swap instructions, Branch instructions, Bit manipulation instructions, Stack and Subroutine instructions.
+<br><b>[09 Hrs] [25 Marks] </b>
+
+UNIT – IV: 8051Assembly andC Programming
+Programs on Loop and Jump instructions,call instructions,arithmetic and logic instructions,Compare instruction, Rotate and Swap instructions,BCD and ASCII conversion vice-versa programs, Bit manipulationprograms.
+<br>8051 programming using C – Advantage of using C. Data types. Simple programs based on arithmetic, logical, branching, bit manipulation, rotate and swap instructions.
+<br><b>[07 Hrs] [20 Marks] </b>
+
+UNIT – V: 8051 Timers, Serial port and Interrupt Programming
+Timers of 8051 and their associated Registers, General format and function of each bit of TMOD,TCON,Modes of operation of timers, programs on timers and counters in assembly language.
+<br>Basics of serial communication, SBUF SFR, pin description of 9 pin RS232 connector, Pin description of Max233, 8051 connection to RS232 using Max233, Baud rate and its calculation, General format and function of each bit of SCON,PCON SFR’s, Programs on serial communication in assembly language.
+<br>Interrupts versus polling, Interrupt service routine (ISR) Interrupts with vector table, General format and function of each bit of IE,IP SFR, Programs on interrupts in assembly language.
+<br><b>[11 Hrs] [30 Marks] </b>
+
+UNIT – VI: 8051 Interfacing and Peripherals
+Interfacing an LCD and LED  to 8051, 8051 interfacing with Hex keyboard, ADC, DAC and sensor interfacing, Interfacing DC motor, Stepper motor, Relay, Opto isolator and RTC.(Only circuit diagrams and explanation)
+<br><b>[10 Hrs] [30 Marks] </b>
+
+<b>Text books:</b>
+<br><br>1.Muhammad Ali Mazidi,JaniceGillispieMazidi and Rolin D McKinlay “ THE 8051 MICROCONTROLLER AND EMBEDDED SYSTEMS  Using Assembly and C”.Pearson  Second edition.
+
+<br><br><b>References:</b>
+<br><br>1.	The 8051 Microcontrollers-II edition-Kenneth j Ayala. Perram Publications.
+<br>2.	Embededded system Design-Frank Vahid/Tony Givargis WSE. Wiley Publications.
+<br>3.	8051 Microcontroller-Hardware,Software and applications-V Udayashankara/M S mallikarjunaswamy-Tata McGraw Hill
+<br>4.	Programming and Customizing the 8051 Microcontroller-MykePredko-Tata McGraw Hill
+<br>5.	Intel 8 bit Embedded controller Handbook-Intel
+<br>6.	Programming Embedded systems in C and C++ - Michael Barr –O’Reilly
+<br>7.	8051 Microcontroller – Uma S.Rao

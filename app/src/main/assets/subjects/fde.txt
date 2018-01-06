@@ -1,0 +1,56 @@
+UNIT - I: Introduction to Mechatronics and Digital principles
+Introduction to Mechatronics – Definition, Mechatronics system, building block, domains, constituents, key elements, applications, merits and demerits. Introduction to Digital system – Definition of analog and digital signals, examples, Comparisons, Advantages of digital technology, Digital system design stages. 
+<br><b>[04 Hrs] [15 Marks] </b>
+
+UNIT - II: Number System
+Review of Binary, Octal and Hexadecimal number systems , Conversion of numbers from one radix to another radix , Binary arithmetic operations , Representation of signed numbers , Subtraction of numbers using 1’s and 2’s complement arithmetic , Numeric codes - BCD, Excess-3, Gray code , Alphanumeric codes - ASCII , EBCDIC.
+<br><b>[08 Hrs] [20 Marks] </b>
+
+UNIT - III: Logic gates and Boolean algebra
+Logic gates – AND , OR , NOT , NAND , NOR , EX-OR and EX-NOR , Implementation of logic functions using gates , Universal gates , Characteristics of logic gates-Boolean postulates and laws , Demorgan’s theorems, Boolean expressions minimization using Boolean laws ,  Karnaugh map minimization. 
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT - IV: Combinational Logic Circuits
+Design procedure – Half adder ,  Full adder , Half Subtractor , Full Subtractor, Binary Ripple carry adder , Multiplexer – 2:1 Mux, 4.1 Mux and  8.1 Mux, De-multiplexer – 1: 4 De-mux and  1:8 De-mux, Encoder – DECIMAL to BCD, Decoder  – 3 to 8 line and BCD to DECIMAL Decoders ,  Magnitude Comparator - 1-bit Comparator, Parity generators-4 bit Parity generator.
+<br><b>[12 Hrs] [30 Marks] </b>
+
+UNIT - V: Sequential Logic Circuits
+Introduction, comparison with combinational circuits, Flip-Flops - Types of triggering , Edge triggered S-R, D , J-K, T, J-K Master slave Flip-Flop’s, Race around condition, Applications , Shift Registers, Types  – SISO, SIPO, PISO, PIPO, Bidirectional shift register , Applications , Counters – Classification, comparisons , Asynchronous Ripple counters (4-bit up ,4-bit down), 3-bit Asynchronous Up/Down counter, Modulo-N Ripple Counters - Mod-5 and Mod-10 ( up counters), Mod-3 Synchronous  up counter ,  Applications. 
+<br><b>[13 Hrs] [35 Marks] </b>
+
+UNIT - VI: Programmable Logic Devices
+Introduction, Basic structure of PLD’S – PAL, PLA, PROM, Implementation of simple combinational logic circuits and Boolean expressions using PLD’s, Advantages, Comparisons.
+<br><b>[05 Hrs] [15 Marks] </b>
+
+<b>Reference Books:</b>
+
+<br><br>1.	Mechatronics – M D Singh , J G Joshi.---PHI Publication
+<br>2.	Fundamentals of Digital circuits – A.Anand Kumar , 3rd edition , PHI publication. 
+<br>3.	Digital Fundamentals - Thomas L. Floyd, Pearson Education. 
+<br>4.	Digital Fundamentals- Basavaraju
+<br>5.	Mechatronics –K P Ramachandran , G K Vijayaragavan , M S Balasundaram---WILEY Publication
+<br>6.	Logic and computer design fundamentals – M.Moris Mano,Charles.R.Kime
+<br>7.	Digital Electronics – By Tokchim , Tata McGraw-Hill Edition
+
+<br><br><b>E –Learning</b>
+<br><br>1.	http://www.sriengg.com
+<br>2.	http://www.ssit.edu.in
+<br>3.	http://www.wiziq.com/tutorial/567997-digitalelectronicslecture/introduction
+<br>4.	http://www.authorstream.com/presentation/psureshvenugopal-1137243-digitalelectronicsbasics
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>1. Write a chart to represent decimal numbers from 0 to 50 in binary, octal and hexadecimal number systems.
+<br>2. Collect the information about any three digital systems and highlight the difference between analog and digital systems.
+<br>3. Collect the information on signed and unsigned binary numbers. Prepare a chart to represent the decimal numbers from -20 to +20 in 8-bit format in signed and signed-magnitude representation.
+<br>4. Perform binary multiplication and division with examples.
+<br>5. List the features of BCD, ASCII excess-3 codes with examples.
+<br>6. Simulate a realistic digital circuit containing at least six logic gates
+<br>7. Collect the catalogues and specification sheets or a chart displaying various logic ICs (At least 10)
+
+<br><br><b>Note:</b> 
+
+<br>1. Group of max four students should do any one of the above activity or any other similar activity related to the course COs and get it approved from concerned Teacher and HOD. 
+<br>2. No group should have activity repeated or similar 
+<br>3. Teacher should ensure activities by different groups must cover all COs 
+<br>4. Teacher should asses every student by using suitable Rubrics approved by HOD

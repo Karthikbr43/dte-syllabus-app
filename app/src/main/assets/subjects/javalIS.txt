@@ -1,0 +1,46 @@
+<b>Experiments:</b>
+
+<br><br>1.Write a Java Program to sort a list of names selection sort technique.
+<br>2.Write a Java Program to define a class, describe its constructor, overload the Constructors and instantiate its object.
+<br>3.Write a Java Program to define a class, define instance methods for setting and Retrieving values of instance variables and instantiate its object.
+<br>4.Write a Java Program to define a class, define instance methods and overload them and use them for dynamic method invocation.
+<br>5.Write a Java Program to demonstrate use of sub class.
+<br>6.Write a Java Program to demonstrate use of nested class.
+<br>7.Write a Java Program to implement array of objects.
+<br>8.Write a Java program to practice
+	<br>- using String class and its methods.
+	<br>- using String Buffer class and its methods.
+<br>9.Write a Java Program to implement Vector class and its methods.
+<br>10.Write a Java Program to implement Wrapper classes and their methods.
+<br>11.Write a Java Program to implement inheritance and demonstrate use of method overriding.
+<br>12.Write a Java Program to implement multilevel inheritance by applying various access controls to its data members and methods.
+<br>13.Write a program to demonstrate
+    <br>- use of implementing interfaces.
+    <br>- use of extending interfaces.
+<br>14.Write a Java program to implement the concept of importing classes from user defined package and creating packages.
+<br>15.Write a program to implement the concept of threading.
+<br>    -by extending Thread Class
+<br>    -by implementing Runnable Interface
+<br>16.Write a program to implement the concept of Exception Handling
+    <br>- using predefined exception.
+    <br>- by creating user defined exceptions.
+
+<b>Reference Books:</b>
+<br><br>1.	Programming with Java, 4th edition, Balagurusamy, Mc Graw Hill, ISBN- 9780070141698
+<br>2.	Computer Programming in Java, Junaid Khateeb and Dr. G.T. Thampi, Wiley Dreamtech, ISBN: 9788177228298
+
+<br><br><b>Student Activity</b>
+
+<br><br><b>Note: the following activities or similar activities for assessing CIE (IA) for 5 marks (Any one)</b>
+
+<br><br>1.	Each group should do any one of the following type activity or any other similar activity related to the course and before conduction, get it approved from concerned course co-ordinator and programme co-ordinator.
+<br><br>2.	Each group should conduct different activity and no repeating should occur. Some of the topics for mini projects are: 
+<br> Hotel Management System   E-Bill Board, Online insurance  Online Mobile Contributor  Online Restaurant  Public Distribution System  SECURE E-banking security  Service Call Management  Secure location system  Standard DB Editor Flight Reservation System  Job Service Provider  Net Chattering Hospital Management System  E – Shopping Mall, Personalized web search engine E-health Care Telecom Linkage System  Multi Message communication and file sharing system in network  ATM Database System  Health record System using referral  Online Library management  Typing text recognition  Online bus ticket booking  Birthday reminder via Email  Time table management system for college  Agriculture Management System  District medical data center  etc.
+
+<b>Scheme of Valuation for SEE:</b>
+
+<br><br>1.Writing  two programs : 10+10=20
+<br>2.Executing any one program with result : 20
+<br>3.Viva : 10
+
+<br><br><b>TOTAL = 50 Marks</b>

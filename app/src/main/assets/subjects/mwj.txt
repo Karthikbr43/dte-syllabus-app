@@ -1,0 +1,56 @@
+UNIT I: Metal Crystal Structures
+Elements classification by electrolysis, crystal structure, BCC, FCC and HCP, crystal structure  defects, Atomic Structure,  Atomic bonds and space lattice, Miller indices and dendrites,  Cooling curves and heat evolution, Volumetric shrinkage, Iron-iron carbide equilibrium diagram.
+<br><b>[06 Hrs] [15 Marks] </b>
+
+UNIT II: Metallurgy of welding
+Introduction to Metallurgy of welding, Heat flow in and around metals, Metallurgical effects of welding, Weld metals solidification, Absorption of  gases by welds, Gas - metal reactions, Porosity in welds, Thermal effects of welding on parent metals and its mechanical properties, Grain size control. Heat Treatment and processes – Induction hardening, Flame hardening, Surface Hardening, Carburizing, Nitriding, Annealing, Normalizing, Quenching.
+<br><b>[06 Hrs] [15 Marks] </b>
+
+UNIT III: Weldability of Metals and their Defects
+Definition of Weldability, Weld ability tests - Hardness test, tensile test, Bend test, Impact test, Visual inspection test, Liquid Penetrant test, Weld ability of mild steel, low alloy steel, Weld ability of cast iron, aluminium and stainless steel. Introduction to welding defects, Cracks in welds - hot crack, cold crack, hydrogen  induced cracks, chevron cracks, lamella cracks and re-heat cracks, Inclusion, porosity poor fusion, Under cutting, over lapping, spatter, Burn through tungsten inclusions, distortion in welding.
+<br><b>[08 Hrs] [20 Marks] </b>
+
+UNIT IV: Basic Thermodynamics
+Introduction to Thermodynamics, Fundamentals of Thermodynamics, Definition and scope, Microscopic and Macroscopic approaches, few practical applications of Engg thermodynamics, thermodynamic system, types of system, control volume, control surface, Examples. Thermodynamic properties, Intensive and Extensive properties. Thermodynamic state, state point, state diagram, path, process, cyclic and non-cyclic process, quasi-static process, reversible and irreversible process, steady and unsteady flow process, zeroth law of thermodynamics, first law, second law. Enthalpy, Entropy. Carnot cycle, Otto cycle, diesel cycle, Formation Of Steam, Definition Of Saturation Temperature, Wet Steam, Dry Saturation Steam, Super  Heated Steam, Dryness Fraction Of Steam, Sensible Heat, Latent Heat, Super Heat, Specific volume of Steam, Bomb calorie meter. Heat transfer, Modes of heat transfer-Conduction, convection and radiation.
+<br><b>[14 Hrs] [40 Marks] </b>
+
+UNIT V: Mechanical Measurements
+Definition of measurement,  Ssignificance of measurement, Methods of measurements, Generalized measuring system, Standards of measurements, Factors in selecting the measuring instruments, Terms applicable to measuring instruments: Precision and Accuracy, Sensitivity , repeatability, Range, Threshold, Hysteresis, calibration, in Measurements: Classification of errors, Systematic and Random error. Introduction to Limit: Maximum limit, Minimum limit, Basic size, Nominal size, Fit: Types of fits-Hole basis and Shaft basis system, Tolerance: Basic terminology, unilateral and bilateral tolerance, Interchangeability and selective assembly.
+<br><b>[09 Hrs] [30 Marks] </b>
+
+UNIT VI: Transducer, Comparators and Gauges
+Introduction to Transducer, Characteristics, classification of transducers - Piezoelectric transducer. Introduction to compactors, Characteristics of comparators, Types of comparators – Mechanical Reed type, Optical Comparator. Gauges: plain gauge, plug gauge, ring Gauge, snap gauge, limit gauge, McLeod Gauge, Applied Measurement – Eddy current tachometer, LVDT, Thermocouple and define hair hygrometer, hydrometer, Rotometer.
+<br><b>[09 Hrs] [25 Marks] </b>
+
+<b>Reference Books:</b>
+
+<br><br>1.	Welding principles and practices by Edward R. Bohnart, Mc. Graw Hill Education, 2014.
+<br>2.	Material science and metallurgy by O. P Khanna, Khanna Publishers
+<br>3.	Physical Metallurgy ,Vijendra singh.
+<br>4.	Physical Metallurgy, Principles and Practices, V.Raghavan, PHI, 2006, New Delhi
+<br>5.	Welding and welding Technology by Richard L Little, Mc. Graw Hill Education
+<br>6.	Mechanical Metallurgy by George. E.Dieter, Mc. Graw Hill Education
+<br>7.	Welding processes and technology – Dr. Parmar.R.S
+<br>8.	Thermal Engineering by R S KURMI,Chand and co. 
+<br>9.	Engineering Thermodynamics by M. Achuthan. 
+<br>10.	Metrology and Measurement  by Anand K Bewoor,Vinay kulakarni ,Tata McGraw hill New delhi  2009
+<br>11.	Metrology and Measurement  by Boltan, Tata McGraw hill New delhi
+<br>12.	Engineering Metrology by R.K.Jain, Khanna Publishers
+
+<br><br><b>E –Learning</b>
+<br><br>1.	https://www.youtube.com/watch?v=eHFI-xuZIiQ 
+<br>2.	https://www.youtube.com/watch?v=K8TEPwCE1Ow
+<br>3.	https://www.youtube.com/watch?v=a6YpJXoADCA
+<br>4.	https://www.youtube.com/watch?v=dzw5qQo-i4Y
+<br>5.	https://www.youtube.com/watch?v=fcL86RnyUVk
+<br>6.	https://www.youtube.com/watch?v=kgD5D0Wzu-c
+<br>7.	https://www.youtube.com/watch?v=P6NXS4N5iuU
+<br>8.	https://www.youtube.com/watch?v=jiu9zL10lIc
+<br>9.	https://www.youtube.com/watch?v=YB8tGAPqbNA
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br><b>Note:</b> The following activities or similar activities for assessing CIE (IA) for 5 marks (Any one)
+
+<br><br>1. Make Visit to nearest work shop ,observe the Arc and Gas welding and make a hand written report
+<br>2. Observe the welding shop of your polytechnic and study its specifications and list the general safety.

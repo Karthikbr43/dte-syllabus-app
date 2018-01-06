@@ -1,0 +1,50 @@
+UNIT I:  Introduction of Java	
+<b>Fundamentals of Object Oriented Programming</b> - Introduction, Object oriented Paradigm, Basic Concepts of OOP, Benefits of OOP, Applications of OOP.
+<br><b>Java Evolution</b> - Java history, Java Features, How Java Differs from C and C++, Java and World Wide Web, Java Environment, Simple Java Program, An Application with Two Classes, Java Program Structure, Java Tokens, Java Statements, Implementing a Java Program, Java Virtual Machine, Command Line Arguments, Programming Style, Constants, Variables, Data Types, Scope of Variables, Symbolic Constants, Type Casting, Standard Default Values, Special Operators, Mathematical Functions, Labelled Loops (break and Continue) Operators and Expressions, Decision Making, Branching and Looping.
+<br><b>[06 Hrs] [22 Marks] </b>
+
+UNIT II: Classes, Objects and Methods;  Strings and String Buffer Classes 	
+<b>Classes, Objects and Methods</b> - Introduction, Defining a Class, Fields Declaration, Methods Declaration, Creating Objects, Accessing Class Members, Constructors, Methods Overloading, Static Members, Nesting of Methods, Inheritance: Extending a Class, Overriding Methods, Final Variables and Methods, Final Classes, Finalize Methods, Abstract Methods and Classes, Methods with Variable arguments (Varargs),Visibility Control.
+<br><b>Strings and String Buffer Classes</b> - Strings, Vectors, Wrapper classes, Enumerated Types, Annotations.
+<br><b>[14 Hrs] [38 Marks] </b>
+
+UNIT III: Interface: Multiple Inheritance	
+Introduction, Defining Interfaces, Extending Interfaces, Implementing Interfaces, Accessing Interface Variables.
+<br><b>[10 Hrs] [16 Marks] </b>
+
+UNIT IV: Packages: Putting Classes Together		
+Introduction, Java API Packages, Using System Packages, Naming Conventions,  Creating Packages, Accessing a Package, Using a Package, Adding a Class to a Package, Hiding Classes, Static Import.  
+<br><b>[08 Hrs] [23 Marks] </b>
+
+UNIT V: Multithreaded Programming	
+Introduction, Creating Threads, Extending the Thread Class, Stopping and Blocking a Thread, Life Cycle of a Thread, Using Thread Methods, Thread Exceptions, Thread Priority, Synchronization, Implementing the ‘Runnable’ Interface, Inter-thread Communication.		
+<br><b>[06 Hrs] [23 Marks] </b>
+
+UNIT VI: Managing Errors and Exceptions	
+Introduction, Types of Errors, Exceptions, Syntax of Exception Handling Code, Multiple Catch Statements, Using Finally Statement, Throwing Our Own Exceptions.				
+<br><b>[08 Hrs] [23 Marks] </b>
+
+<b>Text books:</b>
+
+<br><br>Programming with Java, 6th edition, Balagurusamy, Mc Graw Hill, ISBN 13- 9789351343202   ISB 10- 9351343200
+
+<br><br><b>References:</b>
+
+<br><br>1.Complete Reference Java J2se, Herbert Schildt, Tata McGraw Hill, ISBN 9780070598782
+<br>2.Java  6   Programming – Black Book   Wiley India Pvt ltd
+<br>3.Programming in JAVA2 – Dr. K. Somasundaram  Jaico  Publish
+<br>4.Programming in JAVA – S.S. Khandare – S. Chand Publish
+
+<br><br><b>E-learning resources:</b>
+
+<br><br>http://www.Javatpoint.com/Java-tutorial
+<br>http://www.tutorialspoint.com/Java/
+<br>http://www.indiabix.com/technical/core-Java/
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br>Hotel Management System, E-Bill Board, Online insurance, Online Mobile, Contributor, Online Restaurant, Public Distribution System, SECURE E-banking security, District medical data center, Visit different sites relevant to topics. Listen to the lectures and submit a handwritten report, etc
+
+<br><br><b>Note:</b> The activities or similar activities for assessing CIE (IA) for 5 marks (Any one). Student activity like mini-project, surveys, quizzes, etc. should be done in group of 3-5 students.
+<br>1. Each student should do any one of the following type activity or any other similar activity related to the course and before conduction, get it approved from concerned Teacher and HOD.
+<br>2. Each student should conduct different activity and no repeating should occur

@@ -1,0 +1,69 @@
+UNIT I: Theodolite Surveying.
+Transit Theodolite and its essential parts, terms used in Theodolite surveying, Fundamental Axes and their relations. Temporary adjustments, Measurement of Horizontal angle by Repetition and Reiteration method, Measurement of Vertical angle. Measurement of Deflection angle, Errors in Theodolite surveying.
+<br>Purpose of a Theodolite Traversing, Traversing by Deflection angle and Included angle method. Checks in Closed and Open Traverse. Traverse computations, Closing error, Balancing the traverse by Bowditch and Transit rules. Omitted measurements-problems (Bearing and distance of one side, length of two sides). Simple Problems on Bowditch and Transit rule, converting Deflection angles into Bearings and interior angles into deflection angles, Computing latitude and departure, given the co ordinates of two points, finding its length and bearing, area of Traverse by independent co-ordinate method.
+<br><b>[14 Hrs] [40 Marks] </b>
+
+UNIT II: Trigonometrical levelling
+Applications, Elevations and distances of objects - base accessible and inaccessible single plane method and simple problems. Triangulation- Definition, principles, purpose and classification.
+<br><b>[05 Hrs] [15 Marks] </b>
+
+UNIT III: Tacheometry
+Principles and purpose of Tacheometry, advantages and disadvantages, Instruments-Tacheometer, stadia rods and Annalactic lense, Determination of Tacheometric constants. Fixed Hair method of Stadia system- Simple Problems.
+<br><b>[05 Hrs] [15 Marks] </b>
+
+UNIT IV: Curves
+Curves- Elements of Curves, relation between Radius and Degree of a curve. Types of curves – Horizontal and vertical curves, Types of horizontal curves-simple, compound, reverse and transition curves. Setting out simple curves by Chord Produced and Rankine’s method. Definition and elements of a compound curve. Setting out Compound curve. Definition and elements of a reverse curve. Definition and elements of a Transition curves- objectives and requirements.
+<br><b>[12 Hrs] [40 Marks] </b>
+
+UNIT V: Modern Surveying
+Remote sensing – definition, basic principles and its applications, Global Positioning System (GPS) - Fundamentals, working principles, receivers, advantages and disadvantages, working principles of GPS navigator. Introduction to GIS- Objectives, applications, comparison of GIS with CAD.
+<br><b>[04 Hrs] [10 Marks] </b>
+
+UNIT VI: Total Station
+Introduction – Component parts of a Total Station and Accessories - Summary and characteristic Features of total station  - Advantages and disadvantages of total station - Applications, -  Setting up the Total Station - Measurement (Distance, Angle, Bearing, altitudes etc.)- Field procedure for co-ordinate measurement - Setting out Lines - Setting out Curve by Rankin’s method, to set building corners, to mark control and offset lines, to run a traverse survey and adjustments – Areas of field (three or more points), Linking data files.
+<br><b>[12 Hrs] [25 Marks] </b>
+
+<b>Text books:</b>
+<br><br>1.	Surveying and Levelling  Vol- I and II  by  B C Punmia
+<br>2.	Surveying and Levelling  by T P  Kanetkar and S V Kulkarni
+<br>3.	Surveying and Levelling   by S S Bhavikatti
+<br>4.	Surveying by Duggal
+<br>5.	Surveying by R Agor
+<br>6.	Fundamentals of Surveying by S K Roy
+<br>7.	Sathesh Gopi, R.Sathikumar and N.Madhu, Advanced Surveying, (Total Station, GIS, Remote Sensing), Pearson Education, Chennai, 2007
+<br>8.	Surveying and Levelling  by N N Basak.
+
+
+<br><br><b>E-Learning</b>
+
+<br><br>http://nptel.ac.in/video.php?subjectId=105104101
+<br>http://media.sakshat.ac.in/NPTEL-IIT-Videos/
+<br>http://nptel.iitk.ac.in/courses/Civil_Eng/IIT%20Roorkee/Surveying.htm
+<br>http://nptel.iitk.ac.in/
+<br>http://www.usouthal.edu/geography/allison/GY301/Total%20Station%20Setup%20and%20Op eration.pdf
+<br>http://www.pentaxsurveying.com/en/pdfs/R400-MANUAL-PTL-EN.pdf
+<br>https://www.youtube.com/watch?v=QtEkZPEeeZk
+<br>https://www.youtube.com/watch?v=KQgq5xqSTUw
+
+<br><br><b>Suggested Student Activity:</b>
+<br>The topic should be related to the course in order to enhance his knowledge, practical skill and lifelong learning, communication, modern tool usage.
+
+<br><br>1. To set out sewer grades.
+<br>2. Compare the measured angles, Levels and Contours from Total station to other surveying instruments.
+<br>3. Setting out centre lines of Column footings of a Framed Structure by using Total Station and Theodolite.
+<br>4. Comparing Horizontal angles by both methods between same points.
+<br>5. Height of a building calculated by vertical angle method shall be verified by measuring the height with a tape taking BM as Plinth.
+<br>6. RL’s and heights of objects like chimneys and towers shall be compared by both single plane and Double plane methods.
+<br>7. Demarcation of boundary of the given land using Total station.
+<br>8. Formation of sites in a residential layout.
+<br>9. Conduct a closed Traverse and find out the area enclosed.
+<br>10. Plot the Curves executed on site (practicals) and compare the parameters from plotted drawings and site execution.
+<br>11. Determine the height of the elevated objects by trigonometrical levelling.
+<br>12. Transferring of Centre line alignment from Ground to inside of Tunnel using Total Station and Theodolite.
+<br>13. Geographic information system
+<br>14. Gis enabled study of artificial recharge structures
+<br>15. Creation of base map for water and sewage network for your town using remote sensing and geographic information system
+
+<br><br><b>Note:</b> 
+<br>1. Students should select any one of the above or other topics relevant to the subject approved by the concerned faculty, individually or in a group of 3 to 5. Students should mandatorily submit a written report and make a presentation on the topic. The task should not be repeated among students. Report will be evaluated by the faculty as per rubrics. Weightage for 5 marks Internal Assessment shall be as follows: (Unsatisfactory 1, Developing 2, Satisfactory 3, Good 4, Exemplary 5)
+<br>2. Reports should be made available along with bluebooks to IA verification officer

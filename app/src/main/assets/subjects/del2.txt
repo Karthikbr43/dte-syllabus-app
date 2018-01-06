@@ -1,0 +1,62 @@
+Unit – I: Tutorial and Practice
+
+<b>Group A: Combinational Circuits</b>
+<br><br>1.(i) Identify various IC (digital, analog, mixed) packages and families and learn to identify pin numbers in different packages. 
+<br>  (ii) Practice handling of ICs with precautions and know IC soldering methods.
+<br>2.	Verify the functionality of 2:1 or 4:1 multiplexer using suitable gates 
+<br>3.	Construct 4:1 multiplexer using 2:1 multiplexer IC and verify the operation.
+<br>4.	Realise basic gates or simple logic expressions using multiplexer IC.
+<br>5.	Verify the operation of 1:2 or 1:4 demultiplexer using suitable IC.
+<br>6.	Verify the operation of BCD to Decimal decoder using suitable IC.
+<br>7.	Construct and verify the circuit to translate BCD to decimal digits in seven-segment display using suitable IC
+<br>8.	Verify the operation of decimal to BCD encoder using suitable IC.
+<br>9.	Illustrate the storing and retrieving of data in RAM using suitable IC.
+
+<br><br><b>Group B: Sequential Circuits</b>
+<br><br>1.	Construct clocked SR FF using gates and verify its functionality. 
+<br>2.	Verify the TT of JK FF using IC 7476. Observe the role of preset and clear inputs.
+<br>3.	Realize   D-FF and T-FF using JK FF and observe the timing diagrams.
+<br>4.	Move 3-bit or 4-bit data in SISO and PISO modes using FFs and tabulate the data movement in each mode.
+<br>5.	Move or 4-bit data in SISO, SIPO, PIPO, PISO modes using suitable IC and tabulate the data movement in each mode.
+<br>6.	Construct 3-bit ripple counter (both up and down separately) using flip-flop IC 7476 and verify its truth table
+<br>7.	Configure IC 7490 as mod 10 counter and verify its truth table
+<br>8.	Verify the operation of a 3-bit or 4-bit ring and Johnson’s counter using suitable flip-flop IC
+<br>9.	Construct astable multivibrator using timer IC 555 to generate square output waveform for a given frequency.
+<br>10.	Construct monostable multivibrator using timer IC-555 to generate pulses of different ON periods.
+<br>11. Convert digital data to analog signal using suitable DAC IC and observe the output for various inputs and find the resolution and accuracy.
+<br>12.	Convert analog signal to digital using suitable ADC IC and observe the output for various inputs and find the resolution and accuracy.
+
+Unit – II: Student Activities [CIE- 05 Marks]
+
+1.	Collect the information on the memory system of a computer used in the lab. 
+<br>2.	Simulate the working of any simple logic circuit using a suitable modern software tool. 
+
+<br><br><b>Institutional Activity (No marks)</b>
+<br>The following are suggested institutional activities, to be carried out at least one during the semester. The course teacher/coordinator is expected to maintain the relevant record (Containing, Activity name, Resource persons and their details, duration, venue, student feedback, etc) pertaining to Institutional activities
+
+<br>1.	Organize hands-on practice on design and simulation of digital circuits. 
+<br>2.	Motivate student to take case study on different ASICs (Application specific ICs) digital circuits to inculcate self and continuous learning.
+
+<b>Reference Books:</b>
+
+<br><br>1.	Digital Principles and Applications, Donald P Leach, Albert Paul Malvino, Goutam Saha, McGraw-Hill publications.8e
+<br>2.	Digital Systems Principles and Applications, Ronald J. Tocci, Neal S Widmer, Gregory L. Moss. Pearson Publication.
+<br>3.	Digital Electronics –principles and Integrated circuits ,Anil K.Maini,wiley India edition.
+<br>4.	https://www.circuitlogix.com
+<br>5.	http://www.vlab.co.in/
+<br>6.	www.electronicforu.com/
+<br>7.	www.electronicprojects.org/  
+<br>8.	http://www.asic-world.com/
+<br>9.	http://www.freebyte.com 
+<br>10.	http://www.electronics-tutorials
+<br>11.	http://www.circuitstoday.com
+<br>12.	http://www.allaboutcircuits.com
+
+<b>Scheme of Valuation for SEE:</b>
+
+<br><br>1.	Writing two circuit diagrams (one from part A and one from part B) with applicable Procedure / Tabular/ Ideal graph/ formula for calculations :	20
+<br>2.	Construction and conduction of any one circuit : 15
+<br>3.	Result : 05
+<br>4.	Viva-voce :	10
+
+<br><br><b>TOTAL = 50 Marks</b>

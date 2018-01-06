@@ -1,0 +1,39 @@
+UNIT-I: AGRICULTURAL ENGINEERING MATERIALS
+Introduction to Manufacturing and Classification of manufacturing process, various kinds of production, Heat treatment-definition, purposes and classification, Heat treatment processes- annealing, normalising, hardeningand Case Hardening, Advanced materials used in manufacturing A) Ceramics, B) Polymers, C) Plastics andD) Composite materials
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT-II: CASTING PROCESS
+Casting-Definition, steps involved in casting, advantages, applications and classification of casting process, Patterns for casting, Pattern making materials. Pattern Types and allowances,   Moulding- Moulding sands-Moulding process-green sand moulding, Special casting processes - Die casting, Centrifugal casting and Investment casting, Defects in casting and their remedies
+<br><b>[08 Hrs] [20 Marks] </b>
+
+UNIT-III:  FORGING PROCESS
+Forging-definition, advantages and limitations, Presses and Hammers (listing only), Forging operations, Forging process, Defects in forging and their remedies.
+<br><b>[08 Hrs] [20 Marks] </b>
+
+UNIT-IV: WELDING PROCESSES
+Definition, advantages, applications, Classification of welding process, Resistance welding - Spot, Seam and Projection welding, Advanced Arc welding types-Shielded metal arc welding, TIG and MIG welding, submerged arc welding, Plasma arc welding and Laser beam welding, Defects in welding and their remedies
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT-V: LATHE AND DRILLING MACHINE
+<b>Lathe</b>-Introduction to lathe and Classification, specification of lathes, Constructional features of Engine lathe, lathe attachments, accessories and work holding devices (listing only), Lathe operations-facing straightand step turning, knurling, Taper turning and thread cutting, Machining parameters-cutting speed, feed, depth of cut and machining time 
+<br><b>Drilling machine</b>- Introduction and Classification of drilling machines, Radial arm drilling machine-working-drilling operations, Twist drill nomenclature, Machining parameters-cutting speed, feed, depth of cut and machining time 
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT-VI: SHEET METAL PROCESSES
+Introduction to Sheet Metal Work and Applications, metals used for Sheet Metal work, Standard Gauge numbers. Sheet metal operations-shearing-cutting off, Parting, blanking, Punching, notching, slitting, Lancing, Bending, Drawing and squeezing
+<br><b>Soldering and Brazing:</b> Definitions, principle, advantagesand dis advantages, applications and difference between soldering and brazing
+<br><b>[06 Hrs] [15 Marks] </b>
+
+<b>Text books:</b>
+
+<br><br>1. “Elements of Workshop Technology VOL-I and VOL-II “, Manufacturing Process edition-By Hajra Chou dry 
+<br>2. “Production Technology” -By P.C Sharma of S.CHAND Publications
+
+<br><br><b>References:</b>
+
+<br><br>1. “Work shop technology”- By R.S KHURMI and J.K GUPTA of S.CHAND and Co. Ltd 
+<br>2. “Manufacturing Technology”, Vol I and II, by P.N.Rao, TATA McGraw Hill Publishing Co., New Delhi, 1998 
+
+<br><br><b>e-books: </b>
+
+<br><br>http://www.rmcet.com/lib/Resources/E-Books/Mech auto/Introduction%20to%20Basic%20Manufacturing%20Processes%20and%20Workshop%20Technology.pdf

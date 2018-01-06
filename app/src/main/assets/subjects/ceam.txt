@@ -1,0 +1,50 @@
+UNIT - I: ECOLOGY AND ECOSYSTEM
+<b>Introduction to Ecology:</b> Definition & Scope of Ecology, Divisions of ecology, It’s relation to other science and its relevance to human civilization
+<br><b>Concepts of an ecosystem:</b> Classification of an ecosystem- Terrestrial and Aquatic-Lotic and Lentic, Structural components of an ecosystem - Abiotic and Biotic - Micro consumers and Macro consumer - Producers , Consumers and Decomposers, Functions of different components of a pond ecosystem
+<br><b>Concepts of energy flow in an ecosystem</b> : Definition of energy, Laws pertaining to energy flow in an ecosystem - First and second law of thermodynamics, Energy environment, Concepts of productivity - Definition and stages in production process – Gross primary productivity, Net primary productivity, Net community productivity and Secondary productivity, Measurement of primary productivity by i) Harvest method, ii) pH method ,Food chains-Predator, Parasitic and Detritus food chains with a flow diagram, Food web - Definition, Food web in grassland ecosystem
+<br><br><b>[14 Hrs] [30 Marks] </b>
+
+UNIT - II: BIOGEOCHEMICAL CYCLES
+<b>Concepts of Biogeochemical cycles:</b> Definition of biogeochemical cycles and their types - Gaseous & Sedimentary cycles, Gaseous cycles -Carbon cycles, Nitrogen cycle, and Sedimentary nutrient cycles - Sulphur cycle, Phosphorus cycle.
+<br><br><b>[06 Hrs] [20 Marks] </b>
+
+UNIT - III: AQUATIC AND TERRESTRIAL ECOSYSTEM
+<b>Aquatic ecosystem:</b> Fresh water ecosystem - lotic & lentic ecosystem, Limiting factors in fresh water ecosystem - Temperature, Transparency, current, concentration of respiratory gases. Ecological classification of fresh water organisms. Marine environment, marine biota, Quantitative study of plankton, communities of marine environment, mangroves and coral reefs
+<br><b>Terrestrial ecosystem:</b> Terrestrial environment, Terrestrial biota & biogeographic regions, General structure of Terrestrial communities, soil and vegetative subsystem, Distribution of major Terrestrial communities - Biomes distribution , desert biome, Tropical biomes - tropical rain forest biome, Grassland biome, tropical savanna
+<br><br><b>[11 Hrs] [30 Marks] </b>
+
+UNIT - IV: MICROBIOLOGY AND BACTERIA
+<b>Introduction to Microbiology:</b> Definition of microbiology - Historical importance.
+<br><b>Morphology and physiology of bacteria:</b> Definition of microorganisms, classification, Size of bacteria and its classification based on shape, Microscopy - Types of microscope - optical or light microscope, phase contrast  microscope, dark field (dark ground) microscope, electron microscope.. 
+<br><br><b>[05 Hrs] [15 Marks] </b>
+
+UNIT - V: CULTURE MEDIA
+<b>Culture media & their types:</b> Introduction to culturing of bacteria, Types of culture media- i) Solid media, semisolid  ii) simple media, complex media, synthetic media, enriched media, enrichment media, selective media, indicator media, differential media, sugar media, transport media  iii) Aerobic media, anaerobic media.
+<br><b>Bacteriology of water :</b> Bacteriology of water -- a) Bacterial examination of water- plate count test, detection of coli form bacteria & E-coli test,
+<br><br><b>[08 Hrs] [25 Marks] </b>
+
+UNIT - VI: INFECTION AND IMMUNITY
+Infection - sources of infection - from human beings, animals & insects, Methods of transmission of infection-- contact, inhalation, ingestion, inoculation, congenital, Immunity--Inflammation, Acquired immunity, Active immunity, herd immunity.
+<br><b>Sterilization and Disinfection:</b> Definition of sterilization and disinfection, Physical and chemical agents used in sterilization.
+<br><br><b>[08 Hrs] [25 Marks] </b>
+
+<b>Reference Books:</b>
+<br><br>1. Fundamentals of Ecology, Odum EP		
+<br>2. Concepts of Ecology by  Kormandy		
+<br>3. Concepts of Ecology by Dash		
+<br>4. Principles of Microbiology by  R. Ananthanarayan & C.K.J. Panikar 	
+<br>5. Ecology and environment by P D Sharma.
+<br>6. Environmental Biology by P S Varma & V K Agarwal.
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>1.	Visit different websites to collect data about concept of Ecology & Microbiology.
+<br>2.	Prepare a mini project on Aquatic Life cycle.
+<br>3.	Visit a local Public Health Centre and collect the data about Sterilization & Disinfection. 
+<br>4.	Visit to treatment plant or Health centre and collect the data about different culture media used.
+<br>5.	Illustrate with flow chart how does matter recycle in the ecosystem.
+<br>6.	Economic Importance of Bacteria: In Agriculture, In Dairy, In Industries, In  Medicines
+
+<br><br><b>Note:</b> The activities or similar activities for assessing CIE (IA) for 5 marks (Any one)
+<br>1.	Each student should do any one of the following type of activity or any other similar activity related to the course and before conduction, get it approved from concerned Teacher and HOD.
+<br>2.	Each student should conduct different activity and no repeating should occur

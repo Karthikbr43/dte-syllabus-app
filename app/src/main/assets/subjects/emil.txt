@@ -1,0 +1,41 @@
+<b>Experiments:</b>
+
+<br><br>1.	Measurement of R-L-C using bridge circuit .
+<br>2.	Measurement of R-L-C using Wheatstone bridge.
+<br>3.	Measurement of R-L-C using desacth bridge.
+<br>4.	Measurement of R-L-C using Schering  bridge.
+<br>5.	Measurement of AC current by potentiometer method.
+<br>6.	Measurement of AC voltage by voltage divider method.
+<br>7.	Measurement of frequency by using RC phase oscillator.
+<br>8.	Measurement of DC voltage using Full Wave Rectifier.
+<br>9.	Measurement of DC current using bridge Richter module. 
+<br>10.	Measurement of phase angle using RL/RC circuit.
+<br>11.	Voltage regulator using zener diode.
+<br>12.	Voltage regulator using IC 78XX,
+<br>13.	Voltage regulator using IC 79XX,
+
+<b>Reference Books:</b>
+
+<br><br>1.	Electronic Measurements and Instrumentation -2nd Revised Edition , R. K. Rajput, ISBN: 81-219-2917-2
+<br>2.	Electronic Measurements and Instrumentation-3rd Edition, Sanjay Talbar and Akhilesh Upadhayaya, ISBN :81-874-3335-3
+<br>3.	Electronic Instrumentation -3rdEdition, Kalsi H. S., ISBN: 00-707-0206-3
+<br>4.	Modern Electronic Instrumentation and Measurement Techniques-2nd Edition, Albert Helfrick and William Cooper, ISBN:81-203-0752-6
+
+<br><br><b>SUGGESTED LIST OF STUDENT ACTIVITYS:</b>
+
+<br><br>1. 	Go to  nearest small scale industry who manufactures measuring instruments find how they do standardization ,calibration and submit a report of 2 to 3 pages in handwritten form
+<br>2. 	Design any simple measuring instrument of your choice  
+<br>3. 	Design any circuit which include SCR,DIAC,TRIAC,IGBT and so on which is useful for lab or for the domestic.
+
+<br><br><b>Note:</b> The activities or similar activities for assessing CIE (IA) for 5 marks (Any one)
+<br>1.	Each student should do any one of the following type activity or any other similar activity related to the course and before conduction, get it approved from concerned Teacher and HOD.
+<br>2.	Each student should conduct different activity and no repeating should occur
+
+<b>Scheme of Valuation for SEE:</b>
+
+<br><br>1.	Writing two circuit diagram from each section along with Necessary graphs and tabular column and calculation : 15
+<br>2.	Construction and conduction : 20
+<br>3.	Result : 05
+<br>4.	Viva-Voce : 10
+
+<br><br><b>TOTAL = 50 Marks</b>

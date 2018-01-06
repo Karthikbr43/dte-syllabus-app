@@ -1,0 +1,47 @@
+UNIT I: Data in connected world
+The Liberated data, Caged data, Big data is Big news, FERED, Search based Internet data, Survey data.Introduction to Big Data .Characteristics of Data.Evolution of big Data. Definition of Big data. Challenges with Big Data. What and why  is Big Data. Traditional Business Intelligence versus Big Data. A Typical Data WarehouseEnvironment .What is changing in Realms of big Data?
+<br><b>[10 Hrs] [26 Marks] </b>
+
+UNIT II: Big Data Analytics
+Big Data Analytics. Classification of Analytics. Greatest Challenges that prevent businesses from capitalizing of Big Data. Importance of Big Data .Data science. Data scientist. Terminologies used in big Data Environments.
+<br><b>[08 Hrs] [22 Marks] </b>
+
+UNIT III: Introduction to Hadoop
+Introduction to Hadoop. Distributed Computing Challenges. Hadoop -History, Overview, Use case Hadoop Distributors. Processing data with Hadoop.
+<br><b>[06 Hrs] [16 Marks] </b>
+
+UNIT IV: Introduction to MongoDB
+Introduction to MongoDB terms used in RDBMS MongoDB. Data Types .Query language in Mongo.
+<br><b>[12 Hrs] [33 Marks] </b>
+
+UNIT V: Introduction to R Programming
+Introduction to R Programming, R environment, Single –mode data structures,multi-mode data structures.
+<br><b>[08 Hrs] [24 Marks] </b>
+
+UNIT VI: Working with R Programming
+Writing functions , loops and summaries.
+<br><b>[08 Hrs] [24 Marks] </b>
+
+<b>Text books:</b>
+<br><br>1.	Big Data and Analysis – Seema Acharya and Subhashni Chellappan, Wiley. (Chapters 2,3,4,6)
+<br>2.	Practical Data Science with R –Hanning ,Dream tech Press.
+<br>3.	Sams Teach Yourself R I 24 Hours, Andy Nicholls, RichardPugh, AimeeGott, Pearson Publication.
+<br>4.	Getting Started with Data Science –Murtaza Haider,IBM Press.
+
+<br><br><b>References:</b>
+
+<br><br>1. Analytics in Big Data World-Baesens, Wiley.
+<br>2. Big Data MBA-Schmaro.
+<br>3. Any other book(s) covering the contents of the paper in more depth. 
+<br>4. Latest and additional good books may be suggested and added from time to time.
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>a)	Identify various fields where Big Data is used.
+<br>b)	Recognize and Analyse the various softwares used for Big data analysis.
+<br>c)	Conduct a survey on various applications ofBig data and submit a report of 3 to 4 pages.
+<br>d)	Conduct a case study on any one Online Big data  Processing System and submit a report of 3 to 4 pages. 
+
+<br><br><b>Note:</b> The activities or similar activities for assessing CIE (IA) for 5 marks (Any one). Student activity like mini-project, surveys, quizzes, etc. should be done in group of 1-2 students.  
+<br>1. Each group should do any one of the following type activity or any other similar activity related to the course and before conduction, get it approved from concerned course co-ordinator and programme co-ordinator
+<br>2. Each group should conduct different activity and no repeating should occur.

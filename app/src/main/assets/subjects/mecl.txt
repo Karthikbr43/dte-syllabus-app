@@ -1,0 +1,55 @@
+<b>Experiments:</b>
+
+<br><br><b>PART - A: PERFORMING EXPERIMENTS</b>
+<br><br>1. Design and Simulate the following digital circuits using MultiSim/any digital circuit simulator. Basic Logic Gates
+<br>a) Basic Logic Gates
+<br>b) Demorgan's Theorem
+<br>c) Combination Logic
+<br>d) Encoders and Decoders
+<br>e) Flip-Flops
+
+<br><br><b>PART - B: PERFORMING EXPERIMENTS(PLC)</b>
+<br><br>1. Draw the ladder rungs to represent 
+<br>a) Two switches Normally Open and both have to be closed for the motor to operate. 
+<br>b) Either of the two Normally Open switches to be closed for the coil to be energised
+<br><br>2.	Devise a timing circuit that will switch on for 20s and then switch it off.
+<br><br>3.	Device a timing circuit that will switch on 10s and off 20s and so on.
+<br><br>4.	Device a circuit that can be used to start a motor and then to start a pump after delay of 50s. Then the motor is switched off 10s before the pump is switched off when the pump remains on for 50s.
+<br><br>5.	Devise a circuit that can be used with the domestic washing machine to switch on a pump to pump water for 100s into the machine. Then switch on a heater for 50s to heat the water. The heater is switched off and another pump is switched on to empty the water for 100s.
+<br><br>6.	Design and simulate of fluid power circuits to control
+<br>a) velocity
+<br>b) direction of a single and double acting actuators
+<br><br>7. Stepper motor interfacing with 8051 Micro controller 
+<br>a) Full step resolution
+<br>b) half step resolution
+
+<b>Reference Books:</b>
+
+<br><br>1.	Mechatronics	W.Bolton	Pearson education
+<br>2.	Mechatronics-Principles, Concepts and Applications	Nitaigour Premch and Mahalik	Tata McGraw-Hill Pub. Co. Ltd., New Delhi, 2006
+<br>3.	Mechatronics	HMT 	Tata McGraw Hill Publishers, New Delhi 
+<br>4.	Programmable logic controllers	W.Bolton	Pearson education
+<br>5.	Digital electronics	Flyod
+<br>6.	Exploring PLC with applications	Pradeep Kumar Srivatsava	BPB publications
+
+<br><br><b>SUGGESTED LIST OF STUDENT ACTIVITYS:</b>
+
+<br><br>1. 	Visit to any of the nearest Electo-mechnaical based industries and the get report related to Mechanical operation performing using PLC and microcontroller.
+<br>2. 	Visit any of the nearest local service centre of automated Domestic washing machine get the information in the form report.(Make the Video when it is dismantled for presentation)
+<br>3. 	Visit the electrical and electronics laboratory and submit the report on construction and working of stepper motor when it is interfaced with any of the micro controller. 
+
+<br><br><b>Note:</b>
+<br>1.	Each student should submit any one of the following type activity or any other similar activity related to the course and before take up get it approved from concerned Teacher and HOD.
+<br>2.	Each student should conduct different activity and no repeation should occur
+
+<b>Scheme of Valuation for SEE:</b>
+
+<br><br>1. Part A
+<br>a) Writing : 5
+<br>b) Execution : 10	
+<br><br>2. Part B
+<br>a) Writing : 10
+<br>b) Execution : 15	
+<br><br>3. Viva : 10
+
+<br><br><b>TOTAL = 50 Marks</b>

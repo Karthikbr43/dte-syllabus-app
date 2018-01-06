@@ -1,0 +1,31 @@
+<b>Experiments:</b>
+
+<br><br><b>PART - A: MECHANICAL  TESTING LAB</b>
+<br><br>1.	Determine flash and fire point of any two lubricants of different grade	03hr (CO1)
+<br>2.	Determine the  Impact energy of Mild Steel and  copper using CHARPY Impact test	
+<br>3.	Calculate the  Impact energy of Mild Steel and copper using IZOD Impact test Apparatus	
+<br>4.	Determine the coefficient of viscosity and Red wood number  of the  two different lubricants	
+<br>5.	Determine the Brinell Hardness Number of  the given specimens	
+<br>6.	Calculate Hardness of the given specimens using Rockwell Hardness Tester	
+<br>7.	Calculate Hardness of given specimen by  using Vickers Hardness Tester	
+<br>8.	Determination of yield stress, ultimate stress, percentage reduction in area, percentage elongation, Young’s modulus by conducting tension test on given specimen by Universal testing machine. Draw stress strain diagram and evaluate	
+<br>9.	Determination of yield stress, ultimate stress, percentage increase in area, percentage decease in length, Young’s modulus by conducting compressive test on given specimen by Universal testing machine. Draw stress strain diagram and evaluate	
+<br>10.	Conducting bending test on wood specimen by using  UTM and evaluate the results	
+<br><br><b>PART - B: PNUEMATICS LAB</b>
+<br><br>1.	Study  the various elements used in pneumatic circuits	
+<br>2.	To build a pneumatic circuit to obtain a forward and return motion of a single acting cylinder	
+<br>3.	To build a pneumatic circuit to obtain a forward and return motion of a double acting cylinder	
+<br>4.	To build a pneumatic circuit to obtain a forward and return motion of a cylinder by using speed control valve	
+<br>5.	To build a pneumatic circuit to obtain Machine movement as in shaper	
+<br>6.	Build a pneumatic circuit for a 'SORTING' device in which articles are to be sorted on while passing through roller conveyor using single acting cylinder.	
+
+<b>Reference Books:</b>
+<br><br>Elements of Workshop Technology (Vols. 1 and II) by Hajra Chaudhary
+
+<b>Scheme of Valuation for SEE:</b>
+
+<br><br>1.	Writing procedure: One experiment on Mechanical testing and One experiment on Pneumatics : 05+05=10
+<br>2.	Conducting of Experiment : One experiment on Mechanical testing(Group of five)+ One experiment on Pneumatics (Individual) : 10+10=20
+<br>3.	Calculation and results,(Both experiments) : 15+5=20
+
+<br><br><b>TOTAL = 50 Marks</b>

@@ -1,0 +1,52 @@
+Unit - I
+
+<br>Using suitable Photo Editing Software, perform the following exercises:
+
+<br><br>1.Design a Visiting Card containing at least one graphic and text information.
+
+<br><br>2.You are given a picture of a garden as background.  Extract the image of a butterfly from another picture and organize it on the background. 
+
+<br><br>3.Given a picture, make three copies of this picture. On one of these pictures, adjust the brightness and contrast, so that it gives an elegant look. On the second picture, change it to grayscale and the third is the original one.
+
+<br><br>4.Convert the given image to a pencil sketch. 
+
+<br><br>5.Mask the background image given through your name.
+
+<br><br>6.Import two pictures, one that of sea and another of clouds. Morph, Merge and Overlap the images.
+
+Unit - II
+
+<br>Using suitable animation software, solve the following projects:
+
+<br><br>7.<b>Shape Distortion:</b> Create a square and gradually convert it into a circle.
+
+<br><br>8.<b>Spotlight:</b> Create a text on one layer; format the text with suitable size, color and style. With the help of another layer, position a spotlight on the text and move the spotlight from left to right.
+
+<br><br>9.<b>Virtual Drumbeat:</b> Draw a circle to represent a drum and edit as required on one layer. Insert another layer, draw suitable drum sticks and position them appropriately. Give visual effects. Also provide audio effect by selecting the sound item from Flash library Sounds.fla, so as to integrate audio and video clips.
+
+<br><br>10.<b>Simulation of a Raindrop:</b> In the first layer, draw a raindrop that falls on the ground. Show the splash effect, when it touches the ground on another layer.
+
+<br><br>11.<b>Sunset:</b> Create a suitable background with clouds and mountains on one layer. Draw the Sun on another layer. On the third layer draw birds. Provide animation to show the birds flying across the Sun that keeps fading.
+
+<br><br>12.<b>Stickman Walk:</b> Draw a walking track on one layer. On another layer draw a stickman, with animation show the man walking over the track from left to right.
+
+<b>Reference Books:</b>
+
+<br><br>1.Practical Photoshop® CS6, Level 1 by Barbara Zukin Heiman, Donald Laird, Corrine Haverinen, Windsor Green, and Marilyn P. Kelly Practical Photoshop.
+<br>2.Project Flash MX by Nat Gertler, Thomson Delmar Learning Publication. 
+<br>3.Comdex Multimedia and Web Design Course Kit, DreamTech, Vikas Gupta, ISBN 13: 788177229196
+<br>4.http://www.coursestuff.co.uk/DESI1182/docs/Flash%20tutorials.pdf
+<br>5.http://w3.id.tue.nl/fileadmin/id/objects/E-telier/Phidgets/Software/Flash/fl8_tutorials.pdf
+<br>6.http://design.tutsplus.com/articles/50-great-photoshop-tutorials-for-clever-beginners--psd-785
+
+<br><br><b>Mini-project [CIE- 05 Marks]</b>
+<br><br>Prepare a mini project of a minimum of 5 pages of report, using the above concepts of  unit-I and/or unit-II.
+
+<b>Scheme of Valuation for SEE:</b>
+
+<br><br>1.Writing steps one each from UNIT I and UNIT -II : 05+05=10
+<br>2.Testing the psychomotor skills (Quickness in choosing appropriate tools and performing) of UNIT I and UNIT II to achieve the task : 10+10=20
+<br>3.Application of Final effects :	05+05=10
+<br>4.Viva voce	: 10
+
+<br><br><b>TOTAL = 50 Marks</b>

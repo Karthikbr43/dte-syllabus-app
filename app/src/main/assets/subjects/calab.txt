@@ -1,0 +1,25 @@
+<b>Experiments:</b>
+
+<br><br>1.	Determination of % loss on ignition of calcite, dolomite, sand and clay.
+<br>2.	Determination of % CaO in calcite by analysis.
+<br>3.	Determination of % MgO in dolomite by analysis.
+<br>4.	Determination of % SiO<sub>2</sub> in quartz & sand by analysis.
+<br>5.	Determination of % Al<sub>2</sub>O<sub>3</sub> in OPC by analysis.
+<br>6.	Determination of % Fe<sub>2</sub>O<sub>3</sub> in OPC by analysis.
+<br>7.	Determination of % SO<sub>3</sub>   in OPC by analysis.
+<br>8.	Determination of Insoluble residue in cement.
+
+
+<b>Reference Books:</b>
+
+<br><br>1.	Glass Technology by R. Charan
+<br>2.	Chemical analysis of ceramic raw material
+
+<b>Scheme of Valuation for SEE:</b>
+
+<br><br>1.	Writing Procedure : 05
+<br>2.	Conducting of experiment : 30
+<br>3.	Results	: 05
+<br>4.	Viva-voce : 10
+
+<br><br><b>TOTAL = 50 Marks</b>

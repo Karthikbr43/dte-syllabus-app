@@ -1,0 +1,107 @@
+UNIT – I: INTRODUCTION TO CAD/CAM
+1.0 Introduction 
+<br>1.1 Defined CAD/CAM 
+<br>1.2 The Product Cycle and CAD/CAM overlaid 
+<br>1.3 Automation and Types and Levels 
+<br>1.4 Reasons for Automation 
+<br>1.5 Introduction to CIM 
+<br>1.6 Objective of CIM 
+<br>1.7 Types of CIM 
+<br>1.8 Nature and elements of CIM system
+<br><br><b>[07 Hrs] [15 Marks] </b>
+
+UNIT - II: CONVENTIONAL NUMERICAL CONTROL
+2.0 Introduction 
+<br>2.1 Basic Components of an NC System 
+<br>2.2 NC Coordinate Systems 
+<br>2.3 NC Motion Control Systems 
+<br>2.4 Applications of Numerical Control 
+<br>2.5 Advantages and disadvantages of Numerical Control 
+<br>2.6 Comparison between traditional and NC Machines 
+<br><br><b>[07 Hrs] [25 Marks] </b>
+
+UNIT - III: COMPUTER CONTROL SYSTEM
+3.0 Introduction 
+<br>3.1 Problems with Conventional NC 
+<br>3.2 Computer Numerical Control 
+<br>3.3 Functions of C.N.C 
+<br>3.4 Advantages of C.N.C 
+<br>3.5 Applications of CNC 
+<br>3.6 Direct Numerical Control 
+<br>3.7 Functions of DNC 
+<br>3.8 Advantages of D.N.C 
+<br>3.9 Introduction to FMS 
+<br>3.10 Classifications of FMS 
+<br>3.11 Benefits of FMS 
+<br><br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT - IV: CONSTRUCTION OF CNC MACHINES
+4.1 Construction of CNC machines-Machine structure- Static ,Dynamic and Thermal load. 
+<br>4.2 Guide ways-Friction guide ways-V guide ways-Flat &dovetail guide ways-Cylindrical guide ways-Anti frictional linear motion guide ways. 
+<br>4.3 Feed drives-Servomotors-Mechanical transmission system. 
+<br>4.4 Spindle and spindle bearings-Hydrodynamic bearings-Hydrostatic bearings-Antifriction bearings, 
+<br>4.5 Measuring systems- direct & indirect measuring systems. 
+<br>4.6 Automatic tool changer (ATC)-Automatic pallet changer (APC). 
+<br><br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT - V: CNC PART PROGRAMMING
+5.1 CNC Programming 
+<br>5.2 N.C. Words 
+<br>5.3 Structure of a part programming 
+<br>5.4 Dimensioning types 
+<br>5.5 Preparatory Functions and Miscellaneous Functions 
+<br>5.6 Linear interpolations 
+<br>5.7 Circular interpolation 
+<br>5.8 Mirror and Canned cycles 
+<br>5.9 Simple programme on Turning and Milling operations
+<br><br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT - VI: GROUP TECHNOLOGY AND ROBOTICS
+6.1 Group technology-Definition 
+<br>6.2 Advantages and limitations of GT 
+<br>6.3 Classification and coding-Opitz coding system 
+<br>6.4 Applications & Benefits of GT 
+<br>6.5 Concept of Cellular manufacturing, JIT, KAIZEN, 5S, KANBAN. 
+<br>6.6 Introduction-definition of robot 
+<br>6.7 Physical configuration-Cartesian, Polar, Cylindrical and Jointed arm robot 
+<br>6.8 Six degrees of freedom 
+<br>6.9 Application of Robots. 
+<br>6.10 Robot Programming Languages 
+<br><br><b>[08 Hrs] [15 Marks] </b>
+
+<b>Reference Books:</b>
+
+<br><br>1. Automation, Production Systems, and Computer-Aided Manufacturing/CAD/CAM by Mikell P. Groover, Prentice-Hall International publication 
+<br>[Introduction to CIM & Automation, NC and CNC machines]
+<br><br>2. Mechatronics, HMT limited, McGraw Hill Education
+<br>[Construction of CNC machines And CNC part programming]
+<br><br>3. CAD/CAM Principles and Applications, P N Rao, McGraw Hill Education
+<br>[Construction of CNC machines And CNC part programming]
+<br><br>4. CAD/CAM/CIM, P. Radhakrishnan, S. Subramanyan, V. Raju, New Age International Publishers
+<br>[Group technology and CAPP]
+<br><br>5. CNC Machines, Pabla B.S., Adithan M., New Age International, New Delhi,2014(reprint)
+<br>[Construction of CNC machines]
+<br><br>6. Computer Numerical Control-Turning and Machining centers, Quesada Robert, Prentice Hall 2014
+<br>[CNC part programming]
+<br><br>7. CAD/CAM., SareenKuldeep, S.Chand 2012.
+<br>[Group technology]
+
+<br><br><b>e - Links:</b>
+<br><br>1. http://www.nptel.ac.in
+<br>2. http://www.youtube.com/watch?v=M3eX2PKM1RI
+<br>3. http://www.youtube.com/watch?v=EHQ4QIDqENI&list=PLBkqkLQO2nAt5MNLo
+<br>4. http://www.youtube.com/watch?v=hJFLcvtiNQI
+<br>5. http://www.youtube.com/watch?v=BIM1AyxfYkw.
+<br>6. http://www.mtabindia.com
+<br>7. http://www.swansoftcncsimulator.com
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>1. Visit nearby industry having CNC machines. List and state important features of them. submit handwritten report of 500 words
+<br>2. Prepare specifications of various types of CNC machines with images and names of manufacturers.
+<br>3. Download images and videos of CNC machines and its parts. Prepare one VCD/DVD in a batch and submit them
+<br>4. Download free simulation software’s available on website and practice for part programming.
+
+<br><br><b>Note:</b> The activities or similar activities for assessing CIE (IA) for 5 marks (Any one)
+<br>1. Each student should do any one of the following type activity or any other similar activity related to the course and before conduction, get it approved from concerned Teacher and HOD.
+<br>2. Each student should conduct different activity and no repeating should occur

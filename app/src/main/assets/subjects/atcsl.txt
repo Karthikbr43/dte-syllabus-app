@@ -1,0 +1,40 @@
+<b>Experiments:</b>
+
+<br><br>1.	Overhauling of a Single plate clutch. (coil spring type)
+<br><br>2.	Overhauling of a Single plate clutch. (Diaphragm spring type)
+<br><br>3.	Overhauling of a multi-plate clutch.
+<br><br>4.	Overhauling of a constant-mesh Gear-box and calculation of gear-ratio’s w.r.t number of teeth.
+<br><br>5.	Overhauling of a synchro-mesh Gear-box and calculation of gear-ratio’s w.r.t number of teeth.
+<br><br>6.	Overhauling of a Transfer case.
+<br><br>7.	Overhauling of a  Propeller shaft and universal joint
+<br><br>8.	Overhauling of a  Final drive and Differential with backlash adjustment, and calculation of Final drive gear ratio
+<br><br>9.	Overhauling of a front axle and hub greasing
+<br><br>10.	Overhauling of a Steering gear box with Backlash, End-play adjustment and calculation of steering gear ratio. ( minimum any three different types of steering gear box)
+<br><br>11.	Overhauling of an Independent suspension system
+<br><br>12.	Overhauling of a Leaf spring and re-chambering.
+<br><br>13.	Overhauling of a mechanical brake with free-play and brake shoe adjustments.
+<br><br>14.	Overhauling of a drum brake
+	<br>Overhauling of a disc brake
+<br><br>15.	Overhauling of a Master cylinder and wheel cylinder.
+<br><br>16.	Bleeding of hydraulic brake system, free-play and brake shoe adjustments.
+<br><br>17.	Measurement of Wheel base, wheel track, Toe-in, Toe-out, over length, over all height, front over-hang, rear over-hang, ground clearance.
+<br><br>18.	Checking the alignment of chassis frame.
+
+<b>Reference Books:</b>
+
+<br><br>01.	Mechanic Motor Vehicle Trade theory and Practical,	National Instructional Media Institute, Chennai
+<br>02.	Automobile Engineering Practices, N.Malhotra, Asian publishers
+<br>03.	Vehicle Maintenance and Garage Practice,	Jigar A Doshi,	PHI Learning,Delhi
+<br>04.	Automotive Mechanics, W. H. Crouse and Anglin,	Tata MCgraw-Hill
+<br>05.	Diesel Engineering,	Sean Bennett, 	CENGAGE Learning
+<br>06.	Automotive Technology,	Jack Erjavec, CENGAGE Learning
+<br>07.	Automobile Engineering,	Harban Singh Rayath, S Chand
+<br>08.	Charts and cut section models
+
+<b>Scheme of Valuation for SEE:</b>
+
+<br><br>1.	Writing procedure for One exercise from list of exercises(1-8)  and One exercise from list of exercises(09-18) : 05+05=10
+<br>2.	Conducting and Performance on One exercise from list of exercises(1-8) and One exercise from list of exercises(09-18) : 15+15=30
+<br>3.	Viva-voice	: 10
+
+<br><br><b>TOTAL = 50 Marks</b>

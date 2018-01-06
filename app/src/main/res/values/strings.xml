@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Diploma syllabus</string>
+    <string name="line1">Government of Karnataka</string>
+    <string name="line2">Department of Technical Education</string>
+    <string name="line3">Board of Technical Examinations, Bengaluru</string>
+    <string name="no_preview">No image to preview</string>
+    <string name="launcher_srting_1">Diploma Syllabus</string>
+    <string name="launcher_srting_2">OBE-New Curriculum C-15</string>
+    <string-array name="Kannada_Curriculam">
+        <item>Kannada Kali - 1</item>
+        <item>Tantrika Kannada - 1</item>
+        <item>Kannada Kali - 2</item>
+        <item>Tantrika Kannada - 2</item>
+    </string-array>
+    <string name="screen1_des">Refer the syllabus of the more then 15 branches</string>
+    <string name="screen2_des">Access instantly, the syllabus that you are studying currently by selecting the star in action bar</string>
+    <string name="get_start_btn">Get Start</string>
+    <string name="version">v1.1</string>
+</resources>

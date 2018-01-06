@@ -1,0 +1,61 @@
+UNIT I: Fundamentals of Welding
+Introduction to welding, classification of welding processes, Arc Welding, Gas welding, types of flames, Soldering, Brazing, Comparison of welding with soldering and brazing, defects in welding, Applications of welding.
+<br><b>[08 Hrs] [15 Marks] </b>
+
+UNIT II: Introduction to Materials
+Mechanical, Thermal, Electrical, Magnetic and Chemical properties of materials, Ferrous materials, types of ferrous materials, composition , properties and uses of  Nickel steel , 18/8 steel, HSS and Manganese steel, working of cupola furnace, Non ferrous materials, composition , properties and uses of  copper alloys, aluminum alloys and magnesium alloys, Definition of composite materials, Classification of composite materials, Advantages and Application of Composite materials.
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT III: Internal Combustion Engine
+Introduction, Classification of IC Engines, working of Two stroke petrol and Diesel engine, working of Four stroke petrol and Diesel engine, differentiate between petrol and diesel engine, Definition of BHP, IHP , Mechanical Efficiency, Mass of fuel consumed, Brake thermal Efficiency and Mechanical Efficiency. 
+<br><b>[08 Hrs] [25 Marks] </b>
+
+UNIT IV: Manufacturing Processes
+Introduction to Casting process, steps involved in casting, list types of Pattern and allowance, defects in casting and remedies, Forging Process, types of hammers, forging operation, Defects in forging and remedies, Rolling process, Hot working and cold working, defects in rolling and remedies and its Advantages and limitations.
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT V: Introduction to Fluid Mechanics
+Basics of fluid mechanics, properties of fluids, atmospheric pressure, gauge pressure, absolute pressure, Measurement of fluid pressure, Bourdon’s tube pressure gauge, Define the forms of energy – Potential Energy, Kinetic Energy, Pressure Energy, State and write Bernoulli’s equation, Venturimeter, Definition of hydraulic turbines and its classification, Definition of hydraulic Pumps and its classification. 
+<br><b>[09 Hrs] [30 Marks] </b>
+
+UNIT VI: Cutting fluids and Lubrication
+Introduction to cutting fluids, Purpose of cutting fluids, Properties of Cutting fluids, Necessity of lubrication, properties of different types lubricants, and methods of lubrication – splash lubricators, wick lubricators, screw cap lubricators and needle lubricators.
+<br><b>[07 Hrs] [15 Marks] </b>
+
+<b>Reference Books:</b>
+
+<br><br>1.	Welding principles and Practices ByWdward R. Bohnart, Mc. GrawHill Education, 2014.
+<br>2.	Elements of Mechaical Engineering - By K.R. Gopala Krishna.
+<br>3.	Internal Combustion Engines by V. Ganesan,Mc. Graw Hill Education
+<br>4.	Basic Mechanical Engineering – By N.R. Banapurmathand V.S. Yaliwal, Vikas, 2014.
+<br>5.	Elements of Mechaical Engineering - By Dr. Sadhu Singh, 2013.
+<br>6.	Basic Mechanical Engineering - By Dr. Sadhu Singh, 2102.
+<br>7.	Fluid Mechanics - ByEr. R.K.Rajput, 2014.
+<br>8.	Material Science - By R.S. Khurmiand R.S Sedha
+<br>9.	Fluid Mechanics and Hydraulic Machines by k. Subramanya, Mc. Graw Hill Education.
+<br>10.	Workshop Technology - ByHazarachoudary VOL - I and VOL – II.
+<br>11.	Manufacturing Process- I and II - By Dr. Radhakrishna K
+<br>12.	Manufacturing Technoliny – I,I - By R.K. HegdeandNiranjanMurty
+<br>13.	Manufacturing Technology I andII ,  Dr P C  Sharma , S Chand and Co.
+
+<br><br><b>E –Learning</b>
+
+<br><br>1.	http://uotechnology.edu.iq/dep-production/lectures/WL.pdf.  
+<br>2.	http://engineershandbook.com/Materials/mechanical.htm
+<br>3.	https://www.faa.gov/regulations_policies/handbooks_manuals/aircraft/amt_airframe_handbook/media/ama_Ch07.pdf
+<br>4.	http://www.iitg.ernet.in/scifac/qip/public_html/cd_cell/chapters/uk_saha_internal_combustion_engine/qip-ice-02-basic%20cycles.pdf
+<br>5.	http://web.iitd.ac.in/~pmpandey/MEL120_html/Metal%20Forming%20Processes.pdf
+<br>6.	http://www.efm.leeds.ac.uk/CIVE/CIVE1400/PDF/Notes/section_all2.pdf
+<br>7.	https://www.youtube.com/watch?v=TeBX6cKKHWY
+<br>8.	https://www.youtube.com/watch?v=O9tfIfwlmz8
+<br>9.	https://www.youtube.com/watch?v=XBg5iXGjhVY
+<br>10.	https://www.youtube.com/watch?v=ASzMRoQKXaA
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br><b>Note:</b> The following activities or similar activities for assessing CIE (IA) for 5 marks (Any one)
+
+<br><br>1. Make Visit to nearest work shop ,observe the welding process and make list of real time components which are welded.
+<br>2. Observe the I.C engine working in your polytechnic and study its specifications. List the parts of I.C. Engine.
+<br>3. Observe the operation of turbine and pumps in your polytechnic.
+<br>4. Make Visit to nearest Material testing lab and visualize the various properties of materials.

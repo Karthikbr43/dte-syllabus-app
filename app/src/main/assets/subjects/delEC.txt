@@ -1,0 +1,64 @@
+Unit – I: Tutorial and Practice
+
+1. a)Discuss the concept of digital electronics.
+<br>   b)Binary systems and logic levels, TTL digital ICs, digital IC signal levels and IC numbering. 
+<br>   c)Identify the different parts of the digital trainer kit, precautions to be followed in handling ICs, learn to identify the pins, fix the ICs and measure the voltage levels on the kit.
+<br><br>2.	Explain need of logic gates, logic function, truth table, pin diagram, identify the logic gates using standard and IEEE/ANSI symbols for the NOT, 2-input OR, AND gates and observe the output.
+<br><br>3.	Explain logic function, truth table, pin diagram, identify the logic gates using standard and IEEE/ANSI symbols for the NOR, NAND and EX-OR gates and observe the output.
+<br><br>4.	State De Morgan's theorems and construct the simple circuits to observe their validity.
+<br><br>5.	State and describe the Boolean identities and laws. Show the verification of commutative, associative and distributive Boolean laws using suitable logic gates.
+<br><br>6.	Discuss the universality of NAND gates. Construct NOT, OR, AND, NOR, EX-OR and EX-NOR gates using NAND gates and show the output.
+<br><br>7.	Discuss the universality of NOR gates. Construct NOT, OR, AND, NOR, EX-OR and EX-NOR gates using NOR gates and show the output.
+<br><br>8.	Solve the given Boolean equations using Boolean laws and deduce the truth table and circuit for the reduced equation and show the output. 
+<br><b><i>[Refer Fig. 1.1] </i></b>
+<br><br>9.	Explain K-map for three and four variables, identification of pairs, quads and octets and solving sum-of-products equations. Reduce <br><b><i>[Refer Fig. 1.2] </i></b><br> and construct the circuit and show the output
+<br><br>10.	Discuss binary number system, convert decimal to binary number system and vice versa, give examples to add binary numbers. Construct a truth table to add two bits showing the sum and carry results and implement the resulting half-adder using suitable logic gates.
+<br><br>11.	Construct a truth table to add two bits along with a possible carry out showing the sum and carry results. Write sum-of-products equation for the output, reduce using K-map and implement the resulting full-adder using suitable logic gates.
+<br><br>12.	Discuss binary subtraction. Write the truth-table for full-subtractor. Write sum-of- products equation for the output, reduce using K-map and implement using suitable logic gates.
+<br><br>13.	Understand ones and two’s complement arithmetic of binary numbers and their role in binary arithmetics with examples. Construct the circuit to implement the subtraction and addition of two 4-bit data using IC 7483 using two’s complement method (use IC 7483 and IC 7486) and show the output.
+<br><br>14.	Discuss Gray and BCD codes. Develop Binary-to-Gray code converter using IC 7486 and verify the output.
+<br><br>15.	Develop Gray-to-binary code converter using IC 7486 and verify the output.
+<br><br>16.	Define a parity bit. Discuss even parity and odd parity bit and its importance in communication. Develop a parity generator and checker using IC 7486.
+<br><br>17.	Discuss the importance of comparator. Verify the truth table of 2-bit magnitude comparator using IC 7485. 
+<br><br>18.	Discuss the significance of enable/disable circuits. Demonstrate an enable/disable circuit using AND/OR, NAND/NOR gates. 
+
+Unit – II: Project Activities [CIE- 05 Marks] 
+
+1.	Collect the information about any three digital systems and highlight the difference between analog and digital systems.
+<br><br>2.	Write a chart to represent decimal numbers from 0 to 50 in binary, octal and hexadecimal number systems.
+<br><br>3.	Collect the information on signed and unsigned binary numbers. Prepare a chart to represent the decimal numbers from -20 to +20 in 8-bit format in signed and singned-magnitude representation.
+<br><br>4.	Perform binary multiplication and division with examples.
+<br><br>5.	List the features of BCD, ASCII excess-3 codes with examples.
+<br><br>6.	Open-ended activity like
+<br>(i)	Simulate a realistic digital circuit containing at least six logic gates.
+<br>(ii) Collect the catalogues and specification sheets or a chart displaying various logic ICs (At least 10). 
+<br>(iii) Record the best practices used in the disposal of e-waste and precautions in the operation of digital systems.
+<br>(iv) Any other such activities that can contribute for the student’s knowledge in respect of this course.
+
+<br><br><b>Execution Mode</b>
+<br>1.	Maximum of 2 students in each batch for project activity.
+<br>2.	Project activity 1 to 5 compulsory (handwritten) and 6 are mandatory for every batch. 
+<br>3.	Project activities shall be carried out throughout the semester and present the project report at the end of the semester. 
+<br>4.	Write qualitative report not exceeding 10 pages; one report per batch.
+<br>5.	Each of the activity can be carried out off-class; however, demonstration/presentation should be done during laboratory sessions. 
+<br>6.	Assessment shall be made based on quality of activity, presentation/demonstration and report.
+
+<b>Reference Books:</b>
+
+<br><br>1.	Digital Principles and Applications, Donald P Leach, Albert Paul Malvino,Goutam Saha,McGraw-Hill publications.
+<br>2.	Digital Systems Principles and Applications, Ronald J.Tocci,Neal S Widmer,Gregory L.Moss. Pearson Publication.
+<br>3.	http://www.vlab.co.in/
+<br>4.	http://www.asic-world.com/
+<br>5.	http://www.vlab.co.in/
+<br>6.	http://electrical4u.com/ 
+<br>7.	http://www.electronics-tutorials
+
+<b>Scheme of Valuation for SEE:</b>
+
+<br><br>1.	Write-up for theory questions :	10
+<br>2.	Writing circuit and procedure of one experiment	: 10
+<br>3.	Conduction : 15
+<br>4.	Result : 05
+<br>5.	Viva-voce :	10
+
+<br><br><b>TOTAL = 50 Marks</b>

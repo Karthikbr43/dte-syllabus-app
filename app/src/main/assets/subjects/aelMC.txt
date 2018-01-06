@@ -1,0 +1,41 @@
+<b>Experiments:</b>
+
+<br><br>1.	Construct half wave rectifier. Calculate ripple factor with and without pi filter. Study the wave forms on CRO.
+<br>2.	Construct Bridge Full wave rectifier. Calculate ripple factor with and without Capacitor filter. Study the wave forms on CRO.
+<br>3.	Construct and test series type transistor voltage regulator. 
+<br>4.	Construct and test 3 terminal IC Fixed voltage regulators. 
+<br>5.	Construct and test 3 terminal IC Variable voltage regulators.
+<br>6.	Construct RC coupled amplifier and plot frequency response curve, calculate band width. 
+<br>7.	Construct and test pushpull amplifier. 
+<br>8.	Construct and find frequency of oscillation (by CRO) for Hartley oscillators. 
+<br>9.	Construct and find frequency of oscillation (by CRO) for Crystal oscillator
+<br>10.	Construct and test Inverting and non-inverting amplifier. 
+<br>11.	Construct and test Differentiator and integrator. 
+<br>12.	Construct and test Summing Amplifier
+<br>13.	Construct and find frequency of oscillation (by CRO) for RC phase shift oscillator.
+<br>14.	Construct and test Voltage follower
+<br>15.	Construct and test Schmitt's trigger. 
+<br>16.	Construct and test Low pass filter using OPAMP .
+<br>17.	Construct and test Monostable multi vibrator using IC 555,
+<br>18.	Construct and test Astable multi vibrator using IC 555.
+
+<b>Reference Books:</b>
+
+<br><br>1.  A Text Book Of Electrical Technology - B.L.Theraja Volume I and II
+<br>2.  Electronic Principles - Malvino
+<br>3.  Op-Amp and Other Linear Integrated Circuits - Gayekwad 
+<br>4.  Basic electrical Engineering, Kulashreshta, TMH
+
+<br><br><b>Student Activity</b>
+
+<br><br>1.	Build hobby circuit such as door bell, calling bell, blinking LED etc
+<br>2.	Students can Build a Miniature circuits consists of Transistors, OP-AMP and IC555
+
+<b>Scheme of Valuation for SEE:</b>
+
+<br><br>1.	Writing circuit with values Tabular column, formula and Ideal graph : 15
+<br>2.	Construction and conduction	: 20
+<br>3.  Result	: 05
+<br>4. 	Viva Voce :	10
+
+<br><br><b>TOTAL = 50 Marks</b>

@@ -1,0 +1,86 @@
+UNIT I: LINEAR MEASUREMENTS
+Introduction: Steel Rule,Calipers,SurfacePlate,AnglePlate,V-Blocks,StraightEdges,Spirit Level, Combination Set, Universal Surface Gauge, Engineers Square, Engineers Parallels, Radius Gauge, Feeler Gauge, Angle Gauges, Pitch Screw Gauges, Vernier Calipers, Vernier Height Gauge, Micrometer-Outside and Inside Micrometer, Thread Micrometer, Slip Gauges. Straight Edges.
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT II: STANDARDS OF MEASUREMENTS AND COMPARATORS
+Introduction: Standards, Line Standard-Yard and Metre, Sub-divisions of Standards, End Standard, Wavelength Standard, Relation of End Standard and Line Standard to International Standard, Measurement and Calibration System, Need and Function of Inspection, Calibration System requirements. Comparators:Characteristics,Uses, Advantages and Disadvantages of various comparators, Mechanical Comparator -Reed Type and Sigma Comparators, Mechanical Optical Comparator, Electrical and Electronics Comparators, Pneumatic Comparator. 
+<br><b>[12 Hrs] [30 Marks] </b>
+
+UNIT III: LIMITS, FITS, TOLERANCES AND GAUGES
+Introduction, Tolerance, Interchangeability and Selective Assembly, Terminology for Limits, Fitsand Tolerances, Types of Fits, Holes and Shafts Basis System,Plain Gauges, Types of Gauges-Plug Gauge, Ring Gauge, Snap Gauges, Positional tolerances, Geometric Dimensioning and Tolerance, Geometric Characteristics and Symbols.
+<br><b>[06 Hrs] [15 Marks] </b>
+
+UNIT IV: ANGULAR MEASUREMENT AND CIRCULAR DIVISION
+Introduction, Vernier and Optical Bevel Protractor, Sine Bar-Principle, Uses, Limitations and Precaution, Sine Centre, Angle Gauges-Uses, Spirit Level-Characteristics, Clinometers, Autocollimeter, Angle Dekkor-Uses.  Circular Division-Rotary Table, Dividing Heads and Circular Tables.
+<br><b>[06 Hrs] [15 Marks] </b>
+
+UNIT V: MEASUREMENT OF SURFACE FINISH AND METROLOGY OF SCREW THREAD
+Introduction, Meaning of Surface Structure, Surface Roughness, Terminology, Methods of Measuring Surface Finish, Profilometer, Tomlinsons Surface Meter, Taylor-Hobson Talysurf. Screw Thread Terminology, Effect of Pitch Errors, Measurement of Various Elements of Thread. Two wire andThree wire Method, Best size wire.
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT VI: DIAL INDICATORS AND INDICATING GAUGES
+Introduction,Requirements of Good Dial Indicators, Advantages of Dial Indicators, Classifications, Working Mechanism of Dial Indicators, Range, Description of Various Parts, General Care and Use of Dial gauges, Accuracy of Dial Indicators, Guide Lines in the Use of Dial Indicators to Reduce the Effect of Calibration Errors, Dial Indicators Components, Accessories and Attachments, Dial Gauges as Per  Indian Standards, Application of Dial Gauges . 
+<br><b>[08 Hrs] [25 Marks] </b>
+
+<b>Text books:</b>
+<br><br>1.	“Engineering Metrology” by R.K.Jain, Khanna Publishers, 1999
+
+<br><br><b>Reference Books:</b>
+<br><br>1.	Mechanical Engineering Measurements - A. K. Sawhney - DhanpatRaiand Sons, New Delhi. 
+<br>2.	“Metrology and Measurement”  by Anand K Bewoor,Vinaykulakarni ,Tata McGraw hill New delhi  2009
+<br>3.	 “Principles of Engineering metrology” by RegaRajendraJaico publishers-2008
+<br>4.	“Dimensional Metrology “by Connie Dotson,DELMAR,cenage learning,2007
+<br>5.	Mechanical Engineering Measurement - Thomas Beckwith, N.Lewis Buck, Roy Marangoni - Narosa Publishing House, Bombay
+
+<br><br><b>E –Learning</b> 
+
+<br><br>1.	http://en.wikipedia.org/wiki/Metrology (metrology). 
+<br>2.	https://www.youtube.com/watch?v=4hlNi0jdoeQ (vernier). 
+<br>3.	https://www.youtube.com/watch?v=FNdkYIVJ3Vc(vernier). 
+<br>4.	https://www.youtube.com/watch?v=O8vMFFYNIfo (micrometer) 
+<br>5.	https://www.youtube.com/watch?v=h98HPVuWjLA (depth micrometer) 
+<br>6.	https://www.youtube.com/watch?v=SmXfGan_NXQ (telescopic gauge) 
+<br>7.	http://www.authorstream.com/Presentation/007sandeepks-1858141-angular-measurment/ (angular measurement). 
+<br>8.	http://askguru.net/t-Angular-Measurement-ppt 
+<br>9.	https://www.youtube.com/watch?v=aBzh6i5fQ70 (surface roughness) 
+<br>10.	https://www.youtube.com/watch?v=S7SXD6sKQ-I(surface roughness) 
+<br>11.	https://www.youtube.com/watch?v=eVpoJzLJa0U(surface roughness) 
+<br>12.	https://www.youtube.com/watch?v=3Od7vnoMwGg(surface roughness) 
+<br>13.	https://www.youtube.com/watch?v=XnLiTPGE6pk (three wire thread measurement) 
+<br>14.	https://www.youtube.com/watch?v=Gdvtw0pTAOs (thread pitch). 
+<br>15.	https://www.youtube.com/watch?v=qMgXGedDffw (dial indicator) 
+<br>16.	http://www.authorstream.com/Presentation/donzvasanth-1501139-unit-2-linear-angular-measurement/ 
+<br>17.	http://en.wikipedia.org/wiki/List_of_gear_nomenclature#Addendum (gear nomenclature). 
+<br>18.	https://www.google.co.in/search?q=gear+tooth+vernier+caliperandtbm=ischandtbo=uandsource=univandsa=Xandei=MIuEUsqSOsiKrQeywIFQandved=0CCgQsAQandbiw=1600andbih=804 (gear tooth vernier). 
+<br>19.	http://www.youtube.com/watch?v=lc4dsNvm2Ks (principle of mech. meas). 
+<br>20.	http://www.youtube.com/watch?v=nv3GuJArjNU (Transducers). 
+<br>21.	http://www.youtube.com/watch?v=iMIzApq1CQ0 (pressure measurement). 
+<br>22.	http://www.youtube.com/watch?v=JKuoQ5FV2c8 (temperature meas.). 
+<br>23.	http://www.youtube.com/watch?v=GNOI_7ftbQ0(temperature meas.) . 
+<br>24.	http://www.youtube.com/watch?v=7xUdPVpafyI (flow measurement). 
+<br>25.	http://www.ignou.ac.in/upload/Unit-4-62.pdf (limit gauges). 
+<br>26.	http://www.scribd.com/doc/55242715/8/Types-of-limit-gauges 
+<br>27.	http://www.youtube.com/watch?v=v25PCV_IJCw (sensors) 
+<br>28.	http://www.youtube.com/watch?v=QItuf6lNvmI(sensors) 
+<br>29.	http://www.youtube.com/watch?v=pOvTyvBqzgM (displacement sensors) 
+<br>30.	http://www.youtube.com/watch?v=inLkCOwVgyM (force sensors) 
+<br>31.	http://www.youtube.com/watch?v=jxv0ITAr74A(force sensors) 
+<br>32.	http://www.youtube.com/watch?v=0MP_9n08urA(force sensors) 
+<br>33.	http://www.youtube.com/watch?v=zAddvPHfKnw(force sensors) 
+<br>34.	http://www.youtube.com/watch?v=_fQSMVf3hdM (calibration). 
+<br>35.	http://www.youtube.com/watch?v=HwSxBRaxn_4(calibration). 
+<br>36.	http://www.youtube.com/watch?v=ZymDMUuVuyY (geometrical Tol.) 
+<br>37.	http://www.gobookee.org/measurement-of-geometric-tolerances-in-manufacturing/ 
+<br>38.	http://www.me.metu.edu.tr/courses/me410/exp1/410exp1theory.pdf 
+<br>39.	http://www.youtube.com/watch?v=5eaSkU6Ecik (flatness measurement) 
+<br>40.	http://www.youtube.com/watch?v=1tBnpzyhVXU (measuring straightness) 
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>1. Each student will select and bring at least one mechanical component. Sketch each component. Sketch and label main parts of instruments to be used. Calculate least count of the instrument/s to be used. Measure and record applicable dimensions of each component using suitable instrument
+<br>2. Sketch the part and setup, list the instruments used, list the steps followed and record the observations for checking straightness
+<br>3. Select appropriate limit gauge for given dimension/part and check the dimension with gauge.
+
+<br><br><b>Note:</b> The activities or similar activities for assessing CIE (IA) for 5 marks (Any one)
+<br>1. Each student should do any one of the following type activity or any other similar activity related to the course and before conduction, get it approved from concerned Teacher and HOD.
+<br>2. Each student should conduct different activity and no repeating should occur

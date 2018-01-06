@@ -1,0 +1,73 @@
+Unit – I: Tutorials and Graded Exercises
+
+<br>1.	Identify and understand the (i) types of Computers, (ii) front panel and back panel connections of a Personal Computer system, and (iii) hardware of a Computer.
+<br><br>2.	a)	Define the booting process, demonstrate it and understand its relevance.
+<br>	b)	Define OS, give types of OS and list the functions of OS.
+<br><br>3.	a)	Understand the distinction between system-software and application-software with examples.
+<br>	b)	Practice the following: Creation of Icons, Folders, files, naming/renaming files and folders, searching file and folders, editing and saving the document using in-built utilities of OS like text editors.
+<br><br>4.	Practice the following: Usage of paint and calculator utilities, installation and usage of simple application software tools such as  pdf reader, zip tools, audio/ video players, etc.
+<br><br>5.	Practice browsing of different internet sites using search engine.
+<br><br>6.	E-mail: Create E-mail account, send and check email, search mails, download and upload an attachment, and sending group mails.
+
+<br><br><b>Using Word Processor</b>
+<br><br>7.	Create a business and official letter involving different fonts and font effects (normal, italics, underline and bold), indent and paragraphs, and any other such options necessary in the letters.
+<br><br>8.	Create a company letter-head containing logo, name and contact details.
+<br><br>9.	Create a simple newsletter using 3 columns, drop cap, pictures, etc.
+<br><br>10.	Create a resume or curriculum vitae for job application using bullets, lines, tables, etc.
+<br><br>11.	Create a mail-merged invitation/ Greeting card
+<br><br>12.	Prepare the class time-table for your class using insert table option.
+<br><br>13.	Create the cover page of a project report using word-art, insert picture image and any other relevant items. 
+
+<br><br><b>Using Spread Sheet</b>
+<br><br>14.	Create a worksheet to tabulate student information such as serial number, name, gender, age, register number, branch, and total-marks secured and perform the following operations separately. (a) Enter the information of N students. (b) Sum the total-marks of all N students, (c) Sort the students based on (i) total-marks (ii) alphabetical order, and (iii) Register number, separately.  
+<br><br>15.	Create a worksheet containing the pay details of N employees (containing Basic pay, DA, HRA, Medical allowance, with Deductions- PF, PT, Insurance) and find gross and net salary using relevant formulae for all employees.
+<br><br>16.	Create a results-sheet containing candidate's register-number, name, and marks for all courses, total-marks, percentage and result. Also indicate maximum marks in the relevant fields. Result must be calculated as below:
+<br>Distinction if Total Percentage >= 70 %
+<br>First Class if Total Percentage > = 60 % and < 70 %
+<br>Second Class if Total Percentage >= 50 % and < 60 %
+<br>Pass if Total Percentage >= 35 % and < 50 % provided the candidate has secured at least 35 marks in each Course or Fail otherwise.
+<br>Create the result sheet for N students and compute the number of students in each class of result. 
+<br><br>17.	Create a simple bar-chart and Pie-chart to highlight the sales of a company for three different periods, also give different colours and legends.
+<br><br>18.	Create a macro which displays a line-chart using the data in the worksheet.
+
+<br><br><b>Using Presentation Tool</b>
+<br><br>19.	Prepare a presentation containing 4 to 5 slides to introduce your institution
+<br><br>20.	Create a simple presentation consisting of 6 to 8 slides about input and output devices. include hyperlink for other slides from the content slide
+<br><br>21.	Present the theory of Ohm’s law with animation or example.
+<br><br>22.	Create an automated (with timings and animation) presentation with 6 to 8 slides about different types of computers. 
+<br><br>23.	Create a presentation about public awareness (any activity such as swatchha Bharath, air-pollution etc)
+
+Unit – II: Project Activities [CIE- 05 Marks]
+
+1. Prepare a mini-project report (limited to 6 pages) on any one of the following using the concepts studied.
+<br>i) Report on parts of Mother Board.
+<br>ii)	Report on SMPS and UPS.
+<br>iii) Report on latest trends in the field of electronics/computers.
+<br>iv)	Open-ended exercise of similar nature and magnitude.
+
+<br><br>2. Prepare a creative presentation(limited to 15 Slides) on any topic.
+
+<br><br><b>Execution Mode</b>
+<br>1.	Maximum of 2 students in each batch for the project activity.
+<br>2.	Project activity 1 and 2 are mandatory for every batch. 
+<br>3.	Project activities shall be carried out throughout the semester and present the project report at the end of the semester. 
+<br>4.	Each of the activity can be carried out off-class; however, demonstration/presentation should be done during laboratory sessions. 
+<br>5.	Assessment shall be made based on quality of activity, presentation/demonstration and report.
+
+<b>Reference Books:</b>
+
+<br><br>1.	Computer Fundamentals: Concepts, Systems and Application, D.P.Nagapal, S.Chand and Company, 2008, ISBN: 8121923883.
+<br>2.	A Computer Laboratory Referral for Diploma and Engineering Students, T.R. Jagadeesh, D. S. Rajendra Prasad, M. A. Jayaram, Universities Press (India) Limited, ISBN: 8173712581.
+<br>3.	http://www.tutorialsforopenoffice.org/
+<br>4.	http://www.libreoffice.org/get-help/documentation/
+<br>5.	http:// www.kingsoftstore.com/
+
+<b>Scheme of Valuation for SEE:</b>
+
+<br><br>1.	Testing  the skills/abilities from the exercises 1 to 6 of unit - I	: 10
+<br>2.	Write the steps on two exercises one each from word processor/presentation and spread-sheet from unit – I :	10
+<br>3.	Execution of both the exercises specified above : 10
+<br>4.	Presentation/Interpretation of the results : 10
+<br>5.	Viva-voce :	10
+
+<br><br><b>TOTAL = 50 Marks</b>

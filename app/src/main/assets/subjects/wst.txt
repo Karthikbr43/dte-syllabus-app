@@ -1,0 +1,31 @@
+UNIT I: MATERIALS FOR MANUFACTURING
+Introduction of Engineering Materials- Classification, mechanical Properties of metals and uses of Ferrous Metals-Pig Iron, Cast Iron, Wrought Iron, steel, Classification of Steels according to Carbon content, Introduction to High speed Steels-18-4-1 HSS and uses. Introduction, Purposes and methods of  Heat treatment -Annealing-Normalizing-Hardening-Tempering and Case Hardening- Properties and uses of Nonferrous metals- Aluminum, Copper,Lead,Tin,zinc,Magnesium,Nickel, Properties and uses of Plastics- Thermo plastics and Thermosetting-Properties and Uses of Ceramics , Composite Materials and uses.     					                        					
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT II: BASIC MANUFACTURING PROCESS
+Introduction to manufacturing processes- Mechanical working of metal – Introduction to Hot working and cold working of metals. - Hot Rolling and types-Three High, Four high rolls. Principle of Drawing, Deep drawing. Principle of Extrusion, Direct, Indirect and tube Extrusion. Introduction to Forging, Smith forging operations. .																		
+<br><b>[08 Hrs] [30 Marks] </b>
+
+UNIT III: BASIC FABRICATION PROCESS
+Introduction to Welding-Classification of welding- Principle of Arc welding, Gas welding. Types of Arc welding-MIG Welding, TIG Welding, Submerged arc welding. Principle of resistance welding – Spot, butt, seam Welding. -Welding Defects and remedies. Comparison of welding, soldering and Brazing.                                   		  				  
+<br><b>[10 Hrs] [30 Marks] </b>
+ 
+UNIT IV: METAL CASTING PROCESSES
+Introduction to metal castings, Use of patterns, Pattern materials, types of Patterns-single, Split, loose Piece, Sweep, Skeleton, gated Patterns - allowances – Types of Moulding sand and Properties. Concept of Cope, Drag, Runner, Riser and core. Permanent mould casting – Die casting, Slush Casting, Centrifugal casting, Name and brief explanation of Defects in Castings                                                     
+<br><b>[10 Hrs] [25 Marks] </b>
+
+UNIT V: SHEET METAL PROCESSES
+Introduction to Sheet Metal Work and Applications, metals used for Sheet Metal work, Standard Gauge numbers. Sheet metal operations-shearing, cutting off, Parting, blanking, Punching, notching, slitting, Lancing, Bending, Drawing and squeezing. Introduction to Press working- Types of presses- Power press and Ball or Fly press. Applications of presses.                                                                                                                    
+<br><b>[06 Hrs] [15 Marks] </b>
+
+UNIT VI: POWDER METALLURGY
+Introduction to Powder Metallurgy –Manufacture of Metal Powders by Different Methods-Automization, reduction, Electrolysis and Shotting.Powder Metallurgy Process, Secondary Operations. Products of Powder Metallurgy. Advantages and Limitations of powder metallurgy
+<br><b>[08 Hrs] [15 Marks] </b>
+
+<b>Text books:</b>
+<br><br>Elements of Workshop Technology Vol-I Manufacturing Process edition-By Hajra Choudry 
+
+<br><br><b>References:</b>
+<br><br>1.  Manufacturing Technology -1 By P.C Sharma of S.CHAND Publications.
+<br>2. Engineering Materials by Er.R.K.RAJPUT of S.CHAND Publications
+<br>3. Work shop technology By R.S KHURMI and J.K GUPTA of S.CHAND and Co.Ltd

@@ -1,0 +1,88 @@
+UNIT I: Hydroelectric and thermal  power plants
+<b>Hydroelectric power plants</b>
+<br>Introduction-Importance of electrical power generation. Sources of energy available in nature. List Conventional and non-conventional sources. List the factors to be considered for selection of site. Classify hydroelectric power plants based on the available head of water, plant capacity, load and construction. Draw the general layout of hydro power plant. List the main components of hydro electric power plant. Briefly explain the main components – catchment area, reservoir, forebay, dam, spillway, trash rack, surge tank, penstock, prime mover, alternator, and draft tube and tail race. Explain the meaning of water hammer and its effect. Environmental Impact of Hydrol power plant.
+
+<br><br><b>Thermal power plant</b>
+<br>List the factors to be considered for selection of site. Draw the General layout of thermal (steam) power plant. Explain the working of thermal power plant. Compare thermal power plant with hydroelectric power plant.	Advantages and disadvantages of Thermal power plant. Environmental Impact of Thermal power plants such as Air pollution and stack emissions, Sulphur- dioxide impacts, Nitrogen oxide impacts, Air borne particulates impacts and cooling tower.
+<br><b>[09 Hrs] [25 Marks] </b>
+
+UNIT II: Nuclear power plant, Diesel power plant and Gas turbine power plant.
+<b>Nuclear power plant</b>
+<br>List the factors to be considered for selection of site. Draw the schematic diagram explain the working of Nuclear power plant. Compare thermal power plant with nuclear power plant. Explain Nuclear power plant impacts such as Health physics, nuclear wastes and nuclear waste disposal List. Comparison between thermal power plant with nuclear power plant. List the applications of Nuclear power plant.
+
+<br><br><b>Diesel power plant</b>
+<br>Draw the schematic diagram of a Diesel generator unit and explain the main components.  
+<br>List the Advantages and Disadvantages of Diesel power plant.
+
+<br><br><b>Gas turbine power plant</b>
+<br>Draw the schematic diagram of a Gas turbine power plant and explain the same. List the Advantages and Disadvantages of Gas turbine power plant.
+<br><b>[06 Hrs] [15 Marks] </b>
+
+UNIT III: Solar photovoltaic system
+<b>Solar photovoltaic system</b>
+<br>Explain Photovoltaic effect solar cell, solar power. Explain Construction of solar cell. Explain with block diagram solar photovoltaic module. Explain with block diagram Construction of photovoltaic panel and PV array. Explain the Materials used in solar cells. List Classification of solar photovoltaic systems. Explain with block diagram the   stand-alone and grid interactive solar PV system. List the Advantages and dis-advantages of PV systems and explain environmental impacts of solar PV system.
+<br><b>[07 Hrs] [20 Marks] </b>
+
+UNIT IV: Wind Power plant
+<b>Wind Energy</b>
+<br>Explain the importance of Wind Energy. Explain the origin of Global and local winds. List the factors to be considered for site selection. Factors affecting distribution of wind energy on surface of the earth. Explain Nature of winds. Explain with neat sketch Construction of horizontal axis wind turbine generator with diagram. Explain with neat sketch Construction of vertical axis wind turbine generator with diagram. Comparison between horizontal axis and vertical axis wind turbine generator. Explain Environmental Impact of wind.
+<br><b>[08 Hrs] [25 Marks] </b>
+
+UNIT V: Tidal Power Plant , Wave energy , Ocean thermal energy and Biomass Power Plant
+<b>Tidal power plant</b>
+<br>List the factors to be considered for site selection. Explain Origin and nature of Tidal Energy. Classify the types of Tidal power plant. Explain with diagram single basin and double basin type tidal power plant.  List the merits and demerits.
+
+<br><br><b>Wave energy</b>
+<br>Introduction, list classification wave energy devices. List Advantages and Dis-advantages of wave energy. Explain the construction and working of Heaving float type, pitching type and Heaving and pitching type wave Devices. 
+
+<br><br><b>Ocean thermal energy</b>
+<br>Working principle of ocean thermal energy conversion. Explain with block diagram the open and closed cycle OTEC plants. List advantages and dis- advantages. 
+
+<br><br><b>Urban waste to energy conversion</b>
+<br>Explain with block diagram municipal solid waste to energy incineration plant.
+
+<br><br><b>Biomass power plant</b>
+<br>Explain the importance of biomass energy and its scope. List the factors to be considered for site selection. Draw and explain the line diagram of biomass power plant.  List the types of biogas plants. Briefly explain batch type, continuous type, and movable drum type and fixed dome types. Explain with diagram movable drum type biogas plant. Explain with diagram fixed dome type biogas plant.  Compare movable and fixed dome types. List the merits and demerits biomass power plant.
+<br><b>[11 Hrs] [30 Marks] </b>
+   
+UNIT VI: Fuel Cells, Hybrid power plant and Power factor improvement.
+<b>Fuel cells</b>
+<br>Define fuel cell. Classification of fuel cells. Explain with diagram the working principle and operation of phosphoric acid fuel cell (PAFC), alkaline fuel cell (AFC) and polymer Electrolyte Membrane fuel cell (PEMFC). Explain the performance limiting factors of fuel cell. Losses of fuel cells. List Advantages of fuel cells, List the applications fuel cell. Explain the environmental Impact of fuel cells.
+
+<br><br><b>Hybrid power plant</b>
+<br>Hybrid PV systems- Types of hybrid PV systems. Explain with block diagram PV-Diesel    hybrid system, PV-Wind hybrid system and, PV-fuel cell hybrid system. (Reference-Solar    Photovoltaics. Fundamental, Technologies and Applications, By Chetan Singh Solanki,    Third Edition-2015, PHI PVT, Delhi-110092. Page NOs 440-443)
+
+<br><br><b>Power factor improvement</b>
+<br>Explain the meaning of power factor and its significance. State the causes of low power factor. Explain the effects of low power factor on power plant. List the methods of power factor improvement. Selection of capacitor bank to improve power factor.
+<br><b>[11 Hrs] [30 Marks] </b>
+
+<b>Reference Books:</b>
+
+<br><br>1. Non-conventional Energy Resources - G.S.Sawhney, PHI publications, second Printing-2014, Delhi-110092.
+<br>2. Non-conventional Energy Resources-B.H.Khan 2nd Edition Tata McGraw hill PVT, New-Delhi.
+<br>3. Principles of power system by V.K.Mehta and Rohit Mehta, S.CHAND 
+<br>4. Solar photovoltaic Technology and systems, - Chetan Singh Solanki, PHI, Delhi-110092.
+<br>5. Generation of Electrical Energy, by B.R.Gupta, publisher S.chand and company LTD, New Delhi   
+<br>6. Solar Photovoltaics. Fundamental, Technologies and Applications, - Chetan Singh Solanki, Third Edition-2015, PHI PVT, Delhi-110092
+<br>7. Elements of power station design-M V Deshpande-PHI Publications  
+<br>8. Electrical Power Generation, Transmission and Distribution. - S.N.Singh. PHI Publications.
+<br>9.  Power Plant Engineering - K.K.Ramalingam SCITECH
+<br>10.Power Plant Engineering - A. K. Raja, New Age International Publisher  
+<br>11.Generation Distribution and Utilisation of electric energy by C.L. Wadwa, -New-Age International Publisher 
+<br>12.Substation design and equipments-P.S Satna-Dhanpatrai.
+   
+<br><br><b>E –Learning</b>
+<br><br>1.	https://en.wikipedia.org/wiki/Electricity_generation.
+<br>2.	https://www.google.com/phindia.com//solarphotovoltaics.
+<br>3.	https://www.schandgroup.com.
+<br>4.	https://www.tatamcgrawhill.com
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br>Each student has to submit at least 3 pages of self hand written report covering any one of the following topics. Each student is expected to carry out a study on any one by visiting respective plants.
+<br>1. Design calculations for establishing a Solar panel/ system for a lighting purpose using Inverter, battery, etc,
+<br>2. Improve power factor of given 3-phase IM using appropriate capacitor Bank (For different power factors).
+<br>3. Visit to solar PV plant and windmill and bio-gas plants.
+<br>4. Visit to hydroelectric power plant, thermal power plants and D.G. power plant.
+<br>5. Green energy, advantages, and classification, etc.
+<br>6. Design and establish solar operated application to 1) pump 2) Street lamp 3) fan 4) traffic signal control. 4) Rural electrification 5) Rooftop lighting

@@ -1,0 +1,44 @@
+Unit I: CAD Commands Familiarization
+Introduction to MCAD(parametric modelling) software-Understanding parametric modelling technique, knowing the software interface, co-ordinate systems supported- Planes and their creation, reference axis, Sketch, Profile, constraints-geometrical and dimensional, need for constraining, fully constrained, under constrained, over constrained.
+
+Unit II: Practice on Commands
+Practice  2D and 3D drawing commands
+
+<br><br><b>Hands on Exercises:</b>
+<br>Create2DDrawing for the ISOMETRIC OBJECT given by selecting  from model question bank
+<br>Create 3D Drawings for the ORTHOGRAPHIC VIEWS given by selecting  from model question bank
+
+Unit III:  Assembly Modeling
+Know the assembly environment, setting the assembly environment, types of assembly design approach-bottom-up and top-down assembly. Creating assembly Editing and modifying assembly relationships -Creating exploded view of the assembly –Create 3DAssemblymodels of- Socket and Spigot type Cotter Joint-Knuckle joint—Plummer Block-  Screw Jack
+
+Unit IV: Models By Using Equations
+Hexagonal nut and bolt, Solid muff coupling and journal bearing
+
+<b>Reference Books:</b>
+<br><br>1.	Sham Tickoo- Autocad: A Problem-Solving Approach Thomson Learning EMEA, Limited
+<br>2.	Machine Drawing- K.R.Gopala Krishna   Subhas Publications  Bangalore
+<br>3.	George Omura- Mastering Auto CAD BPB Publication 
+<br>4.	T Jeyapoovan- Engineering Graphics Using AutoCAD Vikas Publishing House Pvt. Ltd. Fifth Edition
+<br>5.	Machine Drawing- N.D.Bhatt, Charotar Publication, Anand
+<br>6.	Machine Drawing-Sidheshwar-Tata McGraw Hill
+<br>7.	Code of practice for general engineering-IS Code SP 46(1988)- Engineering Drawing Practice for School and colleges
+<br>8.	Production Drawing-L.K.Narayanan,P.Kannaich,- New Age International Publication
+<br>9.  http://www.we-r-here.com/cad/tutorials/index.htm
+<br>10. http://www.cadtutor.net/tutorials/autocad/
+<br>11. http://www.caddprimer.com/AutoCAD_training_tutorial/AutoCAD_training_lessons.htm
+<br>12. http://www.autocadmark.com/
+<br>13. http://www.autocadtutorials.net/
+
+<br><br><b>Student Activity</b>
+<br><br>1. 	Bring actual industrial production drawings from nearby industry and distribute them among group of students for self study and interpretation. Ask students to practice these drawings using any modeling software. 
+<br><br>2.	Bring small real components like Nut-Bolt, Washers, Cotter-knuckle Joints, Couplings, and Pulleys in the class. Ask students to use Vernier caliper to measure the dimensions and formulate relations between them. Practice same relations with AutoCAD/Pro-E software/Solid edge/catia to draw 2D/3D models of these components.  
+<br><br>3.  Take the students for industrial visit. Hands-on practice with drafting software to create a production drawing of an assembly.
+
+<b>Scheme of Valuation for SEE:</b>
+
+<br><br>1.	Create the model and drawing views(any 3)  along with dimensions and annotations as per sketch given : 10
+<br>	<b>OR</b>	
+<br>	Create the model and drawing views(any 3) along with dimensions and annotations using equations	: 10
+<br><br>2.	Create the assembly model and drawing with dimension, BOM, - as per the given sketch(*): Compulsory Question to be asked in end exam : 40
+
+<br><br><b>TOTAL = 50 Marks</b>

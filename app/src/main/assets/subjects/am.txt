@@ -1,0 +1,42 @@
+UNIT-I: Architecture of 8086 microprocessor
+Introduction to Microprocessors, Features, pin functions and internal architecture of 8086. Flag register, Memory segmentation, Segment Registers, Physical address - calculation with examples, Physical memory organization. Interfacing 8086 with memory and I/O devices under minimum mode, Comparison between Minimum mode and Maximum mode configuration 
+<br><b>[08 Hrs] [30 Marks] </b>
+
+UNIT-II: 8086 Instruction set
+Addressing modes - with example, Role of index and pointer registers, 8086 instruction set-Data transfer, arithmetic, logical, shift and rotate, branching, loop control and string instructions, processor control instructions with simple examples.   	  
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT-III: 8086 Programming
+ALP program development cycle, development tools, MASM-Assembler directives, structure of assembly program, sample programs -with relevant comments- such as data transfer, code conversion, largest/smallest, sorting, searching, string palindrome and other simple programs. Comparison of procedure and macro
+<br><b>[10 Hrs] [25 Marks] </b>
+
+UNIT-IV: Interrupts and Peripheral ICs
+<b>Interrupts:</b> Concept, classification–internal and external, maskable and non-maskable, hardware and software. Interrupt Vector Table, interrupt cycle, interrupt service routine, and interrupt priorities. DOS and BIOS routines as interrupt service routines
+<br><b>Programmable Peripheral ICs:</b> Functional block diagram, features, various operating modes of IC 8255.  Features and operating modes of 8253, 8259, 8251, & 8257 (only listing), Relevance and features of 8087 co-processor.
+<br><b>[09 Hrs] [20 Marks] </b>
+
+UNIT-V: Advanced Microprocessors and Bus Standards
+Block diagram of Advanced Microprocessor, Memory Hierarchy, Cache memory, Virtual memory, Paging & segmentation, Pipe lining - Pipe line hazards. Features and comparison of 80286, 80386, 80486, Pentium IV. Concept of core processor.  Bus standards: Need for Bus standards. Features of RS232, Parallel Centronic Bus, SATA Bus, I2C Bus. USB-Structure, operation and features.		
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT-VI: Other Advanced Microprocessors
+Introduction to Power PC, Features of Power PC601 and AMD Athlon Processor. Features and applications of Super SPARC Processor
+<br><b>[05 Hrs] [10 Marks] </b>
+
+<b>Reference Books:</b>
+
+<br><br>1.	A. K.Ray , K M Bhurchandi, “Advanced Microprocessor & Peripherals”, Tata McGraw Hill,3nd Edition,2013 
+<br>2.	Douglas V Hall, “Microprocessor & Interfacing: Programming and Hardware”, Tata McGraw Hill, 2nd Edition,2006. 
+<br>3.	BARRY B. BREY, " THE INTEL MICROPROCESSORS-Architecture, Programming, and Interfacing",  Pearson Education India. Eighth Edition
+<br>4.	Yn - cheng Liu and Gibson, G.A., “Microcomputer Systems: The 8086/8088 Family Architecture, Programming and Design”, Prentice Hall of India, 2nd Edition, 2006.
+<br>5.	Badri Ram , ‘’Advanced Microprocessors and Interfacing”’, McGraw Hill, 2014	
+<br>6.	Triebel, walter, Avatar singh," The 8088 and 8086 microprocessors : programming, interfacing, software, hardware, and applications : including the 80286, 80386, 80486, and Pentium processors",  Prentice Hall, Fourth edition, 2003.
+<br>7.	The SPARC Architecture Manual. 
+<br>8.	INTEL manual/data sheet.
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>1.	Collect the features of Intel core processors (Dual, quad, i3, i5, i7)
+<br>2.	Collect the features of core processors used in mobile phones (At least 5 processors)
+
+<br><br><b>Note:</b>  The activities or similar activities for assessing CIE (IA) for 5 marks (Any one)

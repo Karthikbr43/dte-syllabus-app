@@ -1,0 +1,81 @@
+<b>INTRODUCTION</b>
+<br><br>The objective of the project work is to enable the students in convenient groups of minimum of 3-4 members on a project involving theoretical and experimental studies related to the branch of study. Every project work shall have a guide who is the member of the faculty of the institution. Six periods per week shall be allotted in the time table and this time shall be utilized by the students to receive the directions from the guide, on library reading, laboratory work, computer analysis or field work as assigned by the guide and also to present in periodical seminars on the progress made in the project. ROAD MAP FOR THE PROJECT
+
+<br><br><b>ROAD MAP FOR THE PROJECT</b>
+<br><br>1. Carry out a session or a seminar from the ISTE Student Chapter coordinator / Programme coordinator with the help of Innovation club / I I I cell for directing the students to identify project areas in the field of their interested including interdisciplinary areas.
+<br><br>2. Power point presentation in seminar should include detail description of project areas related to program, Project report formats, developing personnel writing skills.
+<br><br>3. The Students/Departments may at liberty to form the batch not less than 3 and maximum 4 and get registered with project coordinator / HOD at the end of V semester.
+<br><br>4. Students should take the approval from the Project committee/ Head of department for doing project.
+<br><br>5. After approval the batch of students will be published in department notice board along with guide in the end of 5th semester.
+<br><br>6. All students should finalize their Project immediately before commencement of SEE of 5th semester.
+<br><br>7. The types of project may include:
+<br> Preparation of a feasibility report
+<br> Design and development system
+<br> The improvement of existing system
+<br> Creation of New facilities
+<br><br>8. The project should be challenging but manageable within the resources and time available.
+<br><br>9. Students should undergo reviews for one times in 5th semester and at least 4 times in 6th semester during the internal assessment. Time table for IA should include project review. The guide should monitor the progress of Project work periodically and it should be finally evaluated for 25 marks at the end of 5th semester and for 25 marks at the end of 6th semester.
+<br><br>10. The IA marks will be evaluated based on oral presentation and assessment by the internal guide by adopting Rubrics being developed by Project committee.
+<br><br>11. Real time problems, Industry related problems, should be chosen and it is a Responsibilities of the project committee / Programme coordinator/ Innovation club / I.I.T. cell to choose the appropriate project and to accept the Project Proposal
+<br><br>12. Identification of Topic: The selection of topic is of crucial importance. It should be field of interest. It is advisable to choose the project can be completed on time and within the budget and resources. The topic should be clear, directional, focussed and feasible.
+<br><br>13. An outline of project proposal submitted & synopsis from student will initiate a dialogue between Student and Project coordinator who will then help you to work on the chosen topic and report.
+
+<br><br><b>Thrust areas identified for Project work</b>
+<br><br>Each student may be assigned any one of the following types of project/thesis work:
+<br>According to the local needs, the following major projects are suggested:
+<br>Automation of booking in Hotel booking, Train / Bus reservation, Time table schedule, Cloud based projects, Robotic programming, Mobile Applications or any other software automation system that is need of the hour. Hardware projects related to IOT, robotics programming involving Python, Raspberry PI etc., may also be encouraged.
+
+<br><br><b>Project report</b>
+<br><br>The Project Report should consist of following items.
+<br>1. The project report must contain the following:
+<br> Introduction
+<br> Objectives
+<br> Tools/Environment Used
+<br> Analysis Document (This should include SRS in proper structure based on Software Engineering concepts, E-R diagrams/Class diagrams/any related diagrams (if the former are not applicable), Data flow diagrams/other similar diagrams (if the former is not applicable), Data dictionary)
+<br> Design Document (Modularization details, Data integrity & constraints including database design, Procedural design, User interface design)
+<br> Program code (Complete code (well indented)/Detailed specification instead of code*, Comments & Description. The program code should always be developed in such a way that it includes complete error handling, passing of parameters as required, placement of procedure/function statements as needed.)
+<br> Testing (Test case designs are to be included separately for Unit testing, Integration testing, System testing; Reports of the outcome of Unit testing, Integration testing, System testing are to be included separately. Also, details of debugging and code improvement are to be included.)
+<br> Input and Output Screens
+<br> Implementation of Security for the Software developed (In case, you have set up a User Name and Password for your software, you should ensure the security of User Name and Password during transmission to server)
+<br> Limitations of the Project
+<br> Future Application of the Project
+<br> References and Bibliography
+
+<br><br>2. Project reports should be typed neatly in Times New Roman letters with font size 14 for titles and 12 for text on both sides of the paper with 1.5 line spacing on a A4 size paper (210 x 297 mm). The margins should be: Left - 1.5", Right - 1", Top and Bottom - 0.75".
+
+<br><br>3. The total number of reports (Soft bound) to be prepared are
+<br> One copy to the department /library
+<br> One copy to the concerned guide(s)
+<br> One copy to the candidate.
+<br>Before taking the final printout, the approval of the concerned guide(s) is mandatory and suggested corrections, if any, must be incorporated.
+
+<br><br>4. Every copy of the report must contain
+<br> Inner title page (White)
+<br> Outer title page with a plastic cover
+<br> Candidate declaration and Certificate in the format enclosed both from the institution and the organization where the project is carried out.
+<br> An abstract not exceeding 100 words, indicating salient features of the work.
+
+<br><br>5. The organization of the report should be as follows
+<br>Chapters(to be numbered in Arabic) containing Introduction-, which usually specifies the scope of work and its importance and relation to previous work and the present developments, Main body of the report divided appropriately into chapters, sections and subsections.
+<br>The chapters, sections and subsections may be numbered in the decimal form for e.g. Chapter 2, sections as 2.1, 2.2 etc., and subsections as 2.2.3, 2.5.1 etc.
+<br>The chapter must be left or right justified (font size 16). Followed by the title of chapter centred (font size 18), section/subsection numbers along with their headings must be left justified with section number and its heading in font size 16 and subsection and its heading in font size 14. The body or the text of the report should have font size 12.
+<br>The figures and tables must be numbered chapter wise
+<br>The last chapter should contain the summary of the work carried, contributions if any, their utility along with the scope for further work.
+<br><br>Reference or Bibliography: The references should be numbered serially in the order of their occurrence in the text and their numbers should be indicated within square brackets for e.g. [3]. The section on references should list them in serial order in the following format.
+<br>1. For textbooks –
+<br>2. For papers – Y
+<br>3. Only SI units are to be used in the report. Important equations must be numbered in decimal form for e.g.
+<br> V = IZ .......... (3.2)
+<br>All equation numbers should be right justified.
+
+<br><br><b>CIE ASSESSMENT FOR FINAL REVIEW:</b>
+<br><br>1. Log of Activity ( Plan & Schedule) : 05
+<br>2. Report : 10
+<br>3. Presentation : 10
+<br><br><b>TOTAL = 25 Marks</b>
+
+<br><br><b>SEE ASSESSMENT:</b>
+<br><br>1. Presentation : 20
+<br>2. Demonstration : 20
+<br>3. Viva-Voce : 10
+<br><br><b>TOTAL = 50 Marks</b>

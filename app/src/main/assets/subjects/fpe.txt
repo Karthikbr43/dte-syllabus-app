@@ -1,0 +1,53 @@
+UNIT – I: Introduction to Fluid power system
+Properties of fluids: Density, specific gravity, pressure, absolute pressure, gauge pressure, Kinetic viscosity,  absolute viscosity, Capillarity, surface tension. PASCAL’s law and Bernoulli’s theorem (No derivation) applications of Bernoulli’s theorem, major losses and minor losses as fluid flows through a pipe, Types of fluid power system: Oil power fluid system, Pneumatic system, Comparison of oil power Fluid system and pneumatic system. .Advantages and applications of fluid power, Fluidics, coanda effect, Fluid logic:  AND and NOR Function, Pneumatic sensors: Interruptible jet sensor, Reflex sensor, Back pressure sensor.
+<br><b>[04 Hrs] [15 Marks] </b>
+
+UNIT – II: Components of fluid power system
+Single acting reciprocating pump, Centrifugal pump, vane pump and Gear pump, fluid reservoir,  single stage reciprocating air compressor, Centrifugal air compressors, Rotary vanes compressor, axial flow air compressor, Twin lobe air compressor, screw compressor, filter, pressure regulator, lubricator, FLR unit in combination,2/2 spool type DC valves, 3/2 spool type DC valves,  5/2 spool type Dc valves, 5/2 pilot operated DC valve, 5/3 Spool type DC valves, pressure reducing valve, pressure relief valve, pressure intensifier, twin pressure valve, shuttle valve,  flow control valves ,quick exhaust valve, time delay valve, needle valve, check valve, DC valve actuation mechanism, spring ,lever, push button, solenoid, Gas loaded accumulator, single acting and double fluid power cylinders.
+<br><b>[12 Hrs] [40 Marks] </b>
+
+UNIT – III: Basic oil power circuits
+Circuit symbols for; Cylinders, Direction control valves, flow control valves, pressure control valves, actuations such as mechanical control, electrical control, pressure control, actuation of single acting  cylinder, double acting cylinder.	Circuit to actuate single acting and double acting cylinders, Circuit to control speed of a single acting and double acting cylinder,(meter in meter out),
+<br><b>[08 Hrs] [15 Marks] </b>
+
+UNIT – IV: Engineering applications of oil power system
+Pump unloading circuit, circuit to achieve faster extension as in drilling machine, counter balance valve application as in power press to avoid free fall of hammer due to gravity, circuit to lock the cylinder using pilot check valve to protect the piston rod from external forces on that, application of sequencing of circuit as in case of punching machine to clamp the work piece and to perform punching operation, to obtain automatic reciprocating of cylinders, fail safe circuit against over loading and to prevent injury to the operator, accumulator circuit to store energy and supply when needed.
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT – V: Basic pneumatic circuits
+Circuit to actuate single acting and double acting pneumatic cylinders ,Circuit to control speed of a single acting and double acting cylinder,(meter in meter out),Pilot controlled double acting cylinder, circuit for Double acting cylinder to advance by actuation of a solenoid valve and it’s retract movements is delayed by time lag through a timer
+<br><b>[08 Hrs] [15 Marks] </b>
+
+UNIT – VI: Engineering applications of pneumatic system
+Circuit to Press fit a pin to a hole with a pre-condition that while actuating of the cylinder, both the hands of the operator should be engaged (two handed safety circuits),A piston rod of a double acting cylinder is to extend when two 3/2 DC valves are actuated if one of the 3/2DC valve is released the cylinder returns to its initial position(AND function), A double acting cylinder extends if one or both 3/2DC valve are operated. If both 3/2 DC valves are released then cylinder retracts (OR function)
+<br><b>[10 Hrs] [30 Marks] </b>
+
+<b>Reference Books:</b>
+
+<br><br>1: Fluid power with applications - Anthony Esposito: Pearson prince hall,
+<br>2: Engineering fluid Mechanics - K L Kumar Eurasia publishing house private Ltd.( S Chand)
+<br>3: Hydraulics, Fluid Mechanics and Hydraulic Machines – Khurmi, S Chand and company
+<br>4: Pneumatic systems principles and maintenance – S.R. majumdar, tata McGraw hill education private Ltd, New Delhi.
+<br>5. Hydraulic and pneumatic controls – K.Shanmuga sundaram,S. CHAND publications
+<br>6: Hydraulic and pneumatic – R.K. Hegde, Niranjan murthy, SAPNA Publication
+
+<br><br><b>E –Learning</b>
+
+<br><br>1.	http://www.nptel.ac.in/courses/112106175/Module%201/Lecture%201.pdf
+<br>2.	http://www.asconumatics.eu/images/site/upload/_en/pdf1/00482gb.pdf
+<br>3.	http://www.mdfirst.org/images/stories/documents_2012/Pneumatics-basics.pdf
+<br>4.	http://www.festo.com/cat/en-in_in/products
+<br>5.	http://www.janatics.com/products.htm
+<br>6.	http://www.lagos.udg.mx/sites/default/files/Electroneumaticabasica(eng).pdf
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>1. Build a oil power circuit for an application beyond the curriculum and submit 2 to 3 pages hand written report
+<br>2. Build a pneumatic circuit for an application beyond the curriculum and submit 2 to 3 pages hand written report
+
+<br><br><b>Note:</b> 
+
+<br>1. Group of max four students should do any one of the above activity or any other similar activity related to the course COs and get it approved from concerned Teacher and HOD. 
+<br>2. No group should have activity repeated or similar 
+<br>3. Teacher should ensure activities by different groups must cover all COs 
+<br>4. Teacher should asses every student by using suitable Rubrics approved by HOD

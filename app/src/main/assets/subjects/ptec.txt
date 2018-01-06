@@ -1,0 +1,54 @@
+UNIT I: Introduction to Lathe Machine
+Introduction to lathe, Classification of lathes, specification of lathe, parts of lathe, Constructional features of Engine lathe, Capstan and Turret lathe, Lathe attachments, accessories - Chucks, face plate, centers, mandrels, Single point cutting tool nomenclature, Lathe operations, facing, plain turning, Taper turning, knurling and thread cutting, Machining parameters-cutting speed, feed, depth of cut  and machining time.
+<br><b>[09 Hrs] [30 Marks] </b>
+
+UNIT II: Introduction to Drilling and Milling Machine
+Introduction, Classification of drilling machines, Radial drilling machine, Drilling operations, Twist drill nomenclature, Machining parameters-cutting speed, feed, depth of cut and machining time and simple problems. Introduction to milling and classification, Column and knee type milling machine, Milling cutters and classification, Fundamentals of milling processes, Milling operations,  Cutting speed, feed and depth of cut.
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT III: Shaper, Planer and slotter
+Introduction to Shaper  and Classification , Specifications  and Principal parts of Shaper, Shaper Mechanisms  and Shaper Operations, Cutting Speed, Feed, Depth of cut and Machining time, Introduction to Planer and Classification, Specifications and Principal parts of Double Housing Planer, Planer Mechanisms and Operations, Differences between Planer and Shaper, Introduction to Slotter and Classification and Specifications.
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT IV: Grinding and surface finishing
+Introduction to grinding and Classification, Cylindrical , centerless grinding machines, Grinding  wheels, Abrasives and classification, Bond and bonding, Grit, Grade and Structure of wheels, Specification of wheels, Types of grinding wheels, Standard marking system, Selection of grinding wheels,  Mounting of grinding wheels, Glazing and loading of wheels, Dressing and truing of wheels, Balancing of wheel. Introduction to surface finish, electro plating and Surface finishing operations – honing, buffing, lapping and polishing.
+<br><b>[07 Hrs] [15 Marks] </b>
+
+UNIT V: Modern machining, Jigs and Fixtures
+Introduction to modern machining, Differences between conventional and non-conventional methods, Classification, Principle of working,  applications, merits and demerits of Abrasive jet machining, Electric discharge machining, Ultrasonic machining and  Laser beam machining,. Introduction to NC, CNC, difference between NC and CNC, Close Loop and Open loop, NC motion control system. Introduction to jigs and fixtures, Types of jigs and fixtures, Applications and merits of jig and fixture.
+<br><b>[09 Hrs] [25 Marks] </b>
+
+UNIT VI: Powder Metallurgy and Plastics
+Basic concepts of powder metallurgy, Methods and Process of powder metallurgy, Secondary operations for powder metallurgy, Applications, merits and limitations of powder metallurgy, Introduction to plastics, Types of plastics, Plastic processing – Moulding process, compression, injection and Extrusion, Principle of thermoforming and calendaring.
+<br><b>[07 Hrs] [15 Marks] </b>
+
+<b>Reference Books:</b>
+
+<br><br>1)	Workshop Technology by Hazara choudary VOL - I and VOL – II.
+<br>2)	Production Technology by Dr.P.C.Sharma., S Chand and Co
+<br>3)	Workshop technology by B.S.Raghuvamshi
+<br>4)	Introduction to Manufacturing Processes ,  P N Rao , Vol 1 and Vol II, Tata Mc Graw Hill Publications
+<br>5)	Production Technology by R.K.Jain.
+<br>6)	Manufacturing Technology I and II ,  Dr.  P C  Sharma , S Chand and Co.
+
+<br><br><b>E –Learning</b>
+<br><br>1.	https://www.youtube.com/watch?v=fVd52INbgYc
+<br>2.	https://www.youtube.com/results?search_query=shaper+machine+operation
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br><b>Note:</b> The following activities or similar activities for assessing CIE (IA) for 5 marks (Any one)
+
+<br><br>1. Make Visit to nearest work shop ,observe the lathe and make list of real time machine components which are machined.
+<br>2. Observe the milling machine of your polytechnic and study its specifications. List the possible milling operation can done on that machine
+<br>3. Observe the operation of NC and CNC drilling machine in industries and make report
+<br>4. Compare various unconventional machines by collecting their broachers. Make comparative report
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br><b>Note:</b> The activities or similar activities for assessing CIE (IA) for 5 marks (Any one)
+
+<br><br>1. Make Visit to nearest work shop ,observe the lathe and make list of real time machine components which are machined.
+<br>2. Observe the milling machine of your polytechnic and study its specifications. List the possible milling operation can done on that machine
+<br>3. Observe the operation of NC and CNC drilling machine in industries and make report
+<br>4. Compare various unconventional machines by collecting their broachers. Make comparative report

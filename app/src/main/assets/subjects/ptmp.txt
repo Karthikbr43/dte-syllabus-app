@@ -1,0 +1,128 @@
+UNIT - I: Introduction to Press
+<br>Introduction
+<br>1.0	Types of presses
+<br>1.1	power press 
+<br>1.2	Power press driving mechanisms
+<br>1.3	Crank and connecting rod ii) knuckle joint iii) rack and pinion iv) Hydraulic
+<br>1.4	press size
+<br>1.5	press tools
+<br>1.6	Die accessories
+<br>i) Stops ii) Stripper plate iii) Pressure pad						
+<br>1.7	Types of dies Classification based on operations
+<br>1.7.1 Shearing
+<br>i) Piercing ii) Blanking iii) Notching iv) Lancing
+<br>1.7.2 Bending 
+<br>i) Angle bending ii) Curling
+<br>1.7.3  Drawing
+<br>1.7.4  Squeezing i) coining ii) Embossing.
+<br>1.8	 Classification based on construction
+<br>1.8.1	Simple die
+<br>1.8.2	Follow or progressive die
+<br>1.8.3	Combination die
+<br>1.8.4	Rubber dies
+<br>1.9 General press information
+<br>1.10 Factors considering for selection of press 						
+<br><br><b>[08 Hrs] [30 Marks] </b>
+
+UNIT - II: Principles of Press tools
+<br>2.0  Introduction
+<br>2.1  Clearance between punch and die
+<br>2.2  Angular clearance on die
+<br>2.3  Dowels and screws
+<br>2.4  Punches characteristics
+<br>2.5  Smallest hole that can be punched
+<br>2.6  Die block Design
+<br>2.7  Punch Design
+<br>2.8  Definition of Jigs and fixtures
+<br>2.9  Advantages of Jigs and fixtures
+<br>2.10 Location										
+<br>2.11 Basic rules for location
+<br>2.12 Principles of location.
+<br><br><b>[07 Hrs] [15 Marks] </b>
+
+UNIT - III: Casting Processes
+<br>3.0 Introduction
+<br>3.1 Types of Patterns 
+<br>3.1.1 Single piece, loose piece, split, Match plate, cope and drag, Skeleton Patterns.		
+<br>3.2	Allowances in pattern making.
+<br>	3.2.1 Shrinkage, machining, draft, distortion allowances	 
+<br>3.3 Types and characteristics of Moulding sand							
+<br>3.4 Constituents of Moulding sand
+<br>3.5 Cores 
+<br>	3.5.1 Horizontal and vertical cores
+<br>3.6 Gates, Runner and Raisers									
+<br>3.7 Moulding types - Shell and Investment							
+<br>3.8	Casting Types - Gravity and Centrifugal, Injection die casting			
+<br>3.9	Defects in casting
+<br>3.10 Non-destructive tests	
+<br>3.10.1 Visual inspection, radiography, ultrasonic testing					
+<br><br><b>[08 Hrs] [25 Marks] </b>
+
+UNIT - IV: Mechanical working of metals
+<br>Introduction
+<br>4.0 Cold working processes	
+<br>4.1. Tube and bar drawing.
+<br>4.2. Bending
+<br>4.3. Cold spinning	
+<br>4.4 Hot working processes
+<br>4.4.1. Principle of Rolling.
+<br>4.4.2 Types of rolling mills
+<br>  i) Two roller mill ii) Three roller mill iii) Four and cluster mill
+<br>4.4.3Direct and indirect Extrusion								
+<br>4.4.4 Piercing.
+<br>4.4.5 Cupping or drawing.									
+<br>4.4.6 Spinning
+<br>4.5	Advantages and Disadvantages of cold and hot working
+<br><br><b>[08 Hrs] [30 Marks] </b>
+	
+UNIT - V: Welding
+<br>5.0 Introduction
+<br>5.1	Classification of Welding
+<br>5.2	Electric resistance welding									
+<br>5.3	Spot welding, projection welding
+<br>5.4	Arc welding											
+<br>5.4.1	Electrode coating
+<br>5.4.2	Carbon arc, Metal arc									
+<br>5.5	TIG and MIG Welding
+<br>5.6	Resistance welding
+<br>	i) Resistance butt welding ii) Resistance flash welding
+<br>5.7 Gas Welding											
+<br>5.8	Equipment for Gas welding
+<br>5.9	Gas Flames										
+<br><br><b>[08 Hrs] [30 Marks] </b>
+
+UNIT - VI: Lean and Agile Manufacturing
+<br>6.1	Introduction
+<br>6.2	Four Pillars of lean manufacturing
+<br>6.3	Special features of lean manufacturing
+<br>6.4	Advantages and limitation of lean manufacturing
+<br>6.5	Difference between traditional and lean manufacturing 
+<br>6.6	Difficulties in adopting lean technique
+<br>6.7	Agile manufacturing
+<br>6.8	Manufacturing Excellence  
+<br>6.9	Major problem being placed in manufacturing excellence					
+<br>6.10 Trends in manufacturing excellence	
+<br><br><b>[07 Hrs] [15 Marks] </b>
+
+<b>Reference Books:</b>
+
+<br><br>1.	Metal casting and joining : K C John, PHI publications.
+<br>2.	Manufacturing technology –I	: P C Sharma, S CHAND publications.
+<br>3.	Manufacturing processes	: Rajeev Kumar. PHI publications.
+<br>4.	Mechanical workshop practice : K C John, PHI publications.
+<br>5.	Principles of Foundry Technology : Jain P. L.
+<br>6.	Foundry Technology : O. P. Khanna
+<br>7.	Workshop Technology Volume I : Habra Chowdury.
+<br>8.	Workshop Technology : R. S. Khurmi. Chand  and   company
+<br>9.	 Tool Engineering and Design : G. R. Nagpal Khanna publication
+<br>10.	Workshop technology vol : I	: B S Raghuwwanshi
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>1. Prepare a chart to show different types of dies used in press or Assignments
+<br>2. Prepare a chart to show the layout of foundry shop or gating system or assignment
+<br>3. Prepare a chart for TIG & MIG welding process or Assignments
+
+<br><br><b>Note:</b> The activities or similar activities for assessing CIE (IA) for 5 marks (Any one)
+<br>1. Each student should do any one of the following type activity or any other similar activity related to the course and before conduction, get it approved from concerned Teacher and HOD.
+<br>2. Each student should conduct different activity and no repeating should occur

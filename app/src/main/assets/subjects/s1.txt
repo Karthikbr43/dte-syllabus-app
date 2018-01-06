@@ -1,0 +1,76 @@
+UNIT I: INTRODUCTION 
+Definition and objectives of surveying, primary divisions, classifications, and principle.	
+<br>CHAIN SURVEYING : Purpose, Accessories, Principles of chain surveying, Different operations, Ranging, Cross staff survey simple problems, Plotting the chain survey, adopting suitable conventions, Errors and  corrections in chain surveying, (without numerical problems)
+<br><b>[10 Hrs] [28 Marks] </b>
+
+UNIT II: COMPASS SURVEYING	
+Introduction and purpose, Bearing and its type, Problems on bearings, Compass and its type, Dip and declination, Simple problems, Local attraction, Open and closed traverse, checks, Errors		
+<br><b>[10 Hrs] [28 Marks] </b>
+
+UNIT III: LEVELLING
+Terms used in leveling, types of levels, Bench marks, Temporary adjustments of level	Concept of B.S, I.S, F.S, C.P, H.I and remarks, Simple leveling and differential leveling Reduction of levels i) Plane of collimation method ii) Rise and fall methods
+<br>Problems on reduction of levels.
+<br><b>[10 Hrs] [28 Marks] </b>
+
+UNIT IV: LEVELLING – APPLICATION
+Different types of leveling - fly leveling, check leveling, profile leveling, cross sectioning,  Plotting of longitudinal and cross section, Errors in leveling and precautions, Setting grade stakes and setting out grades for sewers and problems on it.
+<br><b>[10 Hrs] [28 Marks] </b>
+
+UNIT V: CONTOURING   
+Concepts of contour and terms used in contouring, characteristics of contour, uses of contours, Methods of contouring, Interpolation by arithmetical method, calculation of capacity of the reservoir. 
+<br><b>[05 Hrs] [19 Marks] </b>
+
+UNIT VI: AREAS AND VOLUMES
+Computation of Area of Irregular figures using Trapezoidal and   Simpson's rule - problems.   Volumes of Irregular solids- using Trapezoidal and Prismoidal Rule - Problems on Embankment and Cutting 
+<br><b>[07 Hrs] [14 Marks] </b>
+
+<b>Text books:</b>
+
+<br><br>1.	Surveying and Levelling  Vol- I and II  by  B C Punmia
+<br>2.	Surveying and Levelling  by T P  konetkarand S V Kulkarni
+<br>3.	Plane Surveying by Dr.Alak De
+<br>4.	Surveying and Levelling   by S SBhavikatti
+<br>5.	Surveying by Duggal
+<br>6.	Surveying by R Agor
+<br>7.	Fundamentals of Surveying by S K Roy
+<br>8.	Surveying and Levelling  by N NBasak
+
+<br><br><b>References:</b>
+
+<br><br>1.	www.elearning.com/survey
+<br>2.	http://nptel.ac.in/video.php?subjectId=105104101
+<br>3.	http://media.sakshat.ac.in/NPTEL-IIT-Videos/
+<br>4.	http://nptel.iitk.ac.in/courses/Civil_Eng/IIT%20Roorkee/Surveying.htm
+<br>5.	http://nptel.iitk.ac.in/
+
+<br><br><b>Suggested Student Activity:</b>
+<br>The topic should be related to the course in order to enhance his knowledge, practical skill and lifelong learning, communication, modern tool usage.
+
+<br><br>1. Prepare a spread sheet(Microsoft Excel ) of Rise and fall method showing the calculation by using formula bar and present it
+<br>2. Prepare a spread sheet (Microsoft Excel ) of Height of instrument method showing the calculation by using formula bar and present it
+<br>3. Compute the area of Nehru ground or any area/agriculture field by cross staff survey and present it
+<br>4. Compute the area of Nehru ground/ any area/agriculture field by Compass survey and present it
+<br>5. Chain triangulation
+<br>6. Find the volume of excavation of a drainage
+<br>7. Conduct a experiment to overcome obstacles in chaining and ranging.
+<br>8. Conduct a open traverse in chain surveying and represent the sign conventions in the field book.
+<br>9. Conduct a closed traverse in chain surveying and represent the sign conventions in the field book calculate area.
+<br>10. New Road survey
+<br>11. Survey conducted for Widening of existing road
+<br>12. Compute the capacity of reservoir/pond near by your locality
+<br>13. Sensitivity of bubble used in levelling
+<br>14. Two Peg Test
+<br>15. Three Wire Levelling
+<br>16. Permanent Adjustments of a Dumpy Level
+<br>17. Block levelling for sloped ground level and compute the volume of earth work excavation required to construct a building.
+<br>18. Layout Plan of Existing Campus
+<br>19. Contour Map of Existing Campus
+<br>20. Carryout reciprocal levelling and make a presentation
+<br>21. Presentation on Precise levelling, Digital levelling, Digital ground model, Data logger, Triangular grid model, Units of measurements used in survey from history
+<br>22. Select an irregular area/hillock conduct a block levelling and calculate the volume of earth and present it.
+<br>23. Explore and use surveying software’s and present it.
+<br>24. Select an irregular area/hillock conduct a direct contouring and calculate the volume of earth and present it.
+
+<br><br><b>Note:</b> 
+<br>1. Students should select any one of the above or other topics relevant to the subject approved by the concerned faculty, individually or in a group of 3 to 5. Students should mandatorily submit a written report and make a presentation on the topic. The task should not be repeated among students. Report will be evaluated by the faculty as per rubrics. Weightage for 5 marks Internal Assessment shall be as follows: (Unsatisfactory 1, Developing 2, Satisfactory 3, Good 4, Exemplary 5)
+<br>2. Reports should be made available along with bluebooks to IA verification officer

@@ -1,0 +1,35 @@
+UNIT I : Basics of Agronomy and Horticulture
+Definition of Agronomy and Horticulture- Scope and its Importance, Classification of crops, Soil and Climatic Requirements for fruit crops, Soil and Climatic Requirements Vegetables and flower crops, Cropping System, Pruning and Training, Methods of Irrigation, Garden tools and Nursery raising, Nutrition: Essential elements and their role, methods for correcting deficiency and excess, High-tech Horticulture, Poly house for flowers and vegetables crops, Study of Composting and Green manuring. 	
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT II : Introduction to Soil Science
+Concept and Definition of soil, Classification of soil based on Particle size, Weathering, Soil Profile, Physical properties of soil – Texture, Structure, Porosity, Void’s ratio, Three phase diagram of soil, Organic matter content of the soil, Soil erosion – definition, list the types and its causes, Leaching requirement and its management practices, Study of soil forming using rocks and minerals.				
+<br><b>[08 Hrs] [20 Marks] </b>
+
+UNIT III : Sources of Farm power and Mechanization
+Introduction to Farm machineries – definitions and functions  of Tillage, Ploughs (MBandIP), Paddlers, Harrows (Disc and Blade),Hoes, Cultivators, Harvesters, Sources of Farm power, Conventional and Non-Conventional energy resources, IC engine – definition, terminology and its classification, Farm mechanization – definition and objectives. Working of four stroke petrol /diesel engine .Working of two stroke petrol /diesel engine. Comparison between S.I andC.I engines.
+<br><b>[09 Hrs] [25 Marks] </b>
+
+UNIT IV : Power Transmission
+Types of power transmission, Flat belt drives- open and cross belt drives, Velocity ratio, slip and creep, Simple problems, Fast and loose pulley, Cone or stepped pulley, idler pulley belt drives – advantages and limitations, Advantages and limitations of gears Rope drives, Chain drives Type of gears (Listing only), Velocity ratio of gears, Simple gear train, Compound gear train, simple problems on gear drives.
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT V : Ferrous metals
+Principal ferrous metals- Cast iron, pig iron, wrought iron and steel ,cupola furnace, Types of cast iron, composition, properties and uses, Steel – grades of steel and their composition, Alloying of steel, Purposes of alloying, Composition and uses of – nickel steel, stainless steel, HSS, manganese steel. 
+<br><b>[08 Hrs] [20 Marks] </b>
+
+UNIT VI : Non Ferrous metals
+Properties and uses of nonferrous metals – copper, aluminum, zinc, tin , Composition, properties and uses of copper alloys -1) Brass- montz metal, white brass, yellow brass 2)Bronze- bell metal, gun metal and phosphor bronze  ,Composition, properties and uses of aluminum alloys-1) Aluminum bronze 2)Duralumin
+<br><b>[08 Hrs] [20 Marks] </b>
+
+<b>Text books:</b>
+
+<br><br>1.T.Yellamanada Reddy, G.H Sankara Reddy- ‘Principle of Agronomy’- Kalyani publications
+<br>2.Jitendra Singh ‘Basic Horticulture’ – Kalyani publications
+<br>3.T.P Ojha – ‘Principles of Agril Engg Vol I’
+<br>4.T.D.Biswas, S.K Mukherjee ‘Soil Science’ – TMH Publications
+<br>5.Elements of Workshop Technology Vol-I Manufacturing Process edition-By Hajra Choudry 
+
+<br><br><b>REFERENCE:</b>
+<br><br>1.Manufacturing Technology -1 by P.C Sharma of S.CHAND Publications.
+<br>2.Mechanical Engineering Science by- K.R Gopalkrishna

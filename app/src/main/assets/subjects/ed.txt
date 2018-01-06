@@ -1,0 +1,39 @@
+UNIT I : DIMENSIONING
+Introduction to Engineering Drawing-Drawing Instruments – Standard Sizes of Drawing sheets and layout of drawing sheets-Types of lines and their applications-Conventions for various materials-Introduction to Dimensioning‐Elements of Dimensioning –Systems of Dimensioning‐Methods of arrangements of Dimensioning- Dimensioning of common features like diameters,radii,arcsandchords.
+<br><b>[15 Hrs] [30 Marks] </b>
+
+UNIT II	: PROJECTION OF POINTS AND LINES
+Introduction to orthographic projection- Planes of projection- Four Quadrants- Concept of first and third angle projection method- Projection of points in all the four quadrants. Projection of lines – Parallel to both HP and VP - parallel to one plane and Perpendicular to other- parallel to one plane and Inclined to the other.
+(First angle projection should be followed).
+<br><b>[15 Hrs] [30 Marks] </b>
+
+UNIT III : PROJECTION OF PLANE SURFACES
+Construction of polygons-Projection of plane Surfaces–Planes parallel to one plane and Perpendicular toother two - Planes Perpendicular to one plane and inclined to the other.
+<br><b>[12 Hrs] [20 Marks] </b>
+
+UNIT IV : PROJECTION OF SOLIDS
+Positioning of solids – lying with base on HP-Base or Axis inclined to HP-lying one of their lateral faces on HP- lying one of their lateral edges on HP.
+<br><b>[15 Hrs] [20 Marks] </b>
+
+UNIT V : CONVERTION OF PICTORIAL VIEWS INTO ORTHOGRAPHIC VIEWS
+Introduction –Guidelines for Conversion of pictorial views into Orthographic Views
+<br><b>[9 Hrs] [15 Marks] </b>
+
+UNIT VI : ISOMETRIC PROJECTIONS
+Principles of isometric projection – isometric scale – isometric views of simple solids – cube, prisms, pyramids, cylinder and cone - Conversion of orthographic views into isometric View  of Simple M/C Components.							
+<br><b>[12 Hrs] [30 Marks] </b>
+
+<b>Text books:</b>
+
+<br><br>1.	K.R.Gopalakrishna“Fundamentals of Drawing”Subhas Publications, 2010.
+<br>2.	K.R.Gopalakrishna“Engineering Drawing” (Vol. I and II), Subhas Publications, 2014.
+
+<br><br><b>REFERENCES:</b>
+
+<br><br>1.	BasantAgarwal and Agarwal.C.M., “Engineering Drawing”, McGraw Hill Publishing Company Limited, New Delhi, 2012
+<br>2.	DhananjayA.Jolhe, “Engineering Drawing with an Introduction to AutoCAD”,McGrawHill Publishing Company Ltd., 2008.
+<br>3.	P.I.Varghese,“Engineering Graphics” ,McGrawHill Publishing Company Ltd. 2013.
+<br>4.	R.K. Dhawan, “A text book of Engineering Drawing”,S.ChandPublishers, Delhi,2010.
+<br>5.	G.S. Phull and H.S.Sandhu, “Engineering Graphics”,Wiley Publications, 2014.
+<br>6.	K.Venugopal and V.Prabhu Raja, “Engineering Graphics”, New Age International PrivateLimited, 2008.
+<br>7.	M.B.Shah and B.C.Rana, “Engineering Drawing”, Pearson Education, 2005

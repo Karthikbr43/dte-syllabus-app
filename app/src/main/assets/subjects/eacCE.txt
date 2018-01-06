@@ -1,0 +1,88 @@
+UNIT - I: INTRODUCTION TO ESTIMATION
+1.	Introduction to estimating: different items of works and types of estimates.
+<br>2.	Units of measurements and units of payment of different items of work.
+<br>3.	Deduction of Openings in different items of works and Measurements as per BIS-2000.
+<br>4.	Bill of Quantities, Scheduled rates, Lead Statements.	
+<br><br><b>[04 Hrs] [20 Marks] </b>
+
+UNIT - II: SPECIFICATIONS 
+Contents of Specification and its usage in BOQ’s 
+<br>Earthwork in excavation for foundation, Cement concrete in foundation, Brick masonry	, R.C.C Work, Plastering in Cement mortar, Pointing with cement mortar, Cement concrete flooring, Granite / Vitrified / Marble flooring, Centering and shuttering works, Distempering, Exterior painting (Cement), Woodwork for windows and doors, Painting woodwork and steel, Glazing works for building.
+<br><br><b>[04 Hrs] [20 Marks] </b>
+
+UNIT - III: ANALYSIS  OF  RATES
+Analysis of rates for the following items of works.
+<br>Earthwork excavation and filling, Cement concrete bed in foundation, Brick masonry in C.M for superstructure, Hollow concrete / solid concrete blocks masonry in CM, Plastering with cement mortar, Pointing with cement mortar, Painting the old and new wood work & Steel work, CC Flooring, Granite / Vitrified // Marble flooring, Panelled and glazed doors and windows, R.C.C roofing slab, Distempering, Corrugated galvanized iron sheet roofing.
+<br><br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT - IV: DETAILED AND ABSTRACT ESTIMATE OF BUILDINGS
+Prepare the detailed and abstract estimate of,
+<br>1.	One room building- Ground floor with flat RCC roof
+<br>2.	Two room building- Ground floor with flat RCC roof
+<br>3.	1BHK Residential building - Ground floor with flat RCC roof and Pitched roof with load bearing wall.
+<br>4.	2BHK Residential building - Ground floor with flat RCC roof for framed structures.
+<br>5.	Building with semi circular/ Hexagonal room walls – Ground floor with flat RCC roof.
+<br>6.	School building – Ground floor with flat RCC roof.
+<br><br><b>[26 Hrs] [50 Marks] </b>
+
+UNIT - V: ESTIMATION OF ROAD WORKS
+Detailed Estimates and Abstract of Cost of Road work.
+<br>1. Compute earth work quantities from given cross sectional details.
+<br>2. Preparation of Detailed Estimates and Abstract of Cost of Rigid and Flexible pavements 
+<br><br><b>[08 Hrs] [20 Marks] </b>
+
+<b>Text books:</b>
+
+<br><br>1.	Dutta B N, “Estimation and costing in civil engineering theory and practice”, 27th edition, UBS Publisher’s Distributors (P) Ltd New Delhi.
+<br>2.	D.D.Kohli & Ar.R.C.Kohli, “Estimating and Costing(CIVIL)”2013 edition, S.CHAND Publications.
+<br>3.	IS: 1200 Part 1 to 28, Method of Measurement of Building and Civil Engineering Works. 
+<br>4.	Chakroborti M, “Estimating, costing and specifications in Civil Enginnering”-2006.
+<br>5.	Rangawala S C,“Valuation of Real properties” Charotar  Publishing House -2008.
+
+<br><br><b>Website:</b>
+
+<br><br>1.	http://www.nprcet.org/civil/document/CE702-ESTIMATION.pdf
+<br>2.	http://theconstructor.org/construction/reinforcement-quantity-estimation/6802/
+<br>3.	https://www.youtube.com/watch?v=buUKMbXfEUI
+<br>4.	http://218.248.45.169/download/training/ppt3.pdf
+<br>5.	http://www.slideshare.net/thomasjbritto/estimating-andcosting-book
+<br>6.	http://bieap.gov.in/Pdf/CTPaperIIYR2.pdf
+<br>7.	https://www.wbdg.org/ccb/DOD/UFC/ufc_3_740_05.pdf
+<br>8.	http://bie.telangana.gov.in/Pdf/estimatingandcosting.pdf
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>1. Prepare Check list for different items of following type of Civil Engineering works.
+<br>a. Load Bearing Building Structure.
+<br>b. Framed structure type of building
+<br>c. W.B.M.Road
+<br>d. Septic Tank
+<br>e. Community well
+<br><br>2. Writing the rules of deduction of openings for below mentioned items of work as per IS 1200.
+<br>a. Brick / Stone masonry
+<br>b. Plastering / Pointing
+<br><br>3. Preparing detailed estimate of a RCC single & two storied existing residential building for all items of work.
+<br><br>4. Prepare the lead statement for earth work excavation for a Road.
+<br><br>5. Prepare the lead and lift statement for a building.
+<br><br>6. Student should visit the site and study the no of labours required for a particular item of work and compare it with the SR by doing Rate analysis as per site observation.
+<br><br>7. Collect the market data for cost of construction materials and implement in rate analysis and compare it with the SR book.
+<br><br>8. Rate analysis to be done for construction activities by using alternate materials like M-sand for River sand and analyse the difference of rates.
+<br><br>9. Rate analysis for works under Lump sum (LS) head to be studied in detail and compared with present SR.
+<br><br>10. Detailed estimate of any building before project to be compared during execution and after completion of project.
+<br><br>11. Reconciliation of materials for a particular item need to done for an ongoing project.
+<br><br>12. Detailed estimate for any two or more residential buildings to be compared and rate per unit area to be find out which will help in present market survey.
+<br><br>13. Visit any construction site and study weekly/monthly RA bill submission from Contractors.
+<br><br>14. Collecting old set of tender document and writing a report on it.
+<br><br>15. Collection of tender notices published in newspapers for various items of civil engineering works (at least 5) write salient features of them.
+<br><br>16. Drafting a tender notice for construction of a civil engineering work ( W. B. M. Road, residential building )
+<br><br>17. Preparation of tender document for the building (detailed estimate prepared for RCC. building in estimating and costing shall be used) of various account forms from PWD & writing report on it.
+<br><br>18. Writing a report on store procedure and account producer of PWD for it (Guest lecture of PWD official may be arranged.)
+<br><br>19. Writing detailed specifications for one item from each of following :
+<br>a. Irrigation engineering system
+<br>b. Transportation engineering system.
+<br>c. Environment engineering system.
+<br>d. Building construction system
+
+<br><br><b>Note:</b>
+<br>1. Students should select any one of the above or other topics relevant to the subject approved by the concerned faculty, individually or in a group of 3 to 5. Students should mandatorily submit a written report and make a presentation on the topic. The task should not be repeated among students. Report will be evaluated by the faculty as per rubrics. Weightage for 5 marks Internal Assessment shall be as follows: (Unsatisfactory 1, Developing 2, Satisfactory 3, Good 4, Exemplary 5)
+<br>2. Reports should be made available along with bluebooks to IA verification officer.

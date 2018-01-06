@@ -1,0 +1,80 @@
+UNIT - I: Introduction to Limit state design of steel structures
+Advantages and disadvantages of Steel structures, structural steel sections, loads and load combinations, Limit state design- Design considerations, Failure criteria for steel, codal specifications and section classifications as per IS 800-2007.
+<br><b>[04 Hrs] [10 Marks] </b>
+
+UNIT - II: Bolted and Welded Connections
+<b>Bolted Connections:</b> Introduction, advantages and disadvantages of bolted connections, Difference between unfinished bolts and High strength friction grip bolts (HSFG). Behaviour of bolted joints, failure of bolted joints, Simple problems on finding shear strength, bearing strength, tensile strength of bolts (bearing type only). Tensile strength of plate, Efficiency of the joint. Simple Lap Joint Design problems.
+<br>Note: Excluding problems on HSFG Bolts and Long joints conditions. 
+<br><b>Welded Connections:</b> Introduction, advantages of welding, types of joints, weld symbols, specifications, effective area of weld, design strength of fillet weld, Simple problems on welded joints (fillet weld only).
+<br><b>[12 Hrs] [35 Marks] </b>
+
+UNIT - III: Flexural Members
+Lateral buckling, Web buckling and crippling, Difference between laterally restrained and unrestrained beams, Determination of the moment capacity of laterally restrained beams. Design of laterally restrained simple beams using standard rolled steel sections only. 
+<br><b>[07 Hrs] [20 Marks] </b>
+
+UNIT - IV: Tension Members
+Introduction, types of tension members, slenderness ratio, net area, behaviour of tension members, modes of failure, factors affecting the strength of tension member, design strength of tension member due to yielding of gross section, due to rupture of critical sections and block shear. Design of tension members. 
+<br><b>[09 Hrs] [25 Marks] </b>
+
+UNIT - V: Compression Members and Column Bases
+<b>Compression Members:</b> Columns –Classification, Boundary conditions, effective length, slenderness ratio. Design strength of Columns. Design of axially loaded Columns (Excluding Built up sections) 
+<br>Design of struts: Continues and Discontinues strut for given end conditions for axial load only. 
+<br><b>Column Bases:</b> Introduction, Types of Column Bases, Slab base, Gusseted Base, Design of Slab base for axial Load. 
+<br><b>[12 Hrs] [35 Marks] </b>
+
+UNIT - VI: Analysis and Design of Masonry dams and Retaining walls
+<b>Analysis and Design of Masonry dams:</b> Design of masonry dams with water face vertical	, Distribution of pressure at foundation when the reservoir is full or empty.		
+<br><b>Analysis and Design of Retaining walls:</b> Theory of earth pressure – calculation of earth pressure by Rankin’s method - with and without surcharge, Conditions of stability for no tension, middle third rule, Distribution of pressure at foundation, Design of masonry Retaining wall with earth face vertical.
+<br><b>[08 Hrs] [20 Marks] </b>
+
+<b>Text books:</b>
+<br><br>1. M.L.Gambhir “Fundamentals of Structural Steel Design” Tata Mcgraw Hill, New Delhi
+<br>2. N. Subramanian, Design of Steel Structures Limit State Method, Oxford University Press, New Delhi 
+<br>3. K.S. Duggal, “Limit State Design of Steel Structures”, Tata Mcgraw Hill, New Delhi
+<br>4. S. S. Bhavikatti, Design of Steel Structures (By Limit State Method As Per IS: 800 2007)
+<br>5. L.S. Negi, Design of Steel Structures Second Edition, Mcgraw Hill Education.  
+
+<br><br><b>References:</b>
+<br><br>1. Gaylord and Gaylord, “Design of Steel Structures”, Mcgraw Hill Publications, New York. 
+<br>2. IS 800: 2007- General Construction in Steel- Code of Practice (Third Revision)
+<br>3. SP 6-1 (1964): ISI Handbook for Structural Engineers -Part- 1.
+
+<br><br><b>e - Links:</b>
+<br><br>1. http://nptel.ac.in/courses/105106112/
+<br>2. https://www.youtube.com/watch?v=EFBTSKPW5Ek
+<br>3. https://www.youtube.com/watch?v=4rRW8ampdc&list=PL5bDhnkL5C58uqazQ_zXxEGwtkSkU-3Bj&index=2
+<br>4. https://www.youtube.com/watch?v=C4Mm3mvN1P0
+<br>5. https://www.youtube.com/watch?v=g6sSbazsyLw
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br>The topic should be related to the course in order to enhance his knowledge, practical skill & and lifelong learning, communication, modern tool usage.
+
+<br><br>1.	Conduct a comparative study between a brittle and a ductile materials used in construction, Preparing a presentation report on the analysis of stress strain curve 
+<br>2.	Collect the map showing the Seismic zones of India and Basic wind speed throughout the country and analyse those maps.
+<br>3.	Collect & Prepare a list of Indian Standard codes referred for structural steel design with the purpose of each code.
+<br>4.	Prepare a chart showing various static and dynamic loads acting on the steel structures.
+<br>5.	Visit a nearby construction site and identify the various types of connections used in steel structures and prepare a report. (steel Structures in railway stations, Bus terminals, Transmission towers)
+<br>6.	Prepare a report and presentation on the topic “finite element analysis”
+<br>7.	Prepare spread sheets for the following structural steel designs:
+<br>a.	Design of Beams
+<br>b.	Design of Columns
+<br>c.	Design of slab base
+<br>d.	Analysis and design of masonry dams
+<br>e.	Analysis and design of retaining wall
+<br>8.	Prepare a report on the use of composite materials in construction and present it.
+<br>9.	Collect the catalogues of various types of structural steel sections and prepare a presentation on that.
+<br>10.	Prepare 2D & 3D models of various structural steel sections using CADD.
+<br>11.	Prepare a report on the use of Concrete filled tubes in construction.
+<br>12.	Prepare the structural detailing of designed sections as per SP 6-1 (1964): ISI Handbook for Structural Engineers -Part- 1
+<br>13.	Prepare a model of Columns, Beam to beam connection, Beam to column connection slab base, masonry dams retaining wall
+<br>14.	Prepare a presentation and project report on i) the different composite materials used in the construction. ii) Suspended Structures, iii) tubular structures.
+<br>15.	Prepare report on Design and detailing of gantry girders
+<br>16.	Prepare report on Design and detailing of Plate girders
+<br>17.	Prepare report on Design and detailing of Column and beam Splices 
+<br>18.	Prepare report on Design and detailing of Lacings and battens
+<br>19.	Prepare report on Design and detailing of Column to base connection
+
+<br><br><b>Note:</b> 
+<br>1. Students should select any one of the above or other topics relevant to the subject approved by the concerned faculty, individually or in a group of 3 to 5. Students should mandatorily submit a written report and make a presentation on the topic.  The task should not be repeated among students. Report will be evaluated by the faculty as per rubrics. Weightage for 5 marks Internal Assessment shall be as follows: (Unsatisfactory 1, Developing 2, Satisfactory 3,  Good   4,  Exemplary5)
+<br>2. Reports should be made available along with bluebooks to IA verification officer

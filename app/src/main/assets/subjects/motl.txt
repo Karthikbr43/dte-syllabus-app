@@ -1,0 +1,32 @@
+<b>Experiments:</b>
+
+<br><br>1.	Orifice meter
+<br>2.	Venture meter
+<br>3.	Weirs and Notches
+<br>4.	Characteristics of  Centrifugal Pump
+<br>5.	Fluidised bed
+<br>6.	Flow through Packed Beds
+<br>7.	Rotameter
+<br>8.	Flow through pipes
+<br>9.	Flow through pipe fittings
+<br>10.	Flow through circular coils
+<br>11.	Flow through Annular pipes
+<br>12.	Characteristics of  reciprocating pump
+<br>13.	Reynolds experiment  
+
+<b>Reference Books:</b>
+
+<br><br>1.	UNIT Operations of Chemical Engineering, McCabe and  W.L Smith V Edn., McGrawHill.
+<br>2.	Introduction to Chemical Engineering, Badger, W.L. and Banchero J.T, 3rd Edition, McGraw Hill
+<br>3.	Coulson and Richardson’s Chemical Engineering Vol. 2
+<br>4.	Particulate Technology   and  Separation Processes, Coulson J.M. and Richardson J.F., 4th Edition.
+<br>5.	Perry’s Chemical Engineers’ Handbook, McGrawHill .
+
+<b>Scheme of Valuation for SEE:</b>
+
+<br><br>1.	Procedure : 10
+<br>2.	Conduction : 10
+<br>3.	Calculation and Result : 20
+<br>4.	Viva : 10
+
+<br><br><b>TOTAL = 50 Marks</b>

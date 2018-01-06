@@ -1,0 +1,126 @@
+UNIT I: INTRODUCTION TO MACHINE TOOLS   
+1.1 Introduction Machine tools
+<br>1.2 Types of machine tools
+<br> 1.2.1 Purpose of machine tools
+<br> 1.2.2 Production machine tools
+<br> 1.2.3 Special purposes machine tools
+<br>1.3 Lathe
+<br> 1.3.1 Sketch and explanation
+<br> 1.3.2 Lathe classification
+<br> 1.3.3 List lathe operations
+<br>1.4 Drilling machine
+<br> 1.4.1 Sketch and explanation vertical drilling machine
+<br> 1.4.2 Classification of drilling machine
+<br> 1.4.3 List operations on drilling machines
+<br>1.5 Milling machine
+<br> 1.5.1 Sketch and explanation vertical milling machine
+<br> 1.5.2 Classification of milling machine
+<br> 1.5.3 List operations on milling machines
+<br>1.6 Shaping machine
+<br> 1.6.1 Classification of shaping machine
+<br> 1.6.2 List operations on shaping machines
+<br><br><b>[09 Hrs] [30 Marks] </b>
+
+UNIT II: CUTTING FLUIDS
+<br>2.1 Purpose of cutting fluids
+<br> 2.1.1 Properties of cutting fluids
+<br> 2.1.2 Types of cutting fluids.
+<br>2.2 Necessity of Lubrication
+<br>2.3 Methods of lubrication
+<br> 2.3.1 Screw cap lubricants
+<br> 2.3.2 Gloss bottle needle type lubricator
+<br> 2.3.3 Syphon wick lubricator
+<br> 2.3.4 Ring oil lubricator 	
+<br><br><b>[08 Hrs] [20 Marks] </b>
+
+UNIT III: TRANSMISSION OF POWER
+3.0	Introduction to transmission system
+<br>3.1	Belt drives
+<br>3.2	Belt materials
+<br>3.3	Types of belt drives
+<br> 3.3.1	Open belt drive
+<br> 3.3.2	Crossed belt drives
+<br> 3.3.3	Stepped cone pulley or speed cone
+<br> 3.3.4	Fast and loose pulleys
+<br> 3.3.5	Jockey pulley
+<br> 3.3.6	Disadvantages of flat belt drives
+<br>3.4	V – belts
+<br> 3.4.1	Advantages of v belt over flat drives
+<br>3.5	Chain drives
+<br> 3.5.1	Advantages and disadvantages of chain drives
+<br>3.6	Gear drives
+<br> 3.6.1	Types of gears
+<br>  3.6.1.1	Spur gear
+<br>  3.6.1.2	Helical gear
+<br>  3.6.1.3	Spiral gear
+<br>  3.6.1.4	Bevel gear
+<br>  3.6.1.5	Worm and worm wheel
+<br>  3.6.1.6	Rack and pinion
+<br>  3.6.1.7	Advantages and disadvantages of gear drives
+<br> 3.6.2	Simple gear train
+<br><br><b>[09 Hrs] [30 Marks] </b>
+
+UNIT IV: ENGINEERING MATERIALS 
+4.1 Introduction
+<br>4.2 Classifications of engineering materials. 
+<br> 4.2.1 Ferrous materials
+<br>  4.2.1.1 Properties and uses of cast iron
+<br>  4.2.1.2 Manufacturing of cast iron –cupola furnace
+<br>  4.2.1.3 Properties and uses of steel
+<br>  4.2.1.2 Manufacturing of steel –Bessemer process
+<br> 4.2.2 Non-ferrous materials
+<br>  4.2.2.1 Properties and uses of aluminum
+<br>  4.2.2.2 Properties and uses of copper
+<br>4.3 Alloys
+<br>  4.3.1. Types of alloys
+<br>  4.3.2 Properties and uses of aluminum andcopper alloy
+<br>4.4 Heat treatment
+<br>  4.4.1 List and explain annealing, case hardening, hardening, tempering
+<br><br><b>[09 Hrs] [25 Marks] </b>
+
+UNIT V: SOLDERING AND BRAZING
+<br>5.1 Soldering
+<br> 5.1.1 Principle 
+<br> 5.1.2 Types of solder
+<br> 5.1.3 Basic method of soldering
+<br> 5.1.4 Advantages of soldering
+<br> 5.1.5 Classification of soldering
+<br>5.2 Brazing
+<br> 5.2.1 Principle of Brazing
+<br> 5.2.2 Filler Metals
+<br> 5.2.3 Fluxes
+<br> 5.2.4 Cleaning of surfaces
+<br> 5.2.5 Brazing procedure 
+<br> 5.2.6 Classification of brazing process 
+<br> 5.2.7 Advantages of brazing
+<br> 5.2.8 Disadvantages of brazing								
+<br><br><b>[09 Hrs] [15 Marks] </b>
+ 
+UNIT VI: BEARINGS
+6.1	 Introduction
+<br>6.2	 Definition of bearing
+<br>6.3	 Classification of bearing
+<br> 6.3.1	Sliding contact bearings
+<br> 6.3.2	Journal bearings
+<br>  6.3.2.1	Bush bearing and plumber block
+<br>6.4	 Thrust bearing
+<br> 6.4.1	Foot step bearing.
+<br>6.5	 Antifriction bearing.
+<br> 6.5.1	Ball and roller bearings.
+<br>6.6 Advantages and disadvantages of antifriction bearings.				
+<br><br><b>[08 Hrs] [25 Marks] </b>
+
+<b>Reference Books:</b>
+<br><br>Units I and V: Elements of Mechanical engineering by V K Manglik, PHI Learning private limited Delhi.
+<br>Units II,III and VI: Mechanical engineering Science by K R Gopal Krishna, Subhas publications ,Bangalore
+<br>Units IV: Engineering material by Rangwala, Charotar publishing house, Anand- 388001 India
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>1. Prepare a chart to show Lathe or milling or drilling or Assignments
+<br>2. Prepare a chart to show the manufacturing processes of different metal or assignment
+<br>3. Prepare a chart for the transmission of power or Assignments
+
+<br><br><b>Note:</b> The activities or similar activities for assessing CIE (IA) for 5 marks (Any one)
+<br>1. Each student should do any one of the following type activity or any other similar activity related to the course and before conduction, get it approved from concerned Teacher and HOD.
+<br>2. Each student should conduct different activity and no repeating should occur

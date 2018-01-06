@@ -1,0 +1,97 @@
+UNIT I: Introduction to RCC, Analysis of singly reinforced, doubly reinforced beams, T-beam
+<b>Introduction</b>: Concept of reinforced concrete structures, Different grades of concrete and steel used in RCC. Load and loading standards as per IS:875. Differentiate between ultimate load method, working stress method and limit state method of design.
+<br><br><b>Design Based on Limit State Method</b>:Fundamentals of Limit State Method, types of limit state, Introduction to stress block parameters, Assumptions in the theory of simple bending for RCC beams, Neutral Axis, Moment of resistance, critical neutral axis, actual neutral axis, concept of balanced, under reinforced and over-reinforced sections.
+Partial safety factors, characteristic strength of materials and loads, Flexural strength, Shear Strength, Development Length of bars, Deflection and cracking, Design requirements, Side face reinforcement, Nominal Cover to reinforcement.
+<br><br><b>Analysis of Beams</b>: Analysis of the following beam as per IS:456-2000(Simply supported and cantilever beams)
+<br>(i) Singly reinforced Beams
+<br>(ii) Doubly reinforced Beams and its necessity.
+<br>(iii) T-beams: Structural behaviour of a beam and slab floor laid monolithically, Rules for the design of T-Beams, Economical depth of T-Beams, Strength of T-Beams, concept of L-beam.
+<br><br><b>[12 Hrs] [45 Marks] </b>
+
+UNIT II: Design of  singly reinforced, doubly reinforced beams, Lintels
+<b>Design of singly reinforced concrete beams</b> as per IS: 456 from the given data such as span, load and properties of materials used. (Design for shear  Two legged vertical stirrups only and check for deflection)
+<br><br><b>Design of doubly reinforced concrete beams</b> as per IS: 456 from the given data such as span, load and properties of materials used. (Design only for shear)
+<br><br><b>Problems</b> on simply supported and cantilever beams.
+<br><br><b>[08 Hrs] [15 Marks] </b>
+
+UNIT III: Design of RCC Slabs:
+Structural behaviour of one way and two way slabs under uniformly distributed load (UDL), Types of end supports, Check for DEFLECTION is not necessary.
+<br>(i) Design and reinforcement detailing of one way slab (simply supported) and Concept of design of balcony slab.
+<br>(ii) One way continuous slab (Two span only) using moment co-efficient as per IS: 456 Table 12.
+<br>(iii) Design and reinforcement detailing of Two-way slab :
+<br>a) Corners are not held down
+<br>b) Corners are held down : All the Four edges discontinuous case only.
+<br><br><b>[12 Hrs] [30 Marks] </b>
+
+UNIT IV: Design of Column and Footings
+<b>Design of Columns</b>: Concept of long and short columns, Specifications for main and lateral reinforcement, interaction diagram in column design, Behaviour of RCC column under axial load.
+<br>(i) Design and detailing of Axially loaded short columns (circular, square and rectangular as per IS specifications), 
+<br>(ii) Design of column subjected to uniaxial bending for reinforcement distributed equally on TWO sides only using SP-16 chart (Square and Rectangular) and concept of bi-axial bending.
+<br><br><b>Design of Column Footings</b>: Concept of column footing, Design criteria, Design of square, rectangular isolated column footings, Detailing of reinforcement.
+<br><br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT V: Design of Dog-legged Staircase
+<b>Design of Staircase</b>: Introduction to stair cases, design and detailing of dog-legged stair, Single flight stairs.
+<br><b>Lintel</b>: Design and Detailing of a Lintel
+<br><br><b>[06 Hrs] [15 Marks] </b>
+
+UNIT VI: Pre-Stressed Concrete
+Concept of prestressing, Difference between RCC & PSC, Situations where prestressed concrete is used, Materials used in prestressed concrete and their specifications as per IS.  Pre-tensioning and Post-tensioning, Mention the systems of prestresses, Mention the Losses in Prestresses. (Excluding numerical problems)
+<br><br><b>[04 Hrs] [15 Marks] </b>
+
+<b>Text books:</b
+
+<br><br>1.	Ashok K. Jain,Reinforced Concrete by Limit State Design by Nem Chand & Bros, Roorkee.
+<br>2.	UNNIKRISHNAN PILLAI AND DEVADAS MENON, Design Of Reinforced Concrete Structures –Tata McGraw Hill Publications. 
+<br>3.	Design of reinforced concrete structures by Krishna raju
+<br>4.	Limit state design of concrete structural elements –TTTI (NITTTR), Chennai
+<br>5.	Minocha&Diwedi, Design of R.C.C. Structures, B. Bharat Prakshain, Merrut.
+<br>6.	S.K. Mallick, Reinforced Concrete, Oxford & IBH Publshing Co., Delhi.
+<br>7.	Design of reinforced concrete structures by P.C. Varghees
+<br>8.	Design of Reinforced Concrete Structures  by S Ramamrutham& R Narayan
+<br>9.	Theory & design of RCC Structures by Gurucharan Singh
+<br>10.	Reinforced Concrete Structures by B C Punmia
+<br>11.	Treasure of RCC Designs by Sushil Kumar S
+<br>12.	SP-16 Design aid for IS 456-2000, SP-23 Hand book on concrete mixes
+<br>13.	IS 875-1987 Loading standards, SP-34 Detailing of RC Structures
+
+<br><br><b>References:</b>
+
+<br><br>1.	Punmia B.C., Limit State Design of Reinforced Concrete, Laxmi Publication (P), Delhi.
+<br>2.	Raju N.K., Reinforced Concrete Design IS 456 – 2000 Principles & Practice, New Age International Publishers, New Delhi.
+<br>3.	BIS, IS 456 – 2000 Code of Practice for Plain & Reinforced Concrete.
+<br>4.	SINHA S N, Reinforced Concrete Design, Tata McGraw Hill Publications 
+<br>5.	KARVE S R AND SHAH V L, Limit State Theory And Design Of Reinforced Concrete – Vidyarthi Prakashan, Pune 
+<br>6.	PARK AND PAULAY, Reinforced Concrete, John Wiley and Sons 
+
+<br><br><b>Website:</b>
+<br><br>1. https://books.google.co.in/books?id=o_mKzwhbeHkC&pg=PR9&lpg=PR9&dq=introduction+to+limit+state+design+IS+456-2000
+<br>2. https://www.youtube.com/watch?v=Grv09rIAPQM
+<br>3. https://youtu.be/Grv09rIAPQM
+<br>4. http://freevideolectures.com/Course/2686/Design-of-Reinforced-Concrete-Structures#
+<br>5. https://youtu.be/hxakW1miEcM
+<br>6. https://www.google.co.in/url?-to-design-rcc-column-in-limit-state.
+<br>7. https://www.google.co.in/url? concrete&usg=AFQjCNFmUZeUdmDxV3VSLCsQsKFf5f5V-w
+
+<br><br><b>Note: </b>
+<br><br>(i) Students have to be taken to construction sites to give the demonstrative examples of structural elements such as columns, beams, slab, staircase, etc.
+<br>(ii) IS 456-2000 & SP16 is permitted in the examination only original copy or hard bound xerox copy attested by head of the institution. 
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>1. Prepare a case study of failure of structures due to wrong design, use of poor quality of materials and faulty construction methods.
+<br>2. Design the structural elements-Beams, slabs and columns for residential building (One and Two story building).
+<br>3. Visit to nearby multi-storeyed building/Apartment etc and collect the structural details.
+<br>4. Preparing a model of pre stressed concrete using locally available materials.
+<br>5. Understand the concept of formwork for different types of buildings and collect information about stripping times for forms for different conditions.
+<br>6. Visit to PSC manufacture site and prepare a report on methodology of different components.
+<br>7. Practical difference between RCC and PSC bridges and present it.
+<br>8. Use structural analysis software to analyse the various elements of structures
+<br>9. Prepare spreadsheet for design of RCC elements
+<br>10. Analyse the elements of structures using analysis software
+<br>11. Collect the information about Floating column and shear wall and present a seminar on it.
+<br>12. Collect the IS codes related to Design of RCC and PSC structures, make a report and present it
+
+<br><br><b>Note:</b>
+<br>1. Students should select any one of the above or other topics relevant to the subject approved by the concerned faculty, individually or in a group of 3 to 5. Students should mandatorily submit a written report and make a presentation on the topic. The task should not be repeated among students. Report will be evaluated by the faculty as per rubrics. Weightage for 5 marks Internal Assessment shall be as follows: (Unsatisfactory 1, Developing 2, Satisfactory 3, Good 4, Exemplary 5)
+<br>2. Reports should be made available along with bluebooks to IA verification officer.

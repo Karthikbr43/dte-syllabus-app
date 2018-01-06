@@ -1,0 +1,36 @@
+UNIT I: Distributed DBMS and Replication database
+Introduction to DDBMS. Functions and architecture of a DDBMS.Distributed relational database design.Transparencies in DDBMS. Date’s twelve rules for a DDBMS.Introduction to database replication, Benefits of database replication, Applications of replications, Basic components of database replication.Introduction to mobile database.
+<br><b>[10 Hrs] [28 Marks] </b>
+
+UNIT II: Object DBMSand Web DBMS
+Advanced database applications.Object oriented concepts.Introduction to Object Oriented Data model OODBMS.Issues in OODBMS.Advantages and Disadvantages of OODBMS.Introduction to web and internet.The web Oracle Application Server.
+<br><b>[08 Hrs] [22 Marks] </b>
+
+UNIT III:Data warehouse
+Introduction to Datawarehousing. Data warehouse Architecture. Data warehouse dataflows.Datawarehouse tools and technologies. Data warehousing using Oracle. 
+<br><b>[08 Hrs] [22 Marks] </b>
+
+UNIT IV: Introduction to PL/SQL Programming
+Introduction to PL/SQL,need of PL/SQL, features of PL/SQL, block structure ofPL/SQL. Datatypesof PL/SQL.Working with declarations and Operators, data conversions in PL/SQL
+<br><b>[06 Hrs] [17 Marks] </b>
+
+UNIT V: Built-in functions,control structures,operations
+Built-in functions – character functions,Date functions,numeric functions, conversion functions. Control structures – conditional control statements, sequential control statements, looping constructs in PL/SQL. Operations - DDL and DML statements in PL/SQL,transaction management with PL/SQL.
+<br><b>[10 Hrs] [28 Marks] </b>
+
+UNIT VI: Cursors and subroutines
+Understanding and working of cursors in PL/SQL – explicit and implicit cursors. Cursor attributes. PL/SQL subprograms – procedures and functions. Recursion with subprograms. PL/SQL Packages –package specification and package body,its advantages. Triggers and its types. Handling exceptions in PL/SQL – In-built exceptions and user-defined exceptions. Raising exceptions in PL/SQL.
+<br>Analyse the new emerging technologies in PL/SQL.
+<br><b>[10 Hrs] [28 Marks] </b>
+
+<b>Text books:</b>
+<br><br>1.	Database systems a practical approach to design implementation and management 4th edition Thomas Connolly, Carolynbegg, Pearson
+<br>2.	Oracle PL/SQL Programming in simple step, Dreamtech press.
+<br>3.	SQL, PL/SQL, The Programming language of ORACLE, 4thRevised Edition 2009, by Ivan Bayross. BPB Publications, ISBN-87656-964-X
+
+<br><br><b>References:</b>
+<br><br>1.	Fundamentals of Database Management Systems, Mark L. Gillenson, 2009, Wiley India
+<br>2.	Database Management Systems – Raghu Ramakrishnan and Johannes Gehrke – 3rd Edition, McGraw-Hill, 2003
+<br>3.	DBMS a practical approach, by E R Rajiv Chopra, S Chand publications.
+<br>4.	Any other book(s) covering the contents of the paper in more depth. 
+<br>5.	Latest and additional good books may be suggested and added from time to time.

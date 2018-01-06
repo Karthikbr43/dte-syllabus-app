@@ -1,0 +1,46 @@
+UNIT-I: INTRODUCTION TO MECHATRONICS SYSTEM DESIGN
+Integrated design issues in Mechatronics, key elements: Information system, Mechanical system, Electrical system, Computer system, Sensors and Actuators, Real time interfacing, Mechatronics Design process, Advanced approaches in Mechatronics.
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT-II: REAL TIME INTERFACING
+Introduction,  elements of Data Acquisition and Control System, overview of  I/O process, Installation of I/O chard and software.
+<br><b>[06 Hrs] [20 Marks] </b>
+
+UNIT-III: CASE STUDIES ON DATA ACQUISITION SYSTEMS
+Testing of transportation bridge surface material, Transducer calibration systems for automotive application, Strain gauge weighing system, Solenoid displacement calibration systems and Rotary optical encoder.
+<br><b>[06 Hrs] [20 Marks] </b>
+
+UNIT-IV: CASE STUDIES ON DATA ACQUISITION SYSTEMS AND CONTROL
+Thermal cycle Fatigue of a Ceramic Plate, PH control system, De-Icing Temperature Control System, Skip control of CD player, speed control of a DC Motor and speed control of a Stepper Motor.
+<br><b>[06 Hrs] [20 Marks] </b>
+
+UNIT-V: CASE STUDIES OF DESIGN OF MECHATRONICS PRODUCTS
+Pick and Place robot, car park barrier system, Automatic Camera, car engine management system, Bar Code Reader, coin counter, automatic washing machine,  automatic windscreen wiper in Car Systems, automatic room heating system,  Intelligent Mechatronic Devices, 
+<br><b>[12 Hrs] [30 Marks] </b>
+
+UNIT-VI: ADVANCED APPLICATIONS
+Sensors for condition monitoring, Mechatronic control in automated manufacturing, Artificial Intelligence in Mechatronics, Fuzzy logic applications in Mechatronics and  Micro-Sensors in Mechatronics.
+<br><b>[12 Hrs] [25 Marks] </b>
+
+<b>Reference Books:</b>
+
+<br><br>1.Devadas shetty,Richard A Kolk,”Mechatronics system design”,Thomson Learning Publishing company,Vikas publishing house,2001
+<br>2.Bolton Mechatronics-Electronic control systems in Mechanical and Electrical engineering,Addison Wesley Longman Ltd.,1999
+<br>3. Brian Morris, Automated Manufacturing systems –Actuators,Controls,Sensors and Robotics,Mc Graw Hill International Edition 1995
+
+<br><br><b>Website:</b>
+
+<br><br>1. Clarence de Silva_Mechatronics an Integrated Approach ,  click to download : http://een.iust.ac.ir/profs/Shamaghdari/Mechatronics/Resources/11-Silva_Mechatronics%20an%20Integrated%20Approach.pdf
+<br>2. http://www.allaboutcircuits.com/
+<br>3. http://www.allaboutcircuits.com/videos
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>1. Students can study the Mechatronics systems viz. currency machine, ATM machine, Metro rail door open and close etc. and make report
+
+<br><br><b>Note:</b> 
+
+<br>1. Group of max four students should do any one of the above activity or any other similar activity related to the course COs and get it approved from concerned Teacher and HOD. 
+<br>2. No group should have activity repeated or similar 
+<br>3. Teacher should ensure activities by different groups must cover all COs 
+<br>4. Teacher should asses every student by using suitable Rubrics approved by HOD

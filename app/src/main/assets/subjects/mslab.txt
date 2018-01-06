@@ -1,0 +1,89 @@
+Unit – I: Tutorial and Practice
+
+<b>Tutorial:</b>
+
+<br><br><b>1.	Introduction</b>
+<br>1.	Definition, need, and types of programming languages and their selection criterion. 
+<br>2.	Introduction to MATLAB/SCILAB (Features, capabilities and applications) and development environment.
+<br>3.	Program execution process.
+<br>4.	Program format.
+<br>5.	Concept and examples of built-in functions and the concept of toolboxes.
+<br>6.	Variables and constants: Definition, naming (identifiers or labels for different entities), initialization and accessing of variables. Constants and their representation.
+<br>7.	Data types-classification, memory requirement, range of values, usage and type specifiers. 
+<br>8.	Operators and Operands: Unary and binary operators. Arithmetic, logical, relational, combinational-assignment and special operators. Precedence and associativity.  Unary and binary operands.
+<br>9.	Statements-tokens and expressions. 
+<br>10.	Standard input and output statements and plot functions. 
+<br>11.	Escape characters.
+
+<br><br><b>2.	Control structure</b>
+<br>1.	Branching: Conditional (if, if-else, nested and ladder if-else, switch constructs) and unconditional (break, continue and go to statements). 
+<br>2.	Looping: Entry controlled (for and while).
+
+<br><br><b>3.	Arrays/Matrices and strings</b>
+<br>1.	Definition, declaration, initialization (static and run-time or dynamic) and arrays, matrices and strings. 
+<br>2.	Accessing of strings, array and matrices elements and relevant operations.
+
+<br><br><b>4.	Functions</b>
+<br>1.	Concept, advantages, classification, creation and application of functions.
+<br>2.	Comparison of built-in, library and user-defined functions.
+
+<br><br><b>Practice:</b>
+
+<br><br><b>1.	Write program for the following problems (Assume right units. Search and use library functions wherever possible). Unless specified, built-in functions may be used if necessary.</b>
+<br>1.	Display your country name.
+<br>2.	Compute the area and circumference of a circle given the radius.
+<br>3.	Compute simple interest given the interest rate, principal and duration. 
+<br>4.	Compute compound interest given the interest rate, principal, compounding-nature and duration. 
+<br>5.	Swap contents of two variables without using intermediate variables.
+<br>6.	Factorial of a single digit number.
+<br>7.	Absolute value of a number.
+<br>8.	Largest of three numbers.
+<br>9.	Logarithm of a number.
+<br>10.	Y=sin(θ<sub>1</sub>+ θ<sub>2</sub>)+cos(θ<sub>1</sub>- θ<sub>2</sub>) given θ1and θ2in degrees.
+<br>11.	Average of N numbers read through keyboard (at run-time).
+<br>12.	Average of the numbers in 3x4 matrix.
+<br>13.	Plot discharging voltage across capacitor.
+
+<br><br><b>2.	Analyze the program</b>
+<br>Given the program or block of program (Matlab or Scilab), analyze the program and estimate/predict/record the output or error as the case may be. Instruct the student to justify the answer/output. 
+<br>[For e.g., A=246; B=-90; C=A+B*(10/A) +100; sprintf (‘%f’, C); in Matlab]
+<br>Such analysis should be carried out for all the concepts covered in this course.
+
+Unit – II: Graded Exercises 
+
+<b>Write the algorithm/flow-chart and code for the following problems (Assume appropriate data and units wherever necessary. Built-in functions can be used wherever necessary unless specified).</b>
+
+<br><br>1.	Addition, subtraction and multiplication of two matrices.
+<br>2.	Verify whether the given matrix is singular or non-singular and compute its inverse if applicable. 
+<br>3.	Sorting of 1-D array and searching of an array/matrix. Also, list the set of numbers that obey a common condition in an array/matrix using find ( ).
+<br>4.	Solve simultaneous equations (maximum of three) using Cramer’s rule. [Simultaneous equations may be obtained by applying KCL or KVL for a circuit and they can be solved for voltages or currents, respectively]
+<br>5.	(a)	Show that log<sub>10</sub>(A*B)=log<sub>10</sub> A + log<sub>10</sub> B and log<sub>10</sub>(A/B)=log<sub>10</sub> A-log<sub>10</sub> B
+<br>    (b)	Plot the voltage across capacitor during charging Vc=V0[1-e<sup>-(t/RC)</sup>]
+<br>6.	(a)	Plot a straight line for the given slope and intercept using different plot attributes. 
+<br>    (b)	Differentiate and integrate y=mx+c, separately, and display the results on the same plot. 
+<br>7.	Ploty1=A*sin(2πf<sub>1</sub>t), y2=B*cos(2πf<sub>2</sub>t) and y3=A*sin(2πf<sub>1</sub>t)+B*cos(2πf<sub>2</sub>t),in time and frequency (after computing DFT or FFT)  domains as subplots and infer the results.
+<br>8.	Integrate and differentiate sin(x) and display the results on the same plot in different colors. Also display sin(x) on the same plot,
+<br>9.	Validate <br><img src="msl1.png"/> <br>for given trigonometric functions f(x) and g(x)visually/through plots.
+<br>10.	Compute mean, median, standard deviation and variance of a set of data using formulae and verify using built-in functions.
+<br>11.	Find all the even and prime numbers between two numbers (range). 
+<br>12.	Demonstrate (a) reading and display image, (b) converting color image to gray and black-and-white and plotting their histograms, and (c) conversion of image file formats.
+<br>13.	Compare the results of the built-in and user-defined function to compute cos(x)[the series cos(x)=1-(x<sup>2</sup>/2!)+ (x<sup>4</sup>/4!)- (x<sup>6</sup>/6!)+ … can be used]
+<br>14.	Write a program to compute roots of a quadratic equation ax<sup>2</sup>+bx+c=0 given a, b and c.
+<br>15.	Two open-ended experiments of similar nature and magnitude of the above are to be assigned by the teacher (Student is expected to solve and execute/simulate independently).
+
+<b>Reference Books:</b>
+
+<br><br>1.	MATLAB and its Applications in Engineering, RajkumarBansal, Pearson Publishers, ISBN-10: 8131716813, 2009.
+<br>2.	SCILAB(a Free Software to Matlab),Er. HemaRamachandran and Dr. Achutsankar Nair, S. Chand Publishers, ISBN-10: 8121939704,2011
+<br>3.	http://in.mathworks.com/
+<br>4.	https://www.scilab.org/resources/documentation/tutorials
+
+<b>Scheme of Valuation for SEE:</b>
+
+<br><br>1.	Short questions on unit-I (only write-up) : 10
+<br>2.	Writing steps /Algorithm/Procedure and program for two questions from the graded exercises : 15
+<br>3.	Execution/Implementation/Simulation/Interpretation of either one of theprograms written in 2 : 15
+<br>4.	Open-ended problem (Problems not covered in Sl. No. 15 of graded exercise): Writing program andits execution/implementation : 05
+<br>5.	Viva-voce :	05
+
+<br><br><b>TOTAL = 50 Marks</b>

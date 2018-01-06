@@ -1,0 +1,42 @@
+<b>Part A: Performing Experiments</b>
+<br><br>1.	Practice on servicing of turbo chargers, intercooler and prepare the detailed trouble shooting chart
+<br>2.	Practice on servicing of automobile air conditioning system (compressor, condenser ,evaporator, leak in AC system and refilling of refrigerants & prepare the detailed trouble shooting chart
+<br>3.	Practice on servicing of hydraulic power steering system (hydraulic pump &  hydraulic actuator),check leakage, refilling of hydraulic fluid & prepare the detailed trouble shooting chart
+<br>4.	Practice on wheel balancing
+<br>5.	Practice on checking of wheel alignment and adjustment (computerized / mechanical) & prepare the detailed trouble shooting chart
+<br>6.	Practice on measuring minimum turning circle radius for two wheeler, three  wheeler and four wheeler 
+<br>7.	Practice on servicing of servo brake system and prepare the detailed trouble shooting chart
+<br>8.	Practice on servicing of air brake valve, un loader valve, brake chamber and prepare the detailed trouble shooting chart
+<br>9.	Practice on servicing of air brake air compressor and prepare the detailed trouble shooting chart 
+<br>10.	Practice on measuring brake drum ovality  & brake disc run outs and recondition the same (skimming) 
+<br>11.	Practice on de riveting, cleaning & riveting of brake linres 
+<br>12.	Practice on measuring stopping distance on two wheeler, three wheeler four wheeler 
+
+<br><br><b>Part B: Open ended experiments (The below experiments are only examples, such experiments has to be decided by course co-ordinator relevant to above mentioned CO’S)</b>
+<br><br>13.	Vehicle pulls to one side: List the causes, suggest the remedial measures and rectify the fault 
+<br>14.	Hard power steering : List the causes, suggest the remedial measures and rectify the fault
+
+<b>Reference Books:</b>
+
+<br><br>1.	Automobile Engineering vol 2	Kripal Singh 	
+<br>2.	Vehicle Maintenance and Garage Practice	Jigar.A.Doshi	PHI Publication
+<br>3.	Automobile engineering Vol I	Anil chikara 	
+<br>4.	Automotive mechanics 10thEdi	W H Crouse and Anglin 	
+<br>5.	Automobile electrical and electronic systems 	Tom Denton.	
+<br>6.	Automobile Technology	R B Gupta	Satya Prakashan
+<br>7.	Automobile Technology	Dr N K Giri	Kanna Publications
+<br>8.	Workshop manuals of different manufacturers		
+
+<br><br><b>SUGGESTED STUDENT ACTIVITY:</b>
+
+<br><br>1.	Each student should submit report on any one of the following type of activities or any other similar activity related to the course.  Before taking up, it should be approved by concerned Teacher and HOD.
+<br>2.	Each student should conduct different activity and no reputation should be allowed.
+
+<b>Scheme of Valuation for SEE:</b>
+
+<br><br>1. Writing procedure : 5+5=10
+<br>2. Conducting of Experiment Experiment(Group of three) : 10+10=20
+<br>3. Trouble shooting chart : 5+5=10
+<br>4. Viva-Voice : 10
+
+<br><br><b>TOTAL = 50 Marks</b>

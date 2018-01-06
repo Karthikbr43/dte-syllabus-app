@@ -1,0 +1,34 @@
+UNIT – I: Introduction to Mechatronics System
+Definitionandscope, Evolution levels, advantages and disadvantages of mechatronics, component of mechatronics system with example. Introduction to measurement system and its applications. Control system- open and closed loop system (Digital closed loop control system), adaptive control system.
+<br><b>[05 Hrs] [10 Marks] </b>
+
+UNIT – II: Transducers and Sensors
+Introduction, definition and classification of Transducers. Measurement versusTransduction methods,selection and specifications of transducer. Electromechanical –Resistance transducers (linear and angular motion potentiometer),variable inductor transducer (LVDT), RVDT, synchros, load cells Capacitive transducer (capacitive tachometer). Piezoelectric transducers-materials, properties and working of piezoelectric device,digital transducers.Advantages and disadvantagesofpiezoelectric transducers. Piezoelectric accelerometer, Hall effect transducers. Photoelectric transducer – photoelectric tachometer. Strain gauges-types, requirements, wheat stone bridge (null mode).Sensors- definition, types and selection of sensors. Proximity sensor (eddy current proximity sensor), light sensor-digital optical encoder, temperature sensor- bimetallic strips, Resistance Temperature detectors (RTDs), thermistor and thermocouples.
+<br><b>[13 Hrs] [35 Marks] </b>
+
+UNIT – III: Signal Conditioning, Data Acquisition and data presentation
+Measurement system components, Necessity of signal conditioning. process adopted in signal conditioning. Function of signal conditioning equipments. AC and DC signal conditioning system. Data acquisition-introduction,DAQ system.Analog to digital conversion (ADC)-digital signal,ADC process, components, A/D converter- successive approximation type.Digital to analog conversion- R -2R ladderDAC. Data presentation- General aspects, electrical indicating instruments, electrical analog and digital instruments,Recorder, printer and display system.
+<br><b>[10 Hrs] [30 Marks] </b>
+	
+UNIT – IV: Actuation system
+Introduction –types, Mechanical actuators – Kinematiclink, Kinematic chain –types, gear drive –introduction, typesGear train –definition, types .Belt and belt drive. Chain and chain drives, bearings. Electrical actuators-types, switching devices –mechanical switches, solid state switches, drives. Solenoid Relays.Hydraulic actuators - components of hydraulic system, hydraulic valves - spool valve, poppet valve. Linear actuators –single rod single acting cylinder, single rod double acting cylinder.Pneumatic actuators- comparison of Hydraulic and Pneumatic actuators, components of pneumatic system, pneumatic valves – types fluid control system, current to pressure converter.
+<br><b>[08 Hrs] [20 Marks] </b>
+
+UNIT – V: Applications of Mechatronics System
+Introduction to robotics.microprocessor based robotic system,Description of someelectrical, electronics,mechanicalsystems - automatic camera, automatic washing machine, car engine management, pick and place robot. 
+<br><b>[06 Hrs] [20 Marks] </b>	
+
+UNIT – VI: PLC and MEMS
+Introduction,features, selection of PLC, architecture of PLC, operation cycle of PLC,advantages and disadvantages of PLC.  Programming, ladder diagram-basic logic gates, timers, internalrelay, counters.MEMS-advantages,applications, description of MEMS,general block diagram, manufacturing of MEMS. MEMS accelerometer, humidity sensor, smart sensors.
+<br><b>[10 Hrs] [30 Marks] </b>
+
+<b>Reference Books:</b>
+
+<br><br>1. A Text Book of Mechatronics, by R.K. Rajput,  SChand   and Company Ltd, New  Delhi.
+<br>2. Mechatronics (Third Edition), by W. Bolton ,Pearson Education , New  Delhi.
+<br>3. Mechatronics – Principles, Concepts and Applications, byNitaigourPremchandMahalik, Tata McGraw Hill Publishing Company Ltd, New Delhi.
+
+<br><br><b>Website:</b>
+
+<br><br>1.	www.allaboutmems.com
+<br>2.	www.mems.org

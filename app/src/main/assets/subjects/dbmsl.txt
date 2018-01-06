@@ -1,0 +1,64 @@
+<b>Experiments:</b>
+
+<br><br>1.	Using any open source data modelling tool (MySQL/Rational Rose/ERwin), design and develop a ER diagram for the following Library database. Specify relevant Referential constraints.
+<br><b><i>[Refer Fig. 1.1] </i></b>
+<br><br>2.	 Consider a GRADE_BOOK database in which instructors within an academic department record point earned by individual students in theory classes. The data requirements are summarised as follows: 
+<br>•	Each student is identified by a unique identifier, first and last name and an email address.
+<br>•	Each instructor teaches certain courses each term. Each course is identified by a course number, a section number and the term in it is taught. For each course he or she teaches, the instructor specifies the minimum number of points required in order to earn letter grades, A, B, C, D and F. For Ex. 90 points for an A, 80 points for a B, 70 points for a C and so forth.
+<br>•	Students are enrolled in each course taught by the instructor.
+<br>•	Each course has a number of grading components (such as mid-term exam, final exam, project and so forth). Each grading component has a maximum number of points (100 or 50) and a weight (20% or 10%). The weight of all the grading components of a course is 100.
+<br>•	Finally, the instructor records the points earned by each student in each of the grading components in each course. For Ex. The student 1234 earns 84 points for a mid-term exam, grading component of the section 2 course CS 2310 in the fall term of 2009. The mid-term exam grading component may have been defined to have a maximum of 100 points and a weight of 20% of the course grade.
+<br><br>3.	Create the following tables for a COMPANY database
+<br><b><i>[Refer Fig. 1.2] </i></b>
+<br><br>4.	Illustrate the use of constraints
+<br>	NOT NULL
+<br>	PRIMARY KEY
+<br>	UNIQUE
+<br>	CHECK
+<br>	DEFAULT
+<br>	REFERENCES
+<br><br>5.	DATA MANIPULATION : INSERTING VALUES INTO A TABLE 
+<br><br>6.	Illustrate the use of SELECT statement
+<br><br>7.	Conditional retrieval - WHERE clause
+<br><br>8.	Query sorted - ORDER BY clause
+<br><br>9.	Grouping the result of query - GROUP BY clause and HAVING clause
+<br><br>10.	Aggregate functions in SQL (Count, Sum, Max, Min, Avg)
+<br><br>11.	SQL operators(And, Or, Like, Between, In)
+<br><br>12.	Query multiple tables using JOIN operation.
+<br><br>13.	Write nested and complex queries using multiple tables.
+<br><br>14.	Perform UPDATE, ALTER, DELETE, DROP operations on tables 
+<br><br>15.	Illustrate the use of CREATE VIEW command and manipulating
+<br><br>16.	Use COMMIT and ROLL BACK commands
+<br><br>17.	Use SAVEPOINT commands
+<br><br>18.	<b>GUI</b>
+<br>a)	To study about various Gambas/Visual Basic (front end) or any other front end tool
+<br>b)	Design a form to use various tools like label, text, combo box, list boxes, check box, option box, horizontal and vertical scroll bars, etc. Illustrate the above with an example such as survey form, registration form for an event or another other example.
+<br>c)	Design a menu driven form to process student’s results or a shopping list or any other example.
+<br>d)	Generate a report for student’s results or employee details or shopping list or any other example.
+<br>e)	Based on any database specified in Question No. 1, 2 or 3. The application must be menu driven having suitable active controls with database connectivity. Generate different reports as per user requirements.
+
+<b>Reference Books:</b>
+
+<br><br>1.	Fundamentals of Database system 5th Edition, Ramez Elmasri,Shamkan B. Navthe,  Pearson Education
+<br>2.	Visual Basic 6 How to program by Deitel & Associates
+<br>3.	http://www.tutorialspoint.com/dbms/sql_overview.htm
+<br>4.	http://www.sql-tutorial.net/
+<br>5.	http://www.visualbasicbooks.com/vb6introtutorial.html
+<br>6.	http://gambas.sourceforge.net/
+<br>7.	http://gambasdoc.org/help
+
+<br><br><b>Student Activity</b>
+<br><br><b>Note:</b> The following activities or similar activities for assessing CIE (IA) for 5 marks (Any one)
+
+<br><br>1. Build DBMS application for processing students details such as personal details, results, attendance etc. Use minimum 3-4 tables
+<br>2. Build DBMS application for maintain a mini library of CD’s. Use minimum 3-4 tables
+<br>3. Using any ER diagram modelling tool demonstrate modelling of any database containing 3-4 tables.
+
+<b>Scheme of Valuation for SEE:</b>
+
+<br><br>1.	Creating and inserting records for minimum two tables. Use minimum 2 constraints : 10
+<br>2.	Executing minimum 3 queries	: 15
+<br>3.	Build a GUI program for the table created with data grid view and options such as Add, Delete, Modify etc :	15
+<br>4.	Viva-Voce :	10
+
+<br><br><b>TOTAL = 50 Marks</b>

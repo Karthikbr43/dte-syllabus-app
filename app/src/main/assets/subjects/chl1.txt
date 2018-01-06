@@ -1,0 +1,50 @@
+<b>Experiments:</b>
+
+<br><br><b>Part - A</b>
+<br><br><b>QUALITATIVE ANALYSIS:</b>
+<br>Semi micro-analysis of Anions of Inorganic salts containing: Carbonate, bicarbonate, Chloride, Nitrate and Sulphate radicals.
+
+<br><br><b>Part - B</b>
+<br><br><b>QUANTITATIVE ANALYSIS:</b>
+<br>Volumetric Analysis by Titrimetric Method:-
+<br>Volumetric Analysis – Titration - Standard solutions , concentration of solutions- normal, molar and molal solutions – decinormal, decimolar and decimolal solutions – indicators –acidbase indicators and redox indicators-selection of indicators – endpoint of titration –neutralization and redox reactions.
+
+<br><br><b>I. Preparation of standard solution of Known concentration:</b>
+<br>1.	Preparation of 0.1N Oxalic acid
+<br>2.	Preparation of 0.1N sodium Carbonate solution
+<br>3.	Preparation of 0.1N Potassium Dichromate solution
+<br>4.	Preparation of 0.1N NaOH Solution
+<br>5.	Preparation of 0.1N HCl solution
+<br>6.	Preparation of 0.1N Sulphuricacid
+<br>7.	Preparation of 0.1N Mohr`s salt solution.
+<br>8.	Preparation of 0.1N Potassium permanganate solution.
+
+<br><br><b>II. Standardization of solutions:</b>
+<br>1.	Determination of normality of given NaOH solution using standard decinormal oxalic acid solution.
+<br>2.	Determination of normality of given HCl solution using decinormal sodium Carbonate solution.
+<br>3.	Determination of normality of NaOH solution using decinormalHCl solution.
+<br>4.	Determination of normality of given potassium permanganate solution using decinormal oxalic acid solution.
+<br>5.	Determination of normality of given Mohr’s salt solution using decinormal Potassium dichromate solution (Internal Indicator).
+
+<br><br><b>III. Estimation of amount of substance in 250cm3 of its solution by link solution:</b>
+<br>1.	Estimation of mass of HCl in 250cm3 of its solution using standardNaOH solution which is standardized by decinormal oxalic acid solution.
+<br>2.	Estimation of mass of NaOHin 250cm3 of its solution using standard HCl solution which is standardized by decinormal Na2CO3.
+<br>3.	Estimation of mass of oxalic acid in 250cm3 of its solution using standard NaOH solution which is standardized by decinormalHCl solution.
+<br>4.	Estimation of mass of Mohr’s salt in 250cm3 of its solution using standard KMnO4 solution, which is standardized by decinormal oxalic acid solution
+<br>5.	Estimation of mass of KMnO4 in 250cm3 of its solution using standard Mohr’s salt solution, which is standardized by decinormal K2Cr2O7 Solution.
+
+<b>Reference Books:</b>
+
+<br><br>1.	Vogel`s Inorganic Qualitative and Quantitative Analysis.
+<br>2.	Practical chemistry By O.P.Pande. and others.
+<br>3.	Qualitative and quantitative analysis by Alex
+
+<b>Scheme of Valuation for SEE:</b>
+
+<br><br>1.	Identification of  apparatus/equipment/ chemical compounds/ tools/ etc. : 05
+<br>2.	Writing  Procedure : 10
+<br>3.	Conducting of experiment : 20
+<br>4.	Results : 05
+<br>5.	Viva-voce :	10
+
+<br><br><b>TOTAL = 50 Marks</b>

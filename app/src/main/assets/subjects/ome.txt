@@ -1,0 +1,56 @@
+UNIT I: Management Skills
+Interpersonal skills-Know yourself and know others. Intergroup communications. Art and barriers of communication. Functions, qualities and styles of leadership, Team and group- team building, characteristics of team and group, comparison of team and group. Management - Definition, Henry-Fayol’s principles of management, functions of management, managerial qualities. Management features in private, public and Govt. sectors.
+<br><b>[06 Hrs] [15 Marks] </b>
+
+UNIT II:Production and Material Management
+Product- Stages and factors to be considered in product design, types of production and their characteristics. Productivity-Factors to improve productivity, “Six lines of attack” to improve productivity. Production, Planning & Control (PPC). Make or Buy Decision-Simple cost analysis and break-even analysis. Purchasing-Purchasing methods, steps involved in purchasing. Stores management- Methods of storing and tools required. Codification System. Logistics management-Different means of transportation, routing and delays, insurance. Inventory management- Techniques, functions of inventory control, inventory management software’s. Introduction to MRP and ERP.
+<br><b>[12 Hrs] [35 Marks] </b>
+
+UNIT III: TPM and TQM
+Total Preventive Maintenance (TPM) - Concept, techniques and benefits of TPM. Economics of preventive maintenance, planned (periodic) maintenance and predictive maintenance. Inspection-types of inspection. TQM- Quality, factors affecting quality, relation between quality and cost. Quality control. TQM Tools-Flow-chart, control charts, histograms, Pareto charts, Kaizen and six-sigma. Quality circle and objectives of quality circle. ISO 9000- series quality standards, procedure to attain ISO registration, characteristics of ISO 9000, and areas covered by ISO 9000 series. 
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT IV: Organisational Safety
+Organisational safety – Accident, causes for industrial accident, direct and indirect losses due to an accident, and personal protective devices for preventions of accidents. Safety organization- Duties of safety inspector, safety supervisor, general safety rules, accident reporting and crisis management. Fire- Prevention, protection and types of fire extinguishers. Safety provisions under Indian Factories Act - 1948.Safety Management System-OSHAS 18001.Features of ‘Restriction of Hazardous Substances Directive (RoHS)’.
+<br><b>[08 Hrs] [20 Marks] </b>
+
+UNIT V: Entrepreneurship
+Concept of entrepreneur and entrepreneurship, qualities of an entrepreneur, factors influencing entrepreneurship, successful entrepreneurship, and entrepreneur motivation. Training for entrepreneurship development. Financing of enterprise, source of finance, market survey, market risk, project planning, project capacity, and preparation of project report. Industries- Classification of industries, scope and role of small-scale industries, list of items reserved for small-scale sectors, procedure to start small-scale industry.
+<br><b>[10 Hrs] [30 Marks] </b>
+
+UNIT VI: Employment
+Introduction to employment. Causes of unemployment, Employment opportunities- Govt. sector, public sector, private sector and MNCs. Areas- Technical, management, marketing and general. Employment- Searching, sources of recruitment-internal and external, application process, scientific selection process, written tests- objective and descriptive, group discussion, interviews- technical and personal, offers, promotions, transfers. Psychometric tests: Reasoning-verbal, numerical, logical and puzzles.
+<br><b>[06 Hrs] [15 Marks] </b>
+
+<b>Reference Books:</b>
+
+<br><br>1.	Industrial Organization and Engineering Economics, T.R.Banga& S C Sharma, Khanna Publishers
+<br>2.	Industrial management and organizational behaviour, K.K.Ahuja
+<br>3.	Industrial management and engineering economics, O.P.Khanna, Khanna publishers
+<br>4.	Industrial Engineering and Production Management, M Mahajan, DhanpatRai and Co
+<br>5.	Production and operations management, Dr.K.Aswathappa and Dr.Sreedhar Bhatt, Himalaya publishers
+<br>6.	Safety Management in Industry, Krishnan.N V, Jaico Publishing House, Bombay, 1997
+<br>7.	Total Quality Management, S Raja Ram, M Shivashankar
+<br>8.	Soft Skills, Dr. K. Alex, S Chand & Company Ltd.
+<br>9.	How to pass psychometric tests, Andrea Shavick, Howtobooks, ISBN: 97-1-84528-447-3
+<br>10.	www.timesjobs.com/candidate/careerresources/htmls/interviewpreparing.jsp
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>1. Each student shall given an activity to prepare comparative statement, placing the purchase order with necessary terms and conditions
+<br>2. SWOT analysis case study / Example for industry/establishment
+<br>3. Given the data, prepare the scheduling using Gantt chart.
+<br>4. Identify any one product, being manufactured in local industry, Study the process they are following for manufacturing the product, submit hand written report.
+<br>5. Visit a nearby industry, make a report on Plant layout, type of production, quality system is put in practice and quality tools they are using in work place
+<br>6. Motivate student to take case study on plant maintenance of nearby industry, observe what type of maintenance they undertake in their industry
+<br>7. Each student should prepare a detailed project report on selected product
+<br>8. Visit a local industry and list the safety precautions carried out there
+<br>9. Visit the local fire brigade station and prepare a suitable report.
+<br>10. Meet a local Entrepreneur and prepare a report on his success story
+
+<br><br><b>Note:</b> The activities or similar activities for assessing CIE (IA) for 5 marks (Any one)
+<br>1. Maximum of 4 students in each batch should do any one of the activity or similar activity related to the course and before take up, get it approved from concerned Teacher.
+<br>2. Each batch should conduct different activity and no repeating should occur.
+<br>3. Submit a brief report on the activity done on 4-6 pages, A4 size handwritten paper. Papers should be simple stapled or tagged. Avoid plastic based files for submitting of reports.
+<br>4. Activities can be carried off-class or in the laboratory, as the case may be.
+<br>5. Assessment shall be made based on quality of activity/presentation/demonstration and report.

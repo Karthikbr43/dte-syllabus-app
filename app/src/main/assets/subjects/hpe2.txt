@@ -1,0 +1,75 @@
+UNIT - I: FORMATION PROPERTIES AND ENTROPY OF STEAM
+<b>FORMATION PROPERTIES:</b>
+<br>Formation Of Steam, Definition Of Saturation Temperature, Wet Steam, Dry Saturation Steam, Super  Heated Steam, Dryness Fraction Of Steam, Sensible Heat, Latent Heat, Super Heat, Degree of Super Heat, Enthalpy of Steam, Steam Tables and their uses. Specific Volume of Steam, Advantages, External Work done During Evaporation, Internal Energy of Steam - Simple Problems.
+<br><br><b>ENTROPY OF STEAM:</b>
+<br>Entropy of Water, Entropy of Steam, Entropy Increase During Evaporation, Entropy of Wet, Dry and Super Heated, Temperature- Entropy Diagram for Water and Steam, Mollier Chart - Simple Problems
+<br><br><b>[08 Hrs] [35 Marks] </b>
+
+UNIT - II: STEAM CALORIMETERS & THRMODYNAMIC PROCESS OF VAPOUR
+<b>STEAM CALORIMETER:</b>
+<br>Introduction, Classification, Detail Study of Barrel, Separating Calorimeter, Throttling Calorimeter, Combined Separating and Throttling Calorimeter - Simple Problems On Calorimeters
+<br><br><b>THERMODYNAMIC PROCESS OF VAPOUR:</b>
+<br>Constant Volume Process, Constant Pressure Process, Constant Temperature Process, Hyperbolic Process, Constant Entropy Process, Polytrophic Process, Throttling Process - Simple Problems.
+<br><br><b>[10 Hrs] [25 Marks] </b>
+
+UNIT - III: THRMODYNAMIC VAPOUR CYCLE AND STEAM CONDENSERS
+<b>THERMODYNAMIC VAPOUR CYCLES:</b>
+<br>Introduction, Carnot Cycle, Rankine Cycle , Simple Problems
+<br><br><b>STEAM CONDENSERS:</b>
+<br>Introduction, Advantages, Classification, Jet Condensers, Parallel Flow, Counter Flow, Barometric Condenser, and Ejector Condensing. Surface Condensers - Down Flow Condenser, Central Flow Condenser, Regenerative Condenser and Evaporative Condenser. Mixture of Air  and  Steam (Daltons Law) - Vacuum Measurement, Vacuum Efficiency.   - (No Problems)
+<br><br><b>[08 Hrs] [30 Marks] </b>
+
+UNIT - IV: STEM NOZZLES & STEAM TURBINES
+<b>STEAM NOZZELS:</b>
+<br>Introduction, Type of Nozzles, Convergent, Divergent, Convergent-Divergent Nozzle, Flow Through Convergent-Divergent Nozzle, Friction In a Nozzle or Nozzle Efficiency, Critical Pressure Ratio, Physical Significant of Critical Pressure Ratio, Mass of the Steam Discharge Through Nozzles, Condition For Maximum Discharge(No derivation), Values for Maximum Discharge Through a Nozzle, Values for Critical Pressure Ratio  -(No Problems)
+<br><br><b>STEAM TURBINES:</b>
+<br>Introduction, Classification of Steam Turbines, Introduction, Classification of Steam Turbines, Steam turbine – Impulse & reaction turbines - Working principle with line diagram of a simple De-Laval turbine – velocity diagram of impulse turbine- Expression for work done, axial thrust, tangential thrust, blade and diagram efficiency, nozzle efficiency- Compounding of steam turbine-Need for compounding- Pressure compounding.- Velocity compounding- Pressure velocity compounding.- (No Problems)
+<br><br><b>[08 Hrs] [20 Marks] </b>
+
+UNIT - V: INTRODUCTION, ECONOMICS OF POWER PLANT & THERMAL POWER PLANT
+<b>INTRODUCTION TO POWER PLANT:</b>
+<br>Introduction to power plant, Indian Energy scenario , Location of power plant ,Choice of Power plant ,Classification of power plant.
+<br><br><b>ECONOMICS OF POWER PLANT:</b>
+<br>Load curve ,Load duration curve ,Definitions: connected load, maximum demand, demand factor, average load, load factor, diversity factor, plant capacity factor, plant use factor ,Methods to meet the variable loads ,Selection of type of generation ,Selection of generating equipments.
+<br><br><b>THERMAL POWER PLANT:</b>
+<br>Role of thermal power plant in current power generation scenario	Selection site for thermal power plant ,General lay out of a thermal power plant ,Fuels used in thermal power plant 
+<br><br><b>[09 Hrs] [20 Marks] </b>
+
+UNIT - IV: COOLING TOWER , DISEL AND GAS TURBINE POWER PLANT
+<b>COOLING TOWERS:</b>
+<br>Cooling towers - Classification, function and working of cooling towers.
+<br><br><b>DIESEL AND GAS TURBINE POWER PLANT:</b>
+<br>Introduction, The layout of diesel power plant. Components and the working of diesel power plant. Gas turbine power plant-Schematic diagram, components and its working, Fuels used Combined cycle power generation- Combined gas and steam turbine power plant operation (only flow diagram). 
+<br><br><b>[09 Hrs] [15 Marks] </b>
+
+<b>Text books:</b>
+
+<br><br>1.	Heat Engines, Pandya and Shah, Charotar Publishing House 
+<br>2.	Thermodynamics and Heat power Engg., Mathur and Mehta, Tata Mcgraw- Hill 
+<br>3.	A Text book of Thermal Engineering, R S Khurmi & J K Gupta 	S Chand 
+<br>4.	Thermal Engineering, P.L.Ballaney, Khanna.Publishers 
+<br>5.	Thermal Engineering, A. S. Sarao, SatyaPrakashan 
+<br>6.	Thermal Engineering, R K Rajput, Laxmi.Publications 
+
+<br><br><b>Website:</b>
+
+<br><br>a. http://www.nptel.iitm.ac.in/video.php?subjectId=112105123 (IIT-B Video lectures)   
+<br>b. http://www.thermofluids.net/  
+<br>c. http://www.learnerstv.com/Free-Engineering-Video-lectures-ltv301-Page1.htm  
+<br>d. http://www.grc.nasa.gov/WWW/k-12/airplane/thermo.html  
+<br>e. http://www.youtube.com/watch?v=Xb05CaG7TsQ  
+<br>f. http://www.youtube.com/watch?v=aAfBSJObd6Y  
+<br>g. http://www.youtube.com/watch?v=DHUwFuHuCdw  
+<br>h. http://www.youtube.com/watch?v=kJlmRT4E6R0  
+<br>i. http://www.youtube.com/watch?v=GKqG6n6nAmg
+
+<br><br><b>Suggested Student Activity:</b>
+
+<br><br>1. Collect/ the details and specifications of various types of Steam condensers/Cooling towers used in industry.
+<br>2. Interpret steam tables, mollier chart and relationship between different thermodynamic properties.
+<br>3. Arrange visit to any gas turbine power plant/Diesel engine power plant, study the operational features of Gas turbines/Diesel engines
+<br>4. Collect/ the details and specifications of various types of Steam nozzles/calorimeter used in industry.
+
+<br><br><b>Note:</b> The activities or similar activities for assessing CIE (IA) for 5 marks (Any one)
+<br>1. Each student should do any one of the following type activity or any other similar activity related to the course and before conduction, get it approved from concerned Teacher and HOD.
+<br>2. Each student should conduct different activity and no repeating should occur

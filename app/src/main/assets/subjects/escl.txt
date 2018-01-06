@@ -1,0 +1,100 @@
+Unit I: TRIANGULATION WITH TOTAL STATION
+( Determining area approximately 2 KM<sup>2</sup> )
+<br>1.	Preparing map of given area.
+<br>2.	Calculation of area
+<br>3.	Total station traverse to yield adjusted coordinates of control points. ( determine the co-ordinates of few triangulation stations)
+<br><br>Note: In case of non-availability of Total stations, Conventional methods can be adopted 
+
+Unit II: NEW TANK PROJECT 
+1.	Reconnaissance of the area to be mapped. setting benchmark using GPS 
+<br>2.	Fly levelling to establish   T.B.M to the site& fly-back levelling
+<br>3.	Fixing the alignment of proposed bund,
+<br>4.	Conduct profile levelling & cross sectioning along the proposed centre line of the tank bund.
+<br>5.	Capacity of reservoir by Radial contouring
+<br>6.	Calculation of capacity
+<br>7.	Block levelling @ lowest point of centre line of bund for sluice
+<br>8.	Block levelling for weir 
+<br>9.	Canal Alignment Starting from lowest point with longitudinal sectioning and cross sectioning sectioning
+<br>10.	To determine the azimuth of a line, latitude and longitude of the place by taking extra-meridian observation on a sun.
+<br>Use of GTS to determine latitude and longitude 
+
+<br><br><b>(Graded activities) Drawings to be prepared: </b>
+<br>11.	Index Map 
+<br>12.	Contour map of water spread area with Capacity of reservoir calculations 
+<br>13.	Longitudinal sectioning
+<br>14.	Cross sectioning
+<br>15.	Block levelling with contours showing weir details should consist of
+<br>a.	Half plan at top & half plan at foundation.
+<br>b.	Half sectional elevation, half front elevation. 
+<br>c.	Cross section of tank weir across the body wall.
+<br>16.	Block levelling with contoursshowing sluice details should consist of
+<br>a.	Half plan at top & half plan at foundation.
+<br>b.	Half sectional elevation, half front elevation.
+<br>c.	Cross section of tank weir across the body wall.
+<br>17.	Canal cross-section of fully cutting, fully filled and Partial at different chainages
+<br>18.	Longitudinal sectioning of Canal at different chainages
+<br>19.	Plan of bund & canal alignment showing location of hydraulic structures and various reduced levels
+<br><br><b>Quantity surveying:</b>
+<br>20.	Earthwork calculation of bund.
+<br>21.	Earthwork calculation of canal.
+<br>22.	Estimation of weir positioned on blocklevelling.
+<br>23.	Estimation of Sluice positioned on block levelling.
+
+Unit IV: HIGHWAY PROJECT
+( Terrain should be chosen such that it should include vertical & Horizontal curve) 
+<br>1.	Reconnaissance of the area
+<br>2.	Align a new road between two obligatory points.
+<br>3.	Conduct Longitudinal and cross-sectioning surveys 
+<br>4.	Projecting a road of given gradient.
+<br>5.	Blockleveling @ the lowest level or valley curve
+<br>6.	Connecting to new road alignment,surveying existing road 90m and exploring possibility of widening.
+
+<br><br><b>(Graded activities) Drawings to be prepared :</b>
+<br>(Drawing should be preferably  done using AutoCAD)
+<br>1.	Index plan
+<br>2.	Plan showing alignment of road
+<br>3.	L.S & C.S of Road at different chainages as per IRC standards(Report should justify the selected alignment with details of all geometric designs for horizontal curve, traffic and design speed assumed.)  
+<br>4.	Blockleveling @ the lowest level or valley curve placing Culvert/Bridge
+<br>a.	Half plan at top & half plan at foundation.
+<br>b.	Half sectional elevation, half front elevation.
+<br>c.	Half Cross section @centre halfCross section @ abutment
+
+<br><br><b>Quantity surveying:</b>
+<br>1.	Calculate the earthwork involved by determining the cross-section of the highway at various intervals.
+<br>2.	Quantity surveying of Proposed culvert/Bridge
+
+Unit V: TOWN PLANNING PROJECT 
+1.	Town planning project new layout as per Zoning Regulations by using total station
+<br>2.	Preparation of existing village map/layout
+
+Unit VI: WATER SUPPLY AND SANITARY PROJECT(Public Health Engineering)
+1.	Examination of sources of water supply
+<br>2.	Calculation of quantity of water required based on existing and future projected population for a village. 
+<br>3.	Preparation of village map and location of sites for ground level 
+<br>4.	Block leveling for overhead tanks 
+<br>5.	Underground drainage system surveys for laying the sewers. 
+<br>6.	Block leveling for Oxidation pond.
+<br><br><b>(Graded activities) Drawings to be prepared:</b>
+<br>1.	Plan of water supply line, sewer lines in village map
+<br>2.	Block leveling  placing overhead tanks 
+<br>3.	Block leveling Placing Oxidation pond.
+<br><br><b>Quantity surveying:</b>
+<br>Estimation of manhole
+<br>Estimation of water supply line, Overhead tank
+
+
+<b>Reference Books:</b>
+
+<br><br>1. Punmia B C,  Irrigation and  water power engineering
+<br>2. Garg S K,   Irrigation and  water power engineering
+<br>3. Punmia B C, Ashok K Jain, Arun K Jain, Surveying Vol 1, 2,3, laxmi Publications(P) Ltd, New Delhi.
+<br>4. Justo C E G, A text book of highway engineering.
+<br>5. Kanetkar, A text book of surveying.
+
+<b>Scheme of Valuation for SEE:</b>
+
+<br><br>1.	Survey camp Drawings&report including quantity surveying : 20
+<br>2.	Quantity Calculation for the given drawing : 20
+<br>3.	Viva-voce : 10
+
+<br><br><b>TOTAL = 50 Marks</b>

@@ -1,0 +1,51 @@
+UNIT - I: COORDINATE GEOMETRY
+<b>a)Straight lines:</b>
+<br>Different forms of equations of straight lines:<br><b><i>[Refer Fig. 1.1] </i></b>
+General equation of a line ax+by+c=0 (graphical representation and statements) and problems on above equations. Equation of lines through a point and parallel or perpendicular to a given line. Problems. 
+<br><br><b>b)Conic Section:</b>
+<br>Definition of conic section. Definition of axis, vertex, eccentricity, focus and length of latus rectum. Geometrical representation of parabola, ellipse and hyperbola:
+<br>Equations of parabola y<sup>2</sup>=4ax, 
+<br>Equation of ellipse<br> <b><i>[Refer Fig. 1.2] </i></b>
+and Equation of hyperbola<br> <b><i>[Refer Fig. 1.3] </i></b>  (without proof of above 3 equations). Equations of parabola, ellipse and hyperbola with respect to x-axis as axis of  conic.
+<br>Finding axes, vertices, eccentricity, foci and length of lattice rectum of conics. Problems on finding the above said equations with direct substitution.
+<br><b>[08 Hrs] [23 Marks] </b>
+
+UNIT – II: DIFFERENTIAL CALCULUS			
+Definition of increment and increment ratio. Definition of derivative of a function. 
+<br>Derivatives of functions of x<sup>n</sup>, sin ⁡x, cos ⁡x and tan ⁡x with respect to ‘x’ from first principle method. List of standard derivatives of cosec x, sec x, cot x, log<sub>e</sub> x, a<sup>x</sup>, e<sup>x</sup>.....etc.                 
+<br>Rules of differentiation: Sum, product, quotient rule and problems on rules. Derivatives of function of a function (Chain rule) and problems. Inverse trigonometric functions and their derivatives.
+<br>Derivative of Hyperbolic functions, Implicit functions, Parametric functions and problems. 
+<br>Logarithmic differentiation of functions of the type u<sup>v</sup>, where u and v are functions of x.Problems. 
+<br>Successive differentiation up to second order and problems on all the above types of functions.
+<br><b>[15 Hrs] [39 Marks] </b>
+
+UNIT – III: APPLICATIONS OF DIFFERENTIATION
+Geometrical meaning of derivative. Derivative as slope. Equations of tangent and normal to the curve y = f(x) at a given point- (statement only). Derivative as a rate measure i.e. to find the rate of change of displacement, velocity, radius, area, volume using differentiation. Definition of increasing and decreasing function. Maxima and minima of a function.
+<br><b>[07 Hrs] [17 Marks] </b>
+
+UNIT - IV: INTEGRAL CALCULUS
+Definition of Integration. List of standard integrals. Rules of integration (only statement)<br>
+<b><i>[Refer Fig. 1.4] </i></b>
+problems. Integration by substitution method. Problems. 
+<br><br><b>Standard  integrals of the type</b><br>
+<b><i>[Refer Fig. 1.5] </i></b>
+and problems on above results Integration by parts of the type<br><b><i>[Refer Fig. 1.6] </i></b> Rule of integration by parts. Problems
+<br><b>[12 Hrs] [30 Marks] </b>
+
+UNIT – V: DEFINITE INTEGRALS AND ITS APPLICATIONS
+Definition of Definite integral. Problems on all types of integration methods. 
+<br>Area, volume, centres of gravity and moment of inertia by integration method. Simple problems.
+<br><b>[05 Hrs] [22 Marks] </b>
+
+UNIT – VI: DIFFERENTIAL EQUATIONS
+Definition, example, order and degree of differential equation with examples. Formation of differential equation by eliminating arbitrary constants up to second order. Solution of O. D. E of first degree and first order by variable separable method. Linear differential equations and its solution using integrating factor.
+<br><b>[05 Hrs] [14 Marks] </b>
+
+<b>Reference Books:</b>
+<br><br>1.	NCERT Mathematics text books of class XI and XII.
+<br>2.	Higher Engineering Mathematics by B.S Grewal, Khanna publishers, New Delhi. 
+<br>3.	Karnataka State PUC mathematics text Books of I and II PUC by H.K. Dass and Dr. Ramaverma published by S.Chand and Co.Pvt. ltd.
+<br>4.	CBSE Class Xi and XII by Khattar and Khattar published PHI Learning Pvt. ltd.,
+<br>5.	First and Second PUC mathematics text Books of different authors. 
+<br>6.	www.mathebook.net
+<br>7.	www.freebookcentre.net/mathematics/introductory-mathematics -books.html

@@ -46,7 +46,7 @@ public class DatabaseHelper extends SQLiteOpenHelper{
         	try {
     			copyDataBase();
     		} catch (IOException e) {
-        		//throw new Error("Error copying database");
+        		throw new Error("Error copying database");
 				//checkRunTimePermission();
         	}
     	}
